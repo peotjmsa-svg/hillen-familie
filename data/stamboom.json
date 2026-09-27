@@ -1,0 +1,7155 @@
+{
+ "root_id": "@P0001@",
+ "people": {
+  "@P0001@": {
+   "id": "@P0001@",
+   "name": "Diederik (Hendrik/Dederik) Hillen",
+   "sex": "M",
+   "birth_year": 1380,
+   "death_year": 1439,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond. Burger van Roermond (1403). 1403: leenman abdij Thorn; 1410: momboir van zijn kinderen; 1420: molenbezitter en schepen Roermond. Levensjaren 1380–1439 komen uit de Hillen Family Tree-app.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": 1380
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[12] vandervaartenomstreken.nl, regest 21-1-1403",
+    "[13] Archiefinventaris Officialaat Bisdom Roermond, akte 19-9-1420",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "[14] Eigen stamboom-app (Hillen Family Tree)"
+   ],
+   "children": [
+    "@P0011@",
+    "@P0013@",
+    "@P0014@"
+   ]
+  },
+  "@P0011@": {
+   "id": "@P0011@",
+   "name": "Johan Hillen",
+   "sex": "M",
+   "birth_year": 1415,
+   "death_year": 1484,
+   "occupation": "burgemeester (1458), schout (1468), schepen, molenbezitter",
+   "note": "Woonplaats volgens de piramide: Roermond. 1460–69: richter, met Gadert Hillen als schepen.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": 1415
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[5] Loe Giesen (ed.), Regesten van akten betreffende Roermond en omgeving",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": [
+    "@P0015@",
+    "@P0017@",
+    "@P0019@",
+    "@P0020@",
+    "@P0021@",
+    "@P0023@",
+    "@P0025@"
+   ]
+  },
+  "@P0039@": {
+   "id": "@P0039@",
+   "name": "Reinier Hillen",
+   "sex": "M",
+   "birth_year": 1476,
+   "death_year": 1569,
+   "occupation": "burgemeester Roermond (1546/1553), schepen (1529)",
+   "note": "Woonplaats volgens de piramide: Roermond. Provisor college St. Hieronymus in Keulen.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": 1476
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "[4] mpaginae.nl, 'Naamlijst burgemeesters van Roermond' https://www.mpaginae.nl/Roermond/SouvereineRaad.htm"
+   ],
+   "children": [
+    "@P0050@",
+    "@P0051@",
+    "@P0053@",
+    "@P0055@",
+    "@P0056@",
+    "@P0057@"
+   ]
+  },
+  "@P0041@": {
+   "id": "@P0041@",
+   "name": "Johan Hillen",
+   "sex": "M",
+   "birth_year": 1512,
+   "death_year": 1600,
+   "occupation": "burgemeester Roermond (1562)",
+   "note": "Woonplaats volgens de piramide: Roermond. Bevestigd in de burgemeesterslijst van mpaginae.nl: 'Johan Hillen, 1562'.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": 1512
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[4] mpaginae.nl, 'Naamlijst burgemeesters van Roermond' https://www.mpaginae.nl/Roermond/SouvereineRaad.htm",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": [
+    "@P0063@"
+   ]
+  },
+  "@P0050@": {
+   "id": "@P0050@",
+   "name": "Elisabeth Hillen",
+   "sex": "F",
+   "birth_year": 1536,
+   "death_year": 1610,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": 1536
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0063@": {
+   "id": "@P0063@",
+   "name": "Johannes Hillen",
+   "sex": "M",
+   "birth_year": 1545,
+   "death_year": 1599,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Sevenum. Parenteel: Johannes HYLLEN, gedoopt Sevenum (St. Fabritius en Sebastianuskerk).",
+   "place": "Sevenum",
+   "place_events": [
+    {
+     "place": "Sevenum",
+     "role": "geboren",
+     "year": 1545
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[3] Th.J. Bais, 'Hillen Blerick' / onzewebstek.nl, 'Parenteel van Johannes Hyllen'",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0065@"
+   ]
+  },
+  "@P0061@": {
+   "id": "@P0061@",
+   "name": "Reyner Hillen tot Helden",
+   "sex": "M",
+   "birth_year": 1566,
+   "death_year": 1628,
+   "occupation": "drossaard Ambt Montfort (1618–1620), drossaard land van Kessel (1627)",
+   "note": "Woonplaats volgens de piramide: Helden. Adellijk raad Gelre/Zutphen.",
+   "place": "Helden",
+   "place_events": [
+    {
+     "place": "Helden",
+     "role": "woonachtig",
+     "year": 1566
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[2] Th.J. Bais, 'Hillen Roermond' (2006)"
+   ],
+   "children": [
+    "@P0067@",
+    "@P0068@",
+    "@P0069@",
+    "@P0070@",
+    "@P0071@",
+    "@P0073@",
+    "@P0075@",
+    "@P0077@",
+    "@P0078@",
+    "@P0079@",
+    "@P0080@",
+    "@P0081@"
+   ]
+  },
+  "@P0065@": {
+   "id": "@P0065@",
+   "name": "Gerardus Hillen",
+   "sex": "M",
+   "birth_year": 1570,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond. Enig bekend kind (onzewebstek.nl).",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "geboren",
+     "year": 1570
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[3] Th.J. Bais, 'Hillen Blerick' / onzewebstek.nl, 'Parenteel van Johannes Hyllen'",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0082@",
+    "@P0148@",
+    "@P0149@",
+    "@P0150@",
+    "@P0151@"
+   ]
+  },
+  "@P0067@": {
+   "id": "@P0067@",
+   "name": "Elisabeth Hillen",
+   "sex": "F",
+   "birth_year": 1594,
+   "death_year": 1632,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland). Begraven in Saarn. Vermoedelijk kloosterzuster; lijn eindigt hier.",
+   "place": "Duitsland (Rijnland)",
+   "place_events": [
+    {
+     "place": "Dalheim",
+     "role": "overleden",
+     "year": 1632
+    },
+    {
+     "place": "Duitsland (Rijnland)",
+     "role": "woonachtig",
+     "year": 1594
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[9] Das Erzbistum Köln IV: Zisterzienserinnenklöster Saarn (Germania Sacra)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0068@": {
+   "id": "@P0068@",
+   "name": "Godfried Hillen",
+   "sex": "M",
+   "birth_year": 1596,
+   "death_year": 1672,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Helden. Geen huwelijk of kinderen bekend; lijn eindigt hier.",
+   "place": "Helden",
+   "place_events": [
+    {
+     "place": "Helden",
+     "role": "woonachtig",
+     "year": 1596
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0069@": {
+   "id": "@P0069@",
+   "name": "Aleidis Hillen",
+   "sex": "F",
+   "birth_year": 1597,
+   "death_year": 1613,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland). Vermoedelijk kloosterzuster; lijn eindigt hier.",
+   "place": "Duitsland (Rijnland)",
+   "place_events": [
+    {
+     "place": "Dalheim",
+     "role": "overleden",
+     "year": 1613
+    },
+    {
+     "place": "Duitsland (Rijnland)",
+     "role": "woonachtig",
+     "year": 1597
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[9] Das Erzbistum Köln IV: Zisterzienserinnenklöster Saarn (Germania Sacra)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0070@": {
+   "id": "@P0070@",
+   "name": "Maria Hillen",
+   "sex": "F",
+   "birth_year": 1598,
+   "death_year": 1599,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Helden. Jong overleden.",
+   "place": "Helden",
+   "place_events": [
+    {
+     "place": "Helden",
+     "role": "woonachtig",
+     "year": 1598
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0071@": {
+   "id": "@P0071@",
+   "name": "Reyner Hillen tot Helden",
+   "sex": "M",
+   "birth_year": 1599,
+   "death_year": 1675,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland).",
+   "place": "Duitsland (Rijnland)",
+   "place_events": [
+    {
+     "place": "Duitsland (Rijnland)",
+     "role": "woonachtig",
+     "year": 1599
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": [
+    "@P0084@",
+    "@P0086@",
+    "@P0088@"
+   ]
+  },
+  "@P0073@": {
+   "id": "@P0073@",
+   "name": "Johan van Hillen",
+   "sex": "M",
+   "birth_year": 1601,
+   "death_year": 1664,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland).",
+   "place": "Duitsland (Rijnland)",
+   "place_events": [
+    {
+     "place": "Duitsland (Rijnland)",
+     "role": "woonachtig",
+     "year": 1601
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": [
+    "@P0089@",
+    "@P0090@"
+   ]
+  },
+  "@P0075@": {
+   "id": "@P0075@",
+   "name": "Maria Hillen",
+   "sex": "F",
+   "birth_year": 1602,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Helden.",
+   "place": "Helden",
+   "place_events": [
+    {
+     "place": "Helden",
+     "role": "woonachtig",
+     "year": 1602
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0082@": {
+   "id": "@P0082@",
+   "name": "Joannes Hillen",
+   "sex": "M",
+   "birth_year": 1603,
+   "death_year": 1646,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Blerick. Kinderen Reinerus (1640) en Alardus (1643). Parenteel: niet in Roermond gedoopt; filius Gerardi Hillen, Rurmundensis. Eerst gehuwd Blerick 7-1-1627 met Aleidis Zillen (getuigen Mathias Kessels en Petrus zn v. Joannes Hermans), daarna met Elisabeth Lemmen.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "woonachtig",
+     "year": 1603
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[3] Th.J. Bais, 'Hillen Blerick' / onzewebstek.nl, 'Parenteel van Johannes Hyllen'",
+    "[14] Eigen stamboom-app (Hillen Family Tree)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0091@",
+    "@P0092@",
+    "@P0153@",
+    "@P0154@",
+    "@P0155@",
+    "@P0156@",
+    "@P0157@"
+   ]
+  },
+  "@P0077@": {
+   "id": "@P0077@",
+   "name": "Josina Hillen",
+   "sex": "F",
+   "birth_year": 1603,
+   "death_year": 1668,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Helden. Geen huwelijk of kinderen bekend; lijn eindigt hier.",
+   "place": "Helden",
+   "place_events": [
+    {
+     "place": "Helden",
+     "role": "woonachtig",
+     "year": 1603
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0148@": {
+   "id": "@P0148@",
+   "name": "Sebastianus Hillen",
+   "sex": "M",
+   "birth_year": 1605,
+   "death_year": null,
+   "occupation": null,
+   "note": "Doopgetuigen Hendricus Raemakers en Adriana van Buel.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "geboren",
+     "year": 1605
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0159@"
+   ]
+  },
+  "@P0079@": {
+   "id": "@P0079@",
+   "name": "Bertram Hillen",
+   "sex": "M",
+   "birth_year": 1606,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Helden. Geen verdere gegevens; lijn eindigt hier.",
+   "place": "Helden",
+   "place_events": [
+    {
+     "place": "Helden",
+     "role": "woonachtig",
+     "year": 1606
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0149@": {
+   "id": "@P0149@",
+   "name": "Petrus Hillen",
+   "sex": "M",
+   "birth_year": 1607,
+   "death_year": null,
+   "occupation": null,
+   "note": "Doopgetuigen Petrus Joannes Hanssen en Margaretha Royen.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "geboren",
+     "year": 1607
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0161@"
+   ]
+  },
+  "@P0080@": {
+   "id": "@P0080@",
+   "name": "Anna Hillen",
+   "sex": "F",
+   "birth_year": 1609,
+   "death_year": 1676,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland). Vermoedelijk kloosterzuster; lijn eindigt hier.",
+   "place": "Duitsland (Rijnland)",
+   "place_events": [
+    {
+     "place": "Saarn",
+     "role": "overleden",
+     "year": 1676
+    },
+    {
+     "place": "Duitsland (Rijnland)",
+     "role": "woonachtig",
+     "year": 1609
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[9] Das Erzbistum Köln IV: Zisterzienserinnenklöster Saarn (Germania Sacra)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0150@": {
+   "id": "@P0150@",
+   "name": "Cornelia Hillen",
+   "sex": "F",
+   "birth_year": 1610,
+   "death_year": null,
+   "occupation": null,
+   "note": "Doopgetuigen Wilm in de Katt en Bilke van Wessem. Moeder van Joanna Peemans.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "geboren",
+     "year": 1610
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0093@"
+   ]
+  },
+  "@P0151@": {
+   "id": "@P0151@",
+   "name": "Renerus Hillen",
+   "sex": "M",
+   "birth_year": 1612,
+   "death_year": null,
+   "occupation": null,
+   "note": "Doopgetuigen Guilielmus Tielen en Cornelia Christe.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "geboren",
+     "year": 1612
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0094@",
+    "@P0095@",
+    "@P0096@",
+    "@P0097@",
+    "@P0163@",
+    "@P0165@",
+    "@P0166@"
+   ]
+  },
+  "@P0081@": {
+   "id": "@P0081@",
+   "name": "Sibilla Hillen",
+   "sex": "F",
+   "birth_year": 1612,
+   "death_year": 1615,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Helden. Jong overleden.",
+   "place": "Helden",
+   "place_events": [
+    {
+     "place": "Helden",
+     "role": "woonachtig",
+     "year": 1612
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0164@": {
+   "id": "@P0164@",
+   "name": "Aleidis Vertangen",
+   "sex": "F",
+   "birth_year": 1622,
+   "death_year": null,
+   "occupation": null,
+   "note": "Dochter van Joannes Vertangen en Aleidis NN. Tweede vrouw van Renerus.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1622
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0094@",
+    "@P0095@",
+    "@P0096@",
+    "@P0097@",
+    "@P0165@",
+    "@P0166@"
+   ]
+  },
+  "@P0153@": {
+   "id": "@P0153@",
+   "name": "Aleidis Hillen",
+   "sex": "F",
+   "birth_year": 1628,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1628
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0154@": {
+   "id": "@P0154@",
+   "name": "Maria Hillen",
+   "sex": "F",
+   "birth_year": 1630,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1630
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0161@": {
+   "id": "@P0161@",
+   "name": "Johanna Hillen",
+   "sex": "F",
+   "birth_year": 1632,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "geboren",
+     "year": 1632
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0155@": {
+   "id": "@P0155@",
+   "name": "Margaretha Hillen",
+   "sex": "F",
+   "birth_year": 1632,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1632
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0156@": {
+   "id": "@P0156@",
+   "name": "Aleidis Hillen",
+   "sex": "F",
+   "birth_year": 1638,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1638
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0163@": {
+   "id": "@P0163@",
+   "name": "Reinerus Hillen",
+   "sex": "M",
+   "birth_year": 1638,
+   "death_year": 1700,
+   "occupation": null,
+   "note": "Parenteel noemt de doop op 27-12-1638 én 7-12-1638. Doopgetuigen Albertus Jansen en Joanna Rutjes.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1638
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1700
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0190@",
+    "@P0191@",
+    "@P0192@",
+    "@P0193@",
+    "@P0194@",
+    "@P0195@",
+    "@P0196@"
+   ]
+  },
+  "@P0091@": {
+   "id": "@P0091@",
+   "name": "Reinerus Hillen",
+   "sex": "M",
+   "birth_year": 1640,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Blerick. Broer van Alardus. Deze generatie: 3 gezinnen, 15 kinderen (Blerick, 1668–1695); parenteel-bronnen tonen meestal maar één lijn. Doopgetuigen Leonardus ... en Peemans.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1640
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[2] Th.J. Bais, 'Hillen Roermond' (2006)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0168@"
+   ]
+  },
+  "@P0092@": {
+   "id": "@P0092@",
+   "name": "Alardus Hillen",
+   "sex": "M",
+   "birth_year": 1643,
+   "death_year": 1702,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Blerick. Doopgetuigen Gerardus v.d. Broeck en Matthias Joudagh. Huwelijk 8-4-1668 in Blerick met Joanna Peemans (haar moeder: Cornelia Hillen).",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1643
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1702
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[3] Th.J. Bais, 'Hillen Blerick' / onzewebstek.nl, 'Parenteel van Johannes Hyllen'",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0098@",
+    "@P0170@",
+    "@P0171@",
+    "@P0172@",
+    "@P0174@",
+    "@P0175@"
+   ]
+  },
+  "@P0157@": {
+   "id": "@P0157@",
+   "name": "Itta Hillen",
+   "sex": "F",
+   "birth_year": 1646,
+   "death_year": null,
+   "occupation": null,
+   "note": "Huwelijk Blerick 14-2-1673 met Henricus Mathias van Munster.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1646
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0165@": {
+   "id": "@P0165@",
+   "name": "Itta Hillen",
+   "sex": "F",
+   "birth_year": 1647,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1647
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0159@": {
+   "id": "@P0159@",
+   "name": "Mathias Hillen",
+   "sex": "M",
+   "birth_year": 1647,
+   "death_year": null,
+   "occupation": null,
+   "note": "Stamvader van de tak Maasbree (volgens parenteel).",
+   "place": "Wessem",
+   "place_events": [
+    {
+     "place": "Wessem",
+     "role": "geboren",
+     "year": 1647
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0094@": {
+   "id": "@P0094@",
+   "name": "Gerardus Hillen",
+   "sex": "M",
+   "birth_year": 1649,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Blerick. Parenteel: kind van Renerus (1612) en Aleidis Vertangen, niet van Reinerus (1640) zoals de piramide aangaf.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1649
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[2] Th.J. Bais, 'Hillen Roermond' (2006)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0093@": {
+   "id": "@P0093@",
+   "name": "Joanna Peemans",
+   "sex": "F",
+   "birth_year": 1650,
+   "death_year": 1702,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1650
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1702
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0098@",
+    "@P0170@",
+    "@P0171@",
+    "@P0172@",
+    "@P0174@",
+    "@P0175@"
+   ]
+  },
+  "@P0095@": {
+   "id": "@P0095@",
+   "name": "Joannes Hillen",
+   "sex": "M",
+   "birth_year": 1652,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Blerick. Parenteel: kind van Renerus (1612) en Aleidis Vertangen, niet van Reinerus (1640) zoals de piramide aangaf.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1652
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[2] Th.J. Bais, 'Hillen Roermond' (2006)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0096@": {
+   "id": "@P0096@",
+   "name": "Catharina Hillen",
+   "sex": "F",
+   "birth_year": 1654,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Blerick. Parenteel: kind van Renerus (1612) en Aleidis Vertangen, niet van Reinerus (1640) zoals de piramide aangaf.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1654
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[2] Th.J. Bais, 'Hillen Roermond' (2006)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0097@": {
+   "id": "@P0097@",
+   "name": "Maria Hillen",
+   "sex": "F",
+   "birth_year": 1657,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Blerick. Parenteel: kind van Renerus (1612) en Aleidis Vertangen, niet van Reinerus (1640) zoals de piramide aangaf.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1657
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[2] Th.J. Bais, 'Hillen Roermond' (2006)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0166@": {
+   "id": "@P0166@",
+   "name": "Cornelia Hillen",
+   "sex": "F",
+   "birth_year": 1662,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1662
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0168@": {
+   "id": "@P0168@",
+   "name": "Aleidis Hillen",
+   "sex": "F",
+   "birth_year": 1668,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1668
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0090@": {
+   "id": "@P0090@",
+   "name": "Johan Hillen",
+   "sex": "M",
+   "birth_year": 1669,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland). Geen verdere gegevens bekend.",
+   "place": "Duitsland (Rijnland)",
+   "place_events": [
+    {
+     "place": "Duitsland (Rijnland)",
+     "role": "woonachtig",
+     "year": 1669
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0089@": {
+   "id": "@P0089@",
+   "name": "Werner Hillen",
+   "sex": "M",
+   "birth_year": 1669,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland). Geen verdere gegevens bekend.",
+   "place": "Duitsland (Rijnland)",
+   "place_events": [
+    {
+     "place": "Duitsland (Rijnland)",
+     "role": "woonachtig",
+     "year": 1669
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0170@": {
+   "id": "@P0170@",
+   "name": "Elisabeth Hillen",
+   "sex": "F",
+   "birth_year": 1670,
+   "death_year": 1747,
+   "occupation": null,
+   "note": "Huwelijk Blerick 11-7-1694 met Sigbertus Turnon van Luik.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1670
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1747
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0190@": {
+   "id": "@P0190@",
+   "name": "Reinerus Hillen",
+   "sex": "M",
+   "birth_year": 1671,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1671
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0099@": {
+   "id": "@P0099@",
+   "name": "Allegondis de Trap",
+   "sex": "F",
+   "birth_year": 1672,
+   "death_year": 1749,
+   "occupation": null,
+   "note": "Dochter van Joannes Claassen de Trap en Joanna Hermans alias van der Wege.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1672
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1749
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0100@",
+    "@P0101@",
+    "@P0176@",
+    "@P0177@",
+    "@P0178@",
+    "@P0179@"
+   ]
+  },
+  "@P0171@": {
+   "id": "@P0171@",
+   "name": "Catharina Hillen",
+   "sex": "F",
+   "birth_year": 1672,
+   "death_year": null,
+   "occupation": null,
+   "note": "Huwelijk Blerick 1-7-1703 met Johannes van de Borght.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0191@": {
+   "id": "@P0191@",
+   "name": "Itta Hillen",
+   "sex": "F",
+   "birth_year": 1673,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1673
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0192@": {
+   "id": "@P0192@",
+   "name": "Andreas Albertus Hillen",
+   "sex": "M",
+   "birth_year": 1674,
+   "death_year": 1696,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1674
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0172@": {
+   "id": "@P0172@",
+   "name": "Gerardus Hillen",
+   "sex": "M",
+   "birth_year": 1674,
+   "death_year": 1702,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1702
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0098@": {
+   "id": "@P0098@",
+   "name": "Joannes Hillen",
+   "sex": "M",
+   "birth_year": 1676,
+   "death_year": 1755,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Blerick. 7 kinderen bekend (2 in de piramide). Parenteel: geboren 1676 (piramide: 1672). Huwelijk Blerick 23-4-1698 met Allegondis de Trap, met dispensatie 3e en 4e graad bloedverwantschap.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1755
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[2] Th.J. Bais, 'Hillen Roermond' (2006)",
+    "[3] Th.J. Bais, 'Hillen Blerick' / onzewebstek.nl, 'Parenteel van Johannes Hyllen'",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0100@",
+    "@P0101@",
+    "@P0176@",
+    "@P0177@",
+    "@P0178@",
+    "@P0179@"
+   ]
+  },
+  "@P0174@": {
+   "id": "@P0174@",
+   "name": "Sebastianus Hillen",
+   "sex": "M",
+   "birth_year": 1678,
+   "death_year": 1743,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1743
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0185@",
+    "@P0186@",
+    "@P0187@",
+    "@P0188@"
+   ]
+  },
+  "@P0193@": {
+   "id": "@P0193@",
+   "name": "Maria Hillen",
+   "sex": "F",
+   "birth_year": 1679,
+   "death_year": 1735,
+   "occupation": null,
+   "note": "Huwelijk Blerick 31-3-1708 met Joannes Verrijnen.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1679
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1735
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0175@": {
+   "id": "@P0175@",
+   "name": "Cornelia Hillen",
+   "sex": "F",
+   "birth_year": 1680,
+   "death_year": 1753,
+   "occupation": null,
+   "note": "Overleden als weduwe.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1753
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0194@": {
+   "id": "@P0194@",
+   "name": "Henricus Hillen",
+   "sex": "M",
+   "birth_year": 1682,
+   "death_year": 1717,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1682
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1717
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0198@",
+    "@P0199@",
+    "@P0200@",
+    "@P0201@",
+    "@P0202@",
+    "@P0203@"
+   ]
+  },
+  "@P0197@": {
+   "id": "@P0197@",
+   "name": "Agnes Verhaagh",
+   "sex": "F",
+   "birth_year": 1683,
+   "death_year": 1735,
+   "occupation": null,
+   "note": "Dochter van schepen Godefriedus Verhaagh en Margaretha Lemmen. Huwelijk Blerick 11-1-1707. Hertrouwd Blerick 21-2-1719 met Joannes Deintjes (Denges), verdronken 13-9-1761.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1683
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1735
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0198@",
+    "@P0199@",
+    "@P0200@",
+    "@P0201@",
+    "@P0202@",
+    "@P0203@"
+   ]
+  },
+  "@P0195@": {
+   "id": "@P0195@",
+   "name": "Reinerus Hillen",
+   "sex": "M",
+   "birth_year": 1684,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1684
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0196@": {
+   "id": "@P0196@",
+   "name": "Reinerus Hillen",
+   "sex": "M",
+   "birth_year": 1686,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1686
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0204@": {
+   "id": "@P0204@",
+   "name": "Godefrieda Janssen",
+   "sex": "F",
+   "birth_year": 1694,
+   "death_year": null,
+   "occupation": null,
+   "note": "Dochter van Tilman Janssen en Elisabeth Cornelisse.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1694
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0176@": {
+   "id": "@P0176@",
+   "name": "Joannes Hillen",
+   "sex": "M",
+   "birth_year": 1699,
+   "death_year": null,
+   "occupation": null,
+   "note": "Parenteel VIb.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1699
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0181@",
+    "@P0182@",
+    "@P0183@"
+   ]
+  },
+  "@P0177@": {
+   "id": "@P0177@",
+   "name": "Gasparus Hillen",
+   "sex": "M",
+   "birth_year": 1702,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1702
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0178@": {
+   "id": "@P0178@",
+   "name": "Alardus Hillen",
+   "sex": "M",
+   "birth_year": 1705,
+   "death_year": null,
+   "occupation": null,
+   "note": "Jong overleden (naam hergebruikt in 1709).",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1705
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0185@": {
+   "id": "@P0185@",
+   "name": "Joanna Hillen",
+   "sex": "F",
+   "birth_year": 1706,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1706
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0198@": {
+   "id": "@P0198@",
+   "name": "Joanna Margaretha Hillen",
+   "sex": "F",
+   "birth_year": 1707,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1707
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0186@": {
+   "id": "@P0186@",
+   "name": "Gerardus Hillen",
+   "sex": "M",
+   "birth_year": 1708,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1708
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0179@": {
+   "id": "@P0179@",
+   "name": "Maria Hillen",
+   "sex": "F",
+   "birth_year": 1708,
+   "death_year": null,
+   "occupation": null,
+   "note": "Huwelijk Blerick 23-6-1737 met Joannes Faessen (volgens transcriptie; toewijzing iets onzeker).",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1708
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0101@": {
+   "id": "@P0101@",
+   "name": "Alardus Albertus Hillen",
+   "sex": "M",
+   "birth_year": 1709,
+   "death_year": 1772,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Blerick. Huwelijk 29-1-1738 in Blerick. 9 kinderen bekend. Parenteel VIc; ook Albertus genoemd. Huwelijk Delft 29-1-1738 met Agnes Gommans.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1709
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1772
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[2] Th.J. Bais, 'Hillen Roermond' (2006)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0003@",
+    "@P0103@",
+    "@P0105@",
+    "@P0106@",
+    "@P0107@",
+    "@P0205@",
+    "@P0206@",
+    "@P0207@",
+    "@P0208@"
+   ]
+  },
+  "@P0199@": {
+   "id": "@P0199@",
+   "name": "Margaretha Hillen",
+   "sex": "F",
+   "birth_year": 1709,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1709
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0187@": {
+   "id": "@P0187@",
+   "name": "Allegondis Hillen",
+   "sex": "F",
+   "birth_year": 1710,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1710
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0200@": {
+   "id": "@P0200@",
+   "name": "Joanna Hillen",
+   "sex": "F",
+   "birth_year": 1710,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1710
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0100@": {
+   "id": "@P0100@",
+   "name": "Johannes Nicolaas Hillen",
+   "sex": "M",
+   "birth_year": 1712,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Delft. Verhuisde naar Delft (1738), twee keer getrouwd. Parenteel VId. Eerst gehuwd Delft 9-11-1738 met Johanna Nats, daarna 31-5-1750 met Johanna Bokhorst.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1712
+    },
+    {
+     "place": "Hillegersberg",
+     "role": "overleden",
+     "year": null
+    },
+    {
+     "place": "Delft",
+     "role": "woonachtig",
+     "year": 1712
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[2] Th.J. Bais, 'Hillen Roermond' (2006)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0211@",
+    "@P0212@",
+    "@P0213@",
+    "@P0214@"
+   ]
+  },
+  "@P0201@": {
+   "id": "@P0201@",
+   "name": "Alardus Hillen",
+   "sex": "M",
+   "birth_year": 1713,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1713
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0188@": {
+   "id": "@P0188@",
+   "name": "Maria Hillen",
+   "sex": "F",
+   "birth_year": 1715,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1715
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0202@": {
+   "id": "@P0202@",
+   "name": "Maria Hillen",
+   "sex": "F",
+   "birth_year": 1715,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1715
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0203@": {
+   "id": "@P0203@",
+   "name": "Petrus Reinerus Hillen",
+   "sex": "M",
+   "birth_year": 1717,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1717
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0103@": {
+   "id": "@P0103@",
+   "name": "Aldegondis Hillen",
+   "sex": "F",
+   "birth_year": 1738,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Blerick. Huwelijk Blerick 13-5-1767 met Godefroidus Teelen; overleden 24-5-1789.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1738
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[2] Th.J. Bais, 'Hillen Roermond' (2006)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0181@": {
+   "id": "@P0181@",
+   "name": "Ida Hillen",
+   "sex": "F",
+   "birth_year": 1740,
+   "death_year": null,
+   "occupation": null,
+   "note": "Pagina 29 van de parenteel ontbreekt; ouder afgeleid uit de volgorde. Controleren.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1740
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0105@": {
+   "id": "@P0105@",
+   "name": "Petrus Hillen",
+   "sex": "M",
+   "birth_year": 1740,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Blerick.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1740
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[2] Th.J. Bais, 'Hillen Roermond' (2006)"
+   ],
+   "children": []
+  },
+  "@P0106@": {
+   "id": "@P0106@",
+   "name": "Alardus Hillen",
+   "sex": "M",
+   "birth_year": 1741,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Delft. Verhuisde naar Delft, begraven in de Oude Kerk.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1741
+    },
+    {
+     "place": "Delft",
+     "role": "woonachtig",
+     "year": 1741
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[2] Th.J. Bais, 'Hillen Roermond' (2006)"
+   ],
+   "children": []
+  },
+  "@P0182@": {
+   "id": "@P0182@",
+   "name": "Wilhelmus Hillen",
+   "sex": "M",
+   "birth_year": 1742,
+   "death_year": null,
+   "occupation": null,
+   "note": "Parenteel VIIc. Pagina 29 van de parenteel ontbreekt; ouder afgeleid uit de volgorde. Controleren.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1742
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0107@": {
+   "id": "@P0107@",
+   "name": "Gerardus Hillen",
+   "sex": "M",
+   "birth_year": 1743,
+   "death_year": 1805,
+   "occupation": "koopman; oprichter A. Hillen's Sigaren- en Tabaksfabriek, Delft (1770)",
+   "note": "Woonplaats volgens de piramide: Delft. Ook Gerrit genoemd. Huwelijk 1772. Woonhuis 'het Rode Anker', Oude Delft 63, met pakhuis aan de Pepersteeg; consent van de Schepenen van Delft op 22-2-1772. Merken Rood-Anker en Delftsche Post; de oudste sigarenfabriek van Nederland. Bezat ook aardewerkfabriek 'de Bloempot'.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1743
+    },
+    {
+     "place": "Delft",
+     "role": "overleden",
+     "year": 1805
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[2] Th.J. Bais, 'Hillen Roermond' (2006)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0111@"
+   ]
+  },
+  "@P0183@": {
+   "id": "@P0183@",
+   "name": "Elisabeth Hillen",
+   "sex": "F",
+   "birth_year": 1744,
+   "death_year": null,
+   "occupation": null,
+   "note": "Doopgetuige o.a. Agnes Gommans. Pagina 29 van de parenteel ontbreekt; ouder afgeleid uit de volgorde. Controleren.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1744
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0206@": {
+   "id": "@P0206@",
+   "name": "Joannes Hillen",
+   "sex": "M",
+   "birth_year": 1745,
+   "death_year": null,
+   "occupation": null,
+   "note": "Parenteel VIIg.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1745
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0205@": {
+   "id": "@P0205@",
+   "name": "Nicolaas Hillen",
+   "sex": "M",
+   "birth_year": 1747,
+   "death_year": null,
+   "occupation": null,
+   "note": "Parenteel VIIh.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1747
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0216@"
+   ]
+  },
+  "@P0003@": {
+   "id": "@P0003@",
+   "name": "Caspar Gasparus Hillen",
+   "sex": "M",
+   "birth_year": 1749,
+   "death_year": 1789,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Blerick. Eerst gehuwd met Theodora Sanders, na haar overlijden met Wilhelmina Linssen.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1749
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[3] Th.J. Bais, 'Hillen Blerick' / onzewebstek.nl, 'Parenteel van Johannes Hyllen'",
+    "[14] Eigen stamboom-app (Hillen Family Tree)"
+   ],
+   "children": [
+    "@P0004@"
+   ]
+  },
+  "@P0207@": {
+   "id": "@P0207@",
+   "name": "Cornelia Hillen",
+   "sex": "F",
+   "birth_year": 1751,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1751
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0211@": {
+   "id": "@P0211@",
+   "name": "Joannes Hillen",
+   "sex": "M",
+   "birth_year": 1751,
+   "death_year": null,
+   "occupation": null,
+   "note": "Parenteel VIIk.",
+   "place": "Delft",
+   "place_events": [
+    {
+     "place": "Delft",
+     "role": "geboren",
+     "year": 1751
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0208@": {
+   "id": "@P0208@",
+   "name": "Martinus Hillen",
+   "sex": "M",
+   "birth_year": 1753,
+   "death_year": null,
+   "occupation": null,
+   "note": "Parenteel VIIj.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1753
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0212@": {
+   "id": "@P0212@",
+   "name": "Bernhardus Fransiscus Hillen",
+   "sex": "M",
+   "birth_year": 1754,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Delft",
+   "place_events": [
+    {
+     "place": "Delft",
+     "role": "geboren",
+     "year": 1754
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0213@": {
+   "id": "@P0213@",
+   "name": "Dominicus Hillen",
+   "sex": "M",
+   "birth_year": 1760,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Delft",
+   "place_events": [
+    {
+     "place": "Delft",
+     "role": "geboren",
+     "year": 1760
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0214@": {
+   "id": "@P0214@",
+   "name": "Aldegondis Hillen",
+   "sex": "F",
+   "birth_year": 1761,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Delft",
+   "place_events": [
+    {
+     "place": "Delft",
+     "role": "geboren",
+     "year": 1761
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0111@": {
+   "id": "@P0111@",
+   "name": "Albertus Hillen",
+   "sex": "M",
+   "birth_year": 1774,
+   "death_year": 1834,
+   "occupation": "sigarenfabrikant, Delft",
+   "note": "Woonplaats volgens de piramide: Delft. Bracht de sigarenfabriek tot bloei en kocht panden aan de Pepersteeg. Zijn weduwe zette de zaak nog vier jaar voort. De Hillenlaan in Delft (1994) is naar de fabriek vernoemd; de fabriek sloot in februari 1937 (300 werknemers).",
+   "place": "Delft",
+   "place_events": [
+    {
+     "place": "Delft",
+     "role": "overleden",
+     "year": 1834
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[17] stratenvandelft.nl, 'Hillenlaan' / archieven.nl"
+   ],
+   "children": []
+  },
+  "@P0004@": {
+   "id": "@P0004@",
+   "name": "Alardus (Albertus) Hillen",
+   "sex": "M",
+   "birth_year": 1789,
+   "death_year": 1870,
+   "occupation": "hoefsmid, koopman",
+   "note": "Woonplaats volgens de piramide: Blerick.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1789
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1870
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[3] Th.J. Bais, 'Hillen Blerick' / onzewebstek.nl, 'Parenteel van Johannes Hyllen'",
+    "[14] Eigen stamboom-app (Hillen Family Tree)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0005@",
+    "@P0115@",
+    "@P0117@",
+    "@P0230@",
+    "@P0231@"
+   ]
+  },
+  "@P0217@": {
+   "id": "@P0217@",
+   "name": "Johanna Reynen",
+   "sex": "F",
+   "birth_year": 1796,
+   "death_year": null,
+   "occupation": null,
+   "note": "Dochter van Gerard Reynen en Anna Tissen (Tegelen). Huwelijk Blerick 10-5-1826.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1796
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0218@",
+    "@P0219@",
+    "@P0220@"
+   ]
+  },
+  "@P0216@": {
+   "id": "@P0216@",
+   "name": "Johannes Hillen",
+   "sex": "M",
+   "birth_year": 1796,
+   "death_year": 1838,
+   "occupation": "landbouwer, dagloner",
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1796
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0218@",
+    "@P0219@",
+    "@P0220@",
+    "@P0222@",
+    "@P0223@"
+   ]
+  },
+  "@P0221@": {
+   "id": "@P0221@",
+   "name": "Petronella Klerken",
+   "sex": "F",
+   "birth_year": 1799,
+   "death_year": 1864,
+   "occupation": null,
+   "note": "Dochter van Joannes Klerken en Margaretha Keunen. Huwelijk Blerick 10-9-1834; hertrouwde later met Andries Linssen.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1799
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1864
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0222@",
+    "@P0223@"
+   ]
+  },
+  "@P0229@": {
+   "id": "@P0229@",
+   "name": "Lucia Grubben",
+   "sex": "F",
+   "birth_year": 1800,
+   "death_year": 1862,
+   "occupation": null,
+   "note": "Dochter van Joannes Grubben en Maria Gijsen. Huwelijk Blerick 19-6-1820.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1800
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1862
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0005@",
+    "@P0115@",
+    "@P0230@",
+    "@P0231@"
+   ]
+  },
+  "@P0005@": {
+   "id": "@P0005@",
+   "name": "Alexander Hillen",
+   "sex": "M",
+   "birth_year": 1821,
+   "death_year": 1898,
+   "occupation": "manufacturier, koopman",
+   "note": "Woonplaats volgens de piramide: Blerick. Tweelingbroer van Joannes (Johan). Eerst gehuwd met ... Bollen, daarna met ... Verschueren. Vermoedelijk vennoot en mede-eigenaar van boterfabriek Hillen-Verbruggen in Roermond (1879–1883), de 3e zuivelfabriek van Nederland; aannemelijk maar niet sluitend bewezen. Komt ook voor in de MyHeritage-stamboom 'Hillen Stamboom (Tak Roermond)' van Hugo Hillen, met afgebeeld familiewapen.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1821
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1898
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "[3] Th.J. Bais, 'Hillen Blerick' / onzewebstek.nl, 'Parenteel van Johannes Hyllen'",
+    "[11] Open Archieven / BHIC, burgerlijke stand Vught en Ravenstein",
+    "[14] Eigen stamboom-app (Hillen Family Tree)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0006@",
+    "@P0122@",
+    "@P0124@",
+    "@P0126@",
+    "@P0232@",
+    "@P0233@",
+    "@P0234@",
+    "@P0235@",
+    "@P0236@",
+    "@P0237@"
+   ]
+  },
+  "@P0115@": {
+   "id": "@P0115@",
+   "name": "Joannes Hillen",
+   "sex": "M",
+   "birth_year": 1821,
+   "death_year": 1895,
+   "occupation": "oprichter ijzergieterij Hillen & Penning / Joh. Hillen, Blerick",
+   "note": "Woonplaats volgens de piramide: Blerick. Tweelingbroer van Alexander. Stichtte de grootste ijzergieterij en machinefabriek van Blerick: 24 werknemers in 1877, ongeveer 100 in 1884. Failliet in 1910, verkocht aan de familie Holthuis (1916), later Geho-pompen. Parenteel: ijzergieterij/constructiebedrijf, hoefsmid. Huwelijk Heythuizen 2-10-1850.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1821
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1895
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[15] Heuijerjans.net, 'Blerick: De IJzergieterijen ... Hillen' (2014)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0119@",
+    "@P0265@"
+   ]
+  },
+  "@P0230@": {
+   "id": "@P0230@",
+   "name": "Gaspar Hillen",
+   "sex": "M",
+   "birth_year": 1823,
+   "death_year": null,
+   "occupation": "smid",
+   "note": "Ongehuwd overleden.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1823
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0231@": {
+   "id": "@P0231@",
+   "name": "Maria Hillen",
+   "sex": "F",
+   "birth_year": 1826,
+   "death_year": 1855,
+   "occupation": null,
+   "note": "Huwelijk Blerick 2-10-1850 met Gerard Peeters (geb. Maasbree 1811), weduwnaar en burgemeester van Maasbree.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1826
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0114@": {
+   "id": "@P0114@",
+   "name": "Bernardine Verschueren",
+   "sex": "F",
+   "birth_year": 1827,
+   "death_year": null,
+   "occupation": null,
+   "note": "Huwelijk 7-10-1862.",
+   "place": "Heythuizen",
+   "place_events": [
+    {
+     "place": "Heythuizen",
+     "role": "geboren",
+     "year": 1827
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0006@",
+    "@P0126@",
+    "@P0235@",
+    "@P0236@",
+    "@P0237@"
+   ]
+  },
+  "@P0218@": {
+   "id": "@P0218@",
+   "name": "Wilhelmina Hillen",
+   "sex": "F",
+   "birth_year": 1827,
+   "death_year": 1838,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1827
+    },
+    {
+     "place": "Maasbree",
+     "role": "overleden",
+     "year": 1838
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0219@": {
+   "id": "@P0219@",
+   "name": "Gerardus Hillen",
+   "sex": "M",
+   "birth_year": 1829,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1829
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0117@": {
+   "id": "@P0117@",
+   "name": "Jacobus Hubertus Hillen",
+   "sex": "M",
+   "birth_year": 1830,
+   "death_year": 1900,
+   "occupation": "aannemer",
+   "note": "Woonplaats volgens de piramide: Blerick. Huwelijk 24-5-1856 in Herpen (bij Grave). Echtgenote overleden in Meaux (Frankrijk). Verklaart vermoedelijk de 'familie Hillen te Grave' in de akte van de boterfabriek (12-12-1879).",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Utrecht",
+     "role": "overleden",
+     "year": 1900
+    },
+    {
+     "place": "Blerick",
+     "role": "woonachtig",
+     "year": 1830
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[15] Heuijerjans.net, 'Blerick: De IJzergieterijen ... Hillen' (2014)"
+   ],
+   "children": [
+    "@P0120@"
+   ]
+  },
+  "@P0220@": {
+   "id": "@P0220@",
+   "name": "Nicolaas Hillen",
+   "sex": "M",
+   "birth_year": 1832,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1832
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0113@": {
+   "id": "@P0113@",
+   "name": "Petronella Bollen",
+   "sex": "F",
+   "birth_year": 1835,
+   "death_year": null,
+   "occupation": null,
+   "note": "Dochter van Peter Andries Bollen en Geertrui Rutten. Huwelijk Blerick 21-1-1853.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1835
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0122@",
+    "@P0124@",
+    "@P0232@",
+    "@P0233@",
+    "@P0234@"
+   ]
+  },
+  "@P0222@": {
+   "id": "@P0222@",
+   "name": "Joannes Hillen",
+   "sex": "M",
+   "birth_year": 1836,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1836
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0225@",
+    "@P0226@",
+    "@P0227@",
+    "@P0228@"
+   ]
+  },
+  "@P0223@": {
+   "id": "@P0223@",
+   "name": "Nicolaas Hillen",
+   "sex": "M",
+   "birth_year": 1838,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1838
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0224@": {
+   "id": "@P0224@",
+   "name": "Helena Vorstermans",
+   "sex": "F",
+   "birth_year": 1842,
+   "death_year": null,
+   "occupation": null,
+   "note": "Dochter van Caspar Vorstermans en Joanna Kursten.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1842
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0225@",
+    "@P0226@",
+    "@P0227@",
+    "@P0228@"
+   ]
+  },
+  "@P0119@": {
+   "id": "@P0119@",
+   "name": "Henricus Hubertus Hillen",
+   "sex": "M",
+   "birth_year": 1852,
+   "death_year": 1914,
+   "occupation": "ijzerfabriek en constructiebedrijf",
+   "note": "Woonplaats volgens de piramide: Blerick. Huwelijk Haarlem 11-9-1901 (ook akte in Maasbree).",
+   "place": "Heythuizen",
+   "place_events": [
+    {
+     "place": "Heythuizen",
+     "role": "geboren",
+     "year": 1852
+    },
+    {
+     "place": "Maasbree",
+     "role": "overleden",
+     "year": 1914
+    },
+    {
+     "place": "Blerick",
+     "role": "woonachtig",
+     "year": 1852
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[15] Heuijerjans.net, 'Blerick: De IJzergieterijen ... Hillen' (2014)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0248@",
+    "@P0249@"
+   ]
+  },
+  "@P0232@": {
+   "id": "@P0232@",
+   "name": "Petrus Hubertus Hillen",
+   "sex": "M",
+   "birth_year": 1854,
+   "death_year": 1876,
+   "occupation": "lazarist",
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1854
+    },
+    {
+     "place": "Parijs",
+     "role": "overleden",
+     "year": 1876
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0122@": {
+   "id": "@P0122@",
+   "name": "Albertus Theodorus Hillen",
+   "sex": "M",
+   "birth_year": 1855,
+   "death_year": 1916,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: België (Bree). Huwelijk in Bree (1883) met Maria Knoedgen, dochter of kleindochter van pijpenfabrikant Jean Jacques Knödgen. Via haar kwam de pijpenfabriek in Bree in de familie. Parenteel Xl. In de transcriptie staat bij hem ook \"st 15.4.1856 9 mnd\" — dat hoort vermoedelijk bij een ander kind.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1855
+    },
+    {
+     "place": "Bree (B)",
+     "role": "overleden",
+     "year": 1916
+    },
+    {
+     "place": "België (Bree)",
+     "role": "woonachtig",
+     "year": 1855
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[3] Th.J. Bais, 'Hillen Blerick' / onzewebstek.nl, 'Parenteel van Johannes Hyllen'",
+    "[18] Archieven.nl / Gemeentearchief Venlo, toegang 'Hillen'",
+    "[19] Pipedia / rebornpipes / Dutch Pipe Smoker (Hilson-pijpen)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0129@",
+    "@P0131@"
+   ]
+  },
+  "@P0265@": {
+   "id": "@P0265@",
+   "name": "Johannes Albertus Hillen",
+   "sex": "M",
+   "birth_year": 1855,
+   "death_year": 1929,
+   "occupation": null,
+   "note": "Parenteel Xp.",
+   "place": "Heythuizen",
+   "place_events": [
+    {
+     "place": "Heythuizen",
+     "role": "geboren",
+     "year": 1855
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0267@",
+    "@P0268@",
+    "@P0269@"
+   ]
+  },
+  "@P0120@": {
+   "id": "@P0120@",
+   "name": "Albertus Antonius Hillen",
+   "sex": "M",
+   "birth_year": 1856,
+   "death_year": 1925,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Blerick.",
+   "place": "Grave",
+   "place_events": [
+    {
+     "place": "Grave",
+     "role": "geboren",
+     "year": 1856
+    },
+    {
+     "place": "Neerpelt (B)",
+     "role": "overleden",
+     "year": 1925
+    },
+    {
+     "place": "Blerick",
+     "role": "woonachtig",
+     "year": 1856
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[15] Heuijerjans.net, 'Blerick: De IJzergieterijen ... Hillen' (2014)"
+   ],
+   "children": [
+    "@P0127@"
+   ]
+  },
+  "@P0233@": {
+   "id": "@P0233@",
+   "name": "Theodorus Hillen",
+   "sex": "M",
+   "birth_year": 1856,
+   "death_year": null,
+   "occupation": null,
+   "note": "Jong overleden.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1856
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0124@": {
+   "id": "@P0124@",
+   "name": "Theodorus Joannes Hubertus Hillen",
+   "sex": "M",
+   "birth_year": 1858,
+   "death_year": 1906,
+   "occupation": "organist; aannemer (Ravenstein)",
+   "note": "Woonplaats volgens de piramide: Ravenstein. Huwelijk in Grave (1890). Parenteel Xm.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1858
+    },
+    {
+     "place": "Koestein",
+     "role": "overleden",
+     "year": 1906
+    },
+    {
+     "place": "Ravenstein",
+     "role": "woonachtig",
+     "year": 1858
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[11] Open Archieven / BHIC, burgerlijke stand Vught en Ravenstein",
+    "[15] Heuijerjans.net, 'Blerick: De IJzergieterijen ... Hillen' (2014)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0133@"
+   ]
+  },
+  "@P0234@": {
+   "id": "@P0234@",
+   "name": "Gasparus Wilhelmus Hillen",
+   "sex": "M",
+   "birth_year": 1859,
+   "death_year": 1859,
+   "occupation": null,
+   "note": null,
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1859
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1859
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0238@": {
+   "id": "@P0238@",
+   "name": "Marie Josephine Bex",
+   "sex": "F",
+   "birth_year": 1859,
+   "death_year": 1934,
+   "occupation": null,
+   "note": "Dochter van Nicolaas Bex en Helene Goessens.",
+   "place": "Klimmen",
+   "place_events": [
+    {
+     "place": "Klimmen",
+     "role": "geboren",
+     "year": 1859
+    },
+    {
+     "place": "Vught",
+     "role": "overleden",
+     "year": 1934
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0007@",
+    "@P0239@",
+    "@P0240@",
+    "@P0241@",
+    "@P0242@"
+   ]
+  },
+  "@P0006@": {
+   "id": "@P0006@",
+   "name": "Peter Henricus Hillen",
+   "sex": "M",
+   "birth_year": 1863,
+   "death_year": 1943,
+   "occupation": "huisarts en gemeentearts in Vught",
+   "note": "Woonplaats volgens de piramide: Vught. De Dokter Hillenlaan in Vught is naar hem en zijn zoon Felix vernoemd. Ridder in de Orde van Oranje-Nassau. Promoveerde tot Doctor Med. in juli 1889; Ridder in de Orde van Oranje-Nassau op 17-7-1929. Graf in de St. Janskerk, Den Bosch. Huwelijk Vught 14-8-1893.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1863
+    },
+    {
+     "place": "Vught",
+     "role": "overleden",
+     "year": 1943
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[10] Vughts Museum, 'Even voorstellen: dr. Piet Hein Hillen' (2021)",
+    "[11] Open Archieven / BHIC, burgerlijke stand Vught en Ravenstein",
+    "[14] Eigen stamboom-app (Hillen Family Tree)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0007@",
+    "@P0239@",
+    "@P0240@",
+    "@P0241@",
+    "@P0242@"
+   ]
+  },
+  "@P0235@": {
+   "id": "@P0235@",
+   "name": "Gaspar Joseph Hillen",
+   "sex": "M",
+   "birth_year": 1865,
+   "death_year": 1915,
+   "occupation": "kapelaan in Maastricht",
+   "note": "Ridder in de Orde van Oranje-Nassau; oprichter van een instelling voor voogdijkinderen in Maastricht. Student in Roermond.",
+   "place": "Amby",
+   "place_events": [
+    {
+     "place": "Amby",
+     "role": "overleden",
+     "year": 1915
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0247@": {
+   "id": "@P0247@",
+   "name": "Maria Holt",
+   "sex": "F",
+   "birth_year": 1865,
+   "death_year": 1936,
+   "occupation": null,
+   "note": "Dochter van Frederik Holt en Pieternella Reijnaart.",
+   "place": "Haarlem",
+   "place_events": [
+    {
+     "place": "Haarlem",
+     "role": "geboren",
+     "year": 1865
+    },
+    {
+     "place": "Hoorn",
+     "role": "overleden",
+     "year": 1936
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0248@",
+    "@P0249@"
+   ]
+  },
+  "@P0225@": {
+   "id": "@P0225@",
+   "name": "Petronella Hubertina Hillen",
+   "sex": "F",
+   "birth_year": 1865,
+   "death_year": null,
+   "occupation": null,
+   "note": "Begin van de pagina ontbreekt; de koppeling aan Joannes (1836) is afgeleid uit de doopgetuigen (o.a. zijn stiefvader Andries Linssen).",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1865
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0236@": {
+   "id": "@P0236@",
+   "name": "Ludovicus Fransiscus Hillen",
+   "sex": "M",
+   "birth_year": 1866,
+   "death_year": 1866,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0226@": {
+   "id": "@P0226@",
+   "name": "Johanna Catharina Hillen",
+   "sex": "F",
+   "birth_year": 1867,
+   "death_year": 1950,
+   "occupation": null,
+   "note": "Huwelijk met Peter Hubertus Weks. Begin van de pagina ontbreekt; de koppeling aan Joannes (1836) is afgeleid uit de doopgetuigen (o.a. zijn stiefvader Andries Linssen).",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1867
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1950
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0237@": {
+   "id": "@P0237@",
+   "name": "Lucia Maria Hillen",
+   "sex": "F",
+   "birth_year": 1867,
+   "death_year": 1930,
+   "occupation": null,
+   "note": "Ongehuwd.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0266@": {
+   "id": "@P0266@",
+   "name": "Catharina Anna Maria Wahlen",
+   "sex": "F",
+   "birth_year": 1869,
+   "death_year": 1933,
+   "occupation": null,
+   "note": "Dochter van Johan Wahlen (1846–1926) en Anna Theissling. Begraven in Erp.",
+   "place": "Alkmaar",
+   "place_events": [
+    {
+     "place": "Alkmaar",
+     "role": "geboren",
+     "year": 1869
+    },
+    {
+     "place": "Ottersum",
+     "role": "overleden",
+     "year": 1933
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0267@",
+    "@P0268@",
+    "@P0269@"
+   ]
+  },
+  "@P0126@": {
+   "id": "@P0126@",
+   "name": "Lodewijk Hubertus Hillen",
+   "sex": "M",
+   "birth_year": 1869,
+   "death_year": 1952,
+   "occupation": "importeur/groothandel rokersbenodigdheden, assurantiekantoor, steenoven; wethouder Maasbree (vanaf 1930)",
+   "note": "Woonplaats volgens de piramide: Blerick. Brandweer Blerick (1901–1921), gemeenteraadslid, oudste kerkmeester; zeer invloedrijk in Blerick. Ongehuwd, geen kinderen. Overlijdensjaar: blog zegt 1952, archieven.nl 1953. Parenteel bevestigt overlijden 19-10-1952; in 1930 wethouder te Blerick.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1952
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[16] Blièrick d'r waas ens (blog), 'Kloosterstraat in Blerick' (2015)",
+    "[17] stratenvandelft.nl, 'Hillenlaan' / archieven.nl",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0227@": {
+   "id": "@P0227@",
+   "name": "Joannes Hubertus Hillen",
+   "sex": "M",
+   "birth_year": 1870,
+   "death_year": null,
+   "occupation": null,
+   "note": "Begin van de pagina ontbreekt; de koppeling aan Joannes (1836) is afgeleid uit de doopgetuigen (o.a. zijn stiefvader Andries Linssen).",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1870
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0228@": {
+   "id": "@P0228@",
+   "name": "Catharina Hillen",
+   "sex": "F",
+   "birth_year": 1873,
+   "death_year": 1873,
+   "occupation": null,
+   "note": "Begin van de pagina ontbreekt; de koppeling aan Joannes (1836) is afgeleid uit de doopgetuigen (o.a. zijn stiefvader Andries Linssen).",
+   "place": "Venray",
+   "place_events": [
+    {
+     "place": "Venray",
+     "role": "overleden",
+     "year": 1873
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0129@": {
+   "id": "@P0129@",
+   "name": "Jean Hillen",
+   "sex": "M",
+   "birth_year": 1889,
+   "death_year": 1988,
+   "occupation": "fabrikant (pijpenfabriek Bree); schepen van Bree",
+   "note": "Woonplaats volgens de piramide: België (Bree). Nam de pijpenfabriek Knoedgen over na WOI en breidde uit met asbestos- en bruyèrepijpen. Voorzitter Rode Kruis afd. Bree en commissie onderlinge bijstand. Huwelijk 1918. Werd 99 jaar. Geboorteakte nr. 128, 9-11-1889, burgerlijke stand Bree.",
+   "place": "Bree (B)",
+   "place_events": [
+    {
+     "place": "Bree (B)",
+     "role": "geboren",
+     "year": 1889
+    },
+    {
+     "place": "Bree (B)",
+     "role": "overleden",
+     "year": 1988
+    },
+    {
+     "place": "België (Bree)",
+     "role": "woonachtig",
+     "year": 1889
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[18] Archieven.nl / Gemeentearchief Venlo, toegang 'Hillen'",
+    "[19] Pipedia / rebornpipes / Dutch Pipe Smoker (Hilson-pijpen)",
+    "[20] LimMemoriam.be, parenteel Albert Theodoor Hubert Hillen"
+   ],
+   "children": [
+    "@P0135@",
+    "@P0137@",
+    "@P0138@"
+   ]
+  },
+  "@P0127@": {
+   "id": "@P0127@",
+   "name": "Johannes Jacobus Theodorus Hubertus Hillen",
+   "sex": "M",
+   "birth_year": 1890,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond. In de piramide staat bij hem: zoon Jules Theodoor Gerard (geb. 1895 Den Bosch, ovl. 1934 Neerpelt). Dat kan geen zoon zijn (hij was toen 5); mogelijk een broer. Spoor eindigt hier.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "geboren",
+     "year": 1890
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[15] Heuijerjans.net, 'Blerick: De IJzergieterijen ... Hillen' (2014)"
+   ],
+   "children": []
+  },
+  "@P0131@": {
+   "id": "@P0131@",
+   "name": "Albert Theodore Constant Marie Hillen",
+   "sex": "M",
+   "birth_year": 1892,
+   "death_year": 1933,
+   "occupation": "advocaat; lid Belgische Kamer van Volksvertegenwoordigers (Katholieke Partij)",
+   "note": "Woonplaats volgens de piramide: België (Bree). Liet drie jonge kinderen na. Kamerlidmaatschap bevestigd via de officiële lijst 1831–2002.",
+   "place": "Bree (B)",
+   "place_events": [
+    {
+     "place": "Bree (B)",
+     "role": "geboren",
+     "year": 1892
+    },
+    {
+     "place": "Antwerpen",
+     "role": "overleden",
+     "year": 1933
+    },
+    {
+     "place": "België (Bree)",
+     "role": "woonachtig",
+     "year": 1892
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[19] Pipedia / rebornpipes / Dutch Pipe Smoker (Hilson-pijpen)",
+    "[20] LimMemoriam.be, parenteel Albert Theodoor Hubert Hillen"
+   ],
+   "children": []
+  },
+  "@P0267@": {
+   "id": "@P0267@",
+   "name": "Johannes Hillen",
+   "sex": "M",
+   "birth_year": 1893,
+   "death_year": null,
+   "occupation": null,
+   "note": "Jong overleden.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0239@": {
+   "id": "@P0239@",
+   "name": "Bernardine Hillen",
+   "sex": "F",
+   "birth_year": 1894,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Vught",
+   "place_events": [
+    {
+     "place": "Vught",
+     "role": "geboren",
+     "year": 1894
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0240@": {
+   "id": "@P0240@",
+   "name": "Helene Maria Hendrica Hillen",
+   "sex": "F",
+   "birth_year": 1896,
+   "death_year": 1982,
+   "occupation": null,
+   "note": "Huwelijk met Adriaan Anton Frans Marie Verbeek.",
+   "place": "Vught",
+   "place_events": [
+    {
+     "place": "Vught",
+     "role": "geboren",
+     "year": 1896
+    },
+    {
+     "place": "Enschede",
+     "role": "overleden",
+     "year": 1982
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0268@": {
+   "id": "@P0268@",
+   "name": "Johannes J.A.M. Hillen",
+   "sex": "M",
+   "birth_year": 1897,
+   "death_year": 1951,
+   "occupation": "dominicaan (Pater Jordanus)",
+   "note": null,
+   "place": "Venlo",
+   "place_events": [
+    {
+     "place": "Venlo",
+     "role": "overleden",
+     "year": 1951
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0241@": {
+   "id": "@P0241@",
+   "name": "Pauline Albertine Hillen",
+   "sex": "F",
+   "birth_year": 1897,
+   "death_year": 1978,
+   "occupation": null,
+   "note": "Huwelijk met Meindert Klaas Honig (geb. Koog aan de Zaan).",
+   "place": "Vught",
+   "place_events": [
+    {
+     "place": "Vught",
+     "role": "geboren",
+     "year": 1897
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0242@": {
+   "id": "@P0242@",
+   "name": "Alexander Hillen",
+   "sex": "M",
+   "birth_year": 1899,
+   "death_year": 1919,
+   "occupation": "militair",
+   "note": null,
+   "place": "Vught",
+   "place_events": [
+    {
+     "place": "Vught",
+     "role": "geboren",
+     "year": 1899
+    },
+    {
+     "place": "Ede",
+     "role": "overleden",
+     "year": 1919
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0134@": {
+   "id": "@P0134@",
+   "name": "Antoinette Maria Roncken",
+   "sex": "F",
+   "birth_year": 1899,
+   "death_year": 1981,
+   "occupation": null,
+   "note": "Dochter van Wilhelmus Roncken en Hendrika Janssen.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1899
+    },
+    {
+     "place": "Venlo",
+     "role": "overleden",
+     "year": 1981
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0270@",
+    "@P0271@"
+   ]
+  },
+  "@P0133@": {
+   "id": "@P0133@",
+   "name": "Jozef Hillen",
+   "sex": "M",
+   "birth_year": 1899,
+   "death_year": 1974,
+   "occupation": "wethouder Venlo (1946–1958)",
+   "note": "Woonplaats volgens de piramide: Blerick. Gemeentebedrijven/wederopbouw (gas-licht-water). Penningmeester, kerkmeester en erelid Antoniusparochie; voorzitter Middenstandsvereniging, vice-voorzitter KvK. Ridder in de Orde van Sint-Silvester (1966); straat naar hem vernoemd in Venlo-Groenveld. 'Neef van Louis' in archieven.nl, vermoedelijk via halfbroer Theodor. Overlijdensjaar volgens bronnen 1974 of 1981.",
+   "place": "Grave",
+   "place_events": [
+    {
+     "place": "Grave",
+     "role": "geboren",
+     "year": 1899
+    },
+    {
+     "place": "Blerick",
+     "role": "woonachtig",
+     "year": 1899
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[15] Heuijerjans.net, 'Blerick: De IJzergieterijen ... Hillen' (2014)",
+    "[17] stratenvandelft.nl, 'Hillenlaan' / archieven.nl",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0270@",
+    "@P0271@"
+   ]
+  },
+  "@P0007@": {
+   "id": "@P0007@",
+   "name": "Felix Joseph Marie Hillen",
+   "sex": "M",
+   "birth_year": 1900,
+   "death_year": 1973,
+   "occupation": "arts, huisarts in Vught",
+   "note": "Woonplaats volgens de piramide: Vught. Officier in de Orde van Oranje-Nassau, ereburger van Vught, Kruis van Verdienste van het Nederlandse Rode Kruis. Huwelijk Vught 16-5-1927.",
+   "place": "Vught",
+   "place_events": [
+    {
+     "place": "Vught",
+     "role": "geboren",
+     "year": 1900
+    },
+    {
+     "place": "Vught",
+     "role": "overleden",
+     "year": 1973
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[10] Vughts Museum, 'Even voorstellen: dr. Piet Hein Hillen' (2021)",
+    "[14] Eigen stamboom-app (Hillen Family Tree)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0141@",
+    "@P0243@",
+    "@P0244@",
+    "@P0245@",
+    "@P0246@"
+   ]
+  },
+  "@P0269@": {
+   "id": "@P0269@",
+   "name": "Elisa Jeanette Antoinette Maria Hillen",
+   "sex": "F",
+   "birth_year": 1901,
+   "death_year": 1984,
+   "occupation": "kloosterzuster (Ludovica), St. Catharinaklooster",
+   "note": null,
+   "place": "Sambeek",
+   "place_events": [
+    {
+     "place": "Sambeek",
+     "role": "overleden",
+     "year": 1984
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0248@": {
+   "id": "@P0248@",
+   "name": "Johan Josephus Marie Hillen",
+   "sex": "M",
+   "birth_year": 1902,
+   "death_year": 1962,
+   "occupation": null,
+   "note": "Parenteel XIah. Overleden bij een treinongeluk. Huwelijk Rotterdam 3-7-1930.",
+   "place": "Maasbree",
+   "place_events": [
+    {
+     "place": "Maasbree",
+     "role": "geboren",
+     "year": 1902
+    },
+    {
+     "place": "Harmelen",
+     "role": "overleden",
+     "year": 1962
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0251@",
+    "@P0256@"
+   ]
+  },
+  "@P0008@": {
+   "id": "@P0008@",
+   "name": "Marie Christine Hubertina Cordewener",
+   "sex": "F",
+   "birth_year": 1902,
+   "death_year": 1993,
+   "occupation": null,
+   "note": "Dochter van Eugène Cordewener en Anna Janssens. Huwelijk Vught 16-5-1927 met Felix Hillen. Overleden 1993 (volgens stamboom-app).",
+   "place": "Vught",
+   "place_events": [
+    {
+     "place": "Vught",
+     "role": "geboren",
+     "year": 1902
+    }
+   ],
+   "sources": [
+    "Hillen Family Tree-app (267 personen)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0141@",
+    "@P0243@",
+    "@P0244@",
+    "@P0245@",
+    "@P0246@"
+   ]
+  },
+  "@P0249@": {
+   "id": "@P0249@",
+   "name": "Frederik Hillen",
+   "sex": "M",
+   "birth_year": 1904,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0250@": {
+   "id": "@P0250@",
+   "name": "Antonia Hauser",
+   "sex": "F",
+   "birth_year": 1905,
+   "death_year": null,
+   "occupation": null,
+   "note": "Dochter van Gerard Hauser en Gertrude Feyen.",
+   "place": "Rotterdam",
+   "place_events": [
+    {
+     "place": "Rotterdam",
+     "role": "geboren",
+     "year": 1905
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0251@",
+    "@P0256@"
+   ]
+  },
+  "@P0135@": {
+   "id": "@P0135@",
+   "name": "Albert Hillen",
+   "sex": "M",
+   "birth_year": 1920,
+   "death_year": 1992,
+   "occupation": "productie Hilson-pijpenfabriek Bree",
+   "note": "Woonplaats volgens de piramide: België (Bree). Tolk bij het Britse leger in WOII. Bedacht na de oorlog het merk Hilson ('Hillen and Sons').",
+   "place": "Bree (B)",
+   "place_events": [
+    {
+     "place": "Bree (B)",
+     "role": "geboren",
+     "year": 1920
+    },
+    {
+     "place": "Edinburgh (Schotland)",
+     "role": "overleden",
+     "year": 1992
+    },
+    {
+     "place": "België (Bree)",
+     "role": "woonachtig",
+     "year": 1920
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[18] Archieven.nl / Gemeentearchief Venlo, toegang 'Hillen'",
+    "[19] Pipedia / rebornpipes / Dutch Pipe Smoker (Hilson-pijpen)"
+   ],
+   "children": []
+  },
+  "@P0137@": {
+   "id": "@P0137@",
+   "name": "Jos Hillen",
+   "sex": "M",
+   "birth_year": 1926,
+   "death_year": 1993,
+   "occupation": "verkoop Hilson-pijpenfabriek Bree",
+   "note": "Woonplaats volgens de piramide: België (Bree).",
+   "place": "Bree (B)",
+   "place_events": [
+    {
+     "place": "Bree (B)",
+     "role": "geboren",
+     "year": 1926
+    },
+    {
+     "place": "Antwerpen",
+     "role": "overleden",
+     "year": 1993
+    },
+    {
+     "place": "België (Bree)",
+     "role": "woonachtig",
+     "year": 1926
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[18] Archieven.nl / Gemeentearchief Venlo, toegang 'Hillen'",
+    "[19] Pipedia / rebornpipes / Dutch Pipe Smoker (Hilson-pijpen)"
+   ],
+   "children": []
+  },
+  "@P0262@": {
+   "id": "@P0262@",
+   "name": "Nicolaas Theodorus Hillen",
+   "sex": "M",
+   "birth_year": 1926,
+   "death_year": null,
+   "occupation": "Mr. in de rechten",
+   "note": "Huwelijk 's-Gravenhage 8-9-1956.",
+   "place": "Oosterbeek",
+   "place_events": [
+    {
+     "place": "Oosterbeek",
+     "role": "geboren",
+     "year": 1926
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0264@"
+   ]
+  },
+  "@P0243@": {
+   "id": "@P0243@",
+   "name": "Anne Marie Hillen",
+   "sex": "F",
+   "birth_year": 1928,
+   "death_year": null,
+   "occupation": null,
+   "note": "Huwelijk met August Cornelis Lamers (geb. 's-Hertogenbosch 11-11-1917), lector tandheelkunde Universiteit Nijmegen.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0138@": {
+   "id": "@P0138@",
+   "name": "Paul Hillen",
+   "sex": "M",
+   "birth_year": 1928,
+   "death_year": 2014,
+   "occupation": "geneesheer-uroloog",
+   "note": "Woonplaats volgens de piramide: België (Bree). Erevoorzitter Limburg Golf & Country Club.",
+   "place": "Bree (B)",
+   "place_events": [
+    {
+     "place": "Bree (B)",
+     "role": "geboren",
+     "year": 1928
+    },
+    {
+     "place": "Hasselt",
+     "role": "overleden",
+     "year": 2014
+    },
+    {
+     "place": "België (Bree)",
+     "role": "woonachtig",
+     "year": 1928
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[19] Pipedia / rebornpipes / Dutch Pipe Smoker (Hilson-pijpen)"
+   ],
+   "children": [
+    "@P0140@"
+   ]
+  },
+  "@P0141@": {
+   "id": "@P0141@",
+   "name": "Piet Hein Hillen",
+   "sex": "M",
+   "birth_year": 1929,
+   "death_year": 2019,
+   "occupation": "internist",
+   "note": "Woonplaats volgens de piramide: Vught. Volgens de rouwadvertentie 5 kinderen: Felix, Piet Hein, Michiel, Maarten en Floris. Parenteel XIIam.",
+   "place": "Vught",
+   "place_events": [
+    {
+     "place": "Vught",
+     "role": "geboren",
+     "year": 1929
+    },
+    {
+     "place": "Tilburg",
+     "role": "overleden",
+     "year": 2019
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[21] Rouwadvertentie Piet Hein Hillen (1929–2019); BHIC bevolkingsregister Vught",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0143@",
+    "@P0144@",
+    "@P0145@",
+    "@P0146@",
+    "@P0147@"
+   ]
+  },
+  "@P0270@": {
+   "id": "@P0270@",
+   "name": "Theodorus Willem Karel Hillen",
+   "sex": "M",
+   "birth_year": 1929,
+   "death_year": null,
+   "occupation": null,
+   "note": "Parenteel XIIak.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0263@": {
+   "id": "@P0263@",
+   "name": "Agatha Maria Johanna Blonk",
+   "sex": "F",
+   "birth_year": 1930,
+   "death_year": null,
+   "occupation": null,
+   "note": "Dochter van Johannes Wilhelmus Jacobus Blonk en Françina van Leeuwen.",
+   "place": "'s-Gravenhage",
+   "place_events": [
+    {
+     "place": "'s-Gravenhage",
+     "role": "geboren",
+     "year": 1930
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0264@"
+   ]
+  },
+  "@P0271@": {
+   "id": "@P0271@",
+   "name": "Wilhelmus Karel A. Hillen",
+   "sex": "M",
+   "birth_year": 1931,
+   "death_year": null,
+   "occupation": null,
+   "note": "Parenteel XIIal.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0244@": {
+   "id": "@P0244@",
+   "name": "Eugenie Marie Hillen",
+   "sex": "F",
+   "birth_year": 1932,
+   "death_year": null,
+   "occupation": null,
+   "note": "Huwelijk met Willem Lodewijk van der Putt (geb. Eindhoven 28-10-1929), advocaat in Venray.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0251@": {
+   "id": "@P0251@",
+   "name": "Henricus Fredericus Josephus Hillen",
+   "sex": "M",
+   "birth_year": 1932,
+   "death_year": null,
+   "occupation": "ingenieursbureau onderwaterbetonbouw",
+   "note": "Huwelijk Zeist 22-10-1957.",
+   "place": "Utrecht",
+   "place_events": [
+    {
+     "place": "Utrecht",
+     "role": "geboren",
+     "year": 1932
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0253@",
+    "@P0254@",
+    "@P0255@"
+   ]
+  },
+  "@P0252@": {
+   "id": "@P0252@",
+   "name": "Johanna Maria van Kempen",
+   "sex": "F",
+   "birth_year": 1934,
+   "death_year": null,
+   "occupation": null,
+   "note": "Dochter van Theodorus van Kempen en Elisabeth Brautigam. Transcriptie zegt geboren 1954; dat kan niet (huwelijk 1957), vermoedelijk 1934.",
+   "place": "Utrecht",
+   "place_events": [
+    {
+     "place": "Utrecht",
+     "role": "geboren",
+     "year": 1934
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0253@",
+    "@P0254@",
+    "@P0255@"
+   ]
+  },
+  "@P0245@": {
+   "id": "@P0245@",
+   "name": "Johanna Marie Christina Hillen",
+   "sex": "F",
+   "birth_year": 1936,
+   "death_year": null,
+   "occupation": null,
+   "note": "Huwelijk met Harry Florian Willem Kleijn (geb. Medan 14-5-1932), ir. geoloog in Londen.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0256@": {
+   "id": "@P0256@",
+   "name": "Johan Marie Hillen",
+   "sex": "M",
+   "birth_year": 1940,
+   "death_year": null,
+   "occupation": null,
+   "note": "Huwelijk Haarlem 12-5-1970.",
+   "place": "Apeldoorn",
+   "place_events": [
+    {
+     "place": "Apeldoorn",
+     "role": "geboren",
+     "year": 1940
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0258@",
+    "@P0259@"
+   ]
+  },
+  "@P0246@": {
+   "id": "@P0246@",
+   "name": "Felix Anna Louis Hillen",
+   "sex": "M",
+   "birth_year": 1942,
+   "death_year": null,
+   "occupation": null,
+   "note": "Parenteel XIIan.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0257@": {
+   "id": "@P0257@",
+   "name": "Elisabeth Hersman",
+   "sex": "F",
+   "birth_year": 1947,
+   "death_year": null,
+   "occupation": null,
+   "note": "Dochter van Martinus Elias Wibertus Johannes Hersman en Jacoba Johanna van Hazebroek.",
+   "place": "Haarlem",
+   "place_events": [
+    {
+     "place": "Haarlem",
+     "role": "geboren",
+     "year": 1947
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0258@",
+    "@P0259@"
+   ]
+  },
+  "@P0264@": {
+   "id": "@P0264@",
+   "name": "Theodorus Willibrordus Fransiscus Hillen",
+   "sex": "M",
+   "birth_year": 1957,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Den Haag",
+   "place_events": [
+    {
+     "place": "Den Haag",
+     "role": "geboren",
+     "year": 1957
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0253@": {
+   "id": "@P0253@",
+   "name": "Marcel Hillen",
+   "sex": "M",
+   "birth_year": 1958,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Den Haag",
+   "place_events": [
+    {
+     "place": "Den Haag",
+     "role": "geboren",
+     "year": 1958
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0254@": {
+   "id": "@P0254@",
+   "name": "Basilius Hillen",
+   "sex": "M",
+   "birth_year": 1960,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Den Haag",
+   "place_events": [
+    {
+     "place": "Den Haag",
+     "role": "geboren",
+     "year": 1960
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0140@": {
+   "id": "@P0140@",
+   "name": "Sophie Hillen",
+   "sex": "F",
+   "birth_year": 1962,
+   "death_year": 1963,
+   "occupation": null,
+   "note": "Jong overleden; enig gevonden kind van Paul.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[19] Pipedia / rebornpipes / Dutch Pipe Smoker (Hilson-pijpen)"
+   ],
+   "children": []
+  },
+  "@P0255@": {
+   "id": "@P0255@",
+   "name": "Alice Hillen",
+   "sex": "F",
+   "birth_year": 1963,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Den Haag",
+   "place_events": [
+    {
+     "place": "Den Haag",
+     "role": "geboren",
+     "year": 1963
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0258@": {
+   "id": "@P0258@",
+   "name": "Joost Hillen",
+   "sex": "M",
+   "birth_year": 1972,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": "Schoonhoven",
+   "place_events": [
+    {
+     "place": "Schoonhoven",
+     "role": "geboren",
+     "year": 1972
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0259@": {
+   "id": "@P0259@",
+   "name": "Hugo Hillen",
+   "sex": "M",
+   "birth_year": 1977,
+   "death_year": null,
+   "occupation": null,
+   "note": "Mogelijk dezelfde Hugo Hillen die de MyHeritage-stamboom (Tak Roermond) beheert — niet gecontroleerd.",
+   "place": "Den Bosch",
+   "place_events": [
+    {
+     "place": "Den Bosch",
+     "role": "geboren",
+     "year": 1977
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0085@": {
+   "id": "@P0085@",
+   "name": "Agnes Elisabeth de Merode",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": []
+  },
+  "@P0102@": {
+   "id": "@P0102@",
+   "name": "Agnes Gommans",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": 1779,
+   "occupation": null,
+   "note": "Dochter van Martinus Gommans en Cornelia Schreurs.",
+   "place": "Helden",
+   "place_events": [
+    {
+     "place": "Helden",
+     "role": "geboren",
+     "year": null
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1779
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0003@",
+    "@P0103@",
+    "@P0105@",
+    "@P0106@",
+    "@P0107@",
+    "@P0205@",
+    "@P0206@",
+    "@P0207@",
+    "@P0208@"
+   ]
+  },
+  "@P0078@": {
+   "id": "@P0078@",
+   "name": "Agnes Hillen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": 1652,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland). Vermoedelijk kloosterzuster; lijn eindigt hier.",
+   "place": "Duitsland (Rijnland)",
+   "place_events": [
+    {
+     "place": "Saarn",
+     "role": "overleden",
+     "year": 1652
+    },
+    {
+     "place": "Duitsland (Rijnland)",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[9] Das Erzbistum Köln IV: Zisterzienserinnenklöster Saarn (Germania Sacra)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0167@": {
+   "id": "@P0167@",
+   "name": "Aleidis Hillen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Echtgenote van Reinerus Hillen (1640).",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0168@"
+   ]
+  },
+  "@P0152@": {
+   "id": "@P0152@",
+   "name": "Aleidis Zillen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Dochter van Wilhelmus Zillen. Huwelijk Blerick 7-1-1627. Overleden na 29-10-1634.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0153@",
+    "@P0154@",
+    "@P0155@"
+   ]
+  },
+  "@P0086@": {
+   "id": "@P0086@",
+   "name": "Anna Hillen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland).",
+   "place": "Duitsland (Rijnland)",
+   "place_events": [
+    {
+     "place": "Duitsland (Rijnland)",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0112@": {
+   "id": "@P0112@",
+   "name": "Anna Maria van Spreeuwenburg",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": []
+  },
+  "@P0084@": {
+   "id": "@P0084@",
+   "name": "Arnold Rutger Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland). Baron Hillen zu Sulz. Geen kinderen bekend; titel vermoedelijk uitgestorven.",
+   "place": "Duitsland (Rijnland)",
+   "place_events": [
+    {
+     "place": "Duitsland (Rijnland)",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "[2] Th.J. Bais, 'Hillen Roermond' (2006)"
+   ],
+   "children": []
+  },
+  "@P0032@": {
+   "id": "@P0032@",
+   "name": "Bernardus Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0016@": {
+   "id": "@P0016@",
+   "name": "Catharina Borman",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": [
+    "@P0037@",
+    "@P0039@"
+   ]
+  },
+  "@P0034@": {
+   "id": "@P0034@",
+   "name": "Catharina Hillen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0045@": {
+   "id": "@P0045@",
+   "name": "Catharina Hillen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0049@": {
+   "id": "@P0049@",
+   "name": "Catharina Hillen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0057@": {
+   "id": "@P0057@",
+   "name": "Catharina Hillen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0066@": {
+   "id": "@P0066@",
+   "name": "Catharina NN",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": [
+    "@P0082@",
+    "@P0148@",
+    "@P0149@",
+    "@P0150@",
+    "@P0151@"
+   ]
+  },
+  "@P0018@": {
+   "id": "@P0018@",
+   "name": "Catharina Pollarts",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": [
+    "@P0026@",
+    "@P0028@",
+    "@P0030@",
+    "@P0031@",
+    "@P0032@",
+    "@P0033@",
+    "@P0034@",
+    "@P0035@",
+    "@P0036@"
+   ]
+  },
+  "@P0054@": {
+   "id": "@P0054@",
+   "name": "Catharina van der Griende",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": [
+    "@P0058@"
+   ]
+  },
+  "@P0160@": {
+   "id": "@P0160@",
+   "name": "Catharina van Roir",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Huwelijk Roermond 21-1-1631 (getuigen Joannes van Roir en Guillielmus Hillen).",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0161@"
+   ]
+  },
+  "@P0047@": {
+   "id": "@P0047@",
+   "name": "Christoffel Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0060@": {
+   "id": "@P0060@",
+   "name": "Dederich Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Helden.",
+   "place": "Helden",
+   "place_events": [
+    {
+     "place": "Helden",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0010@": {
+   "id": "@P0010@",
+   "name": "Dederick Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond. Stamvader van de Roermondse Hillens.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": [
+    "@P0001@"
+   ]
+  },
+  "@P0002@": {
+   "id": "@P0002@",
+   "name": "Dederik Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": "bestuurder in Roermond (1647–1649)",
+   "note": "Staat als 'Jr. Dederik Hillen' in de Roermondse bestuurderslijst voor 1647, 1648 en 1649. Mogelijke voorouder ('Jonker Dederik Hillen'); plaats in de stamboom nog onbekend.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Roermondse bestuurderslijst (Souvereine Raad) https://www.mpaginae.nl/Roermond/SouvereineRaad.htm"
+   ],
+   "children": []
+  },
+  "@P0048@": {
+   "id": "@P0048@",
+   "name": "Dirck Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0038@": {
+   "id": "@P0038@",
+   "name": "Du Jardin",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Heer van La Motte.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": []
+  },
+  "@P0055@": {
+   "id": "@P0055@",
+   "name": "Dyrick Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0052@": {
+   "id": "@P0052@",
+   "name": "Elisabeth Behr van Laer",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": [
+    "@P0060@",
+    "@P0061@"
+   ]
+  },
+  "@P0083@": {
+   "id": "@P0083@",
+   "name": "Elisabeth Lemmen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Dochter van Alaerts aan gen Velden.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0091@",
+    "@P0092@",
+    "@P0156@",
+    "@P0157@"
+   ]
+  },
+  "@P0173@": {
+   "id": "@P0173@",
+   "name": "Elisabeth Lenaerts",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": 1735,
+   "occupation": null,
+   "note": "Huwelijk Blerick 16-5-1696.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1735
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0064@": {
+   "id": "@P0064@",
+   "name": "Elisabeth NN",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": [
+    "@P0065@"
+   ]
+  },
+  "@P0022@": {
+   "id": "@P0022@",
+   "name": "Elisabeth Strythagens",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": []
+  },
+  "@P0136@": {
+   "id": "@P0136@",
+   "name": "Elspeth Urquhart",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": []
+  },
+  "@P0043@": {
+   "id": "@P0043@",
+   "name": "Ermgardis Hillen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0042@": {
+   "id": "@P0042@",
+   "name": "Ermgardis van Lovenich",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": [
+    "@P0063@"
+   ]
+  },
+  "@P0143@": {
+   "id": "@P0143@",
+   "name": "Felix Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Genoemd in de rouwadvertentie van zijn vader Piet Hein Hillen (1929–2019).",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[21] Rouwadvertentie Piet Hein Hillen (1929–2019); BHIC bevolkingsregister Vught"
+   ],
+   "children": []
+  },
+  "@P0147@": {
+   "id": "@P0147@",
+   "name": "Floris Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Genoemd in de rouwadvertentie van zijn vader Piet Hein Hillen (1929–2019).",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[21] Rouwadvertentie Piet Hein Hillen (1929–2019); BHIC bevolkingsregister Vught"
+   ],
+   "children": []
+  },
+  "@P0062@": {
+   "id": "@P0062@",
+   "name": "Geertruidt van Baexen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": [
+    "@P0067@",
+    "@P0068@",
+    "@P0069@",
+    "@P0070@",
+    "@P0071@",
+    "@P0073@",
+    "@P0075@",
+    "@P0077@",
+    "@P0078@",
+    "@P0079@",
+    "@P0080@",
+    "@P0081@"
+   ]
+  },
+  "@P0076@": {
+   "id": "@P0076@",
+   "name": "Gerard van Bronsfeld",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": []
+  },
+  "@P0074@": {
+   "id": "@P0074@",
+   "name": "Gisela van der Recke",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": [
+    "@P0089@",
+    "@P0090@"
+   ]
+  },
+  "@P0014@": {
+   "id": "@P0014@",
+   "name": "Godart Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": "schepen (1448–1470)",
+   "note": "Woonplaats volgens de piramide: Roermond. Meester broederschap St. Jacob. Had volgens de piramide een kind bij een onbekende vrouw (geschatte, naamloze tak).",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0104@": {
+   "id": "@P0104@",
+   "name": "Godefridus Teelen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": []
+  },
+  "@P0031@": {
+   "id": "@P0031@",
+   "name": "Godefriedus Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0051@": {
+   "id": "@P0051@",
+   "name": "Godert Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": 1576,
+   "occupation": "leenman van Horn",
+   "note": "Woonplaats volgens de piramide: Helden. 1570 beleend met de tienden van Brede.",
+   "place": "Helden",
+   "place_events": [
+    {
+     "place": "Helden",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[2] Th.J. Bais, 'Hillen Roermond' (2006)"
+   ],
+   "children": [
+    "@P0060@",
+    "@P0061@"
+   ]
+  },
+  "@P0044@": {
+   "id": "@P0044@",
+   "name": "Gothard van Lovenich",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": []
+  },
+  "@P0184@": {
+   "id": "@P0184@",
+   "name": "Helena Verheijen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": 1748,
+   "occupation": null,
+   "note": "Huwelijk Blerick 19-11-1705.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1748
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0185@",
+    "@P0186@",
+    "@P0187@",
+    "@P0188@"
+   ]
+  },
+  "@P0028@": {
+   "id": "@P0028@",
+   "name": "Henricus Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond. Huwelijk in 1508.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": [
+    "@P0041@",
+    "@P0043@",
+    "@P0045@",
+    "@P0047@",
+    "@P0048@",
+    "@P0049@"
+   ]
+  },
+  "@P0024@": {
+   "id": "@P0024@",
+   "name": "Hushoven",
+   "sex": "U",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": []
+  },
+  "@P0162@": {
+   "id": "@P0162@",
+   "name": "Ida de Trap",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Huwelijk Blerick 4-5-1637.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0163@"
+   ]
+  },
+  "@P0025@": {
+   "id": "@P0025@",
+   "name": "Irmgard Hillen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0189@": {
+   "id": "@P0189@",
+   "name": "Joanna Le Groz",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": 1713,
+   "occupation": null,
+   "note": "Huwelijk Blerick 2-8-1669. Overleden als weduwe.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1713
+    }
+   ],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0190@",
+    "@P0191@",
+    "@P0192@",
+    "@P0193@",
+    "@P0194@",
+    "@P0195@",
+    "@P0196@"
+   ]
+  },
+  "@P0017@": {
+   "id": "@P0017@",
+   "name": "Johan Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": "schepen & rechter Roermond (1472)",
+   "note": "Woonplaats volgens de piramide: Roermond. Bekend als Johan Hillen de Jonge. 1486: schepen (met Arnolt Neutkens, Robijn van Swalmen).",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[5] Loe Giesen (ed.), Regesten van akten betreffende Roermond en omgeving",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": [
+    "@P0026@",
+    "@P0028@",
+    "@P0030@",
+    "@P0031@",
+    "@P0032@",
+    "@P0033@",
+    "@P0034@",
+    "@P0035@",
+    "@P0036@"
+   ]
+  },
+  "@P0053@": {
+   "id": "@P0053@",
+   "name": "Johan Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": 1599,
+   "occupation": "schepen (1566), burgemeester Roermond (1582/87/94/1602)",
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[4] mpaginae.nl, 'Naamlijst burgemeesters van Roermond' https://www.mpaginae.nl/Roermond/SouvereineRaad.htm",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": [
+    "@P0058@"
+   ]
+  },
+  "@P0087@": {
+   "id": "@P0087@",
+   "name": "Johan Monemit van Boland",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": []
+  },
+  "@P0088@": {
+   "id": "@P0088@",
+   "name": "Johan Otto Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland). Eveneens baron (titel). Geen kinderen bekend; titel vermoedelijk uitgestorven.",
+   "place": "Duitsland (Rijnland)",
+   "place_events": [
+    {
+     "place": "Duitsland (Rijnland)",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[2] Th.J. Bais, 'Hillen Roermond' (2006)"
+   ],
+   "children": []
+  },
+  "@P0210@": {
+   "id": "@P0210@",
+   "name": "Johanna Bokhorst",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Huwelijk 31-5-1750; begraven Delft 25-7-1778.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0211@",
+    "@P0212@",
+    "@P0213@",
+    "@P0214@"
+   ]
+  },
+  "@P0056@": {
+   "id": "@P0056@",
+   "name": "Johanna Hillen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0058@": {
+   "id": "@P0058@",
+   "name": "Johanna Hillen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0209@": {
+   "id": "@P0209@",
+   "name": "Johanna Nats",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Huwelijk Delft 9-11-1738; begraven Delft 18-3-1750.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": []
+  },
+  "@P0026@": {
+   "id": "@P0026@",
+   "name": "Johannes Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0035@": {
+   "id": "@P0035@",
+   "name": "Johannes Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0130@": {
+   "id": "@P0130@",
+   "name": "Josephina Antonetta Smets",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": [
+    "@P0135@",
+    "@P0137@",
+    "@P0138@"
+   ]
+  },
+  "@P0046@": {
+   "id": "@P0046@",
+   "name": "Lodewijk in der Horst",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": []
+  },
+  "@P0020@": {
+   "id": "@P0020@",
+   "name": "Lutgardis Hillen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": 1527,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0146@": {
+   "id": "@P0146@",
+   "name": "Maarten Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Genoemd in de rouwadvertentie van zijn vader Piet Hein Hillen (1929–2019).",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[21] Rouwadvertentie Piet Hein Hillen (1929–2019); BHIC bevolkingsregister Vught"
+   ],
+   "children": []
+  },
+  "@P0132@": {
+   "id": "@P0132@",
+   "name": "Madeleine De Keyser",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": []
+  },
+  "@P0121@": {
+   "id": "@P0121@",
+   "name": "Maria Agnes Wilms",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": [
+    "@P0127@"
+   ]
+  },
+  "@P0108@": {
+   "id": "@P0108@",
+   "name": "Maria Anna Wiltens",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": [
+    "@P0111@"
+   ]
+  },
+  "@P0116@": {
+   "id": "@P0116@",
+   "name": "Maria Elisabeth Cillekens",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0119@",
+    "@P0265@"
+   ]
+  },
+  "@P0037@": {
+   "id": "@P0037@",
+   "name": "Maria Hillen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond. Gehuwd met Du Jardin, heer van La Motte.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0128@": {
+   "id": "@P0128@",
+   "name": "Maria Josephina Leva",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": []
+  },
+  "@P0123@": {
+   "id": "@P0123@",
+   "name": "Maria Knoedgen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": [
+    "@P0129@",
+    "@P0131@"
+   ]
+  },
+  "@P0180@": {
+   "id": "@P0180@",
+   "name": "Maria Lamers",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Tweede vrouw van Joannes Hillen (1699); huwelijk Blerick 11-4-1741 (getuigen Alardus Hillen en Maria Catharina Titulaer).",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0182@",
+    "@P0183@"
+   ]
+  },
+  "@P0118@": {
+   "id": "@P0118@",
+   "name": "Maria Theodora Geldens",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": [
+    "@P0120@"
+   ]
+  },
+  "@P0040@": {
+   "id": "@P0040@",
+   "name": "Maria van Hanau",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": [
+    "@P0050@",
+    "@P0051@",
+    "@P0053@",
+    "@P0055@",
+    "@P0056@",
+    "@P0057@"
+   ]
+  },
+  "@P0072@": {
+   "id": "@P0072@",
+   "name": "Maria von Zweiffel zu Sulz",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": [
+    "@P0084@",
+    "@P0086@",
+    "@P0088@"
+   ]
+  },
+  "@P0139@": {
+   "id": "@P0139@",
+   "name": "Marie-Rose Kemps",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": [
+    "@P0140@"
+   ]
+  },
+  "@P0027@": {
+   "id": "@P0027@",
+   "name": "Mechteld",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": []
+  },
+  "@P0030@": {
+   "id": "@P0030@",
+   "name": "Mechtildis Hillen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": 1550,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0012@": {
+   "id": "@P0012@",
+   "name": "Mechtildis van Leuven",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": [
+    "@P0015@",
+    "@P0017@",
+    "@P0019@",
+    "@P0020@",
+    "@P0021@",
+    "@P0023@",
+    "@P0025@"
+   ]
+  },
+  "@P0145@": {
+   "id": "@P0145@",
+   "name": "Michiel Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Genoemd in de rouwadvertentie van zijn vader Piet Hein Hillen (1929–2019).",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[21] Rouwadvertentie Piet Hein Hillen (1929–2019); BHIC bevolkingsregister Vught"
+   ],
+   "children": []
+  },
+  "@P0021@": {
+   "id": "@P0021@",
+   "name": "NN Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": 1530,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0023@": {
+   "id": "@P0023@",
+   "name": "NN Hillen",
+   "sex": "U",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond. Gehuwd met iemand uit de familie Hushoven.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0261@": {
+   "id": "@P0261@",
+   "name": "Petronella Reichart",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0262@"
+   ]
+  },
+  "@P0144@": {
+   "id": "@P0144@",
+   "name": "Piet Hein Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Genoemd in de rouwadvertentie van zijn vader Piet Hein Hillen (1929–2019).",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[21] Rouwadvertentie Piet Hein Hillen (1929–2019); BHIC bevolkingsregister Vught"
+   ],
+   "children": []
+  },
+  "@P0029@": {
+   "id": "@P0029@",
+   "name": "Sara van Brede",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": [
+    "@P0041@",
+    "@P0043@",
+    "@P0045@",
+    "@P0047@",
+    "@P0048@",
+    "@P0049@"
+   ]
+  },
+  "@P0169@": {
+   "id": "@P0169@",
+   "name": "Servatius Peemans",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0093@"
+   ]
+  },
+  "@P0142@": {
+   "id": "@P0142@",
+   "name": "Simon",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": [
+    "@P0143@",
+    "@P0144@",
+    "@P0145@",
+    "@P0146@",
+    "@P0147@"
+   ]
+  },
+  "@P0109@": {
+   "id": "@P0109@",
+   "name": "Theodora Sanders",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": [
+    "@P0004@"
+   ]
+  },
+  "@P0013@": {
+   "id": "@P0013@",
+   "name": "Theodoricus Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": "schepen (1432)",
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0015@": {
+   "id": "@P0015@",
+   "name": "Theodoricus Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": 1517,
+   "occupation": "schepen",
+   "note": "Woonplaats volgens de piramide: Roermond. Kocht molen De Hoog. 1500–1509: schepen bij transactie hof Mortersman, Wickrath (met vrouwe van Wickrath, wed. Hompesch).",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[5] Loe Giesen (ed.), Regesten van akten betreffende Roermond en omgeving"
+   ],
+   "children": [
+    "@P0037@",
+    "@P0039@"
+   ]
+  },
+  "@P0019@": {
+   "id": "@P0019@",
+   "name": "Theodoricus Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": 1510,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0036@": {
+   "id": "@P0036@",
+   "name": "Theodoricus Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0260@": {
+   "id": "@P0260@",
+   "name": "Theodorus Hermanus Marie Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Parenteel XIai. In de transcriptie staat XIai ook bij Frederik (1904), zoon van Henricus Hubertus; de ouders van Theodorus Hermanus Marie zijn daarom nog onzeker.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0262@"
+   ]
+  },
+  "@P0009@": {
+   "id": "@P0009@",
+   "name": "Thijn Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Generaties tussen Felix Hillen (1900–1973) en Thijn nog invullen.",
+   "place": null,
+   "place_events": [],
+   "sources": [],
+   "children": []
+  },
+  "@P0215@": {
+   "id": "@P0215@",
+   "name": "Wilhelmina Joosten",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0216@"
+   ]
+  },
+  "@P0110@": {
+   "id": "@P0110@",
+   "name": "Wilhelmina Linssen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": []
+  },
+  "@P0125@": {
+   "id": "@P0125@",
+   "name": "Wilhelmina Maria Louisa Sevens",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0133@"
+   ]
+  },
+  "@P0158@": {
+   "id": "@P0158@",
+   "name": "Wilhelmina Mathle",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Dochter van Mathias (Raemakers?). Huwelijk Wessem 16-10-1646.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+   ],
+   "children": [
+    "@P0159@"
+   ]
+  },
+  "@P0033@": {
+   "id": "@P0033@",
+   "name": "Wilhelmus Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Woonplaats volgens de piramide: Roermond.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": null
+    }
+   ],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
+  },
+  "@P0059@": {
+   "id": "@P0059@",
+   "name": "Willem van Merwijck",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": null,
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": []
+  }
+ },
+ "families": {
+  "@F0001@": {
+   "id": "@F0001@",
+   "husb": "@P0010@",
+   "wife": null,
+   "chil": [
+    "@P0001@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0002@": {
+   "id": "@F0002@",
+   "husb": "@P0101@",
+   "wife": "@P0102@",
+   "chil": [
+    "@P0003@",
+    "@P0103@",
+    "@P0105@",
+    "@P0106@",
+    "@P0107@",
+    "@P0205@",
+    "@P0206@",
+    "@P0207@",
+    "@P0208@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0003@": {
+   "id": "@F0003@",
+   "husb": "@P0003@",
+   "wife": "@P0109@",
+   "chil": [
+    "@P0004@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0004@": {
+   "id": "@F0004@",
+   "husb": "@P0004@",
+   "wife": "@P0229@",
+   "chil": [
+    "@P0005@",
+    "@P0115@",
+    "@P0230@",
+    "@P0231@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0005@": {
+   "id": "@F0005@",
+   "husb": "@P0005@",
+   "wife": "@P0114@",
+   "chil": [
+    "@P0006@",
+    "@P0126@",
+    "@P0235@",
+    "@P0236@",
+    "@P0237@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0006@": {
+   "id": "@F0006@",
+   "husb": "@P0006@",
+   "wife": "@P0238@",
+   "chil": [
+    "@P0007@",
+    "@P0239@",
+    "@P0240@",
+    "@P0241@",
+    "@P0242@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0007@": {
+   "id": "@F0007@",
+   "husb": "@P0001@",
+   "wife": null,
+   "chil": [
+    "@P0011@",
+    "@P0013@",
+    "@P0014@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0008@": {
+   "id": "@F0008@",
+   "husb": "@P0011@",
+   "wife": "@P0012@",
+   "chil": [
+    "@P0015@",
+    "@P0017@",
+    "@P0019@",
+    "@P0020@",
+    "@P0021@",
+    "@P0023@",
+    "@P0025@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0009@": {
+   "id": "@F0009@",
+   "husb": "@P0017@",
+   "wife": "@P0018@",
+   "chil": [
+    "@P0026@",
+    "@P0028@",
+    "@P0030@",
+    "@P0031@",
+    "@P0032@",
+    "@P0033@",
+    "@P0034@",
+    "@P0035@",
+    "@P0036@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0010@": {
+   "id": "@F0010@",
+   "husb": "@P0015@",
+   "wife": "@P0016@",
+   "chil": [
+    "@P0037@",
+    "@P0039@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0011@": {
+   "id": "@F0011@",
+   "husb": "@P0028@",
+   "wife": "@P0029@",
+   "chil": [
+    "@P0041@",
+    "@P0043@",
+    "@P0045@",
+    "@P0047@",
+    "@P0048@",
+    "@P0049@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0012@": {
+   "id": "@F0012@",
+   "husb": "@P0039@",
+   "wife": "@P0040@",
+   "chil": [
+    "@P0050@",
+    "@P0051@",
+    "@P0053@",
+    "@P0055@",
+    "@P0056@",
+    "@P0057@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0013@": {
+   "id": "@F0013@",
+   "husb": "@P0053@",
+   "wife": "@P0054@",
+   "chil": [
+    "@P0058@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0014@": {
+   "id": "@F0014@",
+   "husb": "@P0051@",
+   "wife": "@P0052@",
+   "chil": [
+    "@P0060@",
+    "@P0061@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0015@": {
+   "id": "@F0015@",
+   "husb": "@P0041@",
+   "wife": "@P0042@",
+   "chil": [
+    "@P0063@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0016@": {
+   "id": "@F0016@",
+   "husb": "@P0063@",
+   "wife": "@P0064@",
+   "chil": [
+    "@P0065@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0017@": {
+   "id": "@F0017@",
+   "husb": "@P0061@",
+   "wife": "@P0062@",
+   "chil": [
+    "@P0067@",
+    "@P0068@",
+    "@P0069@",
+    "@P0070@",
+    "@P0071@",
+    "@P0073@",
+    "@P0075@",
+    "@P0077@",
+    "@P0078@",
+    "@P0079@",
+    "@P0080@",
+    "@P0081@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0018@": {
+   "id": "@F0018@",
+   "husb": "@P0065@",
+   "wife": "@P0066@",
+   "chil": [
+    "@P0082@",
+    "@P0148@",
+    "@P0149@",
+    "@P0150@",
+    "@P0151@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0019@": {
+   "id": "@F0019@",
+   "husb": "@P0071@",
+   "wife": "@P0072@",
+   "chil": [
+    "@P0084@",
+    "@P0086@",
+    "@P0088@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0020@": {
+   "id": "@F0020@",
+   "husb": "@P0073@",
+   "wife": "@P0074@",
+   "chil": [
+    "@P0089@",
+    "@P0090@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0021@": {
+   "id": "@F0021@",
+   "husb": "@P0082@",
+   "wife": "@P0083@",
+   "chil": [
+    "@P0091@",
+    "@P0092@",
+    "@P0156@",
+    "@P0157@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0022@": {
+   "id": "@F0022@",
+   "husb": "@P0169@",
+   "wife": "@P0150@",
+   "chil": [
+    "@P0093@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0023@": {
+   "id": "@F0023@",
+   "husb": "@P0151@",
+   "wife": "@P0164@",
+   "chil": [
+    "@P0094@",
+    "@P0095@",
+    "@P0096@",
+    "@P0097@",
+    "@P0165@",
+    "@P0166@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0024@": {
+   "id": "@F0024@",
+   "husb": "@P0092@",
+   "wife": "@P0093@",
+   "chil": [
+    "@P0098@",
+    "@P0170@",
+    "@P0171@",
+    "@P0172@",
+    "@P0174@",
+    "@P0175@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0025@": {
+   "id": "@F0025@",
+   "husb": "@P0098@",
+   "wife": "@P0099@",
+   "chil": [
+    "@P0100@",
+    "@P0101@",
+    "@P0176@",
+    "@P0177@",
+    "@P0178@",
+    "@P0179@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0026@": {
+   "id": "@F0026@",
+   "husb": "@P0107@",
+   "wife": "@P0108@",
+   "chil": [
+    "@P0111@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0027@": {
+   "id": "@F0027@",
+   "husb": "@P0004@",
+   "wife": null,
+   "chil": [
+    "@P0117@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0028@": {
+   "id": "@F0028@",
+   "husb": "@P0115@",
+   "wife": "@P0116@",
+   "chil": [
+    "@P0119@",
+    "@P0265@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0029@": {
+   "id": "@F0029@",
+   "husb": "@P0117@",
+   "wife": "@P0118@",
+   "chil": [
+    "@P0120@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0030@": {
+   "id": "@F0030@",
+   "husb": "@P0005@",
+   "wife": "@P0113@",
+   "chil": [
+    "@P0122@",
+    "@P0124@",
+    "@P0232@",
+    "@P0233@",
+    "@P0234@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0031@": {
+   "id": "@F0031@",
+   "husb": "@P0120@",
+   "wife": "@P0121@",
+   "chil": [
+    "@P0127@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0032@": {
+   "id": "@F0032@",
+   "husb": "@P0122@",
+   "wife": "@P0123@",
+   "chil": [
+    "@P0129@",
+    "@P0131@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0033@": {
+   "id": "@F0033@",
+   "husb": "@P0124@",
+   "wife": "@P0125@",
+   "chil": [
+    "@P0133@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0034@": {
+   "id": "@F0034@",
+   "husb": "@P0129@",
+   "wife": "@P0130@",
+   "chil": [
+    "@P0135@",
+    "@P0137@",
+    "@P0138@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0035@": {
+   "id": "@F0035@",
+   "husb": "@P0138@",
+   "wife": "@P0139@",
+   "chil": [
+    "@P0140@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0036@": {
+   "id": "@F0036@",
+   "husb": "@P0007@",
+   "wife": "@P0008@",
+   "chil": [
+    "@P0141@",
+    "@P0243@",
+    "@P0244@",
+    "@P0245@",
+    "@P0246@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0037@": {
+   "id": "@F0037@",
+   "husb": "@P0141@",
+   "wife": "@P0142@",
+   "chil": [
+    "@P0143@",
+    "@P0144@",
+    "@P0145@",
+    "@P0146@",
+    "@P0147@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0038@": {
+   "id": "@F0038@",
+   "husb": "@P0082@",
+   "wife": "@P0152@",
+   "chil": [
+    "@P0153@",
+    "@P0154@",
+    "@P0155@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0039@": {
+   "id": "@F0039@",
+   "husb": "@P0148@",
+   "wife": "@P0158@",
+   "chil": [
+    "@P0159@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0040@": {
+   "id": "@F0040@",
+   "husb": "@P0149@",
+   "wife": "@P0160@",
+   "chil": [
+    "@P0161@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0041@": {
+   "id": "@F0041@",
+   "husb": "@P0151@",
+   "wife": "@P0162@",
+   "chil": [
+    "@P0163@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0042@": {
+   "id": "@F0042@",
+   "husb": "@P0091@",
+   "wife": "@P0167@",
+   "chil": [
+    "@P0168@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0043@": {
+   "id": "@F0043@",
+   "husb": "@P0176@",
+   "wife": null,
+   "chil": [
+    "@P0181@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0044@": {
+   "id": "@F0044@",
+   "husb": "@P0176@",
+   "wife": "@P0180@",
+   "chil": [
+    "@P0182@",
+    "@P0183@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0045@": {
+   "id": "@F0045@",
+   "husb": "@P0174@",
+   "wife": "@P0184@",
+   "chil": [
+    "@P0185@",
+    "@P0186@",
+    "@P0187@",
+    "@P0188@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0046@": {
+   "id": "@F0046@",
+   "husb": "@P0163@",
+   "wife": "@P0189@",
+   "chil": [
+    "@P0190@",
+    "@P0191@",
+    "@P0192@",
+    "@P0193@",
+    "@P0194@",
+    "@P0195@",
+    "@P0196@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0047@": {
+   "id": "@F0047@",
+   "husb": "@P0194@",
+   "wife": "@P0197@",
+   "chil": [
+    "@P0198@",
+    "@P0199@",
+    "@P0200@",
+    "@P0201@",
+    "@P0202@",
+    "@P0203@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0048@": {
+   "id": "@F0048@",
+   "husb": "@P0100@",
+   "wife": "@P0210@",
+   "chil": [
+    "@P0211@",
+    "@P0212@",
+    "@P0213@",
+    "@P0214@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0049@": {
+   "id": "@F0049@",
+   "husb": "@P0205@",
+   "wife": "@P0215@",
+   "chil": [
+    "@P0216@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0050@": {
+   "id": "@F0050@",
+   "husb": "@P0216@",
+   "wife": "@P0217@",
+   "chil": [
+    "@P0218@",
+    "@P0219@",
+    "@P0220@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0051@": {
+   "id": "@F0051@",
+   "husb": "@P0216@",
+   "wife": "@P0221@",
+   "chil": [
+    "@P0222@",
+    "@P0223@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0052@": {
+   "id": "@F0052@",
+   "husb": "@P0222@",
+   "wife": "@P0224@",
+   "chil": [
+    "@P0225@",
+    "@P0226@",
+    "@P0227@",
+    "@P0228@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0053@": {
+   "id": "@F0053@",
+   "husb": "@P0119@",
+   "wife": "@P0247@",
+   "chil": [
+    "@P0248@",
+    "@P0249@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0054@": {
+   "id": "@F0054@",
+   "husb": "@P0248@",
+   "wife": "@P0250@",
+   "chil": [
+    "@P0251@",
+    "@P0256@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0055@": {
+   "id": "@F0055@",
+   "husb": "@P0251@",
+   "wife": "@P0252@",
+   "chil": [
+    "@P0253@",
+    "@P0254@",
+    "@P0255@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0056@": {
+   "id": "@F0056@",
+   "husb": "@P0256@",
+   "wife": "@P0257@",
+   "chil": [
+    "@P0258@",
+    "@P0259@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0057@": {
+   "id": "@F0057@",
+   "husb": "@P0260@",
+   "wife": "@P0261@",
+   "chil": [
+    "@P0262@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0058@": {
+   "id": "@F0058@",
+   "husb": "@P0262@",
+   "wife": "@P0263@",
+   "chil": [
+    "@P0264@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0059@": {
+   "id": "@F0059@",
+   "husb": "@P0265@",
+   "wife": "@P0266@",
+   "chil": [
+    "@P0267@",
+    "@P0268@",
+    "@P0269@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0060@": {
+   "id": "@F0060@",
+   "husb": "@P0133@",
+   "wife": "@P0134@",
+   "chil": [
+    "@P0270@",
+    "@P0271@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0061@": {
+   "id": "@F0061@",
+   "husb": "@P0003@",
+   "wife": "@P0110@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0062@": {
+   "id": "@F0062@",
+   "husb": "@P0021@",
+   "wife": "@P0022@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0063@": {
+   "id": "@F0063@",
+   "husb": "@P0023@",
+   "wife": "@P0024@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0064@": {
+   "id": "@F0064@",
+   "husb": "@P0024@",
+   "wife": "@P0023@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0065@": {
+   "id": "@F0065@",
+   "husb": "@P0026@",
+   "wife": "@P0027@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0066@": {
+   "id": "@F0066@",
+   "husb": "@P0038@",
+   "wife": "@P0037@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0067@": {
+   "id": "@F0067@",
+   "husb": "@P0044@",
+   "wife": "@P0043@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0068@": {
+   "id": "@F0068@",
+   "husb": "@P0046@",
+   "wife": "@P0045@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0069@": {
+   "id": "@F0069@",
+   "husb": "@P0059@",
+   "wife": "@P0058@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0070@": {
+   "id": "@F0070@",
+   "husb": "@P0076@",
+   "wife": "@P0075@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0071@": {
+   "id": "@F0071@",
+   "husb": "@P0084@",
+   "wife": "@P0085@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0072@": {
+   "id": "@F0072@",
+   "husb": "@P0087@",
+   "wife": "@P0086@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0073@": {
+   "id": "@F0073@",
+   "husb": "@P0100@",
+   "wife": "@P0209@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0074@": {
+   "id": "@F0074@",
+   "husb": "@P0104@",
+   "wife": "@P0103@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0075@": {
+   "id": "@F0075@",
+   "husb": "@P0111@",
+   "wife": "@P0112@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0076@": {
+   "id": "@F0076@",
+   "husb": "@P0127@",
+   "wife": "@P0128@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0077@": {
+   "id": "@F0077@",
+   "husb": "@P0131@",
+   "wife": "@P0132@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0078@": {
+   "id": "@F0078@",
+   "husb": "@P0135@",
+   "wife": "@P0136@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0079@": {
+   "id": "@F0079@",
+   "husb": "@P0172@",
+   "wife": "@P0173@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0080@": {
+   "id": "@F0080@",
+   "husb": "@P0196@",
+   "wife": "@P0204@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
+  }
+ },
+ "places": [
+  "'s-Gravenhage",
+  "Alkmaar",
+  "Amby",
+  "Antwerpen",
+  "Apeldoorn",
+  "België (Bree)",
+  "Blerick",
+  "Bree (B)",
+  "Dalheim",
+  "Delft",
+  "Den Bosch",
+  "Den Haag",
+  "Duitsland (Rijnland)",
+  "Ede",
+  "Edinburgh (Schotland)",
+  "Enschede",
+  "Grave",
+  "Haarlem",
+  "Harmelen",
+  "Hasselt",
+  "Helden",
+  "Heythuizen",
+  "Hillegersberg",
+  "Hoorn",
+  "Klimmen",
+  "Koestein",
+  "Maasbree",
+  "Neerpelt (B)",
+  "Oosterbeek",
+  "Ottersum",
+  "Parijs",
+  "Ravenstein",
+  "Roermond",
+  "Rotterdam",
+  "Saarn",
+  "Sambeek",
+  "Schoonhoven",
+  "Sevenum",
+  "Tilburg",
+  "Utrecht",
+  "Venlo",
+  "Venray",
+  "Vught",
+  "Wessem"
+ ],
+ "stats": {
+  "individuals": 271,
+  "families": 80,
+  "places": 44
+ }
+}

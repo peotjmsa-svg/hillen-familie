@@ -1,0 +1,266 @@
+{
+ "'s-Gravenhage": {
+  "query": "Den Haag, Nederland",
+  "lat": 52.0799838,
+  "lon": 4.3113461,
+  "display_name": "Den Haag, Zuid-Holland, Nederland"
+ },
+ "Alkmaar": {
+  "query": "Alkmaar, Nederland",
+  "lat": 52.6008538,
+  "lon": 4.8170994,
+  "display_name": "Alkmaar, Noord-Holland, Nederland"
+ },
+ "Amby": {
+  "query": "Amby, Nederland",
+  "lat": 50.8617921,
+  "lon": 5.7319121,
+  "display_name": "Amby, Maastricht-Oost, Maastricht, Limburg, Nederland, 6225, Nederland"
+ },
+ "Apeldoorn": {
+  "query": "Apeldoorn, Nederland",
+  "lat": 52.1795738,
+  "lon": 5.9300775,
+  "display_name": "Apeldoorn, Gelderland, Nederland"
+ },
+ "België (Bree)": {
+  "query": "Bree, België",
+  "lat": 51.1416131,
+  "lon": 5.5974552,
+  "display_name": "Bree, Maaseik, Limburg, Vlaanderen, 3960, België / Belgique / Belgien"
+ },
+ "Blerick": {
+  "query": "Blerick, Nederland",
+  "lat": 51.3724162,
+  "lon": 6.155296,
+  "display_name": "Blerick, Eindhovenseweg, Smeliënkamp, Blerick-Noord, Blerick, Boekend, Venlo, Limburg, Nederland, 5922 VS, Nederland"
+ },
+ "Bree (B)": {
+  "query": "Bree, België",
+  "lat": 51.1416131,
+  "lon": 5.5974552,
+  "display_name": "Bree, Maaseik, Limburg, Vlaanderen, 3960, België / Belgique / Belgien"
+ },
+ "Dalheim": {
+  "query": "Dalheim, Nederland",
+  "lat": 48.8889399,
+  "lon": 6.5625264,
+  "display_name": "Dalhain, Sarrebourg-Château-Salins, Moselle, Grand Est, France métropolitaine, 57340, France"
+ },
+ "Delft": {
+  "query": "Delft, Nederland",
+  "lat": 51.9994572,
+  "lon": 4.3627245,
+  "display_name": "Delft, Zuid-Holland, Nederland"
+ },
+ "Den Bosch": {
+  "query": "'s-Hertogenbosch, Nederland",
+  "lat": 51.6889387,
+  "lon": 5.303116,
+  "display_name": "'s-Hertogenbosch, Noord-Brabant, Nederland"
+ },
+ "Den Haag": {
+  "query": "Den Haag, Nederland",
+  "lat": 52.0799838,
+  "lon": 4.3113461,
+  "display_name": "Den Haag, Zuid-Holland, Nederland"
+ },
+ "Duitsland (Rijnland)": {
+  "query": "Rheinland, Duitsland",
+  "lat": 49.9531599,
+  "lon": 7.310646,
+  "display_name": "Rheinland-Pfalz, Deutschland"
+ },
+ "Ede": {
+  "query": "Ede, Nederland",
+  "lat": 52.0716826,
+  "lon": 5.7455106,
+  "display_name": "Ede, Gelderland, Nederland"
+ },
+ "Edinburgh (Schotland)": {
+  "query": "Edinburgh, Scotland, United Kingdom",
+  "lat": 55.9533456,
+  "lon": -3.1883749,
+  "display_name": "City of Edinburgh, Alba / Scotland, United Kingdom"
+ },
+ "Enschede": {
+  "query": "Enschede, Nederland",
+  "lat": 52.2209855,
+  "lon": 6.8940537,
+  "display_name": "Enschede, Overijssel, Nederland"
+ },
+ "Grave": {
+  "query": "Grave, Nederland",
+  "lat": 51.7596504,
+  "lon": 5.7411125,
+  "display_name": "Grave, Land van Cuijk, Noord-Brabant, Nederland"
+ },
+ "Haarlem": {
+  "query": "Haarlem, Nederland",
+  "lat": 52.3885317,
+  "lon": 4.6388048,
+  "display_name": "Haarlem, Noord-Holland, Nederland"
+ },
+ "Harmelen": {
+  "query": "Harmelen, Nederland",
+  "lat": 52.0914501,
+  "lon": 4.9639631,
+  "display_name": "Harmelen, Woerden, Utrecht, Nederland"
+ },
+ "Hasselt": {
+  "query": "Hasselt, Nederland",
+  "lat": 52.5914949,
+  "lon": 6.0956717,
+  "display_name": "Hasselt, Zwartewaterland, Overijssel, Nederland"
+ },
+ "Helden": {
+  "query": "Helden, Nederland",
+  "lat": 51.3203339,
+  "lon": 6.000166,
+  "display_name": "Helden, Peel en Maas, Limburg, Nederland"
+ },
+ "Hillegersberg": {
+  "query": "Hillegersberg, Nederland",
+  "lat": 51.9549095,
+  "lon": 4.4928642,
+  "display_name": "Hillegersberg-Schiebroek, Rotterdam, Zuid-Holland, Nederland"
+ },
+ "Hoorn": {
+  "query": "Hoorn, Nederland",
+  "lat": 52.653272,
+  "lon": 5.0735802,
+  "display_name": "Hoorn, Noord-Holland, Nederland"
+ },
+ "Klimmen": {
+  "query": "Klimmen, Nederland",
+  "lat": 50.8762065,
+  "lon": 5.88231,
+  "display_name": "Klimmen, Voerendaal, Limburg, Nederland"
+ },
+ "Koestein": {
+  "query": "Koestein, Nederland",
+  "lat": null,
+  "lon": null,
+  "display_name": null
+ },
+ "Maasbree": {
+  "query": "Maasbree, Nederland",
+  "lat": 51.3586733,
+  "lon": 6.047488,
+  "display_name": "Maasbree, Peel en Maas, Limburg, Nederland"
+ },
+ "Neerpelt (B)": {
+  "query": "Neerpelt, België",
+  "lat": 51.2292367,
+  "lon": 5.442759,
+  "display_name": "Neerpelt, Pelt, Maaseik, Limburg, Vlaanderen, 3910, België / Belgique / Belgien"
+ },
+ "Oosterbeek": {
+  "query": "Oosterbeek, Nederland",
+  "lat": 51.9884489,
+  "lon": 5.8420484,
+  "display_name": "Oosterbeek, Renkum, Gelderland, Nederland"
+ },
+ "Ottersum": {
+  "query": "Ottersum, Nederland",
+  "lat": 51.7025323,
+  "lon": 5.9824022,
+  "display_name": "Ottersum, Gennep, Limburg, Nederland"
+ },
+ "Parijs": {
+  "query": "Paris, France",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "display_name": "Paris, Île-de-France, France métropolitaine, France"
+ },
+ "Ravenstein": {
+  "query": "Ravenstein, Nederland",
+  "lat": 51.797005,
+  "lon": 5.6515519,
+  "display_name": "Ravenstein, Oss, Noord-Brabant, Nederland"
+ },
+ "Roermond": {
+  "query": "Roermond, Nederland",
+  "lat": 51.1933903,
+  "lon": 5.9882649,
+  "display_name": "Roermond, Limburg, Nederland"
+ },
+ "Rotterdam": {
+  "query": "Rotterdam, Nederland",
+  "lat": 51.9244424,
+  "lon": 4.47775,
+  "display_name": "Rotterdam, Zuid-Holland, Nederland"
+ },
+ "Saarn": {
+  "query": "Saarn, Nederland",
+  "lat": 51.4039664,
+  "lon": 6.8761353,
+  "display_name": "Saarn, Linksruhr, Mülheim an der Ruhr, Nordrhein-Westfalen, 45481, Deutschland"
+ },
+ "Sambeek": {
+  "query": "Sambeek, Nederland",
+  "lat": 51.6356881,
+  "lon": 5.96575,
+  "display_name": "Sambeek, Land van Cuijk, Noord-Brabant, Nederland"
+ },
+ "Schoonhoven": {
+  "query": "Schoonhoven, Nederland",
+  "lat": 51.9463984,
+  "lon": 4.8516431,
+  "display_name": "Schoonhoven, Krimpenerwaard, Zuid-Holland, Nederland"
+ },
+ "Sevenum": {
+  "query": "Sevenum, Nederland",
+  "lat": 51.4123504,
+  "lon": 6.0370021,
+  "display_name": "Sevenum, Horst aan de Maas, Limburg, Nederland"
+ },
+ "Tilburg": {
+  "query": "Tilburg, Nederland",
+  "lat": 51.5856185,
+  "lon": 5.0660616,
+  "display_name": "Tilburg, Noord-Brabant, Nederland"
+ },
+ "Utrecht": {
+  "query": "Utrecht, Nederland",
+  "lat": 52.0907006,
+  "lon": 5.1215634,
+  "display_name": "Utrecht, Nederland"
+ },
+ "Venlo": {
+  "query": "Venlo, Nederland",
+  "lat": 51.3924489,
+  "lon": 6.1511724,
+  "display_name": "Venlo, Limburg, Nederland"
+ },
+ "Venray": {
+  "query": "Venray, Nederland",
+  "lat": 51.5082754,
+  "lon": 5.9589011,
+  "display_name": "Venray, Limburg, Nederland"
+ },
+ "Vught": {
+  "query": "Vught, Nederland",
+  "lat": 51.6511806,
+  "lon": 5.2368001,
+  "display_name": "Vught, Noord-Brabant, Nederland"
+ },
+ "Wessem": {
+  "query": "Wessem, Nederland",
+  "lat": 51.1620059,
+  "lon": 5.8813984,
+  "display_name": "Wessem, Maasgouw, Limburg, Nederland"
+ },
+ "Antwerpen": {
+  "query": "Antwerpen, België",
+  "lat": 51.2211097,
+  "lon": 4.3997081,
+  "display_name": "Antwerpen, Vlaanderen, België / Belgique / Belgien"
+ },
+ "Heythuizen": {
+  "query": "Heythuysen, Nederland",
+  "lat": 51.2501987,
+  "lon": 5.9009266,
+  "display_name": "Heythuysen, Leudal, Limburg, Nederland"
+ }
+}

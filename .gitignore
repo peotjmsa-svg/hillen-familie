@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Raw staging material (original GEDCOM export + PDF-extracted article
+# images/text). Everything needed by the site itself has already been
+# processed into data/*.json and assets/images/artikelen/*; the originals
+# in raw/ are large and not needed to build or serve the site, so they are
+# kept out of version control. See README.md for how to regenerate the
+# site from scratch if raw/ is restored locally.
+raw/

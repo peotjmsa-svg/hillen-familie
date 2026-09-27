@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Stamboom · Familie Hillen</title>
+<meta name="description" content="Interactieve stamboom van de familie Hillen, vanaf stamvader Diederik Hillen (ca. 1380).">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;800&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <a class="brand" href="index.html">Familie Hillen <small>Stamboom &amp; archief</small></a>
+    <nav class="main-nav">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="stamboom.html" class="active">Stamboom</a></li>
+        <li><a href="wapen.html">Familiewapen</a></li>
+        <li><a href="artikelen.html">Artikelen</a></li>
+        <li><a href="kaart.html">Kaart</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+<main>
+
+<section class="section container">
+  <div class="section-head">
+    <p class="kicker">271 personen · 80 gezinnen</p>
+    <h1>De stamboom</h1>
+    <p class="narrow" style="margin:0 auto;">Klik op een naam voor details, zoek op naam, of scrol/sleep om de
+    boom te verkennen. Stamvader is Diederik (Hendrik/Dederik) Hillen, geboren rond 1380 in Roermond.</p>
+  </div>
+
+  <div class="view-toggle">
+    <button id="view-tree-btn" class="active" type="button">Boomweergave</button>
+    <button id="view-list-btn" type="button">Alfabetische lijst</button>
+  </div>
+
+  <div id="tree-view">
+    <div class="tree-toolbar">
+      <input type="search" id="person-search" placeholder="Zoek een naam, bijv. &quot;Alexander Hillen&quot;…" autocomplete="off">
+      <div id="search-results"></div>
+      <button id="reset-view-btn" type="button">Reset weergave</button>
+      <button id="expand-all-btn" type="button" class="secondary">Alles uitklappen</button>
+    </div>
+    <div id="tree-wrap">
+      <svg id="tree-svg"></svg>
+    </div>
+  </div>
+
+  <div id="list-view">
+    <div id="alpha-list" class="alpha-list"></div>
+  </div>
+
+  <div id="detail-panel"></div>
+</section>
+
+</main>
+<footer class="site-footer">
+  <div class="container">
+    <span>&copy; Familie Hillen — persoonlijk archiefproject, samengesteld uit de familie-stamboom en historische bronnen.</span>
+    <span>Kaartgegevens &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>-bijdragers</span>
+  </div>
+</footer>
+<script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+<script src="js/stamboom.js"></script>
+</body>
+</html>
