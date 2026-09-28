@@ -678,7 +678,8 @@ nav.main-nav a.active {
   margin-bottom: 0.25rem;
 }
 
-.view-toggle { display: flex; gap: 0.5rem; margin-bottom: 1.2rem; }
+.view-toggle-row { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0.8rem; margin-bottom: 1.2rem; }
+.view-toggle { display: flex; gap: 0.5rem; }
 .view-toggle button {
   padding: 0.45rem 0.9rem;
   border: 1px solid var(--border);

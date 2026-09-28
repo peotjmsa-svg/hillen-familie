@@ -471,6 +471,67 @@
       .replace(/>/g, "&gt;");
   }
 
+  // Plain-text dump of every person, with relations resolved to names — meant to be pasted
+  // into an AI chat (Gemini etc.) as full context, not for display on the site itself.
+  function buildExportText() {
+    const people = DATA.people;
+
+    const parentsOf = {};
+    for (const [pid, p] of Object.entries(people)) {
+      for (const c of p.children || []) {
+        parentsOf[c] = parentsOf[c] || [];
+        if (!parentsOf[c].includes(pid)) parentsOf[c].push(pid);
+      }
+    }
+
+    const lines = [];
+    lines.push("FAMILIE HILLEN — VOLLEDIGE STAMBOOM-EXPORT");
+    lines.push(`Gegenereerd: ${new Date().toISOString().slice(0, 10)}`);
+    lines.push(`Aantal personen: ${Object.keys(people).length}`);
+    lines.push("Elke persoon: naam, jaren, ouders, partner(s), kinderen, notitie en bronnen (namen zijn opgelost naar leesbare namen, niet naar interne id's).");
+    lines.push("");
+
+    const sorted = Object.values(people).sort((a, b) => a.name.localeCompare(b.name, "nl"));
+    for (const p of sorted) {
+      lines.push(`=== ${p.name} (${p.id}) ===`);
+      lines.push(`Jaren: ${yearsLabel(p) || "onbekend"}`);
+      lines.push(`Geslacht: ${p.sex === "M" ? "man" : p.sex === "F" ? "vrouw" : "onbekend"}`);
+      if (p.occupation) lines.push(`Beroep: ${p.occupation}`);
+      if (p.place) lines.push(`Plaats: ${p.place}`);
+
+      const parents = (parentsOf[p.id] || []).map((pid) => people[pid] && people[pid].name).filter(Boolean);
+      if (parents.length) lines.push(`Ouders: ${parents.join(" & ")}`);
+
+      const spouses = (SPOUSES[p.id] || []).map((sid) => people[sid] && people[sid].name).filter(Boolean);
+      if (spouses.length) lines.push(`Partner(s): ${spouses.join(", ")}`);
+
+      const kids = (p.children || []).map((cid) => people[cid] && people[cid].name).filter(Boolean);
+      if (kids.length) lines.push(`Kinderen: ${kids.join(", ")}`);
+
+      if (p.note) lines.push(`Notitie: ${p.note}`);
+
+      if (p.sources && p.sources.length) {
+        lines.push("Bronnen:");
+        p.sources.forEach((s) => lines.push(`  - ${s}`));
+      }
+      lines.push("");
+    }
+    return lines.join("\n");
+  }
+
+  function downloadExport() {
+    const text = buildExportText();
+    const blob = new Blob([text], { type: "text/plain;charset=utf-8" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "familie-hillen-stamboom-export.txt";
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  }
+
   // Full-profile search: matches name, occupation, place, notes, sources, years.
   function searchPerson(p, q) {
     if (p.name && p.name.toLowerCase().includes(q)) return null;
@@ -690,6 +751,7 @@
         document.getElementById("view-list-btn").addEventListener("click", () => switchView("list"));
         document.getElementById("reset-view-btn").addEventListener("click", () => centerOn(root));
         document.getElementById("my-line-btn").addEventListener("click", showMyLine);
+        document.getElementById("export-btn").addEventListener("click", downloadExport);
         document.getElementById("toggle-extinct-btn").addEventListener("click", () => {
           hideExtinctLines = !hideExtinctLines;
           const btn = document.getElementById("toggle-extinct-btn");
