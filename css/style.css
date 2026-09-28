@@ -723,6 +723,29 @@ nav.main-nav a.active {
 .howto-box h3 { margin-top: 0; }
 .howto-box code { background: var(--parchment-dark); padding: 0.1rem 0.4rem; border-radius: 4px; font-size: 0.85rem; }
 
+/* Plekken */
+.plek-card {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: 1.6rem;
+  align-items: start;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1.4rem;
+  margin-bottom: 1.8rem;
+}
+.plek-card.no-image { grid-template-columns: 1fr; }
+.plek-card img { width: 100%; max-height: 220px; object-fit: cover; border-radius: 6px; border: 1px solid var(--border); }
+.plek-card h2 { margin: 0.2rem 0 0.5rem; }
+.plek-card .era { color: var(--gold); text-transform: uppercase; font-size: 0.78rem; letter-spacing: 0.08em; font-weight: 700; margin: 0; }
+.plek-card p { margin: 0 0 0.8rem; }
+.plek-card p:last-child { margin-bottom: 0; }
+@media (max-width: 700px) {
+  .plek-card { grid-template-columns: 1fr; }
+}
+
 /* Kaart */
 #map { height: 68vh; min-height: 480px; border-radius: var(--radius); border: 1px solid var(--border); box-shadow: var(--shadow); }
 .leaflet-popup-content h4 { margin: 0 0 0.3rem; font-family: var(--serif); color: var(--red-dark); }
