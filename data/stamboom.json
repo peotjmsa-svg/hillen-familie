@@ -7041,7 +7041,7 @@
     "Wikipedia (de), 'Burg Leubsdorf'; E. Krebs, 'Leubsdorf' (argewe.lima-city.de)",
     "Geneanet, index GéniWal asbl: Mariages - Belgique (colgnecmgeniwalm 65681) en Naissances - Belgique (colgnecmgeniwaln 1316799, 1316843, 1316887) — alleen de samenvatting ingezien",
     "Rijksarchief in België, parochieregister Châtelineau, huwelijken 1710, linkerpagina tegenover folio 117 (scan via search.arch.be); lezing in dit project",
-    "Rijksarchief in België, parochieregister Châtelet, dopen, 13 september [jaar nog na te gaan] (scan, assets/images/archief/doop_louis_auguste_marie.jpg); lezing in dit project"
+    "Rijksarchief in België, parochieregister Châtelet, dopen, 13 september 1711 of 1712 (scan, assets/images/archief/doop_louis_auguste_marie.jpg); lezing in dit project"
    ],
    "children": [
     "@P0300@",
@@ -7080,20 +7080,20 @@
    "id": "@P0300@",
    "name": "Louis Auguste Marie de Hillen",
    "sex": "M",
-   "birth_year": null,
+   "birth_year": 1711,
    "death_year": null,
    "occupation": null,
-   "note": "Doopakte Châtelet, 13 september (jaar nog na te gaan): 'Hac 13 7bris supplevi caeremonias prolis jam baptisatae, legitime natae ex domino barone Ludovico Augustino d'Hilen et domina Maria Lambertina Leclercq conjugibus; suscipientibus Augustino B[...]onne et Oda Leclercq; nomen prolis Ludovicus Aug[ustinus] Maria.' De pastoor vulde dus de doopplechtigheden aan voor een kind dat al (thuis, vermoedelijk in nood) gedoopt was. Vader heet hier uitdrukkelijk baron. Peter was een Augustinus B[...]onne (naam niet goed leesbaar), meter Oda Leclercq, die ook getuige was bij het huwelijk van 1710.",
+   "note": "Doopakte Châtelet, 13 september 1711 of 1712: 'Hac 13 7bris supplevi caeremonias prolis jam baptisatae, legitime natae ex domino barone Ludovico Augustino d'Hilen et domina Maria Lambertina Leclercq conjugibus; suscipientibus Augustino B[...]onne et Oda Leclercq; nomen prolis Ludovicus Aug[ustinus] Maria.' De pastoor vulde dus de doopplechtigheden aan voor een kind dat al (thuis, vermoedelijk in nood) gedoopt was. Vader heet hier uitdrukkelijk baron. Peter was een Augustinus B[...]onne (naam niet goed leesbaar), meter Oda Leclercq, die ook getuige was bij het huwelijk van 1710. Het jaar is 1711 of 1712 (het huwelijk was in augustus 1710); in de stamboom staat voorlopig 1711.",
    "place": "Châtelet",
    "place_events": [
     {
      "place": "Châtelet",
      "role": "geboren",
-     "year": null
+     "year": 1711
     }
    ],
    "sources": [
-    "Rijksarchief in België, parochieregister Châtelet, dopen, 13 september [jaar nog na te gaan] (scan, assets/images/archief/doop_louis_auguste_marie.jpg); lezing in dit project",
+    "Rijksarchief in België, parochieregister Châtelet, dopen, 13 september 1711 of 1712 (scan, assets/images/archief/doop_louis_auguste_marie.jpg); lezing in dit project",
     "Geneanet, index GéniWal asbl: Naissances - Belgique, Châtelet (colgnecmgeniwaln 1316799, 1316843, 1316887) — alleen samenvatting"
    ],
    "children": []
