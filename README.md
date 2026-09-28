@@ -81,3 +81,10 @@ Per treffer toont het script de datering, het archief, de signatuur, een directe
 beschrijving. Zoek ook op spellingsvarianten: Hillen, Hyllen, Hijllen, "Rillen" (OCR-fout). Laat de uitvoer
 vertalen door Claude, of open de link in Chrome en kies rechtsklik → "Vertalen naar het Nederlands". De website zelf
 heeft ook een Nederlandse interface (taalkeuze rechtsboven), maar de archiefbeschrijvingen blijven Duits.
+
+Screenshots van een archiefbeschrijving (voor de site) maak je met `scripts/archief_screenshot.py`
+(vereist `pip install playwright` en een lokale Chrome):
+
+```bash
+python scripts/archief_screenshot.py assets/images/archief "att1645|Attendorn|https://www.archive.nrw.de/ms/search?link=..."
+```

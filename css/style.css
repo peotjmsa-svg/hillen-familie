@@ -767,6 +767,48 @@ nav.main-nav a.active {
 @media (max-width: 700px) {
   .plek-card { grid-template-columns: 1fr; }
 }
+.plek-card .bron { font-size: 0.82rem; color: var(--ink-soft); }
+.plek-card figure { margin: 0 0 0.8rem; }
+.plek-card figcaption { font-size: 0.8rem; color: var(--ink-soft); margin-top: 0.2rem; }
+
+/* Plekken: mapjes per tak */
+.plek-folder {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--parchment-dark);
+  margin-bottom: 1.2rem;
+}
+.plek-folder > summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 1rem 1.3rem;
+  display: flex;
+  align-items: baseline;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+}
+.plek-folder > summary::-webkit-details-marker { display: none; }
+.plek-folder > summary::before {
+  content: "📁";
+  font-size: 1.3rem;
+}
+.plek-folder[open] > summary::before { content: "📂"; }
+.plek-folder > summary h2 { margin: 0; font-size: 1.35rem; }
+.plek-folder > summary .folder-sub { color: var(--ink-soft); font-size: 0.92rem; }
+.plek-folder > summary .folder-count {
+  margin-left: auto;
+  color: var(--gold);
+  font-weight: 700;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.plek-folder .folder-body { padding: 0 1.3rem 0.4rem; }
+.plek-folder .plek-card h2 { font-size: 1.25rem; }
+
+/* Archiefbewijs (screenshots van archiefbeschrijvingen) */
+.archief-shots { display: grid; gap: 0.9rem; margin: 0.4rem 0 0.8rem; }
+.archief-shots img { max-height: none !important; object-fit: contain !important; background: #fff; }
 
 /* Kaart */
 #map { height: 68vh; min-height: 480px; border-radius: var(--radius); border: 1px solid var(--border); box-shadow: var(--shadow); }
