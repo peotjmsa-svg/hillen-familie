@@ -5,6 +5,12 @@
   "lon": 4.3113461,
   "display_name": "Den Haag, Zuid-Holland, Nederland"
  },
+ "'s-Hertogenbosch": {
+  "query": "'s-Hertogenbosch, Nederland",
+  "lat": 51.6889387,
+  "lon": 5.303116,
+  "display_name": "'s-Hertogenbosch, Noord-Brabant, Nederland"
+ },
  "Alkmaar": {
   "query": "Alkmaar, Nederland",
   "lat": 52.6008538,
@@ -17,11 +23,29 @@
   "lon": 5.7319121,
   "display_name": "Amby, Maastricht-Oost, Maastricht, Limburg, Nederland, 6225, Nederland"
  },
+ "Antwerpen": {
+  "query": "Antwerpen, België",
+  "lat": 51.2211097,
+  "lon": 4.3997081,
+  "display_name": "Antwerpen, Vlaanderen, België / Belgique / Belgien"
+ },
  "Apeldoorn": {
   "query": "Apeldoorn, Nederland",
   "lat": 52.1795738,
   "lon": 5.9300775,
   "display_name": "Apeldoorn, Gelderland, Nederland"
+ },
+ "Arnhem": {
+  "query": "Arnhem, Nederland",
+  "lat": 52.0056642,
+  "lon": 5.8762345,
+  "display_name": "Arnhem, Gelderland, Nederland"
+ },
+ "Beek en Donk": {
+  "query": "Beek en Donk, Nederland",
+  "lat": 51.5337801,
+  "lon": 5.6329857,
+  "display_name": "Beek en Donk, Laarbeek, Noord-Brabant, Nederland"
  },
  "België (Bree)": {
   "query": "Bree, België",
@@ -35,11 +59,29 @@
   "lon": 6.155296,
   "display_name": "Blerick, Eindhovenseweg, Smeliënkamp, Blerick-Noord, Blerick, Boekend, Venlo, Limburg, Nederland, 5922 VS, Nederland"
  },
+ "Bloemendaal": {
+  "query": "Bloemendaal, Nederland",
+  "lat": 52.3742917,
+  "lon": 4.5915347,
+  "display_name": "Bloemendaal, Noord-Holland, Nederland"
+ },
  "Bree (B)": {
   "query": "Bree, België",
   "lat": 51.1416131,
   "lon": 5.5974552,
   "display_name": "Bree, Maaseik, Limburg, Vlaanderen, 3960, België / Belgique / Belgien"
+ },
+ "Châtelet": {
+  "query": "Châtelet, België",
+  "lat": 50.404,
+  "lon": 4.525,
+  "display_name": "Châtelet, Charleroi, Henegouwen, België"
+ },
+ "Châtelineau": {
+  "query": "Châtelineau, België",
+  "lat": 50.4167,
+  "lon": 4.5167,
+  "display_name": "Châtelineau, Châtelet, Henegouwen, België"
  },
  "Dalheim": {
   "query": "Dalheim, Wegberg, Deutschland",
@@ -83,11 +125,29 @@
   "lon": -3.1883749,
   "display_name": "City of Edinburgh, Alba / Scotland, United Kingdom"
  },
+ "Eindhoven": {
+  "query": "Eindhoven, Nederland",
+  "lat": 51.4392648,
+  "lon": 5.478633,
+  "display_name": "Eindhoven, Noord-Brabant, Nederland"
+ },
  "Enschede": {
   "query": "Enschede, Nederland",
   "lat": 52.2209855,
   "lon": 6.8940537,
   "display_name": "Enschede, Overijssel, Nederland"
+ },
+ "Erp": {
+  "query": "Erp, Nederland",
+  "lat": 51.6004767,
+  "lon": 5.6064592,
+  "display_name": "Erp, Meierijstad, Noord-Brabant, Nederland"
+ },
+ "Goirle": {
+  "query": "Goirle, Nederland",
+  "lat": 51.5056266,
+  "lon": 5.0337741,
+  "display_name": "Goirle, Noord-Brabant, Nederland"
  },
  "Grave": {
   "query": "Grave, Nederland",
@@ -100,6 +160,12 @@
   "lat": 52.3885317,
   "lon": 4.6388048,
   "display_name": "Haarlem, Noord-Holland, Nederland"
+ },
+ "Hamborn": {
+  "query": "Hamborn, Duisburg, Deutschland",
+  "lat": 51.492381,
+  "lon": 6.7732976,
+  "display_name": "Hamborn, Duisburg, Nordrhein-Westfalen, Deutschland"
  },
  "Harmelen": {
   "query": "Harmelen, Nederland",
@@ -118,6 +184,18 @@
   "lat": 51.3203339,
   "lon": 6.000166,
   "display_name": "Helden, Peel en Maas, Limburg, Nederland"
+ },
+ "Helmond": {
+  "query": "Helmond, Nederland",
+  "lat": 51.4736023,
+  "lon": 5.6670321,
+  "display_name": "Helmond, Noord-Brabant, Nederland"
+ },
+ "Heythuizen": {
+  "query": "Heythuysen, Nederland",
+  "lat": 51.2501987,
+  "lon": 5.9009266,
+  "display_name": "Heythuysen, Leudal, Limburg, Nederland"
  },
  "Hillegersberg": {
   "query": "Hillegersberg, Nederland",
@@ -143,6 +221,18 @@
   "lon": null,
   "display_name": null
  },
+ "Lohmar (Haus Sülz)": {
+  "query": "Haus Sülz, Lohmar, Deutschland",
+  "lat": 50.8402243,
+  "lon": 7.2127276,
+  "display_name": "Lohmar, Rhein-Sieg-Kreis, Nordrhein-Westfalen, Deutschland"
+ },
+ "Maasbracht": {
+  "query": "Maasbracht, Nederland",
+  "lat": 51.1428567,
+  "lon": 5.8830683,
+  "display_name": "Maasbracht, Maasgouw, Limburg, Nederland"
+ },
  "Maasbree": {
   "query": "Maasbree, Nederland",
   "lat": 51.3586733,
@@ -154,6 +244,12 @@
   "lat": 51.2292367,
   "lon": 5.442759,
   "display_name": "Neerpelt, Pelt, Maaseik, Limburg, Vlaanderen, 3910, België / Belgique / Belgien"
+ },
+ "Nijmegen": {
+  "query": "Nijmegen, Nederland",
+  "lat": 51.8474946,
+  "lon": 5.8637771,
+  "display_name": "Nijmegen, Gelderland, Nederland"
  },
  "Oosterbeek": {
   "query": "Oosterbeek, Nederland",
@@ -184,6 +280,12 @@
   "lat": 51.1933903,
   "lon": 5.9882649,
   "display_name": "Roermond, Limburg, Nederland"
+ },
+ "Rossum": {
+  "query": "Rossum, Maasdriel, Nederland",
+  "lat": 51.8019318,
+  "lon": 5.3320894,
+  "display_name": "Rossum, Maasdriel, Gelderland, Nederland"
  },
  "Rotterdam": {
   "query": "Rotterdam, Nederland",
@@ -221,6 +323,12 @@
   "lon": 5.0660616,
   "display_name": "Tilburg, Noord-Brabant, Nederland"
  },
+ "Ukkel": {
+  "query": "Ukkel, België",
+  "lat": 50.8035441,
+  "lon": 4.3338445,
+  "display_name": "Uccle - Ukkel, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1180, België / Belgique / Belgien"
+ },
  "Utrecht": {
   "query": "Utrecht, Nederland",
   "lat": 52.0907006,
@@ -239,6 +347,12 @@
   "lon": 5.9589011,
   "display_name": "Venray, Limburg, Nederland"
  },
+ "Villenoy": {
+  "query": "Villenoy, France",
+  "lat": 48.9412182,
+  "lon": 2.8596553,
+  "display_name": "Villenoy, Meaux, Seine-et-Marne, Île-de-France, France métropolitaine, 77124, France"
+ },
  "Vught": {
   "query": "Vught, Nederland",
   "lat": 51.6511806,
@@ -251,76 +365,16 @@
   "lon": 5.8813984,
   "display_name": "Wessem, Maasgouw, Limburg, Nederland"
  },
- "Antwerpen": {
-  "query": "Antwerpen, België",
-  "lat": 51.2211097,
-  "lon": 4.3997081,
-  "display_name": "Antwerpen, Vlaanderen, België / Belgique / Belgien"
+ "Westervoort": {
+  "query": "Westervoort, Nederland",
+  "lat": 51.9597557,
+  "lon": 5.9682662,
+  "display_name": "Westervoort, Gelderland, Nederland"
  },
- "Heythuizen": {
-  "query": "Heythuysen, Nederland",
-  "lat": 51.2501987,
-  "lon": 5.9009266,
-  "display_name": "Heythuysen, Leudal, Limburg, Nederland"
- },
- "Nijmegen": {
-  "query": "Nijmegen, Nederland",
-  "lat": 51.8474946,
-  "lon": 5.8637771,
-  "display_name": "Nijmegen, Gelderland, Nederland"
- },
- "Beek en Donk": {
-  "query": "Beek en Donk, Nederland",
-  "lat": 51.5337801,
-  "lon": 5.6329857,
-  "display_name": "Beek en Donk, Laarbeek, Noord-Brabant, Nederland"
- },
- "Eindhoven": {
-  "query": "Eindhoven, Nederland",
-  "lat": 51.4392648,
-  "lon": 5.478633,
-  "display_name": "Eindhoven, Noord-Brabant, Nederland"
- },
- "Goirle": {
-  "query": "Goirle, Nederland",
-  "lat": 51.5056266,
-  "lon": 5.0337741,
-  "display_name": "Goirle, Noord-Brabant, Nederland"
- },
- "Helmond": {
-  "query": "Helmond, Nederland",
-  "lat": 51.4736023,
-  "lon": 5.6670321,
-  "display_name": "Helmond, Noord-Brabant, Nederland"
- },
- "Erp": {
-  "query": "Erp, Nederland",
-  "lat": 51.6004767,
-  "lon": 5.6064592,
-  "display_name": "Erp, Meierijstad, Noord-Brabant, Nederland"
- },
- "Lohmar (Haus Sülz)": {
-  "query": "Haus Sülz, Lohmar, Deutschland",
-  "lat": 50.8402243,
-  "lon": 7.2127276,
-  "display_name": "Lohmar, Rhein-Sieg-Kreis, Nordrhein-Westfalen, Deutschland"
- },
- "Hamborn": {
-  "query": "Hamborn, Duisburg, Deutschland",
-  "lat": 51.492381,
-  "lon": 6.7732976,
-  "display_name": "Hamborn, Duisburg, Nordrhein-Westfalen, Deutschland"
- },
- "Châtelet": {
-  "query": "Châtelet, België",
-  "lat": 50.404,
-  "lon": 4.525,
-  "display_name": "Châtelet, Charleroi, Henegouwen, België"
- },
- "Châtelineau": {
-  "query": "Châtelineau, België",
-  "lat": 50.4167,
-  "lon": 4.5167,
-  "display_name": "Châtelineau, Châtelet, Henegouwen, België"
+ "Zolder": {
+  "query": "Zolder, België",
+  "lat": 51.0236553,
+  "lon": 5.3135203,
+  "display_name": "Zolder, Heusden-Zolder, Hasselt, Limburg, Vlaanderen, 3550, België / Belgique / Belgien"
  }
 }

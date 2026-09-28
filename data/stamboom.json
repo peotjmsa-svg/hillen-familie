@@ -2718,7 +2718,7 @@
    "birth_year": 1830,
    "death_year": 1900,
    "occupation": "aannemer",
-   "note": "Woonplaats volgens de piramide: Blerick. Huwelijk 24-5-1856 in Herpen (bij Grave). Echtgenote overleden in Meaux (Frankrijk). Verklaart vermoedelijk de 'familie Hillen te Grave' in de akte van de boterfabriek (12-12-1879). Geboren Blerick 26-5-1830; moeder is Lucia Grubben. Zijn vrouw Theodora Maria Geldens werd geboren in Rossum 29-4-1839, dochter van Antoon Geldens en Geertrui Jeurissen.",
+   "note": "Woonplaats volgens de piramide: Blerick. Huwelijk 24-5-1856 in Herpen (bij Grave). Echtgenote overleden in Meaux (Frankrijk). Verklaart vermoedelijk de 'familie Hillen te Grave' in de akte van de boterfabriek (12-12-1879). Geboren Blerick 26-5-1830; moeder is Lucia Grubben. Zijn vrouw Theodora Maria Geldens werd geboren in Rossum 29-4-1839, dochter van Antoon Geldens en Geertrui Jeurissen. Overleden Utrecht 20-6-1900. Het gezin woonde in Grave, waar tussen 1856 en 1880 vijftien kinderen werden geboren.",
    "place": "Blerick",
    "place_events": [
     {
@@ -2739,7 +2739,21 @@
     "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)"
    ],
    "children": [
-    "@P0120@"
+    "@P0120@",
+    "@P0305@",
+    "@P0306@",
+    "@P0307@",
+    "@P0308@",
+    "@P0309@",
+    "@P0310@",
+    "@P0311@",
+    "@P0312@",
+    "@P0313@",
+    "@P0314@",
+    "@P0315@",
+    "@P0316@",
+    "@P0317@",
+    "@P0318@"
    ]
   },
   "@P0220@": {
@@ -2930,18 +2944,18 @@
   },
   "@P0122@": {
    "id": "@P0122@",
-   "name": "Albertus Theodorus Hillen",
+   "name": "Albertus Theodorus Hubertus Hillen",
    "sex": "M",
-   "birth_year": 1855,
+   "birth_year": 1856,
    "death_year": 1916,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: België (Bree). Huwelijk in Bree (1883) met Maria Knoedgen, dochter of kleindochter van pijpenfabrikant Jean Jacques Knödgen. Via haar kwam de pijpenfabriek in Bree in de familie. Parenteel Xl. In de transcriptie staat bij hem ook \"st 15.4.1856 9 mnd\" — dat hoort vermoedelijk bij een ander kind.",
+   "note": "Woonplaats volgens de piramide: België (Bree). Huwelijk in Bree (1883) met Maria Knoedgen, dochter of kleindochter van pijpenfabrikant Jean Jacques Knödgen. Via haar kwam de pijpenfabriek in Bree in de familie. Parenteel Xl. Geboren Blerick 24-11-1856. De aantekening \"st 15.4.1856 9 mnd\" in de parenteel hoort bij zijn oudere broer Albertus Theodorus (1855-1856).",
    "place": "Blerick",
    "place_events": [
     {
      "place": "Blerick",
      "role": "geboren",
-     "year": 1855
+     "year": 1856
     },
     {
      "place": "Bree (B)",
@@ -2951,15 +2965,16 @@
     {
      "place": "België (Bree)",
      "role": "woonachtig",
-     "year": 1855
+     "year": 1856
     }
    ],
    "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[3] Th.J. Bais, 'Hillen Blerick' / onzewebstek.nl, 'Parenteel van Johannes Hyllen'",
     "[18] Archieven.nl / Gemeentearchief Venlo, toegang 'Hillen'",
     "[19] Pipedia / rebornpipes / Dutch Pipe Smoker (Hilson-pijpen)",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "[3] Th.J. Bais, 'Hillen Blerick' / onzewebstek.nl, 'Parenteel van Johannes Hyllen'"
    ],
    "children": [
     "@P0129@",
@@ -3006,8 +3021,8 @@
    "sex": "M",
    "birth_year": 1856,
    "death_year": 1925,
-   "occupation": null,
-   "note": "Woonplaats volgens de piramide: Blerick.",
+   "occupation": "aannemer, later sigarenfabrikant",
+   "note": "Geboren Grave 30-9-1856, oudste kind van Jacobus Hubertus Hillen en Maria Theodora Geldens. Aannemer; trouwde Maasbracht 26-11-1888 met Maria Agnes Elisabeth Wilms. In 1913 staat hij als sigarenfabrikant vermeld. Woonplaats volgens de piramide: Blerick.",
    "place": "Grave",
    "place_events": [
     {
@@ -3027,30 +3042,41 @@
     }
    ],
    "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[15] Heuijerjans.net, 'Blerick: De IJzergieterijen ... Hillen' (2014)"
    ],
    "children": [
-    "@P0127@"
+    "@P0319@",
+    "@P0127@",
+    "@P0320@",
+    "@P0321@"
    ]
   },
   "@P0233@": {
    "id": "@P0233@",
-   "name": "Theodorus Hillen",
+   "name": "Albertus Theodorus Hillen",
    "sex": "M",
-   "birth_year": 1856,
-   "death_year": null,
+   "birth_year": 1855,
+   "death_year": 1856,
    "occupation": null,
-   "note": "Jong overleden.",
+   "note": "Geboren Blerick 1855, overleden Blerick 15-4-1856, negen maanden oud. Na zijn dood kreeg een broer (geboren 24-11-1856) bijna dezelfde naam.",
    "place": "Blerick",
    "place_events": [
     {
      "place": "Blerick",
      "role": "geboren",
+     "year": 1855
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
      "year": 1856
     }
    ],
    "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
     "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
    ],
    "children": []
@@ -3487,18 +3513,25 @@
    "name": "Johannes Jacobus Theodorus Hubertus Hillen",
    "sex": "M",
    "birth_year": 1890,
-   "death_year": null,
+   "death_year": 1960,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Roermond. In de piramide staat bij hem: zoon Jules Theodoor Gerard (geb. 1895 Den Bosch, ovl. 1934 Neerpelt). Dat kan geen zoon zijn (hij was toen 5); mogelijk een broer. Spoor eindigt hier.",
+   "note": "Geboren Roermond 10-12-1890. Getrouwd met Augustine Leva. Overleden Zolder (België) 1-10-1960. Woonplaats volgens de piramide: Roermond. De Jules Theodoor Gerard die de piramide als zijn zoon noemt, is zijn jongere broer (geboren 's-Hertogenbosch 1895).",
    "place": "Roermond",
    "place_events": [
     {
      "place": "Roermond",
      "role": "geboren",
      "year": 1890
+    },
+    {
+     "place": "Zolder",
+     "role": "overleden",
+     "year": 1960
     }
    ],
    "sources": [
+    "Open Archieven (burgerlijke stand Utrecht, Gelderland, Noord-Holland, Haaglanden, Belgisch Rijksarchief)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[15] Heuijerjans.net, 'Blerick: De IJzergieterijen ... Hillen' (2014)"
    ],
@@ -3809,7 +3842,7 @@
    "birth_year": 1902,
    "death_year": 1962,
    "occupation": null,
-   "note": "Parenteel XIah. Overleden bij een treinongeluk. Huwelijk Rotterdam 3-7-1930.",
+   "note": "Parenteel XIah. Overleden bij een treinongeluk op 8-1-1962 (overlijdensakte gemeente Kamerik; de parenteel noemt Harmelen). Huwelijk Rotterdam 2-7-1930.",
    "place": "Maasbree",
    "place_events": [
     {
@@ -3824,6 +3857,7 @@
     }
    ],
    "sources": [
+    "Open Archieven (burgerlijke stand Utrecht, Gelderland, Noord-Holland, Haaglanden, Belgisch Rijksarchief)",
     "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
    ],
    "children": [
@@ -3880,12 +3914,12 @@
   },
   "@P0250@": {
    "id": "@P0250@",
-   "name": "Antonia Hauser",
+   "name": "Antonia Lambertina Josephina Hauser",
    "sex": "F",
    "birth_year": 1905,
    "death_year": null,
    "occupation": null,
-   "note": "Dochter van Gerard Hauser en Gertrude Feyen.",
+   "note": "Geboren Rotterdam 4-2-1905. Dochter van Leonardus Franciscus Gerardus Wilhelmus (Gerard) Hauser en Maria Gertrud (Gertrude) Feijen.",
    "place": "Rotterdam",
    "place_events": [
     {
@@ -3895,6 +3929,7 @@
     }
    ],
    "sources": [
+    "Open Archieven (burgerlijke stand Utrecht, Gelderland, Noord-Holland, Haaglanden, Belgisch Rijksarchief)",
     "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
    ],
    "children": [
@@ -5767,19 +5802,29 @@
   },
   "@P0121@": {
    "id": "@P0121@",
-   "name": "Maria Agnes Wilms",
+   "name": "Maria Agnes Elisabeth Wilms",
    "sex": "F",
-   "birth_year": null,
+   "birth_year": 1860,
    "death_year": null,
    "occupation": null,
-   "note": null,
-   "place": null,
-   "place_events": [],
+   "note": "Dochter van Theodorus Wilms en Wilhelmina de Witte. Trouwde Maasbracht 26-11-1888 (bruid 28 jaar, dus geboren omstreeks 1860).",
+   "place": "Maasbracht",
+   "place_events": [
+    {
+     "place": "Maasbracht",
+     "role": "getrouwd",
+     "year": 1888
+    }
+   ],
    "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
    ],
    "children": [
-    "@P0127@"
+    "@P0319@",
+    "@P0127@",
+    "@P0320@",
+    "@P0321@"
    ]
   },
   "@P0108@": {
@@ -5918,16 +5963,48 @@
    "name": "Maria Theodora Geldens",
    "sex": "F",
    "birth_year": 1839,
-   "death_year": null,
+   "death_year": 1922,
    "occupation": null,
-   "note": null,
-   "place": null,
-   "place_events": [],
+   "note": "Geboren Rossum 29-4-1839, dochter van Antoon Geldens en Geertrui Jeurissen. Huwelijk Herpen 24-5-1856 met Jacobus Hubertus Hillen. Moeder van vijftien kinderen, allemaal geboren in Grave. Overleden Villenoy (bij Meaux, Frankrijk) 17-1-1922.",
+   "place": "Rossum",
+   "place_events": [
+    {
+     "place": "Rossum",
+     "role": "geboren",
+     "year": 1839
+    },
+    {
+     "place": "Grave",
+     "role": "woonachtig",
+     "year": 1856
+    },
+    {
+     "place": "Villenoy",
+     "role": "overleden",
+     "year": 1922
+    }
+   ],
    "sources": [
+    "Open Archieven (burgerlijke stand Utrecht, Gelderland, Noord-Holland, Haaglanden, Belgisch Rijksarchief)",
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
    ],
    "children": [
-    "@P0120@"
+    "@P0120@",
+    "@P0305@",
+    "@P0306@",
+    "@P0307@",
+    "@P0308@",
+    "@P0309@",
+    "@P0310@",
+    "@P0311@",
+    "@P0312@",
+    "@P0313@",
+    "@P0314@",
+    "@P0315@",
+    "@P0316@",
+    "@P0317@",
+    "@P0318@"
    ]
   },
   "@P0040@": {
@@ -7210,6 +7287,464 @@
     "Open Archieven / Archief Delft, DTB en burgerlijke stand Delft (trouwen 1772 en 1795, huwelijken 1816 en 1821, overlijdens 1834, 1838, 1851 en 1864, geboorte 1825)"
    ],
    "children": []
+  },
+  "@P0305@": {
+   "id": "@P0305@",
+   "name": "Maria Gertruda Theodora Hillen",
+   "sex": "F",
+   "birth_year": 1857,
+   "death_year": 1858,
+   "occupation": null,
+   "note": "Geboren Grave 8-12-1857, overleden Grave 10-2-1858.",
+   "place": "Grave",
+   "place_events": [
+    {
+     "place": "Grave",
+     "role": "geboren",
+     "year": 1857
+    },
+    {
+     "place": "Grave",
+     "role": "overleden",
+     "year": 1858
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven (burgerlijke stand Utrecht, Gelderland, Noord-Holland, Haaglanden, Belgisch Rijksarchief)"
+   ],
+   "children": []
+  },
+  "@P0306@": {
+   "id": "@P0306@",
+   "name": "Willem Felix Hillen",
+   "sex": "M",
+   "birth_year": 1858,
+   "death_year": 1867,
+   "occupation": null,
+   "note": "Geboren Grave 20-11-1858, overleden Grave 23-3-1867 (8 jaar).",
+   "place": "Grave",
+   "place_events": [
+    {
+     "place": "Grave",
+     "role": "geboren",
+     "year": 1858
+    },
+    {
+     "place": "Grave",
+     "role": "overleden",
+     "year": 1867
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven (burgerlijke stand Utrecht, Gelderland, Noord-Holland, Haaglanden, Belgisch Rijksarchief)"
+   ],
+   "children": []
+  },
+  "@P0307@": {
+   "id": "@P0307@",
+   "name": "Herman Alexander Hillen",
+   "sex": "M",
+   "birth_year": 1860,
+   "death_year": 1929,
+   "occupation": null,
+   "note": "Geboren Grave 25-5-1860. Trouwde Grave 14-6-1892 met Paulina Gertruda Huberdina Lommen uit Tilburg (dochter van Hubertus Hendricus Lommen en Cornelia Petronella Smits). Een dochter trouwde in 1918 in Oisterwijk. Overleden Ukkel (Brussel) 3-8-1929.",
+   "place": "Grave",
+   "place_events": [
+    {
+     "place": "Grave",
+     "role": "geboren",
+     "year": 1860
+    },
+    {
+     "place": "Ukkel",
+     "role": "overleden",
+     "year": 1929
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven (burgerlijke stand Utrecht, Gelderland, Noord-Holland, Haaglanden, Belgisch Rijksarchief)"
+   ],
+   "children": []
+  },
+  "@P0308@": {
+   "id": "@P0308@",
+   "name": "Nicolaas Theodoor Hillen",
+   "sex": "M",
+   "birth_year": 1862,
+   "death_year": 1934,
+   "occupation": "apotheker",
+   "note": "Geboren Grave 27-1-1862. Apotheker. Trouwde Amsterdam 1-2-1894 met Maria Wilhelmina Christina Reijers. Overleden Arnhem 8-9-1934 (72 jaar).",
+   "place": "Grave",
+   "place_events": [
+    {
+     "place": "Grave",
+     "role": "geboren",
+     "year": 1862
+    },
+    {
+     "place": "Arnhem",
+     "role": "overleden",
+     "year": 1934
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven (burgerlijke stand Utrecht, Gelderland, Noord-Holland, Haaglanden, Belgisch Rijksarchief)"
+   ],
+   "children": []
+  },
+  "@P0309@": {
+   "id": "@P0309@",
+   "name": "Maria Juliana Lucia Hillen",
+   "sex": "F",
+   "birth_year": 1863,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren Grave 9-5-1863. Staat rond 1880-1890 in het bevolkingsregister van Roermond, als Lucia Maria Juliana.",
+   "place": "Grave",
+   "place_events": [
+    {
+     "place": "Grave",
+     "role": "geboren",
+     "year": 1863
+    },
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": 1880
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven (burgerlijke stand Utrecht, Gelderland, Noord-Holland, Haaglanden, Belgisch Rijksarchief)"
+   ],
+   "children": []
+  },
+  "@P0310@": {
+   "id": "@P0310@",
+   "name": "Antonius Venantius Maria Hillen",
+   "sex": "M",
+   "birth_year": 1865,
+   "death_year": 1930,
+   "occupation": "werktuigkundig ingenieur",
+   "note": "Geboren Grave 18-5-1865. Werktuigkundig ingenieur; in 1913 directeur van een naamloze vennootschap (getuige bij het huwelijk van zijn nicht in Den Haag, als Vincentius Antonius Maria). Overleden Nijmegen 30-1-1930 (64 jaar).",
+   "place": "Grave",
+   "place_events": [
+    {
+     "place": "Grave",
+     "role": "geboren",
+     "year": 1865
+    },
+    {
+     "place": "Nijmegen",
+     "role": "overleden",
+     "year": 1930
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven (burgerlijke stand Utrecht, Gelderland, Noord-Holland, Haaglanden, Belgisch Rijksarchief)"
+   ],
+   "children": []
+  },
+  "@P0311@": {
+   "id": "@P0311@",
+   "name": "Geertruda Adeleida Maria Hillen",
+   "sex": "F",
+   "birth_year": 1867,
+   "death_year": 1895,
+   "occupation": null,
+   "note": "Geboren Grave 28-1-1867. Overleden Westervoort 5-12-1895 (28 jaar).",
+   "place": "Grave",
+   "place_events": [
+    {
+     "place": "Grave",
+     "role": "geboren",
+     "year": 1867
+    },
+    {
+     "place": "Westervoort",
+     "role": "overleden",
+     "year": 1895
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven (burgerlijke stand Utrecht, Gelderland, Noord-Holland, Haaglanden, Belgisch Rijksarchief)"
+   ],
+   "children": []
+  },
+  "@P0312@": {
+   "id": "@P0312@",
+   "name": "Willem Felix Marie Hillen",
+   "sex": "M",
+   "birth_year": 1868,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren Grave 5-9-1868, anderhalf jaar na de dood van zijn broer Willem Felix (1867), naar wie hij werd vernoemd.",
+   "place": "Grave",
+   "place_events": [
+    {
+     "place": "Grave",
+     "role": "geboren",
+     "year": 1868
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven (burgerlijke stand Utrecht, Gelderland, Noord-Holland, Haaglanden, Belgisch Rijksarchief)"
+   ],
+   "children": []
+  },
+  "@P0313@": {
+   "id": "@P0313@",
+   "name": "Josephus Gijsbertus Antonius Hillen",
+   "sex": "M",
+   "birth_year": 1870,
+   "death_year": 1870,
+   "occupation": null,
+   "note": "Geboren Grave 19-3-1870, overleden Grave 9-11-1870.",
+   "place": "Grave",
+   "place_events": [
+    {
+     "place": "Grave",
+     "role": "geboren",
+     "year": 1870
+    },
+    {
+     "place": "Grave",
+     "role": "overleden",
+     "year": 1870
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven (burgerlijke stand Utrecht, Gelderland, Noord-Holland, Haaglanden, Belgisch Rijksarchief)"
+   ],
+   "children": []
+  },
+  "@P0314@": {
+   "id": "@P0314@",
+   "name": "Allegonda Francisca Maria Hillen",
+   "sex": "F",
+   "birth_year": 1872,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren Grave 29-1-1872. Trouwde Utrecht 1-9-1908 met Leopold Valentin Guillaume van der Kun.",
+   "place": "Grave",
+   "place_events": [
+    {
+     "place": "Grave",
+     "role": "geboren",
+     "year": 1872
+    },
+    {
+     "place": "Utrecht",
+     "role": "getrouwd",
+     "year": 1908
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven (burgerlijke stand Utrecht, Gelderland, Noord-Holland, Haaglanden, Belgisch Rijksarchief)"
+   ],
+   "children": []
+  },
+  "@P0315@": {
+   "id": "@P0315@",
+   "name": "Johan Albert Marie Vincent Hillen",
+   "sex": "M",
+   "birth_year": 1874,
+   "death_year": 1941,
+   "occupation": "fabrikant",
+   "note": "Geboren Grave 21-1-1874. Fabrikant. Trouwde Nijmegen 29-4-1902 met Maria Scolastique Victoire Angèle de Lelie. Overleden Bloemendaal 18-6-1941 (67 jaar).",
+   "place": "Grave",
+   "place_events": [
+    {
+     "place": "Grave",
+     "role": "geboren",
+     "year": 1874
+    },
+    {
+     "place": "Nijmegen",
+     "role": "getrouwd",
+     "year": 1902
+    },
+    {
+     "place": "Bloemendaal",
+     "role": "overleden",
+     "year": 1941
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven (burgerlijke stand Utrecht, Gelderland, Noord-Holland, Haaglanden, Belgisch Rijksarchief)"
+   ],
+   "children": []
+  },
+  "@P0316@": {
+   "id": "@P0316@",
+   "name": "Pierre Bonifacius Maria Hillen",
+   "sex": "M",
+   "birth_year": 1876,
+   "death_year": 1896,
+   "occupation": null,
+   "note": "Geboren Grave 13-7-1876. Overleden Utrecht 26-12-1896, twintig jaar oud (in de overlijdensakte: Pierre Bonaventura Maria).",
+   "place": "Grave",
+   "place_events": [
+    {
+     "place": "Grave",
+     "role": "geboren",
+     "year": 1876
+    },
+    {
+     "place": "Utrecht",
+     "role": "overleden",
+     "year": 1896
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven (burgerlijke stand Utrecht, Gelderland, Noord-Holland, Haaglanden, Belgisch Rijksarchief)"
+   ],
+   "children": []
+  },
+  "@P0317@": {
+   "id": "@P0317@",
+   "name": "Antonette Marie Josephina Hillen",
+   "sex": "F",
+   "birth_year": 1879,
+   "death_year": 1965,
+   "occupation": null,
+   "note": "Geboren Grave 29-1-1879. Trouwde Utrecht 1-10-1901 met Philippus Lodevicus Marcus Maria Taminiau. Overleden Tilburg 27-2-1965 (86 jaar).",
+   "place": "Grave",
+   "place_events": [
+    {
+     "place": "Grave",
+     "role": "geboren",
+     "year": 1879
+    },
+    {
+     "place": "Utrecht",
+     "role": "getrouwd",
+     "year": 1901
+    },
+    {
+     "place": "Tilburg",
+     "role": "overleden",
+     "year": 1965
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven (burgerlijke stand Utrecht, Gelderland, Noord-Holland, Haaglanden, Belgisch Rijksarchief)"
+   ],
+   "children": []
+  },
+  "@P0318@": {
+   "id": "@P0318@",
+   "name": "Allegonda Antonia Maria Hillen",
+   "sex": "F",
+   "birth_year": 1880,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren Grave 29-11-1880, jongste kind van het gezin.",
+   "place": "Grave",
+   "place_events": [
+    {
+     "place": "Grave",
+     "role": "geboren",
+     "year": 1880
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven (burgerlijke stand Utrecht, Gelderland, Noord-Holland, Haaglanden, Belgisch Rijksarchief)"
+   ],
+   "children": []
+  },
+  "@P0319@": {
+   "id": "@P0319@",
+   "name": "Maria Helena Wilhelmina Anna Hillen",
+   "sex": "F",
+   "birth_year": 1889,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren Roermond 22-8-1889. Trouwde 's-Gravenhage 20-8-1913 met Johannes Gijsbertus Maria Geldens (bouwkundige, zoon van aannemer Antonius Geldens), vermoedelijk familie van haar grootmoeder.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "geboren",
+     "year": 1889
+    },
+    {
+     "place": "'s-Gravenhage",
+     "role": "getrouwd",
+     "year": 1913
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Open Archieven (burgerlijke stand Utrecht, Gelderland, Noord-Holland, Haaglanden, Belgisch Rijksarchief)"
+   ],
+   "children": []
+  },
+  "@P0320@": {
+   "id": "@P0320@",
+   "name": "Mélanie Lucie Marie Hillen",
+   "sex": "F",
+   "birth_year": 1892,
+   "death_year": 1893,
+   "occupation": null,
+   "note": "Geboren Roermond 28-4-1892, overleden Roermond 10-3-1893.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "geboren",
+     "year": 1892
+    },
+    {
+     "place": "Roermond",
+     "role": "overleden",
+     "year": 1893
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
+   ],
+   "children": []
+  },
+  "@P0321@": {
+   "id": "@P0321@",
+   "name": "Jules Théodore Gérard Hillen",
+   "sex": "M",
+   "birth_year": 1895,
+   "death_year": 1934,
+   "occupation": null,
+   "note": "Geboren 's-Hertogenbosch 19-2-1895. Overleden Neerpelt 1934 (volgens de piramide).",
+   "place": "'s-Hertogenbosch",
+   "place_events": [
+    {
+     "place": "'s-Hertogenbosch",
+     "role": "geboren",
+     "year": 1895
+    },
+    {
+     "place": "Neerpelt (B)",
+     "role": "overleden",
+     "year": 1934
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+   ],
+   "children": []
   }
  },
  "families": {
@@ -7588,10 +8123,24 @@
    "husb": "@P0117@",
    "wife": "@P0118@",
    "chil": [
-    "@P0120@"
+    "@P0120@",
+    "@P0305@",
+    "@P0306@",
+    "@P0307@",
+    "@P0308@",
+    "@P0309@",
+    "@P0310@",
+    "@P0311@",
+    "@P0312@",
+    "@P0313@",
+    "@P0314@",
+    "@P0315@",
+    "@P0316@",
+    "@P0317@",
+    "@P0318@"
    ],
-   "marr_date": null,
-   "marr_place": null
+   "marr_date": "24 MAY 1856",
+   "marr_place": "Herpen"
   },
   "@F0030@": {
    "id": "@F0030@",
@@ -7612,10 +8161,13 @@
    "husb": "@P0120@",
    "wife": "@P0121@",
    "chil": [
-    "@P0127@"
+    "@P0319@",
+    "@P0127@",
+    "@P0320@",
+    "@P0321@"
    ],
-   "marr_date": null,
-   "marr_place": null
+   "marr_date": "26 NOV 1888",
+   "marr_place": "Maasbracht"
   },
   "@F0032@": {
    "id": "@F0032@",
@@ -7887,8 +8439,8 @@
     "@P0251@",
     "@P0256@"
    ],
-   "marr_date": null,
-   "marr_place": null
+   "marr_date": "2 JUL 1930",
+   "marr_place": "Rotterdam"
   },
   "@F0055@": {
    "id": "@F0055@",
@@ -8146,13 +8698,16 @@
  },
  "places": [
   "'s-Gravenhage",
+  "'s-Hertogenbosch",
   "Alkmaar",
   "Amby",
   "Antwerpen",
   "Apeldoorn",
+  "Arnhem",
   "Beek en Donk",
   "België (Bree)",
   "Blerick",
+  "Bloemendaal",
   "Bree (B)",
   "Châtelet",
   "Châtelineau",
@@ -8180,6 +8735,7 @@
   "Klimmen",
   "Koestein",
   "Lohmar (Haus Sülz)",
+  "Maasbracht",
   "Maasbree",
   "Neerpelt (B)",
   "Nijmegen",
@@ -8188,21 +8744,26 @@
   "Parijs",
   "Ravenstein",
   "Roermond",
+  "Rossum",
   "Rotterdam",
   "Saarn",
   "Sambeek",
   "Schoonhoven",
   "Sevenum",
   "Tilburg",
+  "Ukkel",
   "Utrecht",
   "Venlo",
   "Venray",
+  "Villenoy",
   "Vught",
-  "Wessem"
+  "Wessem",
+  "Westervoort",
+  "Zolder"
  ],
  "stats": {
-  "individuals": 303,
+  "individuals": 320,
   "families": 81,
-  "places": 54
+  "places": 63
  }
 }
