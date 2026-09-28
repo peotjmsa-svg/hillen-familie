@@ -262,5 +262,41 @@
   "lat": 51.2501987,
   "lon": 5.9009266,
   "display_name": "Heythuysen, Leudal, Limburg, Nederland"
+ },
+ "Nijmegen": {
+  "query": "Nijmegen, Nederland",
+  "lat": 51.8474946,
+  "lon": 5.8637771,
+  "display_name": "Nijmegen, Gelderland, Nederland"
+ },
+ "Beek en Donk": {
+  "query": "Beek en Donk, Nederland",
+  "lat": 51.5337801,
+  "lon": 5.6329857,
+  "display_name": "Beek en Donk, Laarbeek, Noord-Brabant, Nederland"
+ },
+ "Eindhoven": {
+  "query": "Eindhoven, Nederland",
+  "lat": 51.4392648,
+  "lon": 5.478633,
+  "display_name": "Eindhoven, Noord-Brabant, Nederland"
+ },
+ "Goirle": {
+  "query": "Goirle, Nederland",
+  "lat": 51.5056266,
+  "lon": 5.0337741,
+  "display_name": "Goirle, Noord-Brabant, Nederland"
+ },
+ "Helmond": {
+  "query": "Helmond, Nederland",
+  "lat": 51.4736023,
+  "lon": 5.6670321,
+  "display_name": "Helmond, Noord-Brabant, Nederland"
+ },
+ "Erp": {
+  "query": "Erp, Nederland",
+  "lat": 51.6004767,
+  "lon": 5.6064592,
+  "display_name": "Erp, Meierijstad, Noord-Brabant, Nederland"
  }
 }

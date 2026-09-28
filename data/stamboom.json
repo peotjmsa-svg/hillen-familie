@@ -2282,7 +2282,7 @@
    "birth_year": 1789,
    "death_year": 1870,
    "occupation": "hoefsmid, koopman",
-   "note": "Woonplaats volgens de piramide: Blerick.",
+   "note": "Woonplaats volgens de piramide: Blerick. Geboren 26-2-1789, overleden Blerick 20-8-1870 (81 jaar, weduwnaar). Hoefsmid, later koopman. Huwelijk Maasbree 15-6-1820 met Lucia Grubben. Zoon van Caspar Hillen en Dorothea (Theodora) Sanders. Tien kinderen, geboren 1821–1839, onder wie de tweeling Alexander en Joannes.",
    "place": "Blerick",
    "place_events": [
     {
@@ -2300,14 +2300,21 @@
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[3] Th.J. Bais, 'Hillen Blerick' / onzewebstek.nl, 'Parenteel van Johannes Hyllen'",
     "[14] Eigen stamboom-app (Hillen Family Tree)",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Bevolkingsregister Maasbree (Peel en Maas), via Open Archieven"
    ],
    "children": [
     "@P0005@",
     "@P0115@",
     "@P0117@",
     "@P0230@",
-    "@P0231@"
+    "@P0231@",
+    "@P0293@",
+    "@P0294@",
+    "@P0295@",
+    "@P0296@",
+    "@P0297@"
    ]
   },
   "@P0217@": {
@@ -2398,7 +2405,7 @@
    "birth_year": 1800,
    "death_year": 1862,
    "occupation": null,
-   "note": "Dochter van Joannes Grubben en Maria Gijsen. Huwelijk Blerick 19-6-1820.",
+   "note": "Overleden Blerick 19-12-1862 (62 jaar). Dochter van Joannes Grubben en Maria Giesen (Gijsen), akkervrouw. Was keukenmeid toen zij op 15-6-1820 in Maasbree trouwde (elders ook 19-6-1820 genoteerd); later koopvrouw.",
    "place": "Blerick",
    "place_events": [
     {
@@ -2413,13 +2420,20 @@
     }
    ],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
    ],
    "children": [
     "@P0005@",
     "@P0115@",
     "@P0230@",
-    "@P0231@"
+    "@P0231@",
+    "@P0117@",
+    "@P0293@",
+    "@P0294@",
+    "@P0295@",
+    "@P0296@",
+    "@P0297@"
    ]
   },
   "@P0005@": {
@@ -2429,7 +2443,7 @@
    "birth_year": 1821,
    "death_year": 1898,
    "occupation": "manufacturier, koopman",
-   "note": "Woonplaats volgens de piramide: Blerick. Tweelingbroer van Joannes (Johan). Eerst gehuwd met ... Bollen, daarna met ... Verschueren. Vermoedelijk vennoot en mede-eigenaar van boterfabriek Hillen-Verbruggen in Roermond (1879–1883), de 3e zuivelfabriek van Nederland; aannemelijk maar niet sluitend bewezen. Komt ook voor in de MyHeritage-stamboom 'Hillen Stamboom (Tak Roermond)' van Hugo Hillen, met afgebeeld familiewapen.",
+   "note": "Woonplaats volgens de piramide: Blerick. Tweelingbroer van Joannes (Johan). Geboren Blerick 16-9-1821, overleden Blerick 19-1-1898 (76 jaar). Eerst gehuwd Maasbree 21-1-1853 met Petronella Bollen; als weduwnaar hertrouwd Heythuysen 6-10-1862 met Maria Bernardina Verschueren. Beroep in de akten: koopman / winkelier. Vermoedelijk vennoot en mede-eigenaar van boterfabriek Hillen-Verbruggen in Roermond (1879–1883), de 3e zuivelfabriek van Nederland; aannemelijk maar niet sluitend bewezen. Komt ook voor in de MyHeritage-stamboom 'Hillen Stamboom (Tak Roermond)' van Hugo Hillen, met afgebeeld familiewapen.",
    "place": "Blerick",
    "place_events": [
     {
@@ -2449,7 +2463,9 @@
     "[3] Th.J. Bais, 'Hillen Blerick' / onzewebstek.nl, 'Parenteel van Johannes Hyllen'",
     "[11] Open Archieven / BHIC, burgerlijke stand Vught en Ravenstein",
     "[14] Eigen stamboom-app (Hillen Family Tree)",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Bevolkingsregister Maasbree (Peel en Maas), via Open Archieven"
    ],
    "children": [
     "@P0006@",
@@ -2471,7 +2487,7 @@
    "birth_year": 1821,
    "death_year": 1895,
    "occupation": "oprichter ijzergieterij Hillen & Penning / Joh. Hillen, Blerick",
-   "note": "Woonplaats volgens de piramide: Blerick. Tweelingbroer van Alexander. Stichtte de grootste ijzergieterij en machinefabriek van Blerick: 24 werknemers in 1877, ongeveer 100 in 1884. Failliet in 1910, verkocht aan de familie Holthuis (1916), later Geho-pompen. Parenteel: ijzergieterij/constructiebedrijf, hoefsmid. Huwelijk Heythuizen 2-10-1850.",
+   "note": "Woonplaats volgens de piramide: Blerick. Tweelingbroer van Alexander. Stichtte de grootste ijzergieterij en machinefabriek van Blerick: 24 werknemers in 1877, ongeveer 100 in 1884. Failliet in 1910, verkocht aan de familie Holthuis (1916), later Geho-pompen. Parenteel: ijzergieterij/constructiebedrijf, hoefsmid. Huwelijk Heythuizen 2-10-1850. Geboren Blerick 16/17-9-1821, overleden Blerick 11-5-1895 (73 jaar). Het bevolkingsregister van Maasbree noemt hem smid; in de huwelijksakten van zijn dochters 'fabriekant'. Na zijn dood leidden zijn zoons Henri en Piet de gieterij (Pontanusstraat) tot het faillissement van 28-4-1910. Uit zijn huwelijk met Elisabeth Cillekens zijn tien kinderen bekend.",
    "place": "Blerick",
    "place_events": [
     {
@@ -2488,11 +2504,21 @@
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[15] Heuijerjans.net, 'Blerick: De IJzergieterijen ... Hillen' (2014)",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Bevolkingsregister Maasbree (Peel en Maas), via Open Archieven"
    ],
    "children": [
     "@P0119@",
-    "@P0265@"
+    "@P0265@",
+    "@P0285@",
+    "@P0286@",
+    "@P0287@",
+    "@P0288@",
+    "@P0289@",
+    "@P0290@",
+    "@P0291@",
+    "@P0292@"
    ]
   },
   "@P0230@": {
@@ -2502,7 +2528,7 @@
    "birth_year": 1823,
    "death_year": null,
    "occupation": "smid",
-   "note": "Ongehuwd overleden.",
+   "note": "Ongehuwd overleden. Geboren 31-12-1823. Het bevolkingsregister van Maasbree noemt hem kuiper.",
    "place": "Blerick",
    "place_events": [
     {
@@ -2512,7 +2538,9 @@
     }
    ],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Bevolkingsregister Maasbree (Peel en Maas), via Open Archieven"
    ],
    "children": []
   },
@@ -2523,7 +2551,7 @@
    "birth_year": 1826,
    "death_year": 1855,
    "occupation": null,
-   "note": "Huwelijk Blerick 2-10-1850 met Gerard Peeters (geb. Maasbree 1811), weduwnaar en burgemeester van Maasbree.",
+   "note": "Geboren 1-2-1826, overleden Maasbree 17-4-1855 (29 jaar). Huwelijk Heythuysen 2-10-1850 met landbouwer Gerard Peeters (geb. Maasbree 1-12-1810), weduwnaar van Anna Maria Haenen en burgemeester van Maasbree.",
    "place": "Blerick",
    "place_events": [
     {
@@ -2533,29 +2561,37 @@
     }
    ],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
    ],
    "children": []
   },
   "@P0114@": {
    "id": "@P0114@",
-   "name": "Bernardine Verschueren",
+   "name": "Maria Bernardina Verschueren",
    "sex": "F",
-   "birth_year": 1827,
-   "death_year": null,
+   "birth_year": 1825,
+   "death_year": 1901,
    "occupation": null,
-   "note": "Huwelijk 7-10-1862.",
+   "note": "Geboren Heythuysen 22-6-1825, overleden Blerick 14-9-1901 (weduwe). Huwelijk Heythuysen 6-10-1862 (37 jaar). Ouders volgens de huwelijksakte Peter Verschueren en Maria Josephina Coolen; de overlijdensakte noemt Frans Verschueren en Elisabeth Coolen.",
    "place": "Heythuizen",
    "place_events": [
     {
      "place": "Heythuizen",
      "role": "geboren",
-     "year": 1827
+     "year": 1825
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1901
     }
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Bevolkingsregister Maasbree (Peel en Maas), via Open Archieven"
    ],
    "children": [
     "@P0006@",
@@ -2619,7 +2655,7 @@
    "birth_year": 1830,
    "death_year": 1900,
    "occupation": "aannemer",
-   "note": "Woonplaats volgens de piramide: Blerick. Huwelijk 24-5-1856 in Herpen (bij Grave). Echtgenote overleden in Meaux (Frankrijk). Verklaart vermoedelijk de 'familie Hillen te Grave' in de akte van de boterfabriek (12-12-1879).",
+   "note": "Woonplaats volgens de piramide: Blerick. Huwelijk 24-5-1856 in Herpen (bij Grave). Echtgenote overleden in Meaux (Frankrijk). Verklaart vermoedelijk de 'familie Hillen te Grave' in de akte van de boterfabriek (12-12-1879). Geboren Blerick 26-5-1830; moeder is Lucia Grubben. Zijn vrouw Theodora Maria Geldens werd geboren in Rossum 29-4-1839, dochter van Antoon Geldens en Geertrui Jeurissen.",
    "place": "Blerick",
    "place_events": [
     {
@@ -2635,7 +2671,9 @@
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[15] Heuijerjans.net, 'Blerick: De IJzergieterijen ... Hillen' (2014)"
+    "[15] Heuijerjans.net, 'Blerick: De IJzergieterijen ... Hillen' (2014)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)"
    ],
    "children": [
     "@P0120@"
@@ -2669,7 +2707,7 @@
    "birth_year": 1835,
    "death_year": null,
    "occupation": null,
-   "note": "Dochter van Peter Andries Bollen en Geertrui Rutten. Huwelijk Blerick 21-1-1853.",
+   "note": "Geboren Blerick 20-11-1835. Dochter van Peter Andries Bollen en Geertrui Rutten. Huwelijk Maasbree (Blerick) 21-1-1853. Overleden vóór 1862, toen Alexander als weduwnaar hertrouwde.",
    "place": "Blerick",
    "place_events": [
     {
@@ -2680,7 +2718,8 @@
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
    ],
    "children": [
     "@P0122@",
@@ -2770,7 +2809,7 @@
    "birth_year": 1852,
    "death_year": 1914,
    "occupation": "ijzerfabriek en constructiebedrijf",
-   "note": "Woonplaats volgens de piramide: Blerick. Huwelijk Haarlem 11-9-1901 (ook akte in Maasbree).",
+   "note": "Woonplaats volgens de piramide: Blerick. Huwelijk Haarlem 11-9-1901 (ook akte in Maasbree). Geboren Heythuysen 13-8-1852, overleden Blerick 21-10-1914. Leidde na 1895 met zijn broer Piet de ijzergieterij van hun vader. Zoon Frederik heette voluit Frederikus Johannes Albertus.",
    "place": "Heythuizen",
    "place_events": [
     {
@@ -2792,7 +2831,8 @@
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[15] Heuijerjans.net, 'Blerick: De IJzergieterijen ... Hillen' (2014)",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
    ],
    "children": [
     "@P0248@",
@@ -2870,22 +2910,31 @@
    "birth_year": 1855,
    "death_year": 1929,
    "occupation": null,
-   "note": "Parenteel Xp.",
+   "note": "Parenteel Xp. Geboren Heythuysen 28-11-1855, overleden Erp 9-6-1929. Huwelijk Oosterhout 20-10-1891 met Catharina Anna Maria Wahlen. Kinderen geboren in Blerick, Grave, Tilburg, Goirle en Helmond.",
    "place": "Heythuizen",
    "place_events": [
     {
      "place": "Heythuizen",
      "role": "geboren",
      "year": 1855
+    },
+    {
+     "place": "Erp",
+     "role": "overleden",
+     "year": 1929
     }
    ],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
    ],
    "children": [
     "@P0267@",
     "@P0268@",
-    "@P0269@"
+    "@P0269@",
+    "@P0283@",
+    "@P0284@"
    ]
   },
   "@P0120@": {
@@ -2950,7 +2999,7 @@
    "birth_year": 1858,
    "death_year": 1906,
    "occupation": "organist; aannemer (Ravenstein)",
-   "note": "Woonplaats volgens de piramide: Ravenstein. Huwelijk in Grave (1890). Parenteel Xm.",
+   "note": "Woonplaats volgens de piramide: Ravenstein. Geboren Blerick 31-8-1858, overleden Ravenstein 3-6-1906. Zoon van Alexander Hillen en Petronella Bollen. Huwelijk Grave 21-5-1890 met Wilhelmina Maria Louisa Sevens. Vijf kinderen, geboren in Grave 1891–1899. Parenteel Xm.",
    "place": "Blerick",
    "place_events": [
     {
@@ -2973,10 +3022,15 @@
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[11] Open Archieven / BHIC, burgerlijke stand Vught en Ravenstein",
     "[15] Heuijerjans.net, 'Blerick: De IJzergieterijen ... Hillen' (2014)",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)"
    ],
    "children": [
-    "@P0133@"
+    "@P0133@",
+    "@P0279@",
+    "@P0280@",
+    "@P0281@",
+    "@P0282@"
    ]
   },
   "@P0234@": {
@@ -3012,7 +3066,7 @@
    "birth_year": 1859,
    "death_year": 1934,
    "occupation": null,
-   "note": "Dochter van Nicolaas Bex en Helene Goessens.",
+   "note": "Volledige naam Maria Louisa Josephina (ook Marie Josephine Louise) Bex. Geboren Klimmen 20-2-1859 (bidprentje: 28-2), overleden Vught 3-2-1934. Dochter van Nicolaas Joseph Bex en Maria Helena Goessens (rentenierster). Huwelijk Klimmen 14-11-1893.",
    "place": "Klimmen",
    "place_events": [
     {
@@ -3027,14 +3081,18 @@
     }
    ],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)"
    ],
    "children": [
     "@P0007@",
     "@P0239@",
     "@P0240@",
     "@P0241@",
-    "@P0242@"
+    "@P0242@",
+    "@P0277@",
+    "@P0278@"
    ]
   },
   "@P0006@": {
@@ -3044,7 +3102,7 @@
    "birth_year": 1863,
    "death_year": 1943,
    "occupation": "huisarts en gemeentearts in Vught",
-   "note": "Woonplaats volgens de piramide: Vught. De Dokter Hillenlaan in Vught is naar hem en zijn zoon Felix vernoemd. Ridder in de Orde van Oranje-Nassau. Promoveerde tot Doctor Med. in juli 1889; Ridder in de Orde van Oranje-Nassau op 17-7-1929. Graf in de St. Janskerk, Den Bosch. Huwelijk Vught 14-8-1893.",
+   "note": "Woonplaats volgens de piramide: Vught. Geboren Blerick (toen gemeente Maasbree) 8-11-1863, overleden Vught 25-6-1943 (overlijdensakte ook als 'Petrus Henricus Hubertus'). De Dokter Hillenlaan in Vught is naar hem en zijn zoon Felix vernoemd. Promoveerde tot Doctor Med. in juli 1889 en was vanaf 1889 arts in Vught: eerste gemeentearts en lange tijd de enige arts. Zette in 1895 met pastoor Lips het Elisabethziekenhuis op (hoek Elisabethstraat/Kloosterstraat); vanaf 1911 villa met praktijk, eigen apotheek, tandheelkunde, operaties en bevallingen aan het Maurickplein 1. Reed eerst motor (merk 'Succes'); na een ongeluk kocht hij een auto met kenteken N-33 (1906) en liet zich rijden door zijn tuinman. Weigerde in de oorlog lid te worden van de Duitse Artsenkamer; bij zijn uitvaart vreesde men een SD-inval. Ridder in de Orde van Oranje-Nassau (17-7-1929). Graf in de St. Janskerk, Den Bosch. Huwelijk Klimmen 14-11-1893 met Maria Louisa Josephina Bex (akte: bruidegom arts, 30 jaar); de eerder genoteerde datum 'Vught 14-8-1893' klopt niet met de huwelijksakte.",
    "place": "Blerick",
    "place_events": [
     {
@@ -3063,14 +3121,20 @@
     "[10] Vughts Museum, 'Even voorstellen: dr. Piet Hein Hillen' (2021)",
     "[11] Open Archieven / BHIC, burgerlijke stand Vught en Ravenstein",
     "[14] Eigen stamboom-app (Hillen Family Tree)",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Vughts Museum, 'Met zijn gestreepte pyjama onder zijn pak op weg naar patiënten' (1 juni 2022), https://www.vughtsmuseum.nl/2022/06/01/met-zijn-gestreepte-pyjama-onder-zijn-pak-op-weg-naar-patienten/",
+    "De auto van m'n opa, 'Kenteken N-33', https://deautovanmnopa.nl/kentekens/n-33"
    ],
    "children": [
     "@P0007@",
     "@P0239@",
     "@P0240@",
     "@P0241@",
-    "@P0242@"
+    "@P0242@",
+    "@P0277@",
+    "@P0278@"
    ]
   },
   "@P0235@": {
@@ -3080,7 +3144,7 @@
    "birth_year": 1865,
    "death_year": 1915,
    "occupation": "kapelaan in Maastricht",
-   "note": "Ridder in de Orde van Oranje-Nassau; oprichter van een instelling voor voogdijkinderen in Maastricht. Student in Roermond.",
+   "note": "Ridder in de Orde van Oranje-Nassau; oprichter van een instelling voor voogdijkinderen in Maastricht. Student in Roermond. Geboren Blerick 26-1-1865, overleden Amby 22-11-1915 (50 jaar).",
    "place": "Amby",
    "place_events": [
     {
@@ -3090,7 +3154,8 @@
     }
    ],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
    ],
    "children": []
   },
@@ -3151,11 +3216,18 @@
    "birth_year": 1866,
    "death_year": 1866,
    "occupation": null,
-   "note": null,
+   "note": "Geboren Blerick 14-5-1866, overleden Blerick 23-5-1866.",
    "place": null,
-   "place_events": [],
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1866
+    }
+   ],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
    ],
    "children": []
   },
@@ -3190,13 +3262,20 @@
    "name": "Lucia Maria Hillen",
    "sex": "F",
    "birth_year": 1867,
-   "death_year": 1930,
+   "death_year": 1931,
    "occupation": null,
-   "note": "Ongehuwd.",
+   "note": "In de akten Lucia Hubertina Hillen. Geboren Blerick 8-6-1867, ongehuwd overleden Blerick 4-5-1931 (63 jaar); eerder genoteerd overlijdensjaar 1930 klopt niet met de akte.",
    "place": null,
-   "place_events": [],
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1931
+    }
+   ],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
    ],
    "children": []
   },
@@ -3207,7 +3286,7 @@
    "birth_year": 1869,
    "death_year": 1933,
    "occupation": null,
-   "note": "Dochter van Johan Wahlen (1846–1926) en Anna Theissling. Begraven in Erp.",
+   "note": "Geboren Alkmaar 14-4-1869, overleden 's-Gravenhage 24-10-1933. Dochter van Johannes Jacobus Gerardus (Johan) Wahlen (1846–1926) en Anna Antonia Theissling. Begraven in Erp.",
    "place": "Alkmaar",
    "place_events": [
     {
@@ -3222,12 +3301,15 @@
     }
    ],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)"
    ],
    "children": [
     "@P0267@",
     "@P0268@",
-    "@P0269@"
+    "@P0269@",
+    "@P0283@",
+    "@P0284@"
    ]
   },
   "@P0126@": {
@@ -3237,7 +3319,7 @@
    "birth_year": 1869,
    "death_year": 1952,
    "occupation": "importeur/groothandel rokersbenodigdheden, assurantiekantoor, steenoven; wethouder Maasbree (vanaf 1930)",
-   "note": "Woonplaats volgens de piramide: Blerick. Brandweer Blerick (1901–1921), gemeenteraadslid, oudste kerkmeester; zeer invloedrijk in Blerick. Ongehuwd, geen kinderen. Overlijdensjaar: blog zegt 1952, archieven.nl 1953. Parenteel bevestigt overlijden 19-10-1952; in 1930 wethouder te Blerick.",
+   "note": "Woonplaats volgens de piramide: Blerick. Brandweer Blerick (1901–1921), gemeenteraadslid, oudste kerkmeester; zeer invloedrijk in Blerick. Ongehuwd, geen kinderen. Overleden Venlo 19-10-1952 (overlijdensakte bevestigt 1952, niet 1953); in 1930 wethouder te Blerick. Geboren Blerick 25-8-1869.",
    "place": "Blerick",
    "place_events": [
     {
@@ -3250,7 +3332,8 @@
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[16] Blièrick d'r waas ens (blog), 'Kloosterstraat in Blerick' (2015)",
     "[17] stratenvandelft.nl, 'Hillenlaan' / archieven.nl",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
    ],
    "children": []
   },
@@ -3363,7 +3446,7 @@
    "birth_year": 1892,
    "death_year": 1933,
    "occupation": "advocaat; lid Belgische Kamer van Volksvertegenwoordigers (Katholieke Partij)",
-   "note": "Woonplaats volgens de piramide: België (Bree). Liet drie jonge kinderen na. Kamerlidmaatschap bevestigd via de officiële lijst 1831–2002.",
+   "note": "Woonplaats volgens de piramide: België (Bree). Liet drie jonge kinderen na. Kamerlidmaatschap bevestigd via de officiële lijst 1831–2002. Geboren Bree 14-2-1892, overleden Antwerpen 13-11-1933. Doctor in de rechten (Leuven, 1919), advocaat in Antwerpen en voorzitter van de Vlaamse Conferentie van de Antwerpse balie; in november 1932 gekozen voor het arrondissement Tongeren-Maaseik.",
    "place": "Bree (B)",
    "place_events": [
     {
@@ -3385,33 +3468,35 @@
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[19] Pipedia / rebornpipes / Dutch Pipe Smoker (Hilson-pijpen)",
-    "[20] LimMemoriam.be, parenteel Albert Theodoor Hubert Hillen"
+    "[20] LimMemoriam.be, parenteel Albert Theodoor Hubert Hillen",
+    "Wikipedia (nl), 'Albert Hillen', https://nl.wikipedia.org/wiki/Albert_Hillen"
    ],
    "children": []
   },
   "@P0267@": {
    "id": "@P0267@",
-   "name": "Johannes Hillen",
+   "name": "Johan Albert Marie Hillen",
    "sex": "M",
    "birth_year": 1893,
-   "death_year": null,
+   "death_year": 1893,
    "occupation": null,
-   "note": "Jong overleden.",
-   "place": null,
+   "note": "Geboren Blerick (Maasbree) 1-5-1893, overleden 6-9-1893, vier maanden oud.",
+   "place": "Blerick",
    "place_events": [],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
    ],
    "children": []
   },
   "@P0239@": {
    "id": "@P0239@",
-   "name": "Bernardine Hillen",
+   "name": "Bernardina Carolina Maria Hillen",
    "sex": "F",
    "birth_year": 1894,
    "death_year": null,
    "occupation": null,
-   "note": null,
+   "note": "Geboren Vught 27-8-1894, als tweeling met Helena Alexandra Maria, die op 5-11-1894 overleed.",
    "place": "Vught",
    "place_events": [
     {
@@ -3421,7 +3506,8 @@
     }
    ],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)"
    ],
    "children": []
   },
@@ -3432,7 +3518,7 @@
    "birth_year": 1896,
    "death_year": 1982,
    "occupation": null,
-   "note": "Huwelijk met Adriaan Anton Frans Marie Verbeek.",
+   "note": "Geboren Vught 7-3-1896. Huwelijk Vught 21-1-1919 met Adriaan Anton Frans Maria Verbeek (geb. Enschede 2-7-1895), zoon van Adrianus Johannes Maria Verbeek en Dorothea Victorine Maria van Santen.",
    "place": "Vught",
    "place_events": [
     {
@@ -3447,7 +3533,8 @@
     }
    ],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)"
    ],
    "children": []
   },
@@ -3458,7 +3545,7 @@
    "birth_year": 1897,
    "death_year": 1951,
    "occupation": "dominicaan (Pater Jordanus)",
-   "note": null,
+   "note": "Geboorteakte: Johannes Jacobus Albert Marie Hillen, Grave 3-2-1897; overleden Venlo 16-10-1951.",
    "place": "Venlo",
    "place_events": [
     {
@@ -3468,7 +3555,9 @@
     }
    ],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
    ],
    "children": []
   },
@@ -3479,7 +3568,7 @@
    "birth_year": 1897,
    "death_year": 1978,
    "occupation": null,
-   "note": "Huwelijk met Meindert Klaas Honig (geb. Koog aan de Zaan).",
+   "note": "Geboorteakte Vught 12-12-1897: Paula Maria Albertina. Huwelijk met Meindert Klaas Honig (geb. Koog aan de Zaan).",
    "place": "Vught",
    "place_events": [
     {
@@ -3489,18 +3578,19 @@
     }
    ],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)"
    ],
    "children": []
   },
   "@P0242@": {
    "id": "@P0242@",
-   "name": "Alexander Hillen",
+   "name": "Alexander Theodorus Henricus Hillen",
    "sex": "M",
    "birth_year": 1899,
    "death_year": 1919,
    "occupation": "militair",
-   "note": null,
+   "note": "Geboren Vught 16-2-1899, overleden Ede 26-3-1919, 20 jaar oud; de overlijdensakte (Ede, overgeschreven in Vught 2-4-1919) noemt hem 'zonder beroep'.",
    "place": "Vught",
    "place_events": [
     {
@@ -3515,7 +3605,9 @@
     }
    ],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven / Gelders Archief, burgerlijke stand Nijmegen en Ede"
    ],
    "children": []
   },
@@ -3526,7 +3618,7 @@
    "birth_year": 1899,
    "death_year": 1981,
    "occupation": null,
-   "note": "Dochter van Wilhelmus Roncken en Hendrika Janssen.",
+   "note": "Antoinetta Marie Henriette Roncken, geboren Blerick 17-5-1899, overleden Venlo 8-5-1981. Dochter van Wilhelmus Roncken, hoofd der lagere school, en Hendrika Janssen. Huwelijk Maasbree 7-8-1928.",
    "place": "Blerick",
    "place_events": [
     {
@@ -3542,7 +3634,8 @@
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
    ],
    "children": [
     "@P0270@",
@@ -3556,7 +3649,7 @@
    "birth_year": 1899,
    "death_year": 1974,
    "occupation": "wethouder Venlo (1946–1958)",
-   "note": "Woonplaats volgens de piramide: Blerick. Gemeentebedrijven/wederopbouw (gas-licht-water). Penningmeester, kerkmeester en erelid Antoniusparochie; voorzitter Middenstandsvereniging, vice-voorzitter KvK. Ridder in de Orde van Sint-Silvester (1966); straat naar hem vernoemd in Venlo-Groenveld. 'Neef van Louis' in archieven.nl, vermoedelijk via halfbroer Theodor. Overlijdensjaar volgens bronnen 1974 of 1981.",
+   "note": "Woonplaats volgens de piramide: Blerick. Gemeentebedrijven/wederopbouw (gas-licht-water). Penningmeester, kerkmeester en erelid Antoniusparochie; voorzitter Middenstandsvereniging, vice-voorzitter KvK. Ridder in de Orde van Sint-Silvester (1966); straat naar hem vernoemd in Venlo-Groenveld. 'Neef van Louis' in archieven.nl, vermoedelijk via halfbroer Theodor. Overleden 1974. De eerder genoemde '1981' is het overlijden van zijn vrouw Antoinette Roncken (Venlo 8-5-1981). Geboorteakte: Joseph Marie Antoon Hillen, Grave 20-6-1899. Huwelijk Maasbree 7-8-1928 met Antoinetta Marie Henriette Roncken; hij was toen koopman.",
    "place": "Grave",
    "place_events": [
     {
@@ -3574,7 +3667,9 @@
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[15] Heuijerjans.net, 'Blerick: De IJzergieterijen ... Hillen' (2014)",
     "[17] stratenvandelft.nl, 'Hillenlaan' / archieven.nl",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
    ],
    "children": [
     "@P0270@",
@@ -3588,7 +3683,7 @@
    "birth_year": 1900,
    "death_year": 1973,
    "occupation": "arts, huisarts in Vught",
-   "note": "Woonplaats volgens de piramide: Vught. Officier in de Orde van Oranje-Nassau, ereburger van Vught, Kruis van Verdienste van het Nederlandse Rode Kruis. Huwelijk Vught 16-5-1927.",
+   "note": "Woonplaats volgens de piramide: Vught. Geboren Vught 3-6-1900, overleden Eindhoven 9-10-1973. Studeerde net als zijn vader geneeskunde aan de UvA. Praktijk eerst aan de Taalstraat 181, na 1943 aan het Maurickplein, vanaf eind 1964 in het koetshuis aan de Grote Gent 2; volgde zijn vader in 1942 op als gemeentearts; stopte in 1971 wegens ziekte. Opereerde in het Elisabethziekenhuis en werkte zelf met de röntgenapparatuur: door de straling kreeg hij huidkanker en moest zijn linkerwijsvinger geamputeerd worden. In de oorlog lid van het artsenverzet (Medisch Contact): wachtte met Blomjous en Van Spaendonk het eerste gevangenentransport naar Kamp Vught op met voedselpakketjes van zuster Hulsman, schakelde de inspecteur van de Volksgezondheid in toen de Duitsers besmettelijke ziektes ontkenden, en gaf wekenlang onderdak aan vrijgelaten gevangenen. Richtte na de oorlog de Vughtse afdeling van het Rode Kruis mee op en zat kort in het Tribunaal. Schreef artikelen over medische ethiek; goed in schaken en bridge. Officier in de Orde van Oranje-Nassau, ereburger van Vught, Kruis van Verdienste van het Nederlandse Rode Kruis. Burgerlijk huwelijk 's-Hertogenbosch 17-5-1927 (eerder genoteerd: Vught 16-5-1927, vermoedelijk de kerkelijke of familiedatum).",
    "place": "Vught",
    "place_events": [
     {
@@ -3597,7 +3692,7 @@
      "year": 1900
     },
     {
-     "place": "Vught",
+     "place": "Eindhoven",
      "role": "overleden",
      "year": 1973
     }
@@ -3606,15 +3701,18 @@
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[10] Vughts Museum, 'Even voorstellen: dr. Piet Hein Hillen' (2021)",
     "[14] Eigen stamboom-app (Hillen Family Tree)",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Vughts Museum, 'Even voorstellen 34: Dr. Felix Hillen' (2021), https://www.vughtsmuseum.nl/2021/12/09/even-voorstellen-34-dr-felix-hillen/",
+    "Vughts Museum, 'Met zijn gestreepte pyjama onder zijn pak op weg naar patiënten' (1 juni 2022), https://www.vughtsmuseum.nl/2022/06/01/met-zijn-gestreepte-pyjama-onder-zijn-pak-op-weg-naar-patienten/",
+    "Nationaal Archief, Kanselarij der Nederlandse Orden (2.02.32): Officier Orde van Oranje-Nassau"
    ],
    "children": [
     "@P0141@",
     "@P0243@",
     "@P0244@",
     "@P0245@",
-    "@P0246@",
-    "@P0272@"
+    "@P0246@"
    ]
   },
   "@P0269@": {
@@ -3624,7 +3722,7 @@
    "birth_year": 1901,
    "death_year": 1984,
    "occupation": "kloosterzuster (Ludovica), St. Catharinaklooster",
-   "note": null,
+   "note": "Geboorteakte: Elise Jeanette Antoinette Marie Hillen, Tilburg 22-2-1901.",
    "place": "Sambeek",
    "place_events": [
     {
@@ -3634,7 +3732,8 @@
     }
    ],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)"
    ],
    "children": []
   },
@@ -3674,18 +3773,21 @@
    "birth_year": 1902,
    "death_year": 1993,
    "occupation": null,
-   "note": "Dochter van Eugène Cordewener en Anna Janssens. Huwelijk Vught 16-5-1927 met Felix Hillen. Overleden 1993 (volgens stamboom-app).",
+   "note": "Volledige naam Maria Christine Hubertine Eugenie Anna Cordewener; geboren 's-Hertogenbosch (24 jaar in mei 1927). Dochter van Egide Joseph Leonard Louise Eugène Cordewener en Anna Maria Jeanne Bertha Janssen. Schoolliefde van Felix Hillen (Stedelijk Gymnasium). Burgerlijk huwelijk 's-Hertogenbosch 17-5-1927. Nam 's avonds de praktijktelefoon aan en schreef de nota's. Overleden 1993 (volgens stamboom-app).",
    "place": "Vught",
    "place_events": [
     {
-     "place": "Vught",
+     "place": "Den Bosch",
      "role": "geboren",
      "year": 1902
     }
    ],
    "sources": [
     "Hillen Family Tree-app (267 personen)",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Vughts Museum, 'Even voorstellen 34: Dr. Felix Hillen' (2021), https://www.vughtsmuseum.nl/2021/12/09/even-voorstellen-34-dr-felix-hillen/",
+    "Vughts Museum, 'Met zijn gestreepte pyjama onder zijn pak op weg naar patiënten' (1 juni 2022), https://www.vughtsmuseum.nl/2022/06/01/met-zijn-gestreepte-pyjama-onder-zijn-pak-op-weg-naar-patienten/"
    ],
    "children": [
     "@P0141@",
@@ -3697,16 +3799,17 @@
   },
   "@P0249@": {
    "id": "@P0249@",
-   "name": "Frederik Hillen",
+   "name": "Frederikus Johannes Albertus Hillen",
    "sex": "M",
    "birth_year": 1904,
    "death_year": null,
    "occupation": null,
-   "note": null,
-   "place": null,
+   "note": "Geboren Maasbree (Blerick) ca. 1904. Huwelijk 's-Hertogenbosch 31-8-1931 met Theodora Antonia Hormann (27 jaar), dochter van Willem Frederik Karel Hormann en Petronella Elisabeth Dukker.",
+   "place": "Blerick",
    "place_events": [],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)"
    ],
    "children": []
   },
@@ -4065,18 +4168,22 @@
   },
   "@P0246@": {
    "id": "@P0246@",
-   "name": "Felix Anna Louis Hillen",
+   "name": "Felix Anna Louis (Pink) Hillen",
    "sex": "M",
    "birth_year": 1942,
    "death_year": null,
    "occupation": null,
-   "note": "Parenteel XIIan.",
-   "place": null,
+   "note": "Roepnaam Pink. Parenteel XIIan. Geboren 26-7-1942. Jongste zoon van dr. Felix Hillen; noemt zich in het Vughts Museum (2022) 'Pink (Felix) Hillen, zoon en kleinzoon van de artsen' en vertelt dat hij 'net een jaar' was toen zijn grootvader dr. P.H. Hillen overleed (25-6-1943) — dat past precies bij geboortedatum 26-7-1942. Hij sprak bij de opening van de dokterspraktijk-expositie in DePetrus (16 mei 2022). Eerder stond hij in deze stamboom dubbel, als los 'Pink Hillen' zonder data; die twee zijn nu samengevoegd. Vader van Florian Hillen (1970).",
+   "place": "Vught",
    "place_events": [],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Vughts Museum, 'Met zijn gestreepte pyjama onder zijn pak op weg naar patiënten' (1 juni 2022), https://www.vughtsmuseum.nl/2022/06/01/met-zijn-gestreepte-pyjama-onder-zijn-pak-op-weg-naar-patienten/",
+    "Mondelinge overlevering binnen de familie."
    ],
-   "children": []
+   "children": [
+    "@P0273@"
+   ]
   },
   "@P0257@": {
    "id": "@P0257@",
@@ -5590,21 +5697,42 @@
   },
   "@P0116@": {
    "id": "@P0116@",
-   "name": "Maria Elisabeth Cillekens",
+   "name": "Elisabeth Cillekens",
    "sex": "F",
-   "birth_year": null,
-   "death_year": null,
+   "birth_year": 1821,
+   "death_year": 1904,
    "occupation": null,
-   "note": null,
+   "note": "Ook Maria Elisabeth Cillekens. Geboren Heythuysen 15-2-1821, overleden Blerick 3-10-1904 (83 jaar, weduwe). Dochter van Hendrik Cillekens en Maria Elisabeth van Knippenberg.",
    "place": null,
-   "place_events": [],
+   "place_events": [
+    {
+     "place": "Heythuizen",
+     "role": "geboren",
+     "year": 1821
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1904
+    }
+   ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Bevolkingsregister Maasbree (Peel en Maas), via Open Archieven"
    ],
    "children": [
     "@P0119@",
-    "@P0265@"
+    "@P0265@",
+    "@P0285@",
+    "@P0286@",
+    "@P0287@",
+    "@P0288@",
+    "@P0289@",
+    "@P0290@",
+    "@P0291@",
+    "@P0292@"
    ]
   },
   "@P0037@": {
@@ -5975,11 +6103,12 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": null,
+   "note": "In de akten van haar zoon Alardus (1820, 1870) heet zij Dorothea Sanders.",
    "place": null,
    "place_events": [],
    "sources": [
-    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
    ],
    "children": [
     "@P0004@"
@@ -6145,15 +6274,21 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": null,
+   "note": "Geboren Grave 4-3-1864, overleden Nijmegen 31-7-1930. Dochter van Peeter Johannes Sevens en Petronella van Tiel. Woonde als weduwe met haar kinderen in Nijmegen.",
    "place": null,
    "place_events": [],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven / Gelders Archief, burgerlijke stand Nijmegen en Ede"
    ],
    "children": [
-    "@P0133@"
+    "@P0133@",
+    "@P0279@",
+    "@P0280@",
+    "@P0281@",
+    "@P0282@"
    ]
   },
   "@P0158@": {
@@ -6210,23 +6345,6 @@
    ],
    "children": []
   },
-  "@P0272@": {
-   "id": "@P0272@",
-   "name": "Pink Hillen",
-   "sex": "M",
-   "birth_year": null,
-   "death_year": null,
-   "occupation": null,
-   "note": "Roepnaam; doopnaam onbekend. Broer van internist Piet Hein Hillen (1929–2019), beiden kinderen van Felix Joseph Marie Hillen (1900–1973).",
-   "place": null,
-   "place_events": [],
-   "sources": [
-    "Mondelinge overlevering binnen de familie."
-   ],
-   "children": [
-    "@P0273@"
-   ]
-  },
   "@P0273@": {
    "id": "@P0273@",
    "name": "Florian Hillen",
@@ -6234,7 +6352,7 @@
    "birth_year": 1970,
    "death_year": null,
    "occupation": null,
-   "note": "Zoon van Pink Hillen.",
+   "note": "Zoon van Pink (Felix Anna Louis) Hillen.",
    "place": null,
    "place_events": [],
    "sources": [
@@ -6299,6 +6417,512 @@
     "Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
    ],
    "children": []
+  },
+  "@P0277@": {
+   "id": "@P0277@",
+   "name": "Helena Alexandra Maria Hillen",
+   "sex": "F",
+   "birth_year": 1894,
+   "death_year": 1894,
+   "occupation": null,
+   "note": "Tweelingzus van Bernardina Carolina Maria; geboren Vught 27-8-1894, overleden Vught 5-11-1894.",
+   "place": "Vught",
+   "place_events": [
+    {
+     "place": "Vught",
+     "role": "geboren",
+     "year": 1894
+    },
+    {
+     "place": "Vught",
+     "role": "overleden",
+     "year": 1894
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)"
+   ],
+   "children": []
+  },
+  "@P0278@": {
+   "id": "@P0278@",
+   "name": "N.N. Hillen",
+   "sex": "U",
+   "birth_year": 1896,
+   "death_year": 1896,
+   "occupation": null,
+   "note": "Doodgeboren kind van dr. P.H. Hillen en M.L.J. Bex, aangegeven te Vught 29-12-1896.",
+   "place": "Vught",
+   "place_events": [
+    {
+     "place": "Vught",
+     "role": "overleden",
+     "year": 1896
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)"
+   ],
+   "children": []
+  },
+  "@P0279@": {
+   "id": "@P0279@",
+   "name": "Alexander Petrus Johannes Antonius Hillen",
+   "sex": "M",
+   "birth_year": 1891,
+   "death_year": 1931,
+   "occupation": "handelsreiziger",
+   "note": "Geboren Grave 27-6-1891, overleden Nijmegen 19-6-1931 (39 jaar), handelsreiziger.",
+   "place": "Grave",
+   "place_events": [
+    {
+     "place": "Grave",
+     "role": "geboren",
+     "year": 1891
+    },
+    {
+     "place": "Nijmegen",
+     "role": "overleden",
+     "year": 1931
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven / Gelders Archief, burgerlijke stand Nijmegen en Ede"
+   ],
+   "children": []
+  },
+  "@P0280@": {
+   "id": "@P0280@",
+   "name": "Nellij Bernardina Gerardina Hubertina Hillen",
+   "sex": "F",
+   "birth_year": 1893,
+   "death_year": 1945,
+   "occupation": null,
+   "note": "Geboren Grave 11-4-1893, overleden Nijmegen 1-12-1945. Huwelijk Nijmegen 6-6-1921 met Antonius Wilhelmus Hendrikus Hafkamp (geb. Zutphen, handelsreiziger).",
+   "place": "Grave",
+   "place_events": [
+    {
+     "place": "Grave",
+     "role": "geboren",
+     "year": 1893
+    },
+    {
+     "place": "Nijmegen",
+     "role": "overleden",
+     "year": 1945
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven / Gelders Archief, burgerlijke stand Nijmegen en Ede"
+   ],
+   "children": []
+  },
+  "@P0281@": {
+   "id": "@P0281@",
+   "name": "Albert Hubert Theodoor Hillen",
+   "sex": "M",
+   "birth_year": 1894,
+   "death_year": 1962,
+   "occupation": "rooms-katholiek priester",
+   "note": "Geboren Grave 19-9-1894, overleden Nijmegen 9-4-1962 (67 jaar). Rooms-katholiek priester.",
+   "place": "Grave",
+   "place_events": [
+    {
+     "place": "Grave",
+     "role": "geboren",
+     "year": 1894
+    },
+    {
+     "place": "Nijmegen",
+     "role": "overleden",
+     "year": 1962
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven / Gelders Archief, burgerlijke stand Nijmegen en Ede"
+   ],
+   "children": []
+  },
+  "@P0282@": {
+   "id": "@P0282@",
+   "name": "Jeannette Marie Henriette Hillen",
+   "sex": "F",
+   "birth_year": 1895,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren Grave 2-11-1895. Huwelijk Nijmegen 21-7-1924 met accountant Gerardus Aloysius van Stekelenburg (geb. Ravenstein), zoon van Ludovicus van Stekelenburg en Jacoba Maria Elemans.",
+   "place": "Grave",
+   "place_events": [
+    {
+     "place": "Grave",
+     "role": "geboren",
+     "year": 1895
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Open Archieven / Gelders Archief, burgerlijke stand Nijmegen en Ede"
+   ],
+   "children": []
+  },
+  "@P0283@": {
+   "id": "@P0283@",
+   "name": "Anna Cornelia Henriette Bernardine Marie Hillen",
+   "sex": "F",
+   "birth_year": 1909,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren Goirle 13-12-1909. Huwelijk 's-Gravenhage 25-7-1934 met journalist Karel Joseph Antonius Janson — een neef, want zijn moeder was Cornelia Johanna Wahlen.",
+   "place": "Goirle",
+   "place_events": [
+    {
+     "place": "Goirle",
+     "role": "geboren",
+     "year": 1909
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Haags Gemeentearchief, huwelijksakte 25-7-1934 (via Open Archieven)"
+   ],
+   "children": []
+  },
+  "@P0284@": {
+   "id": "@P0284@",
+   "name": "Lucia Franciska Gertrude Marie Hillen",
+   "sex": "F",
+   "birth_year": 1913,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren Helmond 12-10-1913; jongste kind van Johannes Albertus Hillen en Catharina Wahlen.",
+   "place": "Helmond",
+   "place_events": [
+    {
+     "place": "Helmond",
+     "role": "geboren",
+     "year": 1913
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)"
+   ],
+   "children": []
+  },
+  "@P0285@": {
+   "id": "@P0285@",
+   "name": "Pieter Hendrik Hubert Hillen",
+   "sex": "M",
+   "birth_year": 1851,
+   "death_year": 1851,
+   "occupation": null,
+   "note": "Tweeling met Albertus Paulus; geboren Heythuysen 30-6-1851, overleden 2-12-1851, vijf maanden oud.",
+   "place": "Heythuizen",
+   "place_events": [
+    {
+     "place": "Heythuizen",
+     "role": "geboren",
+     "year": 1851
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
+   ],
+   "children": []
+  },
+  "@P0286@": {
+   "id": "@P0286@",
+   "name": "Albertus Paulus Hillen",
+   "sex": "M",
+   "birth_year": 1851,
+   "death_year": 1854,
+   "occupation": null,
+   "note": "Tweeling met Pieter Hendrik Hubert; geboren Heythuysen 30-6-1851, overleden Heythuysen 15-6-1854.",
+   "place": "Heythuizen",
+   "place_events": [
+    {
+     "place": "Heythuizen",
+     "role": "geboren",
+     "year": 1851
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
+   ],
+   "children": []
+  },
+  "@P0287@": {
+   "id": "@P0287@",
+   "name": "Maria Odilia Hillen",
+   "sex": "F",
+   "birth_year": 1854,
+   "death_year": 1914,
+   "occupation": null,
+   "note": "Geboren Heythuysen 13-4-1854, ongehuwd overleden Blerick 24-12-1914 (60 jaar).",
+   "place": "Heythuizen",
+   "place_events": [
+    {
+     "place": "Heythuizen",
+     "role": "geboren",
+     "year": 1854
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1914
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Bevolkingsregister Maasbree (Peel en Maas), via Open Archieven"
+   ],
+   "children": []
+  },
+  "@P0288@": {
+   "id": "@P0288@",
+   "name": "Petrus Hubertus (Piet) Hillen",
+   "sex": "M",
+   "birth_year": 1857,
+   "death_year": 1923,
+   "occupation": null,
+   "note": "Geboren Heythuysen 16-10-1857, overleden Beek en Donk 19-8-1923, bij de familie van zijn zus Maria Lucia. Leidde na 1895 samen met zijn broer Henri de ijzergieterij van hun vader in Blerick.",
+   "place": "Heythuizen",
+   "place_events": [
+    {
+     "place": "Heythuizen",
+     "role": "geboren",
+     "year": 1857
+    },
+    {
+     "place": "Beek en Donk",
+     "role": "overleden",
+     "year": 1923
+    }
+   ],
+   "sources": [
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
+    "Bevolkingsregister Maasbree (Peel en Maas), via Open Archieven",
+    "[15] Heuijerjans.net, 'Blerick: De IJzergieterijen ... Hillen' (2014)"
+   ],
+   "children": []
+  },
+  "@P0289@": {
+   "id": "@P0289@",
+   "name": "Maria Lucia Hillen",
+   "sex": "F",
+   "birth_year": 1859,
+   "death_year": 1937,
+   "occupation": null,
+   "note": "Geboren Heythuysen 5-8-1859, overleden Beek en Donk 9-2-1937. Huwelijk Maasbree 18-5-1885 met fabrikant Marianus Petrus van Thiel (geb. Beek en Donk 19-4-1861, overl. Eindhoven 14-10-1934), zoon van fabrikant Peter van Thiel en Hendrica Dekker — de familie achter de Van Thiel-fabrieken in Beek en Donk. Minstens zes kinderen, geboren in Beek en Donk 1886–1896.",
+   "place": "Heythuizen",
+   "place_events": [
+    {
+     "place": "Heythuizen",
+     "role": "geboren",
+     "year": 1859
+    },
+    {
+     "place": "Beek en Donk",
+     "role": "overleden",
+     "year": 1937
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)"
+   ],
+   "children": []
+  },
+  "@P0290@": {
+   "id": "@P0290@",
+   "name": "Johannes Alexander Hillen",
+   "sex": "M",
+   "birth_year": 1861,
+   "death_year": 1866,
+   "occupation": null,
+   "note": "Geboren Heythuysen 26-5-1861, overleden Heythuysen 6-10-1866.",
+   "place": "Heythuizen",
+   "place_events": [
+    {
+     "place": "Heythuizen",
+     "role": "geboren",
+     "year": 1861
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
+   ],
+   "children": []
+  },
+  "@P0291@": {
+   "id": "@P0291@",
+   "name": "Maria Hubertina Dorothea Hillen",
+   "sex": "F",
+   "birth_year": 1863,
+   "death_year": 1913,
+   "occupation": null,
+   "note": "Geboren Heythuysen 15-6-1863, overleden Alkmaar 16-10-1913. Huwelijk Maasbree 4-11-1889 met koopman Reinhard Hermann Ferdinand Carl Berentzen uit Haselünne (Duitsland), zoon van fabrikant Bernard Berentzen en Elise Dreesmann.",
+   "place": "Heythuizen",
+   "place_events": [
+    {
+     "place": "Heythuizen",
+     "role": "geboren",
+     "year": 1863
+    },
+    {
+     "place": "Alkmaar",
+     "role": "overleden",
+     "year": 1913
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Open Archieven / Noord-Hollands Archief, overlijdensakte Alkmaar 1913"
+   ],
+   "children": []
+  },
+  "@P0292@": {
+   "id": "@P0292@",
+   "name": "Maria Wilhelmina Elisabeth Hillen",
+   "sex": "F",
+   "birth_year": 1865,
+   "death_year": 1886,
+   "occupation": null,
+   "note": "Geboren Heythuysen 11-1-1865, overleden Blerick 4-12-1886, 20 jaar oud.",
+   "place": "Heythuizen",
+   "place_events": [
+    {
+     "place": "Heythuizen",
+     "role": "geboren",
+     "year": 1865
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1886
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
+   ],
+   "children": []
+  },
+  "@P0293@": {
+   "id": "@P0293@",
+   "name": "Pieter Hillen",
+   "sex": "M",
+   "birth_year": 1828,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren Blerick (gem. Maasbree) 3-3-1828.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1828
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
+   ],
+   "children": []
+  },
+  "@P0294@": {
+   "id": "@P0294@",
+   "name": "Theodor Hillen",
+   "sex": "M",
+   "birth_year": 1832,
+   "death_year": 1832,
+   "occupation": null,
+   "note": "Geboren 7-7-1832, overleden Blerick 9-7-1832, twee dagen oud.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1832
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
+   ],
+   "children": []
+  },
+  "@P0295@": {
+   "id": "@P0295@",
+   "name": "Lucia Hubertina Hillen",
+   "sex": "F",
+   "birth_year": 1833,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren Blerick (gem. Maasbree) 28-11-1833.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1833
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
+   ],
+   "children": []
+  },
+  "@P0296@": {
+   "id": "@P0296@",
+   "name": "Dorothea Hubertina Hillen",
+   "sex": "F",
+   "birth_year": 1836,
+   "death_year": 1878,
+   "occupation": null,
+   "note": "Geboren Blerick 25-1-1836, overleden Blerick 15-2-1878. Huwelijk Maasbree 6-10-1865 met koopman Carel Antoon Gerlach Linskens (geb. Blerick 19-10-1835), zoon van Jan Antoon Linskens, aannemer van publieke werken, en Maria Florentina Charlotta van Laer.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1836
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1878
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
+   ],
+   "children": []
+  },
+  "@P0297@": {
+   "id": "@P0297@",
+   "name": "Aldegonda Hubertina Hillen",
+   "sex": "F",
+   "birth_year": 1839,
+   "death_year": 1885,
+   "occupation": null,
+   "note": "Geboren Blerick 28-11-1839, overleden Venlo 28-3-1885. Huwelijk Venlo 5-5-1859 met akkerman Gerard Hubert Seelen (geb. Venlo 10-12-1836), zoon van Jan Seelen en Maria Magdalena Soest.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1839
+    },
+    {
+     "place": "Venlo",
+     "role": "overleden",
+     "year": 1885
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
+   ],
+   "children": []
   }
  },
  "families": {
@@ -6348,7 +6972,13 @@
     "@P0005@",
     "@P0115@",
     "@P0230@",
-    "@P0231@"
+    "@P0231@",
+    "@P0117@",
+    "@P0293@",
+    "@P0294@",
+    "@P0295@",
+    "@P0296@",
+    "@P0297@"
    ],
    "marr_date": null,
    "marr_place": null
@@ -6376,7 +7006,9 @@
     "@P0239@",
     "@P0240@",
     "@P0241@",
-    "@P0242@"
+    "@P0242@",
+    "@P0277@",
+    "@P0278@"
    ],
    "marr_date": null,
    "marr_place": null
@@ -6645,23 +7277,21 @@
    "marr_date": null,
    "marr_place": null
   },
-  "@F0027@": {
-   "id": "@F0027@",
-   "husb": "@P0004@",
-   "wife": null,
-   "chil": [
-    "@P0117@"
-   ],
-   "marr_date": null,
-   "marr_place": null
-  },
   "@F0028@": {
    "id": "@F0028@",
    "husb": "@P0115@",
    "wife": "@P0116@",
    "chil": [
     "@P0119@",
-    "@P0265@"
+    "@P0265@",
+    "@P0285@",
+    "@P0286@",
+    "@P0287@",
+    "@P0288@",
+    "@P0289@",
+    "@P0290@",
+    "@P0291@",
+    "@P0292@"
    ],
    "marr_date": null,
    "marr_place": null
@@ -6716,7 +7346,11 @@
    "husb": "@P0124@",
    "wife": "@P0125@",
    "chil": [
-    "@P0133@"
+    "@P0133@",
+    "@P0279@",
+    "@P0280@",
+    "@P0281@",
+    "@P0282@"
    ],
    "marr_date": null,
    "marr_place": null
@@ -7019,7 +7653,9 @@
    "chil": [
     "@P0267@",
     "@P0268@",
-    "@P0269@"
+    "@P0269@",
+    "@P0283@",
+    "@P0284@"
    ],
    "marr_date": null,
    "marr_place": null
@@ -7202,6 +7838,7 @@
   "Amby",
   "Antwerpen",
   "Apeldoorn",
+  "Beek en Donk",
   "België (Bree)",
   "Blerick",
   "Bree (B)",
@@ -7212,12 +7849,16 @@
   "Duitsland (Rijnland)",
   "Ede",
   "Edinburgh (Schotland)",
+  "Eindhoven",
   "Enschede",
+  "Erp",
+  "Goirle",
   "Grave",
   "Haarlem",
   "Harmelen",
   "Hasselt",
   "Helden",
+  "Helmond",
   "Heythuizen",
   "Hillegersberg",
   "Hoorn",
@@ -7225,6 +7866,7 @@
   "Koestein",
   "Maasbree",
   "Neerpelt (B)",
+  "Nijmegen",
   "Oosterbeek",
   "Ottersum",
   "Parijs",
@@ -7243,8 +7885,8 @@
   "Wessem"
  ],
  "stats": {
-  "individuals": 276,
-  "families": 80,
-  "places": 44
+  "individuals": 296,
+  "families": 79,
+  "places": 50
  }
 }
