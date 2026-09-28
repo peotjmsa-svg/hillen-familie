@@ -170,7 +170,7 @@
    "birth_year": 1566,
    "death_year": 1628,
    "occupation": "drossaard Ambt Montfort (1618–1620), drossaard land van Kessel (1627)",
-   "note": "Woonplaats volgens de piramide: Helden. Adellijk raad Gelre/Zutphen. Zoon van Godert Hillen (leenman van Horn) en Elisabeth Behr van Laer. Voerde de titel openlijk en werd in akten steevast aangeduid als 'jonker Renier van Hillen tot Helden'.",
+   "note": "Woonplaats volgens de piramide: Helden. Adellijk raad Gelre/Zutphen. Zoon van Godert Hillen (leenman van Horn) en Elisabeth Behr van Laer. Voerde de titel openlijk en werd in akten steevast aangeduid als 'jonker Renier van Hillen tot Helden'. Werd in 1582, nog minderjarig, beleend met de Hoof: het omgrachte huis Ten Hove ('Huis Helden', ten westen van Panningen), sinds vóór 1469 in de familie en tot 1675 het stamhuis van deze tak. Overleden 18-2-1628, begraven in Helden. Van zijn twaalf kinderen gingen er minstens vijf het klooster in: twee dochters werden abdis van Saarn, één abdis van Dalheim, en een zoon abt van Hamborn.",
    "place": "Helden",
    "place_events": [
     {
@@ -182,7 +182,10 @@
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[2] Th.J. Bais, 'Hillen Roermond' (2006)",
-    "Mpaginae.nl, Naamlijst Souvereine Raad en Roermondse bestuurders"
+    "Mpaginae.nl, Naamlijst Souvereine Raad en Roermondse bestuurders",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen",
+    "Günter von Roden, Die Zisterzienserinnenklöster Saarn, Duissern, Sterkrade (Germania Sacra N.F. 18, 1984), § 16 Siegel en § 24 Äbtissinnen, https://personendatenbank.germania-sacra.de/files/books/NF%2018%20Rode%20Saarn,%20Duissern,%20Sterkrade.pdf",
+    "Wikipedia (nl), 'Ten Hove (Panningen)'; Kastelenlexicon CCHIN, 'Hove, Ten' (lx0768)"
    ],
    "children": [
     "@P0067@",
@@ -230,51 +233,61 @@
   },
   "@P0067@": {
    "id": "@P0067@",
-   "name": "Elisabeth Hillen",
+   "name": "Elisabeth Sibilla Hillen",
    "sex": "F",
    "birth_year": 1594,
    "death_year": 1632,
-   "occupation": null,
-   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland). Begraven in Saarn. Vermoedelijk kloosterzuster; lijn eindigt hier.",
-   "place": "Duitsland (Rijnland)",
+   "occupation": "cisterciënzerin, klooster Dalheim",
+   "note": "Geboren 4-9-1594. Non (professa) in het cisterciënzerinnenklooster Dalheim (bij Wegberg, ten noordwesten van Erkelenz). Overleden 25-8-1632 in Saarn, waar zij volgens Germania Sacra waarschijnlijk op bezoek was bij haar zussen; haar grafplaat met inschrift ligt in Saarn (genwiki noemt Dalheim als sterfplaats).",
+   "place": "Dalheim",
    "place_events": [
     {
      "place": "Dalheim",
-     "role": "overleden",
-     "year": 1632
-    },
-    {
-     "place": "Duitsland (Rijnland)",
      "role": "woonachtig",
      "year": 1594
+    },
+    {
+     "place": "Saarn",
+     "role": "overleden",
+     "year": 1632
     }
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[9] Das Erzbistum Köln IV: Zisterzienserinnenklöster Saarn (Germania Sacra)",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "Günter von Roden, Die Zisterzienserinnenklöster Saarn, Duissern, Sterkrade (Germania Sacra N.F. 18, 1984), § 16 Siegel en § 24 Äbtissinnen, https://personendatenbank.germania-sacra.de/files/books/NF%2018%20Rode%20Saarn,%20Duissern,%20Sterkrade.pdf",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": []
   },
   "@P0068@": {
    "id": "@P0068@",
-   "name": "Godfried Hillen",
+   "name": "Wilhelm Gottfried (Godfried) Hillen",
    "sex": "M",
    "birth_year": 1596,
    "death_year": 1672,
-   "occupation": null,
-   "note": "Woonplaats volgens de piramide: Helden. Geen huwelijk of kinderen bekend; lijn eindigt hier.",
-   "place": "Helden",
+   "occupation": "abt van de premonstratenzer abdij Hamborn (1647–1672)",
+   "note": "Geboren 4-1-1596, overleden 30-10-1672. Als 'von Hyllen' 1641 en 1644 kanunnik en pastoor, van 1647 tot 1672 abt van de premonstratenzer abdij Hamborn (nu Duisburg). Broer van de Saarnse abdissen Agnes en Anna Gertrud.",
+   "place": "Hamborn",
    "place_events": [
     {
      "place": "Helden",
      "role": "woonachtig",
      "year": 1596
+    },
+    {
+     "place": "Hamborn",
+     "role": "overleden",
+     "year": 1672
     }
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "Günter von Roden, Die Zisterzienserinnenklöster Saarn, Duissern, Sterkrade (Germania Sacra N.F. 18, 1984), § 16 Siegel en § 24 Äbtissinnen, https://personendatenbank.germania-sacra.de/files/books/NF%2018%20Rode%20Saarn,%20Duissern,%20Sterkrade.pdf",
+    "Prämonstratenser-Abtei Hamborn, 'Prälaten der Abtei Hamborn', http://abteihamborn.blogspot.com/p/pralaten-der-abtei-hamborn.html",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": []
   },
@@ -285,24 +298,20 @@
    "birth_year": 1597,
    "death_year": 1613,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland). Vermoedelijk kloosterzuster; lijn eindigt hier.",
-   "place": "Duitsland (Rijnland)",
+   "note": "Geboren 4-5-1597, overleden in Dalheim 21-11-1613, 16 jaar oud — vermoedelijk als leerling of novice in het klooster waar ook haar zus Elisabeth Sibilla non was.",
+   "place": "Dalheim",
    "place_events": [
     {
      "place": "Dalheim",
      "role": "overleden",
      "year": 1613
-    },
-    {
-     "place": "Duitsland (Rijnland)",
-     "role": "woonachtig",
-     "year": 1597
     }
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[9] Das Erzbistum Köln IV: Zisterzienserinnenklöster Saarn (Germania Sacra)",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": []
   },
@@ -313,7 +322,7 @@
    "birth_year": 1598,
    "death_year": 1599,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Helden. Jong overleden.",
+   "note": "Geboren 27-10-1598, overleden 24-6-1599.",
    "place": "Helden",
    "place_events": [
     {
@@ -324,7 +333,8 @@
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": []
   },
@@ -334,19 +344,28 @@
    "sex": "M",
    "birth_year": 1599,
    "death_year": 1675,
-   "occupation": null,
-   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland).",
-   "place": "Duitsland (Rijnland)",
+   "occupation": "keizerlijk kolonel (kaiserlicher Obrist), keurkeuls geheimraad",
+   "note": "Geboren 12-12-1599, overleden vóór april 1675. Keizerlijk kolonel en geheimraad van de keurvorst van Keulen. Trouwde in 1641 met Maria Helena von Zweiffel zu Sülz en woonde met haar tot 1670 op haar erfgoed Haus Sülz (Lohmar, bij Siegburg), een oude ridderzetel die bij de erfdeling van 1646 aan zijn vrouw toeviel. Een Reichskammergericht-akte van 1646 noemt hem 'Reynaert von Hillen zu Helden und Sülz, Obrist'. Via zijn dochter Anna ging Haus Sülz over op de familie von Boland, die het tot 1766 hield. Zijn zoon Arnold Rutger voerde de titel baron (Freiherr) Hillen zu Sülz.",
+   "place": "Lohmar (Haus Sülz)",
    "place_events": [
     {
-     "place": "Duitsland (Rijnland)",
+     "place": "Helden",
      "role": "woonachtig",
      "year": 1599
+    },
+    {
+     "place": "Lohmar (Haus Sülz)",
+     "role": "woonachtig",
+     "year": 1641
     }
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "Wikipedia (de), 'Haus Sülz' en haus-suelz.de/historie (Erbteilung 1646), https://de.wikipedia.org/wiki/Haus_S%C3%BClz",
+    "Reichskammergericht-Findbuch Z (Zweiffel), vermelding 1646 'Reynaert von Hillen zu Helden und Sülz, Obrist'",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen",
+    "Günter von Roden, Die Zisterzienserinnenklöster Saarn, Duissern, Sterkrade (Germania Sacra N.F. 18, 1984), § 16 Siegel en § 24 Äbtissinnen, https://personendatenbank.germania-sacra.de/files/books/NF%2018%20Rode%20Saarn,%20Duissern,%20Sterkrade.pdf"
    ],
    "children": [
     "@P0084@",
@@ -361,18 +380,25 @@
    "birth_year": 1601,
    "death_year": 1664,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland).",
+   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland). Geboren 14-2-1601, overleden 7-9-1664. Liet voor het klooster Saarn, waar zijn zussen abdis waren, een altaar maken (Memorienbuch Saarn, 7-9-1664). Gehuwd met Gisela von der Recke. Let op: zijn kinderen Werner en Johan staan met geboortejaar 1669 genoteerd, na zijn dood — dat jaartal is vermoedelijk fout.",
    "place": "Duitsland (Rijnland)",
    "place_events": [
     {
      "place": "Duitsland (Rijnland)",
      "role": "woonachtig",
      "year": 1601
+    },
+    {
+     "place": "Saarn",
+     "role": "overleden",
+     "year": 1664
     }
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "Günter von Roden, Die Zisterzienserinnenklöster Saarn, Duissern, Sterkrade (Germania Sacra N.F. 18, 1984), § 16 Siegel en § 24 Äbtissinnen, https://personendatenbank.germania-sacra.de/files/books/NF%2018%20Rode%20Saarn,%20Duissern,%20Sterkrade.pdf",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": [
     "@P0089@",
@@ -386,7 +412,7 @@
    "birth_year": 1602,
    "death_year": null,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Helden.",
+   "note": "Woonplaats volgens de piramide: Helden. Geboren 14-8-1602. Trouwde 1633 met Gerard van Bronsfeld tot Holstraet, zoon van Willem van Bronsfeld en Alijt Swaefken. Hun dochter Gertrud Mechthild von Bronsfeld (ca. 1635–29-10-1688) volgde haar tantes op als abdis van Saarn (1676–1688).",
    "place": "Helden",
    "place_events": [
     {
@@ -397,7 +423,9 @@
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "Günter von Roden, Die Zisterzienserinnenklöster Saarn, Duissern, Sterkrade (Germania Sacra N.F. 18, 1984), § 16 Siegel en § 24 Äbtissinnen, https://personendatenbank.germania-sacra.de/files/books/NF%2018%20Rode%20Saarn,%20Duissern,%20Sterkrade.pdf",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": []
   },
@@ -435,23 +463,30 @@
   },
   "@P0077@": {
    "id": "@P0077@",
-   "name": "Josina Hillen",
+   "name": "Josina Clara Hillen",
    "sex": "F",
    "birth_year": 1603,
    "death_year": 1668,
-   "occupation": null,
-   "note": "Woonplaats volgens de piramide: Helden. Geen huwelijk of kinderen bekend; lijn eindigt hier.",
-   "place": "Helden",
+   "occupation": "abdis van het cisterciënzerinnenklooster Dalheim",
+   "note": "Geboren 14-12-1603, overleden 29-9-1668. Abdis van het cisterciënzerinnenklooster Dalheim (bij Wegberg); haar sterfdag staat in het Memorienbuch van Saarn, waar twee zussen abdis waren.",
+   "place": "Dalheim",
    "place_events": [
     {
      "place": "Helden",
      "role": "woonachtig",
      "year": 1603
+    },
+    {
+     "place": "Dalheim",
+     "role": "overleden",
+     "year": 1668
     }
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "Günter von Roden, Die Zisterzienserinnenklöster Saarn, Duissern, Sterkrade (Germania Sacra N.F. 18, 1984), § 16 Siegel en § 24 Äbtissinnen, https://personendatenbank.germania-sacra.de/files/books/NF%2018%20Rode%20Saarn,%20Duissern,%20Sterkrade.pdf",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": []
   },
@@ -485,7 +520,7 @@
    "birth_year": 1606,
    "death_year": null,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Helden. Geen verdere gegevens; lijn eindigt hier.",
+   "note": "Woonplaats volgens de piramide: Helden. Geboren 17-6-1606. Verder niets bekend.",
    "place": "Helden",
    "place_events": [
     {
@@ -496,7 +531,8 @@
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": []
   },
@@ -525,29 +561,26 @@
   },
   "@P0080@": {
    "id": "@P0080@",
-   "name": "Anna Hillen",
+   "name": "Anna Gertrud Hillen",
    "sex": "F",
    "birth_year": 1609,
    "death_year": 1676,
-   "occupation": null,
-   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland). Vermoedelijk kloosterzuster; lijn eindigt hier.",
-   "place": "Duitsland (Rijnland)",
+   "occupation": "abdis van het cisterciënzerinnenklooster Saarn (1652–1676)",
+   "note": "Geboren 10-10-1609. Non in Saarn, priorin 1642–1652, na de dood van haar zus Agnes abdis van 1652 tot haar dood op 19-9-1676. Haar grafsteen in de kruisgang ('Anna Gertruit ab Hillen de Helden abbatissa') draagt een gevierendeeld wapen: in 1 en 4 het Hillen-wapen (twee kransen boven twee gekruiste zwaarden), in 2 en 3 een klimmende leeuw. 22e abdis van Saarn.",
+   "place": "Saarn",
    "place_events": [
     {
      "place": "Saarn",
      "role": "overleden",
      "year": 1676
-    },
-    {
-     "place": "Duitsland (Rijnland)",
-     "role": "woonachtig",
-     "year": 1609
     }
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[9] Das Erzbistum Köln IV: Zisterzienserinnenklöster Saarn (Germania Sacra)",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "Günter von Roden, Die Zisterzienserinnenklöster Saarn, Duissern, Sterkrade (Germania Sacra N.F. 18, 1984), § 16 Siegel en § 24 Äbtissinnen, https://personendatenbank.germania-sacra.de/files/books/NF%2018%20Rode%20Saarn,%20Duissern,%20Sterkrade.pdf",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": []
   },
@@ -610,7 +643,7 @@
    "birth_year": 1612,
    "death_year": 1615,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Helden. Jong overleden.",
+   "note": "Geboren 8-12-1612, overleden 16-7-1615.",
    "place": "Helden",
    "place_events": [
     {
@@ -621,7 +654,8 @@
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": []
   },
@@ -4358,11 +4392,12 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": null,
+   "note": "Echtgenote van baron Arnold Rutger Hillen zu Sülz; uit het Zuid-Nederlands/Rijnlandse geslacht De Merode.",
    "place": null,
    "place_events": [],
    "sources": [
-    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": []
   },
@@ -4409,25 +4444,22 @@
    "sex": "F",
    "birth_year": null,
    "death_year": 1652,
-   "occupation": null,
-   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland). Vermoedelijk kloosterzuster; lijn eindigt hier.",
-   "place": "Duitsland (Rijnland)",
+   "occupation": "abdis van het cisterciënzerinnenklooster Saarn (1642–1652)",
+   "note": "Geboren vóór 1606. Vanaf 1624 non in het cisterciënzerinnenklooster Saarn (Mülheim an der Ruhr). Op 14-2-1642 tot abdis gekozen in een verkiezing onder leiding van de pauselijke nuntius Fabio Chigi, de latere paus Alexander VII. Haar abdissenzegel van 18-5-1642 (opschrift 'Agnes von Hyllen abbatissa') toont het familiewapen: een doorsneden schild, boven twee kransen naast elkaar, onder twee gekruiste zwaarden met de punten omlaag. Overleden 6-10-1652 ('obiit Agnes de Hillen abbatissa in Zaren'); grafsteen in de kruisgang van Saarn. 21e abdis van Saarn.",
+   "place": "Saarn",
    "place_events": [
     {
      "place": "Saarn",
      "role": "overleden",
      "year": 1652
-    },
-    {
-     "place": "Duitsland (Rijnland)",
-     "role": "woonachtig",
-     "year": null
     }
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[9] Das Erzbistum Köln IV: Zisterzienserinnenklöster Saarn (Germania Sacra)",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "Günter von Roden, Die Zisterzienserinnenklöster Saarn, Duissern, Sterkrade (Germania Sacra N.F. 18, 1984), § 16 Siegel en § 24 Äbtissinnen, https://personendatenbank.germania-sacra.de/files/books/NF%2018%20Rode%20Saarn,%20Duissern,%20Sterkrade.pdf",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": []
   },
@@ -4474,18 +4506,20 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland).",
-   "place": "Duitsland (Rijnland)",
+   "note": "Dochter van kolonel Reyner Hillen tot Helden en Maria Helena von Zweiffel. Gehuwd met Johan Monemit von Boland (geb. Keulen 25-1-1650). Via dit huwelijk kwam Haus Sülz aan de familie von Boland, die het in 1766 verkocht aan Johann Paul La Valette St. George.",
+   "place": "Lohmar (Haus Sülz)",
    "place_events": [
     {
-     "place": "Duitsland (Rijnland)",
+     "place": "Lohmar (Haus Sülz)",
      "role": "woonachtig",
      "year": null
     }
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen",
+    "Wikipedia (de), 'Haus Sülz' en haus-suelz.de/historie (Erbteilung 1646), https://de.wikipedia.org/wiki/Haus_S%C3%BClz"
    ],
    "children": []
   },
@@ -4510,12 +4544,12 @@
    "sex": "M",
    "birth_year": null,
    "death_year": null,
-   "occupation": null,
-   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland, Saarn/Dalheim). Baron Hillen zu Sulz. Geen kinderen bekend; titel vermoedelijk uitgestorven.",
-   "place": "Duitsland (Rijnland)",
+   "occupation": "baron (Freiherr) Hillen zu Sülz",
+   "note": "Baron (Freiherr) Hillen zu Sülz, zoon van kolonel Reyner Hillen tot Helden en Maria Helena von Zweiffel. Gehuwd met Agnes Elisabeth de Merode. Verkocht het stamhuis Ten Hove in Helden: in 1675 ging het naar Jan Reinier Bouwens van der Boije, landrentmeester-generaal van Spaans Gelre. Overleden vóór 30-10-1682. Geen kinderen bekend; de titel is vermoedelijk met hem uitgestorven.",
+   "place": "Lohmar (Haus Sülz)",
    "place_events": [
     {
-     "place": "Duitsland (Rijnland)",
+     "place": "Lohmar (Haus Sülz)",
      "role": "woonachtig",
      "year": null
     }
@@ -4523,7 +4557,9 @@
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
-    "[2] Th.J. Bais, 'Hillen Roermond' (2006)"
+    "[2] Th.J. Bais, 'Hillen Roermond' (2006)",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen",
+    "Wikipedia (nl), 'Ten Hove (Panningen)'; Kastelenlexicon CCHIN, 'Hove, Ten' (lx0768)"
    ],
    "children": []
   },
@@ -5064,11 +5100,19 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": null,
+   "note": "Dochter van Willem van Baexen tot Swalmen en Groetenhof en Aleid von Coslar zu Körrenzig. Overleden 17-9-1634 (Van Baexen-genealogie: 10-9-1634), begraven in Helden.",
    "place": null,
-   "place_events": [],
+   "place_events": [
+    {
+     "place": "Helden",
+     "role": "overleden",
+     "year": 1634
+    }
+   ],
    "sources": [
-    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "Günter von Roden, Die Zisterzienserinnenklöster Saarn, Duissern, Sterkrade (Germania Sacra N.F. 18, 1984), § 16 Siegel en § 24 Äbtissinnen, https://personendatenbank.germania-sacra.de/files/books/NF%2018%20Rode%20Saarn,%20Duissern,%20Sterkrade.pdf",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": [
     "@P0067@",
@@ -5092,11 +5136,13 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": null,
+   "note": "Heer van Holstraet; zoon van Willem van Bronsfeld en Alijt Swaefken. Huwelijk 1633.",
    "place": null,
    "place_events": [],
    "sources": [
-    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen",
+    "Günter von Roden, Die Zisterzienserinnenklöster Saarn, Duissern, Sterkrade (Germania Sacra N.F. 18, 1984), § 16 Siegel en § 24 Äbtissinnen, https://personendatenbank.germania-sacra.de/files/books/NF%2018%20Rode%20Saarn,%20Duissern,%20Sterkrade.pdf"
    ],
    "children": []
   },
@@ -5107,11 +5153,12 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": null,
+   "note": "Dochter van Joost von der Recke en Anna von Aldenbrugge; overleden na 1669.",
    "place": null,
    "place_events": [],
    "sources": [
-    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": [
     "@P0089@",
@@ -5184,7 +5231,7 @@
    "birth_year": null,
    "death_year": 1576,
    "occupation": "leenman van Horn",
-   "note": "Woonplaats volgens de piramide: Helden. 1570 beleend met de tienden van Brede.",
+   "note": "Woonplaats volgens de piramide: Helden. 1570 beleend met de tienden van Brede. Leenman van Horn; erfde de molen de Hoog. Overleden 1576, begraven in de kerk van Helden vóór het hoogaltaar. Gehuwd met Elisabeth Behr van Laer (overl. 1579 in het klooster te Bruggen), dochter van Tilman Behr van Lahr.",
    "place": "Helden",
    "place_events": [
     {
@@ -5195,7 +5242,8 @@
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[2] Th.J. Bais, 'Hillen Roermond' (2006)"
+    "[2] Th.J. Bais, 'Hillen Roermond' (2006)",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": [
     "@P0060@",
@@ -5420,11 +5468,13 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": null,
+   "note": "Geboren Keulen 25-1-1650. Zijn nakomelingen (von Boland) bezaten Haus Sülz tot 1766.",
    "place": null,
    "place_events": [],
    "sources": [
-    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen",
+    "Wikipedia (de), 'Haus Sülz' en haus-suelz.de/historie (Erbteilung 1646), https://de.wikipedia.org/wiki/Haus_S%C3%BClz"
    ],
    "children": []
   },
@@ -5435,18 +5485,19 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland, Saarn/Dalheim). Eveneens baron (titel). Geen kinderen bekend; titel vermoedelijk uitgestorven.",
-   "place": "Duitsland (Rijnland)",
+   "note": "Zoon van kolonel Reyner Hillen tot Helden en Maria Helena von Zweiffel (genwiki noemt hem 'Johan'). Eveneens baron (titel). Geen kinderen bekend; titel vermoedelijk uitgestorven.",
+   "place": "Lohmar (Haus Sülz)",
    "place_events": [
     {
-     "place": "Duitsland (Rijnland)",
+     "place": "Lohmar (Haus Sülz)",
      "role": "woonachtig",
      "year": null
     }
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[2] Th.J. Bais, 'Hillen Roermond' (2006)"
+    "[2] Th.J. Bais, 'Hillen Roermond' (2006)",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": []
   },
@@ -5849,16 +5900,25 @@
   },
   "@P0072@": {
    "id": "@P0072@",
-   "name": "Maria von Zweiffel zu Sulz",
+   "name": "Maria Helena von Zweiffel zu Sülz",
    "sex": "F",
    "birth_year": null,
-   "death_year": null,
+   "death_year": 1672,
    "occupation": null,
-   "note": null,
+   "note": "Erfgename van Haus Sülz (Lohmar), dat in 1582 via Helene von Bellinghausen aan de familie von Zweiffel was gekomen; de Zweiffels bezaten ook Burg Wissem (Troisdorf). Trouwde 1641 met kolonel Reyner (Reinart) von Hillen zu Helden; erfdeling 1646. Overleden 26-11-1672. Ouders volgens genwiki Adolf von Zweiffel zu Sülz en Maria Anna von Tomberg; de RKG-akte van 1646 noemt Wilhelm von Zweiffel zu Wissem als schoonvader van Reyner — nog uit te zoeken.",
    "place": null,
-   "place_events": [],
+   "place_events": [
+    {
+     "place": "Lohmar (Haus Sülz)",
+     "role": "woonachtig",
+     "year": 1641
+    }
+   ],
    "sources": [
-    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "Wikipedia (de), 'Haus Sülz' en haus-suelz.de/historie (Erbteilung 1646), https://de.wikipedia.org/wiki/Haus_S%C3%BClz",
+    "Reichskammergericht-Findbuch Z (Zweiffel), vermelding 1646 'Reynaert von Hillen zu Helden und Sülz, Obrist'",
+    "Genealogie Limburg Wiki, 'Hillen' (tak Hillen tot Helden), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": [
     "@P0084@",
@@ -7855,6 +7915,7 @@
   "Goirle",
   "Grave",
   "Haarlem",
+  "Hamborn",
   "Harmelen",
   "Hasselt",
   "Helden",
@@ -7864,6 +7925,7 @@
   "Hoorn",
   "Klimmen",
   "Koestein",
+  "Lohmar (Haus Sülz)",
   "Maasbree",
   "Neerpelt (B)",
   "Nijmegen",
@@ -7887,6 +7949,6 @@
  "stats": {
   "individuals": 296,
   "families": 79,
-  "places": 50
+  "places": 52
  }
 }

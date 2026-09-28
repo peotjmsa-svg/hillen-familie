@@ -42,10 +42,10 @@
   "display_name": "Bree, Maaseik, Limburg, Vlaanderen, 3960, België / Belgique / Belgien"
  },
  "Dalheim": {
-  "query": "Dalheim, Nederland",
-  "lat": 48.8889399,
-  "lon": 6.5625264,
-  "display_name": "Dalhain, Sarrebourg-Château-Salins, Moselle, Grand Est, France métropolitaine, 57340, France"
+  "query": "Dalheim, Wegberg, Deutschland",
+  "lat": 51.1541969,
+  "lon": 6.188879,
+  "display_name": "Dalheim, Wegberg, Kreis Heinsberg, Nordrhein-Westfalen, Deutschland"
  },
  "Delft": {
   "query": "Delft, Nederland",
@@ -298,5 +298,17 @@
   "lat": 51.6004767,
   "lon": 5.6064592,
   "display_name": "Erp, Meierijstad, Noord-Brabant, Nederland"
+ },
+ "Lohmar (Haus Sülz)": {
+  "query": "Haus Sülz, Lohmar, Deutschland",
+  "lat": 50.8402243,
+  "lon": 7.2127276,
+  "display_name": "Lohmar, Rhein-Sieg-Kreis, Nordrhein-Westfalen, Deutschland"
+ },
+ "Hamborn": {
+  "query": "Hamborn, Duisburg, Deutschland",
+  "lat": 51.492381,
+  "lon": 6.7732976,
+  "display_name": "Hamborn, Duisburg, Nordrhein-Westfalen, Deutschland"
  }
 }
