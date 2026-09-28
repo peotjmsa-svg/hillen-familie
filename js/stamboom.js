@@ -17,6 +17,21 @@
   const NODE_H_SPACING = 260; // horizontal space per node
   const NODE_V_SPACING = 120; // vertical space between generations
 
+  let hideExtinctLines = false;
+
+  // A line counts as "extinct" if nobody in its subtree was born in or after 1600.
+  // Unknown birth years never count as evidence of extinction (avoids hiding people we simply lack dates for).
+  function computeExtinct(d) {
+    const kids = d.children || [];
+    let maxYear = d.data.birth_year != null ? d.data.birth_year : -Infinity;
+    for (const k of kids) {
+      computeExtinct(k);
+      if (k.maxYear > maxYear) maxYear = k.maxYear;
+    }
+    d.maxYear = maxYear;
+    d.extinct = maxYear !== -Infinity && maxYear < 1600;
+  }
+
   function yearsLabel(p) {
     if (!p) return "";
     const b = p.birth_year != null ? p.birth_year : "?";
@@ -89,6 +104,7 @@
     const hierarchyData = buildHierarchy(DATA.root_id);
     const rootNode = d3.hierarchy(hierarchyData, (d) => d.children);
     rootNode.each((d) => { d.data = d.data.data; });
+    computeExtinct(rootNode);
 
     // Track all people who are in the tree
     TREE_PERSON_IDS = new Set();
@@ -116,8 +132,8 @@
     const treeLayout = d3.tree().nodeSize([NODE_H_SPACING, NODE_V_SPACING]);
     treeLayout(root);
 
-    const nodes = root.descendants();
-    const links = root.links();
+    const nodes = root.descendants().filter((d) => !(hideExtinctLines && d.extinct));
+    const links = root.links().filter((d) => !(hideExtinctLines && d.target.extinct));
 
     // --- Links ---
     const link = g.selectAll(".tree-link").data(links, (d) => d.target.data.id);
@@ -297,13 +313,28 @@
     update(root);
     node = findNode(MY_LINE_ID);
 
-    const lineIds = new Set();
-    for (let n = node; n; n = n.parent) lineIds.add(n.data.id);
+    const lineNodes = [];
+    for (let n = node; n; n = n.parent) lineNodes.push(n);
+    const lineIds = new Set(lineNodes.map((n) => n.data.id));
 
     g.selectAll(".tree-node").classed("my-line", (d) => lineIds.has(d.data.id));
     g.selectAll(".tree-link").classed("my-line", (d) => lineIds.has(d.source.data.id) && lineIds.has(d.target.data.id));
 
-    centerOn(node);
+    // Zoom to fit the WHOLE line (root to Thijn) in view, not just teleport to Thijn alone.
+    const xs = lineNodes.map((n) => n.x);
+    const ys = lineNodes.map((n) => n.y);
+    const pad = 90;
+    const boxW = (Math.max(...xs) - Math.min(...xs)) + pad * 2;
+    const boxH = (Math.max(...ys) - Math.min(...ys)) + pad * 2;
+    const k = Math.max(0.18, Math.min(1.2, Math.min(width() / boxW, height() / boxH)));
+    const cx = (Math.max(...xs) + Math.min(...xs)) / 2;
+    const cy = (Math.max(...ys) + Math.min(...ys)) / 2;
+    const t = d3.zoomIdentity
+      .translate(width() / 2, height() / 2)
+      .scale(k)
+      .translate(-cx, -cy);
+
+    svg.transition().duration(650).ease(d3.easeCubicOut).call(zoomBehavior.transform, t);
     highlightNode(MY_LINE_ID);
     showDetail(node.data);
   }
@@ -638,6 +669,13 @@
         document.getElementById("view-list-btn").addEventListener("click", () => switchView("list"));
         document.getElementById("reset-view-btn").addEventListener("click", () => centerOn(root));
         document.getElementById("my-line-btn").addEventListener("click", showMyLine);
+        document.getElementById("toggle-extinct-btn").addEventListener("click", () => {
+          hideExtinctLines = !hideExtinctLines;
+          const btn = document.getElementById("toggle-extinct-btn");
+          btn.textContent = hideExtinctLines ? "Uitgestorven lijnen tonen" : "Uitgestorven lijnen verbergen";
+          btn.classList.toggle("active", hideExtinctLines);
+          update(root);
+        });
         document.getElementById("expand-all-btn").addEventListener("click", () => {
           expandAll(root);
           update(root);

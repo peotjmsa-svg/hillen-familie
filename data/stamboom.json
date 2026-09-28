@@ -170,7 +170,7 @@
    "birth_year": 1566,
    "death_year": 1628,
    "occupation": "drossaard Ambt Montfort (1618–1620), drossaard land van Kessel (1627)",
-   "note": "Woonplaats volgens de piramide: Helden. Adellijk raad Gelre/Zutphen.",
+   "note": "Woonplaats volgens de piramide: Helden. Adellijk raad Gelre/Zutphen. Zoon van Godert Hillen (leenman van Horn) en Elisabeth Behr van Laer. Voerde de titel openlijk en werd in akten steevast aangeduid als 'jonker Renier van Hillen tot Helden'.",
    "place": "Helden",
    "place_events": [
     {
@@ -181,7 +181,8 @@
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[2] Th.J. Bais, 'Hillen Roermond' (2006)"
+    "[2] Th.J. Bais, 'Hillen Roermond' (2006)",
+    "Mpaginae.nl, Naamlijst Souvereine Raad en Roermondse bestuurders"
    ],
    "children": [
     "@P0067@",
@@ -4403,7 +4404,7 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland). Baron Hillen zu Sulz. Geen kinderen bekend; titel vermoedelijk uitgestorven.",
+   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland, Saarn/Dalheim). Baron Hillen zu Sulz. Geen kinderen bekend; titel vermoedelijk uitgestorven.",
    "place": "Duitsland (Rijnland)",
    "place_events": [
     {
@@ -4488,7 +4489,7 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Roermond.",
+   "note": "Dochter van Henricus Hillen en Sara van Brede; zus van burgemeester Johan Hillen (1512–1600). Geboren rond het begin van de 16e eeuw. Trouwde in 1544 met Lodewijk in der Horst, schout van het Ambt Montfort. Rond 1548 liet het echtpaar kasteel Het Geudje (ook Huis Hasselholt genoemd) bouwen bij Ohé en Laak, met een alliantiewapen in de gevel; in tweede instantie kregen ze ook een traptoren toegevoegd. Er is nog een gelijknamige zuster Catharina Hillen bekend; welke van de twee dit precies betreft staat nog niet vast.",
    "place": "Roermond",
    "place_events": [
     {
@@ -4499,7 +4500,8 @@
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "Wikipedia, 'Kasteel Het Geudje'"
    ],
    "children": []
   },
@@ -4699,14 +4701,15 @@
    "id": "@P0002@",
    "name": "Dederik Hillen",
    "sex": "M",
-   "birth_year": null,
-   "death_year": null,
+   "birth_year": 1595,
+   "death_year": 1655,
    "occupation": "bestuurder in Roermond (1647–1649)",
-   "note": "Staat als 'Jr. Dederik Hillen' in de Roermondse bestuurderslijst voor 1647, 1648 en 1649. Mogelijke voorouder ('Jonker Dederik Hillen'); plaats in de stamboom nog onbekend.",
+   "note": "Staat als 'Jr. Dederik Hillen' in de Roermondse bestuurderslijst voor 1647, 1648 en 1649. Jaartallen ca. 1595–ca. 1655. Zoon van jonkheer Johan van Hillen (1579–1618) en Anna van Greefraedt, uit de adellijke tak van de familie.",
    "place": null,
    "place_events": [],
    "sources": [
-    "Roermondse bestuurderslijst (Souvereine Raad) https://www.mpaginae.nl/Roermond/SouvereineRaad.htm"
+    "Roermondse bestuurderslijst (Souvereine Raad) https://www.mpaginae.nl/Roermond/SouvereineRaad.htm",
+    "Roermondse bestuurderslijst (Souvereine Raad), Mpaginae.nl"
    ],
    "children": []
   },
@@ -5325,7 +5328,7 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland). Eveneens baron (titel). Geen kinderen bekend; titel vermoedelijk uitgestorven.",
+   "note": "Woonplaats volgens de piramide: Duitsland (Rijnland, Saarn/Dalheim). Eveneens baron (titel). Geen kinderen bekend; titel vermoedelijk uitgestorven.",
    "place": "Duitsland (Rijnland)",
    "place_events": [
     {
@@ -6239,6 +6242,62 @@
    "children": [
     "@P0009@"
    ]
+  },
+  "@P0274@": {
+   "id": "@P0274@",
+   "name": "Johan van Hillen",
+   "sex": "M",
+   "birth_year": 1579,
+   "death_year": 1618,
+   "occupation": "schepen",
+   "note": "Telg uit de adellijke/patricische kring rond Roermond en Maasniel. Jonkheer; nauw betrokken bij leenverheffingen en pachtgoederen in de regio, onder meer verbonden aan het Christoffelhuis. Huwelijk met Anna van Greefraedt. Niet te verwarren met de gelijknamige Johan van Hillen (1601–1664) uit de Rijnlandse tak.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": 1579
+    }
+   ],
+   "sources": [
+    "Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "Jan Ruiten, 'Onder den Klockenslagh van Neel, Leeuwen en Asenray'"
+   ],
+   "children": [
+    "@P0002@"
+   ]
+  },
+  "@P0275@": {
+   "id": "@P0275@",
+   "name": "Anna van Greefraedt",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Echtgenote van jonkheer Johan van Hillen (1579–1618).",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": [
+    "@P0002@"
+   ]
+  },
+  "@P0276@": {
+   "id": "@P0276@",
+   "name": "Dierick (Theodorus) van Hillen",
+   "sex": "M",
+   "birth_year": 1695,
+   "death_year": null,
+   "occupation": null,
+   "note": "Jonkheer; latere nazaat uit de 17e/18e-eeuwse adellijke tak die de titel en het familiewapen in oorkondes voortzette. Exacte plaats in de stamboom en precieze afstamming nog onbekend.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+   ],
+   "children": []
   }
  },
  "families": {
@@ -7183,7 +7242,7 @@
   "Wessem"
  ],
  "stats": {
-  "individuals": 273,
+  "individuals": 276,
   "families": 80,
   "places": 44
  }
