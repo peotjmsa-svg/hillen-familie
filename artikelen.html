@@ -13,7 +13,10 @@
 <header class="site-header">
   <div class="container">
     <a class="brand" href="index.html">Familie Hillen <small>Stamboom &amp; archief</small></a>
-    <nav class="main-nav">
+    <button class="nav-toggle" id="nav-toggle" type="button" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="main-nav" id="main-nav">
       <ul>
         <li><a href="index.html">Home</a></li>
         <li><a href="stamboom.html">Stamboom</a></li>
@@ -81,6 +84,11 @@
     <span>Kaartgegevens &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>-bijdragers</span>
   </div>
 </footer>
-
+<script>
+document.getElementById('nav-toggle').addEventListener('click', function() {
+  this.classList.toggle('open');
+  document.getElementById('main-nav').classList.toggle('open');
+});
+</script>
 </body>
 </html>

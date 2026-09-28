@@ -3612,7 +3612,8 @@
     "@P0243@",
     "@P0244@",
     "@P0245@",
-    "@P0246@"
+    "@P0246@",
+    "@P0272@"
    ]
   },
   "@P0269@": {
@@ -6092,10 +6093,10 @@
    "id": "@P0009@",
    "name": "Thijn Hillen",
    "sex": "M",
-   "birth_year": null,
+   "birth_year": 2003,
    "death_year": null,
    "occupation": null,
-   "note": "Generaties tussen Felix Hillen (1900–1973) en Thijn nog invullen.",
+   "note": "Zoon van Florian Hillen (1970).",
    "place": null,
    "place_events": [],
    "sources": [],
@@ -6204,6 +6205,40 @@
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
    ],
    "children": []
+  },
+  "@P0272@": {
+   "id": "@P0272@",
+   "name": "Pink Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Roepnaam; doopnaam onbekend. Broer van internist Piet Hein Hillen (1929–2019), beiden kinderen van Felix Joseph Marie Hillen (1900–1973).",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Mondelinge overlevering binnen de familie."
+   ],
+   "children": [
+    "@P0273@"
+   ]
+  },
+  "@P0273@": {
+   "id": "@P0273@",
+   "name": "Florian Hillen",
+   "sex": "M",
+   "birth_year": 1970,
+   "death_year": null,
+   "occupation": null,
+   "note": "Zoon van Pink Hillen.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Mondelinge overlevering binnen de familie."
+   ],
+   "children": [
+    "@P0009@"
+   ]
   }
  },
  "families": {
@@ -7148,7 +7183,7 @@
   "Wessem"
  ],
  "stats": {
-  "individuals": 271,
+  "individuals": 273,
   "families": 80,
   "places": 44
  }
