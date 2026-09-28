@@ -362,6 +362,27 @@ nav.main-nav a.active {
   color: #fff;
 }
 
+.depth-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.3rem 0.5rem;
+}
+.depth-label { font-size: 0.82rem; color: var(--ink-soft); margin-right: 0.1rem; }
+.depth-btn {
+  padding: 0.35rem 0.6rem;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--ink);
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+.depth-btn.active { background: var(--navy); border-color: var(--navy); color: #fff; }
+
 #search-results {
   position: absolute;
   top: calc(100% + 4px);

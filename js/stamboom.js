@@ -18,18 +18,24 @@
   const NODE_V_SPACING = 120; // vertical space between generations
 
   let hideExtinctLines = false;
+  const EXTINCT_CUTOFF = 1700;
 
-  // A line counts as "extinct" if nobody in its subtree was born in or after 1600.
-  // Unknown birth years never count as evidence of extinction (avoids hiding people we simply lack dates for).
+  // A line counts as "extinct" if nobody in its subtree is known (by birth or death year) to have
+  // lived in or after EXTINCT_CUTOFF, OR it's a dead-end leaf (no children) with no dates at all —
+  // e.g. "titel vermoedelijk uitgestorven" people who have no recorded descendants and no known years.
+  // A node with unknown dates that still HAS children is never hidden by that alone: its subtree's
+  // known years (if any) decide it, so a real but undated ancestor of a documented line stays visible.
   function computeExtinct(d) {
     const kids = d.children || [];
-    let maxYear = d.data.birth_year != null ? d.data.birth_year : -Infinity;
+    const ownYears = [d.data.birth_year, d.data.death_year].filter((y) => y != null);
+    let maxYear = ownYears.length ? Math.max(...ownYears) : -Infinity;
     for (const k of kids) {
       computeExtinct(k);
       if (k.maxYear > maxYear) maxYear = k.maxYear;
     }
     d.maxYear = maxYear;
-    d.extinct = maxYear !== -Infinity && maxYear < 1600;
+    const deadEndUnknown = kids.length === 0 && maxYear === -Infinity;
+    d.extinct = deadEndUnknown || (maxYear !== -Infinity && maxYear < EXTINCT_CUTOFF);
   }
 
   function yearsLabel(p) {
@@ -253,6 +259,21 @@
       d._children = null;
     }
     if (d.children) d.children.forEach(expandAll);
+  }
+
+  // Set how many generations are expanded everywhere in one click, instead of clicking node by node.
+  function setDepth(maxDepth) {
+    root.each((d) => {
+      if (d.children && d.depth >= maxDepth) {
+        d._children = d.children;
+        d.children = null;
+      } else if (d._children && d.depth < maxDepth) {
+        d.children = d._children;
+        d._children = null;
+      }
+    });
+    update(root);
+    centerOn(root);
   }
 
   // Mathematically accurate centering on ANY node in the tree
@@ -676,9 +697,20 @@
           btn.classList.toggle("active", hideExtinctLines);
           update(root);
         });
-        document.getElementById("expand-all-btn").addEventListener("click", () => {
-          expandAll(root);
-          update(root);
+        document.querySelector('.depth-btn[data-depth="2"]').classList.add("active");
+        document.querySelectorAll(".depth-btn").forEach((btn) => {
+          btn.addEventListener("click", () => {
+            document.querySelectorAll(".depth-btn").forEach((b) => b.classList.remove("active"));
+            btn.classList.add("active");
+            const depth = btn.dataset.depth;
+            if (depth === "all") {
+              expandAll(root);
+              update(root);
+              centerOn(root);
+            } else {
+              setDepth(Number(depth));
+            }
+          });
         });
         window.addEventListener("resize", () => centerOn(root));
 

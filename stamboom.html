@@ -51,8 +51,15 @@
       </div>
       <button id="my-line-btn" type="button">Mijn tak</button>
       <button id="reset-view-btn" type="button">Reset weergave</button>
-      <button id="expand-all-btn" type="button" class="secondary">Alles uitklappen</button>
       <button id="toggle-extinct-btn" type="button" class="secondary">Uitgestorven lijnen verbergen</button>
+      <div class="depth-controls" role="group" aria-label="Aantal generaties tonen">
+        <span class="depth-label">Diepte:</span>
+        <button type="button" class="depth-btn" data-depth="2">2</button>
+        <button type="button" class="depth-btn" data-depth="3">3</button>
+        <button type="button" class="depth-btn" data-depth="4">4</button>
+        <button type="button" class="depth-btn" data-depth="5">5</button>
+        <button type="button" class="depth-btn" data-depth="all">Alles</button>
+      </div>
     </div>
     <div id="tree-wrap">
       <svg id="tree-svg"></svg>
