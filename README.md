@@ -66,3 +66,18 @@ Alle namen, data en familierelaties komen rechtstreeks uit `raw/gedcom/stamboom-
 (GEDCOM 5.5.1, 271 personen, 80 gezinnen). Alle historische feiten in de artikelen komen uit de vier
 onderzochte familiedossiers in `raw/articles/`; zie de bronnenlijst onderaan elk artikel voor de
 oorspronkelijke bronnen.
+
+## Duitse archieven doorzoeken (archive.nrw.de)
+
+Het portaal archive.nrw.de laadt zijn zoekresultaten via JavaScript uit een JSON-dienst. `scripts/archivsuche_nrw.py`
+roept die dienst rechtstreeks aan, zodat je zonder de Duitse website kunt zoeken:
+
+```bash
+python scripts/archivsuche_nrw.py "Hillen Sülz"
+python scripts/archivsuche_nrw.py "Hyllen" --pages 3 --out raw/archivsuche_hyllen.json
+```
+
+Per treffer toont het script de datering, het archief, de signatuur, een directe link en de volledige (Duitse)
+beschrijving. Zoek ook op spellingsvarianten: Hillen, Hyllen, Hijllen, "Rillen" (OCR-fout). Laat de uitvoer
+vertalen door Claude, of open de link in Chrome en kies rechtsklik → "Vertalen naar het Nederlands". De website zelf
+heeft ook een Nederlandse interface (taalkeuze rechtsboven), maar de archiefbeschrijvingen blijven Duits.
