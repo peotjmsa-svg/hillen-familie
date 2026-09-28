@@ -41,6 +41,12 @@
   "lon": 5.8762345,
   "display_name": "Arnhem, Gelderland, Nederland"
  },
+ "Beek (L)": {
+  "query": "Beek, Limburg, Nederland",
+  "lat": 50.9268769,
+  "lon": 5.8106851,
+  "display_name": "Beek, Limburg, Nederland"
+ },
  "Beek en Donk": {
   "query": "Beek en Donk, Nederland",
   "lat": 51.5337801,

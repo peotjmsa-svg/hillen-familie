@@ -2165,7 +2165,7 @@
    "birth_year": 1749,
    "death_year": 1789,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Blerick. Eerst gehuwd met Theodora Sanders, na haar overlijden met Wilhelmina Linssen.",
+   "note": "Woonplaats volgens de piramide: Blerick. Eerst gehuwd met Theodora Sanders, na haar overlijden met Wilhelmina Linssen. Let op: de memorie van successie van Dorothea Sanders (1818) noemt Caspar als haar man, terwijl hier 1789 als zijn sterfjaar staat. Als Caspar in 1789 stierf, kan hij niet na haar dood hertrouwd zijn; mogelijk hoort het huwelijk met Wilhelmina Linssen bij een andere Caspar Hillen.",
    "place": "Blerick",
    "place_events": [
     {
@@ -2180,6 +2180,8 @@
     "[14] Eigen stamboom-app (Hillen Family Tree)"
    ],
    "children": [
+    "@P0323@",
+    "@P0324@",
     "@P0004@"
    ]
   },
@@ -2345,7 +2347,7 @@
    "birth_year": 1789,
    "death_year": 1870,
    "occupation": "hoefsmid, koopman",
-   "note": "Woonplaats volgens de piramide: Blerick. Geboren 26-2-1789, overleden Blerick 20-8-1870 (81 jaar, weduwnaar). Hoefsmid, later koopman. Huwelijk Maasbree 15-6-1820 met Lucia Grubben. Zoon van Caspar Hillen en Dorothea (Theodora) Sanders. Tien kinderen, geboren 1821–1839, onder wie de tweeling Alexander en Joannes.",
+   "note": "Woonplaats volgens de piramide: Blerick. Geboren 26-2-1789, overleden Blerick 20-8-1870 (81 jaar, weduwnaar). Hoefsmid, later koopman. Huwelijk Maasbree 15-6-1820 met Lucia Grubben. Zoon van Caspar Hillen en Dorothea (Theodora) Sanders. Elf kinderen, geboren 1821–1839, onder wie de tweeling Alexander en Joannes.",
    "place": "Blerick",
    "place_events": [
     {
@@ -2370,13 +2372,14 @@
    "children": [
     "@P0005@",
     "@P0115@",
-    "@P0117@",
     "@P0230@",
     "@P0231@",
     "@P0293@",
+    "@P0117@",
     "@P0294@",
     "@P0295@",
     "@P0296@",
+    "@P0322@",
     "@P0297@"
    ]
   },
@@ -2385,19 +2388,25 @@
    "name": "Johanna Reynen",
    "sex": "F",
    "birth_year": 1796,
-   "death_year": null,
+   "death_year": 1834,
    "occupation": null,
-   "note": "Dochter van Gerard Reynen en Anna Tissen (Tegelen). Huwelijk Blerick 10-5-1826.",
+   "note": "Dochter van Gerard Reynen en Anna Tissen (Tegelen). Huwelijk Blerick 10-5-1826. Overleden Blerick 28-1-1834, 36 jaar oud.",
    "place": "Blerick",
    "place_events": [
     {
      "place": "Blerick",
      "role": "geboren",
      "year": 1796
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1834
     }
    ],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
    ],
    "children": [
     "@P0218@",
@@ -2412,17 +2421,23 @@
    "birth_year": 1796,
    "death_year": 1838,
    "occupation": "landbouwer, dagloner",
-   "note": null,
+   "note": "Zoon van Nicolaas Hillen en Willemina Joosten. Akkerknecht. Trouwde Maasbree 9-5-1826 met Joanna Reijnen; na haar dood (1834) hertrouwde hij in 1834 met Petronella Klerken. Overleden Blerick 14-4-1838, 41 jaar oud.",
    "place": "Blerick",
    "place_events": [
     {
      "place": "Blerick",
      "role": "geboren",
      "year": 1796
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1838
     }
    ],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
    ],
    "children": [
     "@P0218@",
@@ -2491,11 +2506,12 @@
     "@P0115@",
     "@P0230@",
     "@P0231@",
-    "@P0117@",
     "@P0293@",
+    "@P0117@",
     "@P0294@",
     "@P0295@",
     "@P0296@",
+    "@P0322@",
     "@P0297@"
    ]
   },
@@ -2589,15 +2605,20 @@
    "name": "Gaspar Hillen",
    "sex": "M",
    "birth_year": 1823,
-   "death_year": null,
+   "death_year": 1882,
    "occupation": "smid",
-   "note": "Ongehuwd overleden. Geboren 31-12-1823. Het bevolkingsregister van Maasbree noemt hem kuiper.",
+   "note": "Ongehuwd overleden. Geboren 31-12-1823. Het bevolkingsregister van Maasbree noemt hem kuiper. Overleden Blerick 9-11-1882 (58 jaar), als Casparus Hillen.",
    "place": "Blerick",
    "place_events": [
     {
      "place": "Blerick",
      "role": "geboren",
      "year": 1823
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1882
     }
    ],
    "sources": [
@@ -2697,7 +2718,7 @@
    "birth_year": 1829,
    "death_year": null,
    "occupation": null,
-   "note": null,
+   "note": "Geboren Blerick (gem. Maasbree) 23-11-1829.",
    "place": "Blerick",
    "place_events": [
     {
@@ -2707,7 +2728,8 @@
     }
    ],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
    ],
    "children": []
   },
@@ -2761,19 +2783,25 @@
    "name": "Nicolaas Hillen",
    "sex": "M",
    "birth_year": 1832,
-   "death_year": null,
+   "death_year": 1833,
    "occupation": null,
-   "note": null,
+   "note": "Geboren Blerick (gem. Maasbree) 28-11-1832, overleden Blerick 15-8-1833.",
    "place": "Blerick",
    "place_events": [
     {
      "place": "Blerick",
      "role": "geboren",
      "year": 1832
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1833
     }
    ],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
    ],
    "children": []
   },
@@ -2782,15 +2810,20 @@
    "name": "Petronella Bollen",
    "sex": "F",
    "birth_year": 1835,
-   "death_year": null,
+   "death_year": 1861,
    "occupation": null,
-   "note": "Geboren Blerick 20-11-1835. Dochter van Peter Andries Bollen en Geertrui Rutten. Huwelijk Maasbree (Blerick) 21-1-1853. Overleden vóór 1862, toen Alexander als weduwnaar hertrouwde.",
+   "note": "Geboren Blerick 20-11-1835. Dochter van Peter Andries Bollen en Geertrui Rutten. Huwelijk Maasbree (Blerick) 21-1-1853. Overleden vóór 1862, toen Alexander als weduwnaar hertrouwde. Overleden Blerick 13-4-1861, 25 jaar oud.",
    "place": "Blerick",
    "place_events": [
     {
      "place": "Blerick",
      "role": "geboren",
      "year": 1835
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1861
     }
    ],
    "sources": [
@@ -2837,19 +2870,25 @@
    "name": "Nicolaas Hillen",
    "sex": "M",
    "birth_year": 1838,
-   "death_year": null,
+   "death_year": 1839,
    "occupation": null,
-   "note": null,
+   "note": "Geboren 1838, kort na de dood van zijn vader. Overleden Blerick 27-1-1839.",
    "place": "Blerick",
    "place_events": [
     {
      "place": "Blerick",
      "role": "geboren",
      "year": 1838
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1839
     }
    ],
    "sources": [
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
    ],
    "children": []
   },
@@ -6292,9 +6331,9 @@
    "name": "Theodora Sanders",
    "sex": "F",
    "birth_year": null,
-   "death_year": null,
+   "death_year": 1818,
    "occupation": null,
-   "note": "In de akten van haar zoon Alardus (1820, 1870) heet zij Dorothea Sanders.",
+   "note": "In de akten van haar kinderen heet zij Dorothea of Theodora Sanders. Zij overleefde haar man: in 1818 werd in Maasbree een memorie van successie voor haar opgemaakt, dus zij stierf in of kort voor 1818. Bekende kinderen: Joanna Maria (ca. 1784), Maria Catharina (1786) en Alardus (1789).",
    "place": null,
    "place_events": [],
    "sources": [
@@ -6302,6 +6341,8 @@
     "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
    ],
    "children": [
+    "@P0323@",
+    "@P0324@",
     "@P0004@"
    ]
   },
@@ -7002,18 +7043,23 @@
   },
   "@P0293@": {
    "id": "@P0293@",
-   "name": "Pieter Hillen",
+   "name": "Petrus Hubertus (Pieter) Hillen",
    "sex": "M",
    "birth_year": 1828,
-   "death_year": null,
+   "death_year": 1890,
    "occupation": null,
-   "note": "Geboren Blerick (gem. Maasbree) 3-3-1828.",
+   "note": "Geboren Blerick (gem. Maasbree) 3-3-1828. Overleden Beek (Limburg) 26-12-1890 (62 jaar), wonende te Blerick.",
    "place": "Blerick",
    "place_events": [
     {
      "place": "Blerick",
      "role": "geboren",
      "year": 1828
+    },
+    {
+     "place": "Beek (L)",
+     "role": "overleden",
+     "year": 1890
     }
    ],
    "sources": [
@@ -7745,6 +7791,80 @@
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
    ],
    "children": []
+  },
+  "@P0322@": {
+   "id": "@P0322@",
+   "name": "Hubert Willem Hillen",
+   "sex": "M",
+   "birth_year": 1837,
+   "death_year": 1902,
+   "occupation": null,
+   "note": "Zoon van Albert (Alardus) Hillen en Maria Lucia Grubben. Geboren omstreeks 1837 (65 jaar bij zijn dood); zijn geboorteakte staat niet in de online index. Overleden Venray 8-11-1902, wonende te Maasbree. In 1896-1902 komt hij als Hubertus Wilhelmus Hillen voor in notariële akten in Venray.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Venray",
+     "role": "overleden",
+     "year": 1902
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Open Archieven / Gemeentearchief Venray, notariële akten"
+   ],
+   "children": []
+  },
+  "@P0323@": {
+   "id": "@P0323@",
+   "name": "Joanna Maria Hillen",
+   "sex": "F",
+   "birth_year": 1784,
+   "death_year": 1853,
+   "occupation": null,
+   "note": "Dochter van Caspar Hillen en Dorothea (Theodora) Sanders. Landbouwster. Trouwde Maasbree 5-11-1811 met binnenschipper Jean Laurens (Joannes) Weckx, zoon van Tien Weckx en Catarine Theelen. Overleden Blerick 25-12-1853, 69 jaar oud (dus geboren omstreeks 1784).",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "getrouwd",
+     "year": 1811
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1853
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
+   ],
+   "children": []
+  },
+  "@P0324@": {
+   "id": "@P0324@",
+   "name": "Maria Catharina Hillen",
+   "sex": "F",
+   "birth_year": 1786,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren Blerick 29-9-1786, dochter van Caspar Hillen en Dorothea Sanders. Dienstmeid. Trouwde Venlo 2-11-1816 met pannenbakker Johan Brenten (geboren Lutterath bij Geleen 2-8-1783).",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1786
+    },
+    {
+     "place": "Venlo",
+     "role": "getrouwd",
+     "year": 1816
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
+   ],
+   "children": []
   }
  },
  "families": {
@@ -7781,6 +7901,8 @@
    "husb": "@P0003@",
    "wife": "@P0109@",
    "chil": [
+    "@P0323@",
+    "@P0324@",
     "@P0004@"
    ],
    "marr_date": null,
@@ -7795,15 +7917,16 @@
     "@P0115@",
     "@P0230@",
     "@P0231@",
-    "@P0117@",
     "@P0293@",
+    "@P0117@",
     "@P0294@",
     "@P0295@",
     "@P0296@",
+    "@P0322@",
     "@P0297@"
    ],
-   "marr_date": null,
-   "marr_place": null
+   "marr_date": "15 JUN 1820",
+   "marr_place": "Maasbree"
   },
   "@F0005@": {
    "id": "@F0005@",
@@ -8153,8 +8276,8 @@
     "@P0233@",
     "@P0234@"
    ],
-   "marr_date": null,
-   "marr_place": null
+   "marr_date": "21 JAN 1853",
+   "marr_place": "Maasbree"
   },
   "@F0031@": {
    "id": "@F0031@",
@@ -8393,8 +8516,8 @@
     "@P0219@",
     "@P0220@"
    ],
-   "marr_date": null,
-   "marr_place": null
+   "marr_date": "9 MAY 1826",
+   "marr_place": "Maasbree"
   },
   "@F0051@": {
    "id": "@F0051@",
@@ -8704,6 +8827,7 @@
   "Antwerpen",
   "Apeldoorn",
   "Arnhem",
+  "Beek (L)",
   "Beek en Donk",
   "België (Bree)",
   "Blerick",
@@ -8762,8 +8886,8 @@
   "Zolder"
  ],
  "stats": {
-  "individuals": 320,
+  "individuals": 323,
   "families": 81,
-  "places": 63
+  "places": 64
  }
 }
