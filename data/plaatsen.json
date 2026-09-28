@@ -310,5 +310,17 @@
   "lat": 51.492381,
   "lon": 6.7732976,
   "display_name": "Hamborn, Duisburg, Nordrhein-Westfalen, Deutschland"
+ },
+ "Châtelet": {
+  "query": "Châtelet, België",
+  "lat": 50.404,
+  "lon": 4.525,
+  "display_name": "Châtelet, Charleroi, Henegouwen, België"
+ },
+ "Châtelineau": {
+  "query": "Châtelineau, België",
+  "lat": 50.4167,
+  "lon": 4.5167,
+  "display_name": "Châtelineau, Châtelet, Henegouwen, België"
  }
 }
