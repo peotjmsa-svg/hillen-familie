@@ -292,6 +292,27 @@ Alleen vergelijking van jaartallen, namen en plaatsen met `data/stamboom.json`. 
 4. De Hille van Farciennes (Jean † 1582, Charles † 1639): minderbroeders Farciennes, grafschriften Henegouwen/Namen.
 5. Roermond/Helden ter vergelijking: grafsteen met 16 kwartieren in Helden (De Maasgouw 1903, blz. 81), Munsterkerk Roermond.
 
+### Resultaat A (29-9-2026): Drijvers ≠ Dryvener (vermoedelijk niet dezelfde familie)
+- **Gevonden**: Leemans, *La principauté d'Orange de 1470 à 1580* II (1986), blz. 909, noot (Google Books `gyjs6LvKxv4C`,
+  paginabeeld gelezen): jonker Jan Waddel, kapitein, "épousa à Groesbeek le 17 août 1614 (après bans à Nimègue ... du 31 juillet)
+  Maria van Hill(e), habitant Groesbeek, fille de Frans Willem van Hille et d'Else (ou Elisabeth) Drijvers (*De Ned. Leeuw* (1959),
+  c. 432-433)". Zij stierf in Crèvecoeur, begraven Heusden 7-10-1629. Dochter Maria Elisabeth Waddel, gedoopt Nijmegen
+  20-8-1615, getuigen Adriaen de Forcenville, **Anna van Hille, vrouw van Groesbeeck**, en Anna Waddel.
+- Open Archieven bevestigt: huwelijk Nijmegen 31-7-1614 "jonker Jan Waddel wonende te Nijmegen" × "joffrouw Maria van Hill
+  wonende te Groesbeek" (`ran:492ACDD2-451C-49C9-8F9C-A7EA4F9EFC75`); doop 20-8-1615 (`ran:0E3AD383-3072-40E7-B4EB-9EA6296B243F`).
+  Dit is de Maria van Hille, weduwe van kapitein Johan Waddel, uit het proces van 1635.
+- Geneanet kazzaqld (naar Leo van de Pas) noemt Elisabeth Drijvers de vrouw van "Jan van Hille"; Leemans en de Ned. Leeuw zeggen
+  **Frans Willem**. Geneanet guken2 geeft haar geen ouders, plaats of bron. Genealogics.org vraagt een login (niet verder).
+- **Roermond**: de familie heet daar steeds **Dryvener / Drievener / Drijvener / Drivener**: kanunnik Johannes Drievener
+  (domheer 1460, † 1491, stichter van het St.-Matthiasaltaar; Habets, *Bisdom Roermond* I, blz. 27, 68); Johan Dryvener, namens
+  Roermond ondertekenaar ca. 1533 (Franquinet, *Inventaris*, blz. 49/69); Johan Dryvener collator met Christoffel van Dursdael en
+  Johan Golstein. Nooit "Drijvers".
+- **Drijvers** is een andere, veel voorkomende naam (van "drijver"): Open Archieven ca. 1585–1620 in Arnhem, Deventer, Amsterdam,
+  Middelburg, Steenbergen. Maria woonde in Groesbeek, bij Nijmegen: een Gelderse Drijvers ligt dus meer voor de hand.
+- **Conclusie (vermoeden)**: Elisabeth Drijvers was waarschijnlijk **niet** van de Roermondse Dryveners. Het Drijvers-argument voor
+  een Roermondse herkomst van Kniepis vervalt grotendeels. Beslissend is *De Nederlandsche Leeuw* 1959, kol. 432–433 (niet op
+  Delpher; KNGGW-archief of bibliotheek).
+
 ## E. Hoe verder
 - Een koppeling met de stamboom vraagt een bron die ouders of geboorteplaats van Jan Hillen "Kniepis" noemt, of een akte waarin
   een Roermondse of Heldense Hillen naar Tirol of naar de Van Hilles van Megen verwijst.
