@@ -25,8 +25,9 @@ Statische site (GitHub Pages vanaf `main`). Antwoord de gebruiker in het Nederla
 ## Onderzoeksnotities
 - `onderzoek/`: per onderwerp wat gevonden is, wat doorzocht is zonder resultaat, en wat nog open staat. Lees het relevante
   bestand voordat je verder zoekt, en werk het bij aan het eind van elke onderzoekssessie.
-  - `onderzoek/baronnen-en-tirol.md`: Ludwig Augustin en Louis (Châtelet, Beierse officieren, Roermond 1781) en de Tiroolse
-    jagermeester Jan Hillen "Kniepis" (schoonzoon van keizer Maximiliaan; familieband onbewezen).
+  - `onderzoek/baronnen.md`: Ludwig Augustin en Louis (Châtelet, Beierse officieren, Roermond 1781).
+  - `onderzoek/andere-hillens.md`: naamgenoten waarvan niet bewezen is dat ze familie zijn (Tiroolse jagermeester Jan Hillen
+    "Kniepis" en de Van Hilles van Megen, heren van Louverval, overige). Niet in de stamboom zetten zonder bewijs.
 
 ## Open punten
 - Gezin Joannes Hillen × Helena Vorstermans: geen akten online.
