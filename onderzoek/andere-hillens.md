@@ -341,6 +341,14 @@ Alleen vergelijking van jaartallen, namen en plaatsen met `data/stamboom.json`. 
   - later: "... Hillen, Ruremundensis; art." (II, blz. 995, ca. 1550).
   - Een Johannes uit Roermond die rond 1489 in Keulen artes studeerde, is precies de leeftijd van Kniepis. Hij haalde (voor
     zover Keussen weet) geen graad; dat past bij iemand die de universiteit verliet voor een andere loopbaan, maar bewijst niets.
+- **Keussen, *Matrikel* I (1892), volledige tekst op archive.org** (`publikationende03unkngoog`, gevonden door de gebruiker):
+  - rectoraat 284 (vanaf 20-12-1459): nr. 12 "**Joh. Hillen de Rurmund(is); art.; s.; Febr. 3.**", dus 3-2-1460. Geboren ca.
+    1443–1445: vermoedelijk Johan Hillen de Jonge zelf (P0017, schepen 1472), niet zijn zoon;
+  - dec. 1455: nr. 39 "Th. Hillen de Ruremunda" (Theodericus);
+  - 1396: "Joh. de Hylle, presb. cur. de Ettelgheem, sc. iur. can., Torn. d." (priester in Ettelgem, bisdom Doornik): Vlaamse
+    Hille, niet verwant;
+  - ca. 1469: "Joh. Hillen de Vredeborch, Col. d.": niet verwant.
+  - Deel II (1476–1559, met Joh. Hyllen van ca. 1489) staat niet op archive.org.
 - Nieuwe bron om te lezen: "Hillen", in *Limburgs tijdschrift voor genealogie* 8 (1980), blz. 43–60 (genoemd in De Maasgouw
   103 (1984), blz. 177). Waarschijnlijk de bron van Genwiki/Bais.
 - Stamboom: notities en bron toegevoegd bij P0030, P0031, P0032, P0033, P0035 (sterfdagen zonder jaar, rollen). Geen nieuwe
