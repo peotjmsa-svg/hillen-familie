@@ -16,10 +16,10 @@ Statische site (GitHub Pages vanaf `main`). Antwoord de gebruiker in het Nederla
 - `archivsuche_nrw.py`, `archief_screenshot.py`: Duitse archieven (archive.nrw.de). `ddb_zoek.py`: Deutsche Digitale Bibliothek API.
 - `commons_zoek.py` / `commons_info.py`: vrije foto's op Wikimedia Commons (licentie in bijschrift).
 - `lees_open_tabblad.py`: leest tabbladen die de gebruiker zelf open heeft in Chrome (debugpoort 9223). Alleen lezen, nooit navigeren.
+  Uitzondering: in dat debugvenster mag Claude op elke site vrij bladeren en navigeren zolang de gebruiker daar is ingelogd (inloggen doet de gebruiker). Menselijk tempo, geen bulkdownloads, nooit anti-botbescherming omzeilen; bij captcha, loginscherm of fout stoppen en vragen.
 - Gebruik curl in plaats van Python-urllib (SSL-fout). Test de site via `python -m http.server 8765`, niet via file://.
 
 ## Regels
-- Nooit anti-botbescherming omzeilen. Bij twijfel (inloggen, betaalde inhoud) eerst de gebruiker vragen.
 - Alleen zekere koppelingen toevoegen: ouders of partner in de akte moeten overeenkomen. Tegenstrijdigheden noteren, niet stil aanpassen.
 
 ## Open punten
