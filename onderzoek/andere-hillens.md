@@ -249,7 +249,26 @@ Alleen vergelijking van jaartallen, namen en plaatsen met `data/stamboom.json`. 
     deel II blz. 287 en 294 nog niet gelezen.
   - 55 pagina's van deze collectie met "Hillen" (OR-zoekopdrachten) doorgelezen; niets over Tirol, keizerlijke dienst of een
     vertrek.
-- Google-zoeken gaf na ± 15 zoekopdrachten een captcha ("unusual traffic"); gestopt, niet omzeild.
+- Google-zoeken gaf na ± 15 zoekopdrachten een captcha ("unusual traffic"); gestopt, niet omzeild. Gebruiker klikte hem daarna
+  zelf weg; verder gezocht in rustig tempo.
+
+### Resultaten ronde 2 (29-9-2026)
+- **Wapen bevestigd door twee 17e-eeuwse wapenboeken**:
+  - Segoing, *Trésor héraldique* (1657), blz. 290 (Google Books `3PlPAAAAcAAJ`): "HILLEN. L'AISNÉ. D'argent à deux vols d'azur,
+    escartelé d'Austriche" (zilver met twee blauwe vluchten, gevierendeeld met Oostenrijk: dat is de lijn van Margarethe).
+  - Palliot, *La vraye et parfaite science des armoiries* (1660), blz. 668: "HILLEN, d'argent au vol d'azur".
+  - Het Roermondse wapen (rozenkransen boven, zwaarden onder) staat al in 1548 op de gevelsteen van Het Geudje (Catharina
+    Hillen). Twee totaal verschillende wapens in dezelfde tijd: **sterke aanwijzing dat Kniepis geen Roermondse Hillen was**
+    (of dat hij een eigen, nieuw wapen kreeg).
+  - Rietstap (1884), blz. 953–954: geen "Hillen"-lemma; wel "Hille (de), Gand, anobli 19-7-1549" (tent en vlinders; de familie
+    die Kaisin noemde) en andere Vlaamse Hilles: allemaal andere wapens.
+- Schweyger, *Chronik der Stadt Hall* (1867), blz. 70: Thaur werd "widerumb gelest ... von der kayserlichen majestät forstmaister
+  Johann von Hillen sein haussfrau Margaretha". Geen herkomst.
+- Prosopographia Curiae Burgundicae (Zenodo 14054562, volledige dataset 1407–1477 gedownload en doorzocht): geen Hillen, Hyllen,
+  Hille of Kniepis aan het Bourgondische hof vóór 1477.
+- Hoogstraten, extra zoektocht op "Hille": niets nieuws.
+- **Nieuw idee (voor Ludwig Augustin)**: hij zegelde de akte van 10-5-1715 (Heisterbach Urk. 335). Als dat zegel te zien is:
+  rozenkransen en zwaarden = Helden; vluchten = Tiroolse/Farciennes-lijn. Dat zou zijn afstamming beslissen.
 
 ## E. Hoe verder
 - Een koppeling met de stamboom vraagt een bron die ouders of geboorteplaats van Jan Hillen "Kniepis" noemt, of een akte waarin

@@ -57,6 +57,10 @@ Uitsluitingsbewijs (vermoeden, sterk):
   Reyner zelf valt af (vrouw † 1672, Reyner † vóór 1675; Ludwig trouwde 1710). Blijft over: **Johann Otto**, tenzij er een
   onbekende zoon was. Via dochter Anna (× Boland) kan niet: dan zou hij Boland heten.
 Wat het echt zou bewijzen (nog te doen):
+0. **Het zegel** aan Heisterbach Urk. 335 (10-5-1715): "Es siegeln Freiherr von Hillen und Freiherr von Boland". Helden-wapen =
+   rozenkransen boven, gekruiste zwaarden onder (zoals het zegel van kolonel Reyner). De Tiroolse/Farciennes-Hilles voerden
+   zilver met blauwe vlucht(en), soms gevierendeeld met Oostenrijk (Segoing 1657, Palliot 1660). Een foto van het zegel beslist
+   dus tussen beide families. Vraag bij de scanbestelling uitdrukkelijk om het zegel.
 1. Origineel van Heisterbach Urk. 335 (10-5-1715) en 338 (1717), Landesarchiv NRW Duisburg: het regest noemt de vader niet, de
    volledige tekst misschien wel ("Witwe des ... Johann Otto"). Scan bestellen via archive.nrw.de (reproductie, geen brief).
 2. Linz am Rhein, Schöffenprotokoll 2-3-1717 (LAV NRW, Vor_71c955cd…): volmacht aan Ferdinand Adolf Stam; volmachten noemen
