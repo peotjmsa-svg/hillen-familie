@@ -47,6 +47,28 @@ Wat al op de site staat: `plekken.html` (kaart `#chatelet`, `#kinderen`) en de p
   - Nog doen: doopboeken Farciennes, Loverval, Châtelet 1640–1710 (AGATHA) doorzoeken op "de Hille"; nagaan waar Jean-Jacques-
     Albert baron de Hille × Bentinck bleef, en of hij kinderen had.
 
+## 1b. Is Ludwig Augustin de zoon van Johann Otto (P0088)? (redenering 29-9-2026)
+Uitsluitingsbewijs (vermoeden, sterk):
+- 1646: de wijngaard in Leubsdorf bleef gemeenschappelijk bezit van kolonel Reyner (P0071) en zwager Cortenbach, beide via hun
+  Von Zweiffel-vrouwen. 1717: Ludwig Augustin had de Leubsdorfse goederen "zur Hälfte von Junker Zwiffel geerbt".
+- 1715: hij verkocht ze **als gevolmachtigde van zijn moeder** Marie Oeulliot (Heisterbach Urk. 335). Zij had dus zelf rechten op
+  Zweiffel-goed; logisch als weduwe (lijftocht) van een zoon van Reyner en Maria Helena von Zweiffel.
+- Zonen van Reyner: Arnold Rutger (P0084) valt af: † vóór 30-10-1682, zijn weduwe was Agnes Elisabeth von Merode (leefde 1685).
+  Reyner zelf valt af (vrouw † 1672, Reyner † vóór 1675; Ludwig trouwde 1710). Blijft over: **Johann Otto**, tenzij er een
+  onbekende zoon was. Via dochter Anna (× Boland) kan niet: dan zou hij Boland heten.
+Wat het echt zou bewijzen (nog te doen):
+1. Origineel van Heisterbach Urk. 335 (10-5-1715) en 338 (1717), Landesarchiv NRW Duisburg: het regest noemt de vader niet, de
+   volledige tekst misschien wel ("Witwe des ... Johann Otto"). Scan bestellen via archive.nrw.de (reproductie, geen brief).
+2. Linz am Rhein, Schöffenprotokoll 2-3-1717 (LAV NRW, Vor_71c955cd…): volmacht aan Ferdinand Adolf Stam; volmachten noemen
+   vaak ouders/erfrecht.
+3. Rijksarchief Luik, "Lettres du baron Hyllen à sa mère, 1715" (Y2/655 nr. 1): scan aanvragen; brieven aan moeder noemen soms
+   "feu mon père".
+4. Huwelijk Johann Otto × Marie Oeulliot (ca. 1675–1690): zoeken in Keulen/Bonn (kerkboeken op FamilySearch/Matricula), Luik,
+   Namen, Somme. Achternaamvarianten: Oeulliot, Oeuillot, Œillot, Ouillot, Willot.
+5. Overlijden/begrafenis Marie Oeulliot "veuve de Hillen" (na 1715), bv. Châtelet 1715–1740 (AGATHA, register 03066) of Luik.
+6. Rijkskamergericht/Offizialat Keulen: processen over de Zweiffel- of Blankart-erfenis na 1684 waarin "Johann Otto" of zijn
+   erfgenamen optreden (archive.nrw.de: nog zoeken op "Hillen" 1685–1720, "Blankart Vilich", "Zweifel Leubsdorf").
+
 ## 2. Andere Hillens (familieband onbewezen)
 Zie `onderzoek/andere-hillens.md`: de Tiroolse jagermeester Jan Hillen "Kniepis", de Van Hilles van Megen en Groesbeek,
 de heren van Louverval en andere naamgenoten.
