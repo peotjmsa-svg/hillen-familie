@@ -195,6 +195,22 @@ Alleen vergelijking van jaartallen, namen en plaatsen met `data/stamboom.json`. 
   Open Archieven (Guilielmus/Wilhelmus/Willem Hillen, Hillen 1560–1650): geen Roermondse doopboeken van die tijd geïndexeerd.
   Volgende stap: doopboek Roermond ca. 1600–1615 via FamilySearch in de browser van de gebruiker.
 
+## D2. Plan herkomst Kniepis (afgesproken 29-9-2026, nog niet uitgevoerd)
+1. Wapens vergelijken: Roermond/Helden (boven twee rozenkransen, onder twee gekruiste zwaarden) met het kwartier "Hillen" bij
+   Charles de Brimeu (Maurice, Blason de la Toison d'Or, 1665, blz. 248), zegels van Barbara van Hille / Margarethe von
+   Helfenstein, wapen de Hille van Farciennes/Agimont (Kessel, Poplimont, Van Hille 1954), en Michiel Hillen van Hoochstraten.
+2. Literatuur: Kerler, Grafen von Helfenstein (1840) blz. 132–136; Programm Staatsgymnasium Innsbruck 52 (1901) blz. 30, 34;
+   jachtboek Maximiliaan (1901) inleiding; Granichstaedten-Czerva, Adler 74 (1956); Wiesflecker.
+3. Loopbaan vóór 1498: Regesta Imperii 1477–1497 (Hilla/Hilland/Hillen/Hyllen/Kniepis); Prosopographia Curiae Burgundicae
+   (online); Hofordnungen der Herzöge von Burgund (Kruse/Paravicini).
+4. Roermond: herkomst gegevens P0026/P0035/kind van P0014 (piramide, Bais 2006, Genwiki); regesten stadsarchief Roermond
+   (Flament), PSHAL, De Maasgouw (Delpher); Gelderse leenaktenboeken kwartier Roermond 1480–1530. Doel: wonen beide Johannessen
+   na 1498 nog in Roermond? Dan valt hypothese 1 af.
+5. Hoogstraten: kinderen van Jan Hillen × Catherine Dibbouts (Van Havre; nl.wikipedia Michiel Hillen; Jaarboek Hoogstraatse
+   oudheidkundige kring); Henricus Hoochstrate alias Hillen (Leuven 1468); link Lalaing–Margaretha van Oostenrijk (Mechelen);
+   schepenregisters Hoogstraten (Rijksarchief Antwerpen).
+6. Bezit van Kniepis/Wilhelm in Gelre of Brabant na 1510 (Leenzaal van Brabant, Gelders leenhof).
+
 ## E. Hoe verder
 - Een koppeling met de stamboom vraagt een bron die ouders of geboorteplaats van Jan Hillen "Kniepis" noemt, of een akte waarin
   een Roermondse of Heldense Hillen naar Tirol of naar de Van Hilles van Megen verwijst.
