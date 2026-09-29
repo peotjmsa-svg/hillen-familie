@@ -334,12 +334,13 @@ Alleen vergelijking van jaartallen, namen en plaatsen met `data/stamboom.json`. 
   - Dat Wilhelm een monnik was, maakt het "zoon Wilhelm naar zijn oom"-argument niet sterker of zwakker.
 - **Keulse universiteit** (Keussen, *Matrikel* I (1892), blz. 449; II (1919), blz. 266, 995; Google Books, deels alleen fragment):
   - dec. 1455: "Th. Hillen de Ruremunda" (Theodericus);
-  - ca. 1488–1490: "**Joh. Hyllen de Ruremunda**; art.; i. et s." (II, blz. 266; de voetnoot met "1490 23/11 det., 1492 6/4 inc.
-    ... 1510/1 in Rom tätig" hoort mogelijk bij hem of bij een buurman: niet zeker);
+  - rectoraat 403 (ca. 1489): nr. 65 "**Joh. Hyllen de Ruremunda**; art.; i. et s." (II, blz. 266). **Gecontroleerd via
+    fragmentbeelden** (`onderzoek/beelden/keussen_II_266_*.png`): de voetnoot "1490 23/11 det., 1492 6/4 inc. ... 1510/1 in Rom
+    tätig" hoort bij nr. **68**, Jud(ocus) van Vorsbach, niet bij Johan. Bij nr. 65 staat geen voetnoot: geen graad, geen latere
+    loopbaan bekend. Johan blijft dus een mogelijke kandidaat voor Kniepis (studeerde rond 1489, geboren ca. 1473–1475);
   - later: "... Hillen, Ruremundensis; art." (II, blz. 995, ca. 1550).
-  - Een Johannes uit Roermond die rond 1488 in Keulen artes studeerde, is precies de leeftijd van Kniepis. Als de voetnoot bij
-    hem hoort ("1510/1 in Rom tätig"), is hij een geestelijke in Rome en **niet** Kniepis. Nog te controleren (deel II in een
-    bibliotheek of via een volledige scan).
+  - Een Johannes uit Roermond die rond 1489 in Keulen artes studeerde, is precies de leeftijd van Kniepis. Hij haalde (voor
+    zover Keussen weet) geen graad; dat past bij iemand die de universiteit verliet voor een andere loopbaan, maar bewijst niets.
 - Nieuwe bron om te lezen: "Hillen", in *Limburgs tijdschrift voor genealogie* 8 (1980), blz. 43–60 (genoemd in De Maasgouw
   103 (1984), blz. 177). Waarschijnlijk de bron van Genwiki/Bais.
 - Stamboom: notities en bron toegevoegd bij P0030, P0031, P0032, P0033, P0035 (sterfdagen zonder jaar, rollen). Geen nieuwe
