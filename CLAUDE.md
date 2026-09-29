@@ -26,6 +26,7 @@ Statische site (GitHub Pages vanaf `main`). Antwoord de gebruiker in het Nederla
 - `onderzoek/`: per onderwerp wat gevonden is, wat doorzocht is zonder resultaat, en wat nog open staat. Lees het relevante
   bestand voordat je verder zoekt, en werk het bij aan het eind van elke onderzoekssessie.
   - `onderzoek/baronnen.md`: Ludwig Augustin en Louis (Châtelet, Beierse officieren, Roermond 1781).
+  - `onderzoek/op-te-vragen.md`: lijst van scans, akten en boeken om op te vragen, per instantie (afvinken wat binnen is).
   - `onderzoek/andere-hillens.md`: naamgenoten waarvan niet bewezen is dat ze familie zijn (Tiroolse jagermeester Jan Hillen
     "Kniepis" en de Van Hilles van Megen, heren van Louverval, overige). Niet in de stamboom zetten zonder bewijs.
 
