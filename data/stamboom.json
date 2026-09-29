@@ -39,7 +39,7 @@
    "birth_year": 1415,
    "death_year": 1484,
    "occupation": "burgemeester (1458), schout (1468), schepen, molenbezitter",
-   "note": "Woonplaats volgens de piramide: Roermond. 1460–69: richter, met Gadert Hillen als schepen. Huwelijkse voorwaarden 25-7-1435 met Mettele (Mechtildis) van Loeven, weduwe van Lambert van der Kraecken; getuigen namens de bruidegom Gerard van Oederade, Vullinck van Holtmeulen en Arnold van Dursdoel (Res Gestae IV, regest 811). Een kwartierbewijs van 1577 noemt hem 'Jan Hillen der alde'. Burgemeester 1458, schout van Roermond 1460, 1463 en 1467 (De Maasgouw 1899). Op 13 en 19 december 1436 verkochten hij en Mechtildis erfcijnsen aan het kapittel van de H. Geest. Uit dit huwelijk in ieder geval de zonen Johan (de jonge) en Dirk.",
+   "note": "Woonplaats volgens de piramide: Roermond. 1460–69: richter, met Gadert Hillen als schepen. Huwelijkse voorwaarden 25-7-1435 met Mettele (Mechtildis) van Loeven, weduwe van Lambert van der Kraecken; getuigen namens de bruidegom Gerard van Oederade, Vullinck van Holtmeulen en Arnold van Dursdoel (Res Gestae IV, regest 811). Een kwartierbewijs van 1577 noemt hem 'Jan Hillen der alde'. Burgemeester 1458, schout van Roermond 1460, 1463 en 1467 (De Maasgouw 1899). Op 13 en 19 december 1436 verkochten hij en Mechtildis erfcijnsen aan het kapittel van de H. Geest. Uit dit huwelijk in ieder geval de zonen Johan (de jonge) en Dirk. Rentmeester van het ambt Montfort (1456-1459). Hij (of zijn zoon Johan de jonge) had het schoutambt van Roermond in pand: in 1472 werd 'Johan Hyllen' 800 oude Franse schilden terugbetaald. Aan een akte van 2-3-1465 (archief Kruisheren Roermond, inv. nr. 117) hangt nog zijn zegel.",
    "place": "Roermond",
    "place_events": [
     {
@@ -54,7 +54,8 @@
     "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
     "Gemeentearchief Roermond, Res Gestae IV (regesten 1-2087), https://www.archiefroermond.nl/assets/regesten-1-2087.pdf",
     "De Maasgouw 34 (1912), nr. 5, blz. 36-37: kwartierbewijs van burgemeester en schepenen van Roermond, 1577 (Delpher, urn dts:2427006:mpeg21)",
-    "De Maasgouw 21 (1899), blz. 91-92 (Delpher, urn dts:2443048:mpeg21 en dts:2443049:mpeg21), naar het necrologium van de Munsterabdij"
+    "De Maasgouw 21 (1899), blz. 91-92 (Delpher, urn dts:2443048:mpeg21 en dts:2443049:mpeg21), naar het necrologium van de Munsterabdij",
+    "Gemeentearchief Roermond, Res Gestae I (regesten 871-1475), https://www.archiefroermond.nl/assets/res-gestae-871tm1475.pdf"
    ],
    "children": [
     "@P0015@",
@@ -5286,7 +5287,7 @@
    "birth_year": null,
    "death_year": null,
    "occupation": "schepen (1448–1470)",
-   "note": "Woonplaats volgens de piramide: Roermond. Meester broederschap St. Jacob. Had volgens de piramide een kind bij een onbekende vrouw (geschatte, naamloze tak). Als 'Gaedert Hillen' schepen van Roermond op 13-12-1454 en 18-7-1464 (Res Gestae III, regesten 299 en 340).",
+   "note": "Woonplaats volgens de piramide: Roermond. Meester broederschap St. Jacob. Als 'Gaedert Hillen' schepen van Roermond op 13-12-1454 en 18-7-1464 (Res Gestae III, regesten 299 en 340). Kinderen volgens een akte van 12-3-1461: Dederick, Marie en Mechtelt (Res Gestae I, regest 1161); de piramide sprak van een 'naamloze tak' bij een onbekende vrouw. Burger van Roermond 1430 (getuige bij de inlijving van de kerken van Vlodrop, Odiliënberg en Steinkirchen bij het kapittel van de H. Geest). In maart 1443 executeur van het testament dat ridder Hubrecht van Broekhuizen maakte voordat hij op bedevaart ging (samen met Johan van Broekhuizen en Hendrik van Loeven). Leenman van Horn (1451). Schepen van Roermond 1448-1470. Woonde op de Hegstraat (1464). Aan een akte van 25-4-1454 (archief Kruisheren Roermond, inv. nr. 114) hangt nog zijn zegel: een van de oudste bewaarde zegels van de familie.",
    "place": "Roermond",
    "place_events": [
     {
@@ -5298,9 +5299,15 @@
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
-    "Gemeentearchief Roermond, Res Gestae III (regesten 1-2645), https://www.archiefroermond.nl/assets/regesten-1-2645.pdf"
+    "Gemeentearchief Roermond, Res Gestae III (regesten 1-2645), https://www.archiefroermond.nl/assets/regesten-1-2645.pdf",
+    "Gemeentearchief Roermond, Res Gestae I (regesten 871-1475), https://www.archiefroermond.nl/assets/res-gestae-871tm1475.pdf",
+    "Gemeentearchief Roermond, Res Gestae IV (regesten 1-2087), https://www.archiefroermond.nl/assets/regesten-1-2087.pdf"
    ],
-   "children": []
+   "children": [
+    "@P0327@",
+    "@P0328@",
+    "@P0329@"
+   ]
   },
   "@P0104@": {
    "id": "@P0104@",
@@ -7930,6 +7937,70 @@
     "Jan Ruiten, 'Onder den Klockenslagh van Neel, Leeuwen en Asenray' – Christoffelhuis, https://www.janruiten.nl/klockenslagh/Roermond/Christoffelhuis/Christoffelhuis.htm"
    ],
    "children": []
+  },
+  "@P0327@": {
+   "id": "@P0327@",
+   "name": "Dederick Hillen",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Zoon van Godart Hillen. Op 12-3-1461 droegen 'Godert Hille en zijn kinderen Dederick, Marie en Mechtelt' voor schepenen van Maasniel 5 bunder en 1 morgen land over aan de Kartuizers van Roermond (Res Gestae I, regest 1161).",
+   "place": "Roermond",
+   "place_events": [],
+   "sources": [
+    "Gemeentearchief Roermond, Res Gestae I (regesten 871-1475), https://www.archiefroermond.nl/assets/res-gestae-871tm1475.pdf"
+   ],
+   "children": []
+  },
+  "@P0328@": {
+   "id": "@P0328@",
+   "name": "Marie Hillen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Dochter van Godart Hillen. Op 12-3-1461 droegen 'Godert Hille en zijn kinderen Dederick, Marie en Mechtelt' voor schepenen van Maasniel 5 bunder en 1 morgen land over aan de Kartuizers van Roermond (Res Gestae I, regest 1161). Vermoedelijk dezelfde als Maria Hillen (Hillyn), vrouw van Derick van Kessel genaamd Roffert: op 6-12-1502 verkochten zij de hof te Mortersmar in Wickrath (Res Gestae II, regest 2986), en op 15-1-1503 werd een jaargetijde gesticht voor Derrick Roffen en zijn vrouw Marie Hillen bij de Kruisheren van Roermond (Res Gestae IV 1586; Res Gestae I 1571). Zij was toen al overleden (index: '† voor 1504').",
+   "place": "Roermond",
+   "place_events": [],
+   "sources": [
+    "Gemeentearchief Roermond, Res Gestae I (regesten 871-1475), https://www.archiefroermond.nl/assets/res-gestae-871tm1475.pdf",
+    "Gemeentearchief Roermond, Res Gestae II (regesten 2567-3828), https://www.archiefroermond.nl/assets/04.-regesten-nr.-2567-3828.pdf",
+    "Gemeentearchief Roermond, Res Gestae IV (regesten 1-2087), https://www.archiefroermond.nl/assets/regesten-1-2087.pdf",
+    "Gemeentearchief Roermond, Res Gestae I (regesten 1476-1902), https://www.archiefroermond.nl/assets/res-gestae-1476tm1902.pdf"
+   ],
+   "children": []
+  },
+  "@P0329@": {
+   "id": "@P0329@",
+   "name": "Mechtelt Hillen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Dochter van Godart Hillen. Op 12-3-1461 droegen 'Godert Hille en zijn kinderen Dederick, Marie en Mechtelt' voor schepenen van Maasniel 5 bunder en 1 morgen land over aan de Kartuizers van Roermond (Res Gestae I, regest 1161). Mogelijk dezelfde als de Mechteld Hillen die op 13-12-1454 met haar man Johan van Zuchtelen, later schepen van Roermond, een erfrente kocht (Res Gestae III, regest 299); niet bewezen.",
+   "place": "Roermond",
+   "place_events": [],
+   "sources": [
+    "Gemeentearchief Roermond, Res Gestae I (regesten 871-1475), https://www.archiefroermond.nl/assets/res-gestae-871tm1475.pdf"
+   ],
+   "children": []
+  },
+  "@P0330@": {
+   "id": "@P0330@",
+   "name": "Derick van Kessel genaamd Roffert",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Ook Derrick Roffen/Roffart. Gehuwd met Maria (Marie) Hillen. Verkocht op 6-12-1502 met haar de hof te Mortersmar in land en kerspel Wickrath aan de Kruisheren van Wickrath; zegelaars o.a. Rabolt van Dursdael de oude en Derich Hillen, schepen van Roermond. Op 15-1-1503 jaargetijde voor hem en Marie bij de Kruisheren van Roermond.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Gemeentearchief Roermond, Res Gestae II (regesten 2567-3828), https://www.archiefroermond.nl/assets/04.-regesten-nr.-2567-3828.pdf",
+    "Gemeentearchief Roermond, Res Gestae IV (regesten 1-2087), https://www.archiefroermond.nl/assets/regesten-1-2087.pdf"
+   ],
+   "children": []
   }
  },
  "families": {
@@ -8876,6 +8947,26 @@
    ],
    "marr_date": null,
    "marr_place": null
+  },
+  "@F0084@": {
+   "id": "@F0084@",
+   "husb": "@P0014@",
+   "wife": null,
+   "chil": [
+    "@P0327@",
+    "@P0328@",
+    "@P0329@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0085@": {
+   "id": "@F0085@",
+   "husb": "@P0330@",
+   "wife": "@P0328@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
   }
  },
  "places": [
@@ -8945,8 +9036,8 @@
   "Zolder"
  ],
  "stats": {
-  "individuals": 323,
-  "families": 80,
+  "individuals": 327,
+  "families": 82,
   "places": 64
  }
 }

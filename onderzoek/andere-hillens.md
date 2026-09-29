@@ -404,6 +404,33 @@ Res Gestae II-IV.
   Cathrina Pollarts. Maasgouw 1912-samenvatting in Res Gestae III 227 noemt Reiner een zoon van Jan de jonge; de akte van 1517
   zegt dat Reiners vader Dirk was.
 
+### Plan D4 (29-9-2026): vroege Hillens en geestelijken
+1. Alle vermeldingen van Godart (P0014), Theodoricus (P0013) en Hillens vóór 1440 uit Res Gestae I–IV halen (o.a. "Theodoricus
+   Hille de Wissem" 1366).
+2. Geestelijken: Repertorium Germanicum online (pauselijke registers, bisdom Luik/Keulen) en Repertorium Poenitentiariae op
+   Hillen/Hyllen/Hille; Kamp (Wilhelm, Bernard); Duitse Orde Biesen/Gemert (Godert); Munsterabdij (Lutgardis, Mechtildis).
+3. Verhalen rond de vroege familie: Hendrik van Leuven (onthoofd in Luik 1446), Johan de Lovanio (Hieronymuscollege Keulen),
+   de Hillen-molen, Thorn.
+
+### Resultaat D4 (29-9-2026): Godart en Johan de oude, en de oudste zegels
+Alle vermeldingen vóór 1476 uit Res Gestae I-IV doorgelezen (gelezen, niet samengevat):
+- **RG I nr. 1161, 12-3-1461**: "Godert Hille en zijn kinderen **Dederick, Marie en Mechtelt**" dragen voor schepenen van Maasniel
+  5 bunder en 1 morgen land over aan de Kartuizers (R.A.L. Archief Karthuis, inv. d'Hoop 18490 nr. 11). Dit is de "naamloze tak" van
+  Godart (P0014). Toegevoegd: P0327 Dederick, P0328 Marie, P0329 Mechtelt (gezin F0084).
+- Marie is vermoedelijk Maria Hillen (Hillyn) × Derick van Kessel genaamd Roffert (P0330, gezin F0085): hof Mortersmar te Wickrath
+  verkocht 6-12-1502 (RG II 2986); jaargetijde 15-1-1503 (RG IV 1586, RG I 1571); "† voor 1504" (index RG IV).
+- Mechtelt mogelijk = Mechteld Hillen × Johan van Zuchtelen (13-12-1454, RG III 299). Niet bewezen.
+- Godart: burger 1430 (getuige bij pauselijke inlijving van Vlodrop, Odiliënberg en Steinkirchen bij het H.-Geestkapittel, RG I 873);
+  executeur (maart 1443) van het testament van ridder Hubrecht van Broekhuizen, gemaakt vóór een bedevaart (RG IV 863); leenman van
+  Horn 1451 (RG IV 933, RG I 1045); schepen 1448-1470; huis op de Hegstraat 1464 (RG I 1200).
+- Johan de oude (P0011): rentmeester van Montfort 1456-1459 (RG I 1110, 1136); burgemeester 1458; schout/richter 1460-1470.
+- **Oudste bewaarde zegels van de familie** (RHCL, archief Kruisheren Roermond; niet online):
+  - inv. nr. 114, 25-4-1454: "zegel van Gaedert Hillen" (de andere zegels verloren) (RG I 1077);
+  - inv. nr. 117, 2-3-1465: "zegel van Johan Hillen; zegel van Gaidert Hillen fragmentarisch" (RG I 1204);
+  - inv. nr. 96, 14-7-1460: zegel Johan Hillen fragmentarisch (RG I 1150).
+  Een foto van inv. 114 of 117 zou het wapen in de 15e eeuw laten zien (vraag bij RHCL om een scan).
+- Ook: "Theodoricus Hille de Wissem", getuige 26-3-1366 in Luik (RG IV 339): vermoedelijk geen familie; niet onderzocht.
+
 ### Resultaat C (29-9-2026): grafschriften
 - Google Books: niets over een graf of grafschrift van Kniepis (Thaur/Hall/Innsbruck) of van Margarethe in Luik. Alleen dat zij
   naar haar broer Georg in Luik vluchtte (Württembergische Jahrbücher 1879, blz. 298). Nog te doen: Dehio Tirol, Deutsche
