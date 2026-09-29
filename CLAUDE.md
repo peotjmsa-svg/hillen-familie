@@ -22,6 +22,12 @@ Statische site (GitHub Pages vanaf `main`). Antwoord de gebruiker in het Nederla
 ## Regels
 - Alleen zekere koppelingen toevoegen: ouders of partner in de akte moeten overeenkomen. Tegenstrijdigheden noteren, niet stil aanpassen.
 
+## Onderzoeksnotities
+- `onderzoek/`: per onderwerp wat gevonden is, wat doorzocht is zonder resultaat, en wat nog open staat. Lees het relevante
+  bestand voordat je verder zoekt, en werk het bij aan het eind van elke onderzoekssessie.
+  - `onderzoek/baronnen-en-tirol.md`: Ludwig Augustin en Louis (Châtelet, Beierse officieren, Roermond 1781) en de Tiroolse
+    jagermeester Jan Hillen "Kniepis" (schoonzoon van keizer Maximiliaan; familieband onbewezen).
+
 ## Open punten
 - Gezin Joannes Hillen × Helena Vorstermans: geen akten online.
 - Caspar Hillen: sterfjaar 1789 botst met de akte van 1818.
