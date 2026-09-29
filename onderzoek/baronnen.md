@@ -34,7 +34,18 @@ Wat al op de site staat: `plekken.html` (kaart `#chatelet`, `#kinderen`) en de p
 ### Open
 - Beierse officierslijsten (Bayerisches Hauptstaatsarchiv Abt. IV Kriegsarchiv) staan niet online. Gebruiker wil geen brief.
 - Louis: huwelijksregister Châtelet 1730–1764 en doopregister 1738–1794 nog niet systematisch doorzocht.
-- ANNO (Wiener Zeitung) heeft treffers "Hillen" 28-2-1733, 20-11-1771 en "Hyllen" 3-9-1746; niet gelezen (Cloudflare-check).
+- ANNO (Wiener Zeitung) "Hillen" 28-2-1733, 20-11-1771 en "Hyllen" 3-9-1746: **afgesloten** 29-9-2026. Alle pagina's van die
+  nummers via de OCR-tekst (`annoshow?text=wrz|DATUM|PAGINA`) gelezen: de treffers zijn OCR-fouten ("hillen" uit "stillen",
+  "hyllen" uit "hielten"). Geen Hillen.
+- **Nieuwe vraag (29-9-2026)**: de Tiroolse lijn woonde als "barons de Hille" in de buurt van Châtelet: heren van Farciennes
+  (1576–ca. 1640) en Loverval, kanton Châtelet (1619 tot vóór 1670), zie `onderzoek/andere-hillens.md` sectie B. Ludwig Augustin
+  "baron de Hillen" trouwde in 1710 in Châtelineau en woonde in Châtelet. Toeval, of was hij (ook) verwant aan deze familie?
+  - Voor Helden: de Leubsdorfse goederen kwamen van "Junker Zwiffel" (Von Zweiffel, familie van zijn grootmoeder), en hij kwam
+    "uit het bisdom Keulen".
+  - Let op: de voordracht van 1781 via de erfgenamen van zijn weduwe werd **afgewezen**; dat is dus geen hard bewijs van
+    afstamming van Reiner van Hillen.
+  - Nog doen: doopboeken Farciennes, Loverval, Châtelet 1640–1710 (AGATHA) doorzoeken op "de Hille"; nagaan waar Jean-Jacques-
+    Albert baron de Hille × Bentinck bleef, en of hij kinderen had.
 
 ## 2. Andere Hillens (familieband onbewezen)
 Zie `onderzoek/andere-hillens.md`: de Tiroolse jagermeester Jan Hillen "Kniepis", de Van Hilles van Megen en Groesbeek,

@@ -97,6 +97,38 @@ stamvader is onbekend.
   `wNySOpx04U8C`), die zelf verwijst naar de Tables de Le Fort, Rijksarchief Luik.
 - Relatie tot de Tiroolse Hillens of tot de Hillens van Helden: onbekend.
 
+### Opgelost 29-9-2026: de "de Hille" van Farciennes, Othée en Loverval zijn de Tiroolse lijn
+Louverval is **Loverval, kanton Châtelet** (Henegouwen, toen prinsbisdom Luik), niet het Louverval in Artois. Gevonden (gelezen):
+- **Jean (Johan) de Hylle/Hille**, heer van Othée (gekocht 21-2-1575, 5500 fl.) en van **Farciennes** (gekocht 22-5-1576 van Jean
+  de Croÿ, graaf van Roeulx, 29.000 fl.); † **7-8-1582** ("honorandus dominus Joannes de Hille, dominus de Farcine", necrologium
+  minderbroeders Farciennes; hij behoedde het klooster voor de troepen van Casimir). Kaisin, *Annales historiques de la commune
+  de Farciennes* I (1889), blz. 93, 235, 253, 285 (Google Books `0P08BbioQuYC`).
+- Coloma-genealogie (1777, blz. 213, Google Books `DfxNAAAAcAAJ`): Ange d'Affaytati (vivant 1571) × **Jean de Hille, seigneur de
+  Farsin, d'Ottée, fils de Jean & d'Anne de Walthauser**. Zoon **Charles de Hille**, heer van dezelfde plaatsen, † 15-4-1639,
+  × Anne d'Argenteau; dochter Catherine-Hélène-Ange-Anne, kanunnikes van Moustier.
+- **Anna von Walthausen** is volgens Helfferich de vrouw van Franz Wilhelm (ca. 1516), zoon van Kniepis. Dit is dus dezelfde
+  familie. Tegenstrijdig: Coloma noemt de vader "Jean", Helfferich "Franz Wilhelm" (genoteerd, niet opgelost).
+- Chronique archéologique du pays de Liège 45–50 (1954), blz. 68 (alleen fragment): na de koop van Farciennes "le 3 septembre
+  1580, il assiste sa demi-sœur ... à l'occasion de son mariage". Een halfzus past bij het tweede huwelijk van Anna von Walthausen
+  met Claudius van Witthem (1571).
+- De Ryckel, *Les communes de la province de Liège* (1892), blz. 448: "de 1575 à 1591, Jean de Hille et son fils du même nom,
+  seigneurs d'Othée"; vóór 1604 verkochten "Jean et Charles de Hille" Othée aan Guillaume de la Marck.
+- Kessel, *Histoire généalogique de la maison de Marbais* (1873), blz. 53–54 (Google Books `KtqtflHZJ44C`): Jeanne de Marbais
+  trouwde (2) met **Charles, baron de Hille, seigneur d'Agimont, fils de Charles, seigneur de Farchiennes, et d'Agnès Huyn
+  d'Amstenraed** (dochter van Jean en Anne de Groesbeeck). Zoon **Jean-Jacques-Albert, baron de Hille** × Louise-Catherine de
+  Bentinck. Poplimont, *La Belgique héraldique* (1866), blz. 196, geeft hetzelfde.
+  Tegenstrijdig: Coloma noemt Anne d'Argenteau als vrouw van Charles; misschien twee huwelijken (genoteerd).
+- Bulletin de l'Institut archéologique liégeois 10 (1868/1870), blz. 325 (reliefs van Loverval): 27-3-1619 Arnould de Marbais
+  draagt Loverval over aan "messire Charles, seigneur de Hille, son gendre" voor 32.000 florijnen; 15-11-1625 Jacqueline de Pottier
+  doet afstand ten gunste van "son parâtre Charles de Hylle". In 1691 staat dat de familie Henry "avait été mis en possession du
+  fief contre le baron de Hille" (dus vóór 1670 verloren).
+- Kaisin denkt dat de naam komt van het gehucht Hille bij Zwevezele (West-Vlaanderen), en noemt Antoine de Hille, griffier in Gent,
+  geadeld in 1549. Dat is een eigen gok van Kaisin; de huwelijken (Walthausen, Groesbeeck, Bentinck) wijzen naar de Tiroolse lijn.
+- Willy van Hille, *Histoire de la famille van Hille* I (1954), blz. 124 (fragment): een familie "de Hille ... dont nous ne
+  connaissons pas l'origine", Farciennes, verbonden met "de Walthauser, d'Affaytadi, d'Argenteau, Bentinck".
+- **Belang voor de stamboom**: deze "barons de Hille" woonden in de 17e eeuw rond Châtelet (Farciennes, Loverval). Ludwig Augustin,
+  "baron de Hillen", trouwde in 1710 in Châtelineau en woonde in Châtelet. Zie `onderzoek/baronnen.md`.
+
 ## C. Andere naamgenoten die onderweg opdoken (vermoedelijk geen familie)
 - **Hillen in Goslar/Noord-Duitsland**: Rijkshofraad, Wenen: "Hillen contra Hallmann" (1679–1681, testament Elisabeth Juliana
   von Hillen 1680; HHStA RHR Jud. Antiqua 103-9); "Hillen contra Künitz" (Goslar, 1682–1683; RHR Jud. Den. Antiqua 17-15);
@@ -124,18 +156,23 @@ Alleen vergelijking van jaartallen, namen en plaatsen met `data/stamboom.json`. 
     zonder erfdeel die zijn geluk aan het hof zoekt, past bij "geen ouders bekend".
   - Alternatief buiten de stamboom: een broer van drukker **Michiel Hillen van Hoochstraten** (zelfde leeftijd, vader heet Jan,
     Brabant dicht bij het hof in Mechelen, waar Jans weduwe en dochter later woonden).
-- **Karel van Hylle, heer van Louverval** (geb. ca. 1560–1590): Louverval ligt in Artois, net als Eperlecques, dat de keizer aan
-  Barbara van Hille gaf. Daarom eerder een kleinzoon van de Tiroolse lijn (zoon van Franz Wilhelm × Elisabeth Drijvers) dan een
-  Heldense Hillen. Tegen: in het proces van 1635 staan alleen dochters van François Willem als erfgenamen. Voor de Limburgse kant
-  pleit het huwelijk van zijn zoon met een Bentinck van Obbicht. Zwakke kandidaat in de stamboom: **Bertram** (P0079, geb. 1606).
+- **Karel van Hylle, heer van Louverval**: **opgelost** (29-9-2026, zie sectie B). Charles baron de Hille, zoon van Charles heer van
+  Farciennes, van de Tiroolse lijn. Niet Bertram (P0079). (De eerdere gedachte "Louverval in Artois" was fout: het is Loverval
+  bij Châtelet.)
 - **Johann von Hille** († 1684): **weerlegd** (gecontroleerd 29-9-2026). Volgens de.wikipedia "Johann von Hille" heette hij
   oorspronkelijk Johann Hillenius, geboren ca. 1609 in een burgerfamilie in **Hildesheim**, pas in Brandenburgse dienst geadeld
   (Rupinsches Lehnbuch 1647: "Rittmeister Johann Hillenius aus Hildesheim"). Eerst in Nederlandse dienst (Batavia). Geen Hillen.
   Literatuur: Roessel, *Die Erste Brandenburgische Flotte* (1903).
 - **Weduwe Anna Elisabeth von Hillen / Elisabeth Juliana von Hillen** (Goslar, ca. 1680): Goslar ligt naast Hildesheim; eerder
   familie van Hillenius dan van ons. Niet verder zoeken.
-- **Jan Hillen van Lith** (Luikse cartularium): Lith ligt naast Megen. Datering nog niet gecontroleerd: Google Books-API gaf
-  "quota exceeded", Google-zoekpagina geblokkeerd, archive.org vond het cartularium niet. Nog open.
+- **Jan Hillen van Lith**: **opgelost**. Cartulaire de Saint-Lambert IV (1900), nr. MDXVI, blz. 296 (Google Books `FDhnQay_2w4C`):
+  herverdeling van de gemeentegronden van Lith (bezit van het Luikse kapittel), 12-10-1359; "Johanni Hillen" is een van de
+  dorpelingen. Te vroeg en te gewoon voor een verband. Afgesloten.
+- **Kniepis-herkomst**: Google Books "Kniepis" Hillen / Herkunft / "Jan Hillen" Maximilian: niets nieuws. Nog open.
+- **Guillielmus Hillen** en de Roermondse Hillens: FamilySearch-records (ingelogd) hebben geen Roermondse doopboeken vóór 1700
+  geïndexeerd; Full Text-zoeken leverde alleen de Van Dursdal-genealogie op ("Theodorus van Hillen, ged. Roermond 21 Maart 1595,
+  soon van Joannes van Hillen, burgemeester van Roermond en van Anna van Greefraedt"; collectie "Netherlands. Genealogies
+  1349-1850"). Nog open: doopboeken Roermond bladeren (scans).
 - Bijvangst Open Archieven (inschrijvingen universiteit Leuven): **Henricus Hoochstrate alias Hillen**, bisdom Kamerijk, 10-8-1468
   (`abl:8e98df71-c964-945c-7146-9bc823eba0b5`). Een Hillen uit Hoogstraten, een generatie vóór drukker Michiel; steunt het bestaan
   van een Hoogstraatse Hillen-familie rond 1450–1500 (zie hypothese Kniepis). Verder: Petrus Hillen de Cursel (Koersel, bisdom
