@@ -322,7 +322,7 @@
     }
   }
 
-  // Thijn Hillen's own direct line, from himself up to stamvader Dederick Hillen.
+  // Thijn Hillen's own direct line, from himself up to stamvader Diederik (Dederick) Hillen (@P0001@).
   const MY_LINE_ID = "@P0009@";
 
   function showMyLine() {

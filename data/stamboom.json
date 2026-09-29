@@ -3,12 +3,12 @@
  "people": {
   "@P0001@": {
    "id": "@P0001@",
-   "name": "Diederik (Hendrik/Dederik) Hillen",
+   "name": "Diederik (Dederick) Hillen",
    "sex": "M",
    "birth_year": 1380,
    "death_year": 1439,
    "occupation": "schepen van Roermond (1404, 1414, 1420), leenman van de abdij Thorn (1403), molenbezitter",
-   "note": "Woonplaats volgens de piramide: Roermond. Burger van Roermond (1403). 1403: leenman abdij Thorn; 1410: momboir van zijn kinderen; 1420: molenbezitter en schepen Roermond. Levensjaren 1380–1439 komen uit de Hillen Family Tree-app. Volgens Res Gestae III al schepen van Roermond op 26-12-1404 (mogelijk 1403; regest 148: 'Dederic Hillen, schepen') en in oktober 1414 (regest 172: 'Dederic Hille'). Volgens De Maasgouw 1899 kwam het geslacht Hillen 'sedert het begin der vijftiende eeuw te Roermond in de aanzienlijke betrekkingen van Schepen (1404), Schout en Burgemeester voor'.",
+   "note": "Woonplaats volgens de piramide: Roermond. Burger van Roermond (1403). 1403: leenman abdij Thorn; 1410: momboir van zijn kinderen; 1420: molenbezitter en schepen Roermond. Levensjaren 1380–1439 komen uit de Hillen Family Tree-app. Volgens Res Gestae III al schepen van Roermond op 26-12-1404 (mogelijk 1403; regest 148: 'Dederic Hillen, schepen') en in oktober 1414 (regest 172: 'Dederic Hille'). Volgens De Maasgouw 1899 kwam het geslacht Hillen 'sedert het begin der vijftiende eeuw te Roermond in de aanzienlijke betrekkingen van Schepen (1404), Schout en Burgemeester voor'. Stamvader van de Roermondse Hillens. De familiepiramide en Genwiki zetten boven hem nog een vader 'Dederick Hillen' zonder gegevens; daarvoor is geen akte gevonden, en die persoon is daarom met hem samengevoegd. Ook vermeld als Hendrik of Dederik.",
    "place": "Roermond",
    "place_events": [
     {
@@ -4951,30 +4951,6 @@
    ],
    "children": []
   },
-  "@P0010@": {
-   "id": "@P0010@",
-   "name": "Dederick Hillen",
-   "sex": "M",
-   "birth_year": null,
-   "death_year": null,
-   "occupation": null,
-   "note": "Woonplaats volgens de piramide: Roermond. Stamvader van de Roermondse Hillens. Vader van Diederik Hillen (P0001, burger en schepen van Roermond vanaf 1403/1404). Deze oudste generatie is alleen bekend uit de familiepiramide en Genwiki ('I. Dederick Hillen'); er is (nog) geen akte met zijn naam gevonden. De eerste Hillen in de Roermondse akten is Diederik (P0001).",
-   "place": "Roermond",
-   "place_events": [
-    {
-     "place": "Roermond",
-     "role": "woonachtig",
-     "year": null
-    }
-   ],
-   "sources": [
-    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
-   ],
-   "children": [
-    "@P0001@"
-   ]
-  },
   "@P0002@": {
    "id": "@P0002@",
    "name": "Dederik Hillen",
@@ -7957,16 +7933,6 @@
   }
  },
  "families": {
-  "@F0001@": {
-   "id": "@F0001@",
-   "husb": "@P0010@",
-   "wife": null,
-   "chil": [
-    "@P0001@"
-   ],
-   "marr_date": null,
-   "marr_place": null
-  },
   "@F0002@": {
    "id": "@F0002@",
    "husb": "@P0101@",
@@ -8979,8 +8945,8 @@
   "Zolder"
  ],
  "stats": {
-  "individuals": 324,
-  "families": 81,
+  "individuals": 323,
+  "families": 80,
   "places": 64
  }
 }
