@@ -431,6 +431,32 @@ Alle vermeldingen vóór 1476 uit Res Gestae I-IV doorgelezen (gelezen, niet sam
   Een foto van inv. 114 of 117 zou het wapen in de 15e eeuw laten zien (vraag bij RHCL om een scan).
 - Ook: "Theodoricus Hille de Wissem", getuige 26-3-1366 in Luik (RG IV 339): vermoedelijk geen familie; niet onderzocht.
 
+### Resultaat D5 (29-9-2026): kinderen van Godart en de geestelijken
+**Kinderen van Godart (gelezen in Res Gestae):**
+- RG I 1365, 16-3-1480: "Dederik Hillen en Maria Hillen, zijne zuster" verkopen een erfcijns te Leeuwen (orig. met vier zegels).
+- RG IV 1567, 8-6-1501: de stad Roermond vraagt Zutphen te helpen opdat "hun raadsvriend Dederick Hillen en diens zwager Dederick
+  Roffert de vordering van wijlen hun zuster, vrouw van **Gerairt Schymmelpenninck**, kunnen innen" (naar *Regesten brieven Zutphen*
+  nr. 1198, Regionaal Archief Zutphen). Dus: Dederick (P0327) was raadslid; Marie (P0328) × Roffert (P0330) is nu vrijwel zeker;
+  een derde zuster (vermoedelijk Mechtelt, P0329) trouwde met een Zutphense Schimmelpenninck en was in 1501 dood.
+- RG III 1514 (14-2-1507): Dederick Hillen en Dederick Roffert samen schepen van Roermond.
+- Gevolg: de Dederick die 1486-1510 burgemeester/schepen was, kan Godarts zoon zijn en niet (alleen) Dirk zoon van Johan (P0015);
+  notitie bij P0015 aangepast.
+- Nog te doen: Regionaal Archief Zutphen, brief nr. 1198 (1501) en het morgengaveboek van Zutphen (vóór 1501) op Schimmelpenninck.
+
+**Geestelijken:**
+- Repertorium Germanicum / Repertorium Poenitentiariae Germanicum (rg-online.dhi-roma.it, zoektermen Hillen, Hyllen, Hylle, Hillin):
+  alleen **RG VI 3016 (17-6-1451)**: "Johannes Hillen cler. Leod. dioc." bezat onrechtmatig het altaar van St. Nicolaas en Barbara in
+  de parochiekerk van Steensel (bisdom Luik). Niet zeker een Roermondse Hillen (Steensel ligt in de Kempen). Overige treffers:
+  Westfaalse Hillens (Münster, Osnabrück, Paderborn), niet verwant.
+- **Godefridus Hillen**: pastoor van Gemert (Duitse Orde) **1501-1518** (A. van Gils, *Katholyk Meyerysch memorieboek*, 1819, blz.
+  321); † vermoedelijk 6 mei 1518.
+- **Wilhelmus en Bernardus**: in de professielijst van de abdij Kamp als "Wilhelmus en Bernardus de Ruremunde" (21-5-1495 en
+  14-1-1494; *Annalen des hist. Vereins f. d. Niederrhein* 20, blz. 377, via het necrologium).
+- Volledige uitgave van het necrologium van de Munsterabdij: *Publications ... Limbourg* 13 (1876), blz. 170-240 (Google Books
+  `V58BAAAAYAAJ`, ook los: `Bjb2MQxyjccC`). Hillen-vermeldingen: Theodricus (broer van Lutgardis), Mechtildis (sacristes),
+  Irmgard Passarts (grootmoeder van Lutgardis), Mechtildis de Louania (moeder van Lutgardis), Godefridus, Johannes (2×), Bernhardus,
+  Wilhelmus, Irmgard, Anna de Hillen († 1639).
+
 ### Resultaat C (29-9-2026): grafschriften
 - Google Books: niets over een graf of grafschrift van Kniepis (Thaur/Hall/Innsbruck) of van Margarethe in Luik. Alleen dat zij
   naar haar broer Georg in Luik vluchtte (Württembergische Jahrbücher 1879, blz. 298). Nog te doen: Dehio Tirol, Deutsche
