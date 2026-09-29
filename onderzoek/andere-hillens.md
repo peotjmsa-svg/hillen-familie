@@ -111,7 +111,40 @@ stamvader is onbekend.
 - **Hillens in Brugge/Vlaanderen**: "Jan van Hille, forestier" (Biekorf 1892); Jan van Hille uit Eernegem (Appeltjes van het
   Meetjesland 49). Geen verband gezocht.
 
-## D. Hoe verder
+## D. Kandidaten uit de eigen stamboom (vermoedens, zonder nieuw onderzoek, 29-9-2026)
+Alleen vergelijking van jaartallen, namen en plaatsen met `data/stamboom.json`. Niets hiervan is bewezen.
+
+- **Jan Hillen "Kniepis"** (geb. ca. 1465–1485):
+  - Sterkste kandidaat: een van de twee zonen **Johannes** (P0026, P0035) van Johan Hillen de Jonge (P0017, schepen 1472). Zijn broer
+    Henricus trouwde 1508, dus deze generatie is geboren ca. 1470–1490. Twee zonen met dezelfde naam en zonder gegevens: één kan
+    vroeg gestorven zijn, de ander vertrokken. Er is ook een broer **Wilhelmus** (P0033); Jan noemde zijn zoon Wilhelm.
+  - Gelre, en dus Roermond, viel 1477–1492 onder Maximiliaan; hij kon toen jonge mannen uit de streek in dienst nemen.
+  - Latere Drijvers-schoondochter (Roermondse schepenfamilie) past bij een Roermondse herkomst.
+  - Tweede kandidaat: het naamloze kind van schepen **Godart Hillen** (P0014) bij een onbekende vrouw. Een buitenechtelijke zoon
+    zonder erfdeel die zijn geluk aan het hof zoekt, past bij "geen ouders bekend".
+  - Alternatief buiten de stamboom: een broer van drukker **Michiel Hillen van Hoochstraten** (zelfde leeftijd, vader heet Jan,
+    Brabant dicht bij het hof in Mechelen, waar Jans weduwe en dochter later woonden).
+- **Karel van Hylle, heer van Louverval** (geb. ca. 1560–1590): Louverval ligt in Artois, net als Eperlecques, dat de keizer aan
+  Barbara van Hille gaf. Daarom eerder een kleinzoon van de Tiroolse lijn (zoon van Franz Wilhelm × Elisabeth Drijvers) dan een
+  Heldense Hillen. Tegen: in het proces van 1635 staan alleen dochters van François Willem als erfgenamen. Voor de Limburgse kant
+  pleit het huwelijk van zijn zoon met een Bentinck van Obbicht. Zwakke kandidaat in de stamboom: **Bertram** (P0079, geb. 1606).
+- **Johann von Hille** († 1684, Brandenburgse officier, vloot 1657–1660): mogelijk jonker **Johan** (P0090), zoon van
+  luitenant-kolonel Johan (P0073) en Gisela von der Recke. Hij was in 1669 meerderjarig, dus geboren vóór ca. 1644, mogelijk al rond
+  1630. De Von der Reckes kwamen uit het graafschap Mark, dat net als Kleef Brandenburgs was.
+- **Weduwe Anna Elisabeth von Hillen / Elisabeth Juliana von Hillen** (Goslar, ca. 1680): misschien familie van Johann von Hille
+  (zijn vrouw heette Anna Horn). Zeer zwak.
+- **Jan Hillen van Lith** (Luikse cartularium): Lith ligt naast Megen. Controleer de datering; mogelijk een verband met de Van Hilles
+  van Megen.
+
+### Gaten binnen de eigen stamboom
+- **Vader van jonker Johan van Hillen** (P0274, 1579–1618, Roermond) is onbekend. Zijn zoon heet Dederik (P0002). Volgens de
+  vernoemingsregel heette de grootvader dus waarschijnlijk Dederik/Dirk. Beste kandidaat: **Dyrick Hillen** (P0055), zoon van
+  burgemeester Reinier (P0039), Roermond, zonder kinderen in de stamboom. Minder waarschijnlijk: Dederich (P0060, Helden, te jong)
+  of Dirck (P0048, te oud).
+- **Guillielmus Hillen**, getuige bij het huwelijk van Petrus Hillen (P0149) in Roermond op 21-1-1631, staat niet in de stamboom.
+  Vermoedelijk een broer van Petrus (kind van Gerardus, P0065, vóór 1603 of na 1612 geboren) of een broer van Gerardus.
+
+## E. Hoe verder
 - Een koppeling met de stamboom vraagt een bron die ouders of geboorteplaats van Jan Hillen "Kniepis" noemt, of een akte waarin
   een Roermondse of Heldense Hillen naar Tirol of naar de Van Hilles van Megen verwijst.
 - Pas daarna iets hiervan in `data/stamboom.json` zetten. Een verhaal op de site kan wel, mits duidelijk "familieband niet bewezen".
