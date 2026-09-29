@@ -313,6 +313,43 @@ Alleen vergelijking van jaartallen, namen en plaatsen met `data/stamboom.json`. 
   een Roermondse herkomst van Kniepis vervalt grotendeels. Beslissend is *De Nederlandsche Leeuw* 1959, kol. 432–433 (niet op
   Delpher; KNGGW-archief of bibliotheek).
 
+### Resultaat B (29-9-2026): Johannes P0035 en zijn broers
+- **Gevonden (gelezen)**: het dodenboek (necrologium) van de Munsterabdij van de cisterciënzerinnen in Roermond, afgedrukt in
+  A. Fahne, *Die Dynasten, Freiherren und jetzigen Grafen von Bocholtz* (1863), blz. 156 (Google Books `kGxfAAAAcAAJ`,
+  volledige tekst). Mechtildis Hillen (P0030) was daar non en sacristes. Gedacht worden:
+  - 24 juni: "O. **Johannes hillen frater Mechtildis Hillen** nostre c[onventualis]": geen titel, geen ambt, geen jaar;
+  - begin mei: "dominus **Godefridus Hillen** ordinis teutonicorum pastor in Gemerden frater Mechtildis": Duitse Orde, pastoor
+    van Gemert (P0031);
+  - 10 juni: "**Wilhelmus Hillen** monachus campensis, frater Mechtildis": monnik in de abdij Kamp (P0033);
+  - noot 2 (Fahne): broer **Bernard**, monnik in Kamp, † 27 juni (P0032); Henrich † 10 aug.; Theoderich † 29 okt.; zus Catharina
+    † 9 aug.; moeder Catharina Pollarts † 16 aug.; vader volgens Fahne "Henrich" († 4 aug., schonk een gouden ring).
+    **Tegenstrijdig** met Genwiki (vader Johan de Jonge); de moeder klopt wel.
+  - Oudere generatie: 27 okt. [14]84 Johannes Hillen, vader van de non Lutgardis (= P0011, † 27-10-1484, klopt met Genwiki);
+    1 okt. Theodericus Hillen, oom van Mechtildis; 15 juni Eirmgardis Hillen, zus van Lutgardis.
+- **Wat betekent dit voor Kniepis?**
+  - Twee broers (Wilhelm, Bernard) werden monnik, een derde (Godefridus) priester: een sterk geestelijke familie.
+  - Johannes staat er zonder enige titel. Voor een schoonzoon van de keizer en oberster Jägermeister zou je een eretitel of een
+    grote gift verwachten. **Licht tegen** de Roermondse hypothese (niet beslissend: het dodenboek is kort).
+  - Test voor later: als de sterfdag van Kniepis ooit bekend wordt, vergelijk met **24 juni**.
+  - Dat Wilhelm een monnik was, maakt het "zoon Wilhelm naar zijn oom"-argument niet sterker of zwakker.
+- **Keulse universiteit** (Keussen, *Matrikel* I (1892), blz. 449; II (1919), blz. 266, 995; Google Books, deels alleen fragment):
+  - dec. 1455: "Th. Hillen de Ruremunda" (Theodericus);
+  - ca. 1488–1490: "**Joh. Hyllen de Ruremunda**; art.; i. et s." (II, blz. 266; de voetnoot met "1490 23/11 det., 1492 6/4 inc.
+    ... 1510/1 in Rom tätig" hoort mogelijk bij hem of bij een buurman: niet zeker);
+  - later: "... Hillen, Ruremundensis; art." (II, blz. 995, ca. 1550).
+  - Een Johannes uit Roermond die rond 1488 in Keulen artes studeerde, is precies de leeftijd van Kniepis. Als de voetnoot bij
+    hem hoort ("1510/1 in Rom tätig"), is hij een geestelijke in Rome en **niet** Kniepis. Nog te controleren (deel II in een
+    bibliotheek of via een volledige scan).
+- Nieuwe bron om te lezen: "Hillen", in *Limburgs tijdschrift voor genealogie* 8 (1980), blz. 43–60 (genoemd in De Maasgouw
+  103 (1984), blz. 177). Waarschijnlijk de bron van Genwiki/Bais.
+- Stamboom: notities en bron toegevoegd bij P0030, P0031, P0032, P0033, P0035 (sterfdagen zonder jaar, rollen). Geen nieuwe
+  personen of koppelingen.
+
+### Resultaat C (29-9-2026): grafschriften
+- Google Books: niets over een graf of grafschrift van Kniepis (Thaur/Hall/Innsbruck) of van Margarethe in Luik. Alleen dat zij
+  naar haar broer Georg in Luik vluchtte (Württembergische Jahrbücher 1879, blz. 298). Nog te doen: Dehio Tirol, Deutsche
+  Inschriften Online, Luikse grafschriften (Le Fort), grafmonumenten Megen.
+
 ## E. Hoe verder
 - Een koppeling met de stamboom vraagt een bron die ouders of geboorteplaats van Jan Hillen "Kniepis" noemt, of een akte waarin
   een Roermondse of Heldense Hillen naar Tirol of naar de Van Hilles van Megen verwijst.
