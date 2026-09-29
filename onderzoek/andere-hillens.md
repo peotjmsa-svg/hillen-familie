@@ -354,6 +354,33 @@ Alleen vergelijking van jaartallen, namen en plaatsen met `data/stamboom.json`. 
 - Stamboom: notities en bron toegevoegd bij P0030, P0031, P0032, P0033, P0035 (sterfdagen zonder jaar, rollen). Geen nieuwe
   personen of koppelingen.
 
+### Resultaat B2 (29-9-2026): Roermondse regesten (Res Gestae I–IV, archiefroermond.nl)
+Bronnen (door de gebruiker gevonden): de namenindex op Yumpu ("Index (inclusief handleiding) - Gemeente Roermond", = index op
+**Res Gestae IV**) en de regesten-PDF's op https://www.archiefroermond.nl/onderzoek/regesten (Res Gestae I–IV; deel IV =
+`assets/regesten-1-2087.pdf`, deel III = `assets/regesten-1-2645.pdf` en `regesten-2646-5074.pdf`, deel II = `assets/02.-`,
+`03.-`, `04.-regesten-nr...pdf`). Alles doorzocht op Hillen/Hyllen/Hille. Belangrijkste (gelezen):
+- **RG IV nr. 1674**: "Oedenrade onder Vlodrop, Gelders leen: 1513 verheven door Henrich van Hertevelt, **1523 verheven door
+  Jan Hillen**, 1538 verheven door Steven van Hertevelt" (bron: *Oedenrade* p. 59; ook Genwiki "Kasteel Oedenrade").
+- **RG IV nr. 1753, 25-8-1524**: bij een akte over de hof "zo der Voert" (Horns leen, Pollart-altaar) zegelen "**Johan Hyllen**
+  en Goedert van Nederhoeven, leenmannen van Horn" (R.A.L., Scheres 840).
+- RG III nr. 1578, 11-3-1516: Gaert van Nederhoeven (namens zijn vrouw) en Heinrick Hillen procederen; getuige zegt dat "**wijlen
+  Johan Hillen's vrouw**" haar dochter bij haar huwelijk met Jan Dencken 150 gulden meegaf. Johan de Jonge (P0017) was dus in
+  1516 dood; een dochter trouwde met Jan Dencken, een andere (vermoedelijk) met Gaert van Nederhoeven.
+- RG III nr. 227 (naar De Maasgouw 1912, blz. 36–37): kinderen van Jan Hillen de jonge × Catharina Pollarts: Henrick (× Zara van
+  Bree), Reiner, Godert (ridder van de Duitse Orde te Biesen) en twee dochters in kloosters te Roermond. **Geen Johannes genoemd.**
+- RG III nr. 1597, 11-12-1508: huwelijkscontract Hendrick van Hillen, zoon van Johan en Catharina de Pollart, × Sara van Bree.
+- RG IV nr. 1402 (28-5-1487) en 1436 (5-2-1489): Johan Hillen, burger van Roermond, bezit de hof Nederhoeve bij Heel (Horns leen)
+  en koopt er broek bij. RG IV nr. 1480 (1-5-1493): Johan Hyllen scheidsman. (Vermoedelijk Johan de Jonge.)
+- RG IV nr. 1586 / RG I nr. 1571 (15-1-1503): jaargetijde voor Derrick Roffen en zijn vrouw **Marie Hillen** (niet in de stamboom).
+- Tussen 1493 en 1523 komt in deze regesten geen Johan Hillen voor; Dederick/Dirk Hillen is dan schepen.
+
+**Betekenis voor Kniepis (vermoeden, maar sterk)**: in 1523 en 1524 leeft er in de streek een volwassen Johan/Jan Hillen, leenman
+van Horn en van Gelre. Kniepis was toen al dood (ca. 1510–1515; zijn weduwe hertrouwde 1517/1520). Van de bekende Roermondse
+Johannessen is Johan de Jonge in 1516 dood, en Johan (P0041, geb. 1512) en Johan (P0053) zijn in 1523 nog kinderen. De Johan van
+1523–1524 is dus vrijwel zeker **Johannes P0035** (of P0026). Als dat klopt, was P0035 **niet** Kniepis. Daarmee is de Roermondse
+hypothese (1) grotendeels weerlegd. Niet 100%: een onbekende andere Johan Hillen (bijv. uit de lijn van Dirk) is mogelijk.
+- Nog te doen: het boek *Oedenrade* (p. 59) en Scheres 840 (RHCL) lezen: staat daar een vader of vrouw bij Jan Hillen?
+
 ### Resultaat C (29-9-2026): grafschriften
 - Google Books: niets over een graf of grafschrift van Kniepis (Thaur/Hall/Innsbruck) of van Margarethe in Luik. Alleen dat zij
   naar haar broer Georg in Luik vluchtte (Württembergische Jahrbücher 1879, blz. 298). Nog te doen: Dehio Tirol, Deutsche
