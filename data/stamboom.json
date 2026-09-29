@@ -5574,7 +5574,7 @@
    "birth_year": null,
    "death_year": 1599,
    "occupation": "schepen (1566), burgemeester Roermond (1582/87/94/1602)",
-   "note": "Woonplaats volgens de piramide: Roermond.",
+   "note": "Woonplaats volgens de piramide: Roermond. Overleden in augustus 1599 (Jan Ruiten, Christoffelhuis); de burgemeesterstermijn van 1602 hoort daarom vermoedelijk bij zijn neef Johan Hillen de jonge.",
    "place": "Roermond",
    "place_events": [
     {
@@ -6610,8 +6610,8 @@
    "sex": "M",
    "birth_year": 1579,
    "death_year": 1618,
-   "occupation": "schepen",
-   "note": "Telg uit de adellijke/patricische kring rond Roermond en Maasniel. Jonkheer; nauw betrokken bij leenverheffingen en pachtgoederen in de regio, onder meer verbonden aan het Christoffelhuis. Huwelijk met Anna van Greefraedt. Niet te verwarren met de gelijknamige Johan van Hillen (1601–1664) uit de Rijnlandse tak.",
+   "occupation": "schepen van Roermond (vanaf 1587), burgemeester (1602)",
+   "note": "Telg uit de adellijke/patricische kring rond Roermond en Maasniel. Jonkheer; nauw betrokken bij leenverheffingen en pachtgoederen in de regio, onder meer verbonden aan het Christoffelhuis. Huwelijk met Anna van Greefraedt. Niet te verwarren met de gelijknamige Johan van Hillen (1601–1664) uit de Rijnlandse tak. Bekend als Johan Hillen de jonge, 'ter onderscheiding met zijn oom, schepen Johan Hillen de oude (+ augustus 1599), in huwelijk met Catharina van der Gryndt' (Jan Ruiten). Zijn vader was dus een broer van Johan Hillen de oude, en daarmee een zoon van burgemeester Reinier Hillen; welke broer staat niet in de bron. Omdat zijn zoon Dederich heet, is Dyrick Hillen de meest waarschijnlijke vader (vermoeden). Kocht in februari 1587 het huis op de Hoge Hegstraat (later Christoffelhuis) van de kinderen Schinck; kerkmeester, jarenlang provisor van het armbestuur, schepen van Roermond vanaf 1587, burgemeester in 1602. Nam de erfpacht op de Hillen-molen op de Roer over van zijn oom. Zijn schoonmoeder heette Judith Haen. In oktober 1618 maakten hij en zijn vrouw Anna, zwaar in de schulden door processen en zijn langdurige ziekte, hun testament voor drie kinderen: Judith, jonker Dederich en Anna. Tegenstrijdigheid: het geboortejaar 1579 (uit de Genealogie Limburg Wiki) kan niet kloppen, want hij was al in 1587 schepen; hij is vermoedelijk vóór ongeveer 1562 geboren. Mogelijk had hij nog een zoon Johan (Jan) Hillen, procureur en notaris bij het Hof van Gelre, die in 1647 trouwde met Sophia Janssen van der Haighen en de weduwe van Dederich zijn schoonzus noemde; hij staat niet in het testament van 1618 (onbewezen).",
    "place": "Roermond",
    "place_events": [
     {
@@ -6622,10 +6622,13 @@
    ],
    "sources": [
     "Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
-    "Jan Ruiten, 'Onder den Klockenslagh van Neel, Leeuwen en Asenray'"
+    "Jan Ruiten, 'Onder den Klockenslagh van Neel, Leeuwen en Asenray'",
+    "Jan Ruiten, 'Onder den Klockenslagh van Neel, Leeuwen en Asenray' – Christoffelhuis, https://www.janruiten.nl/klockenslagh/Roermond/Christoffelhuis/Christoffelhuis.htm"
    ],
    "children": [
-    "@P0002@"
+    "@P0002@",
+    "@P0325@",
+    "@P0326@"
    ]
   },
   "@P0275@": {
@@ -6642,7 +6645,9 @@
     "Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
    ],
    "children": [
-    "@P0002@"
+    "@P0002@",
+    "@P0325@",
+    "@P0326@"
    ]
   },
   "@P0276@": {
@@ -7896,6 +7901,36 @@
     "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
    ],
    "children": []
+  },
+  "@P0325@": {
+   "id": "@P0325@",
+   "name": "Judith Hillen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Dochter van jonker Johan Hillen de jonge en Anna (van Greefraedt). Kreeg volgens het testament van haar ouders (oktober 1618) na hun dood de hof te Hinsbeck en de tiende van Ophoven bij Maaseik.",
+   "place": "Roermond",
+   "place_events": [],
+   "sources": [
+    "Jan Ruiten, 'Onder den Klockenslagh van Neel, Leeuwen en Asenray' – Christoffelhuis, https://www.janruiten.nl/klockenslagh/Roermond/Christoffelhuis/Christoffelhuis.htm"
+   ],
+   "children": []
+  },
+  "@P0326@": {
+   "id": "@P0326@",
+   "name": "Anna Hillen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Dochter van jonker Johan Hillen de jonge en Anna (van Greefraedt). Kreeg volgens het testament van haar ouders (oktober 1618) de goederen onder Kessel en Helden en de rente op de stad Roermond.",
+   "place": "Roermond",
+   "place_events": [],
+   "sources": [
+    "Jan Ruiten, 'Onder den Klockenslagh van Neel, Leeuwen en Asenray' – Christoffelhuis, https://www.janruiten.nl/klockenslagh/Roermond/Christoffelhuis/Christoffelhuis.htm"
+   ],
+   "children": []
   }
  },
  "families": {
@@ -8848,6 +8883,18 @@
    ],
    "marr_date": "27 AUG 1710",
    "marr_place": "Châtelineau"
+  },
+  "@F0083@": {
+   "id": "@F0083@",
+   "husb": "@P0274@",
+   "wife": "@P0275@",
+   "chil": [
+    "@P0002@",
+    "@P0325@",
+    "@P0326@"
+   ],
+   "marr_date": null,
+   "marr_place": null
   }
  },
  "places": [
@@ -8917,8 +8964,8 @@
   "Zolder"
  ],
  "stats": {
-  "individuals": 323,
-  "families": 81,
+  "individuals": 325,
+  "families": 82,
   "places": 64
  }
 }

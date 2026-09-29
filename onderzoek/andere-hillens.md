@@ -128,21 +128,35 @@ Alleen vergelijking van jaartallen, namen en plaatsen met `data/stamboom.json`. 
   Barbara van Hille gaf. Daarom eerder een kleinzoon van de Tiroolse lijn (zoon van Franz Wilhelm × Elisabeth Drijvers) dan een
   Heldense Hillen. Tegen: in het proces van 1635 staan alleen dochters van François Willem als erfgenamen. Voor de Limburgse kant
   pleit het huwelijk van zijn zoon met een Bentinck van Obbicht. Zwakke kandidaat in de stamboom: **Bertram** (P0079, geb. 1606).
-- **Johann von Hille** († 1684, Brandenburgse officier, vloot 1657–1660): mogelijk jonker **Johan** (P0090), zoon van
-  luitenant-kolonel Johan (P0073) en Gisela von der Recke. Hij was in 1669 meerderjarig, dus geboren vóór ca. 1644, mogelijk al rond
-  1630. De Von der Reckes kwamen uit het graafschap Mark, dat net als Kleef Brandenburgs was.
-- **Weduwe Anna Elisabeth von Hillen / Elisabeth Juliana von Hillen** (Goslar, ca. 1680): misschien familie van Johann von Hille
-  (zijn vrouw heette Anna Horn). Zeer zwak.
-- **Jan Hillen van Lith** (Luikse cartularium): Lith ligt naast Megen. Controleer de datering; mogelijk een verband met de Van Hilles
-  van Megen.
+- **Johann von Hille** († 1684): **weerlegd** (gecontroleerd 29-9-2026). Volgens de.wikipedia "Johann von Hille" heette hij
+  oorspronkelijk Johann Hillenius, geboren ca. 1609 in een burgerfamilie in **Hildesheim**, pas in Brandenburgse dienst geadeld
+  (Rupinsches Lehnbuch 1647: "Rittmeister Johann Hillenius aus Hildesheim"). Eerst in Nederlandse dienst (Batavia). Geen Hillen.
+  Literatuur: Roessel, *Die Erste Brandenburgische Flotte* (1903).
+- **Weduwe Anna Elisabeth von Hillen / Elisabeth Juliana von Hillen** (Goslar, ca. 1680): Goslar ligt naast Hildesheim; eerder
+  familie van Hillenius dan van ons. Niet verder zoeken.
+- **Jan Hillen van Lith** (Luikse cartularium): Lith ligt naast Megen. Datering nog niet gecontroleerd: Google Books-API gaf
+  "quota exceeded", Google-zoekpagina geblokkeerd, archive.org vond het cartularium niet. Nog open.
+- Bijvangst Open Archieven (inschrijvingen universiteit Leuven): **Henricus Hoochstrate alias Hillen**, bisdom Kamerijk, 10-8-1468
+  (`abl:8e98df71-c964-945c-7146-9bc823eba0b5`). Een Hillen uit Hoogstraten, een generatie vóór drukker Michiel; steunt het bestaan
+  van een Hoogstraatse Hillen-familie rond 1450–1500 (zie hypothese Kniepis). Verder: Petrus Hillen de Cursel (Koersel, bisdom
+  Luik) 1500 en 1532; Johannes Hillen de Antwerpia 1527; Gaspar Hillen 1556 (geen herkomst in de index).
 
 ### Gaten binnen de eigen stamboom
-- **Vader van jonker Johan van Hillen** (P0274, 1579–1618, Roermond) is onbekend. Zijn zoon heet Dederik (P0002). Volgens de
-  vernoemingsregel heette de grootvader dus waarschijnlijk Dederik/Dirk. Beste kandidaat: **Dyrick Hillen** (P0055), zoon van
-  burgemeester Reinier (P0039), Roermond, zonder kinderen in de stamboom. Minder waarschijnlijk: Dederich (P0060, Helden, te jong)
-  of Dirck (P0048, te oud).
+- **Vader van jonker Johan van Hillen** (P0274, Roermond). Gecontroleerd 29-9-2026 op janruiten.nl (Christoffelhuis):
+  - **gevonden**: hij heette "Johan Hillen de jonge" ter onderscheiding van "zijn oom, schepen Johan Hillen de oude (+ augustus
+    1599), in huwelijk met Catharina van der Gryndt" (= P0053). Zijn vader was dus een broer van P0053, een zoon van Reinier (P0039).
+  - Kandidaten: **Dyrick** (P0055; past bij de naam van zoon Dederich) of **Godert** (P0051, † 1576; past bij de erfgoederen
+    onder Kessel en Helden die dochter Anna kreeg). Welke van de twee: onbekend.
+  - **gevonden**: schepen vanaf 1587, burgemeester 1602, kocht Hoge Hegstraat februari 1587. Geboortejaar 1579 in de stamboom
+    kan dus niet kloppen (genoteerd, niet aangepast). Burgemeester 1602 staat ten onrechte ook bij P0053 († 1599; genoteerd).
+  - **gevonden en toegevoegd**: testament oktober 1618 met drie kinderen Judith (P0325), jonker Dederich (P0002) en Anna (P0326).
+    Gezin F0083 aangemaakt (bestond niet; kinderen stonden alleen in `children`).
+  - Open: mogelijk zoon **Johan (Jan) Hillen**, procureur en notaris bij het Hof van Gelre, × 1647 Sophia Janssen van der Haighen,
+    vijf kinderen; noemde de weduwe van Dederich zijn schoonzus. Niet in het testament. Niet toegevoegd.
 - **Guillielmus Hillen**, getuige bij het huwelijk van Petrus Hillen (P0149) in Roermond op 21-1-1631, staat niet in de stamboom.
   Vermoedelijk een broer van Petrus (kind van Gerardus, P0065, vóór 1603 of na 1612 geboren) of een broer van Gerardus.
+  Open Archieven (Guilielmus/Wilhelmus/Willem Hillen, Hillen 1560–1650): geen Roermondse doopboeken van die tijd geïndexeerd.
+  Volgende stap: doopboek Roermond ca. 1600–1615 via FamilySearch in de browser van de gebruiker.
 
 ## E. Hoe verder
 - Een koppeling met de stamboom vraagt een bron die ouders of geboorteplaats van Jan Hillen "Kniepis" noemt, of een akte waarin
