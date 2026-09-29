@@ -381,6 +381,29 @@ Johannessen is Johan de Jonge in 1516 dood, en Johan (P0041, geb. 1512) en Johan
 hypothese (1) grotendeels weerlegd. Niet 100%: een onbekende andere Johan Hillen (bijv. uit de lijn van Dirk) is mogelijk.
 - Nog te doen: het boek *Oedenrade* (p. 59) en Scheres 840 (RHCL) lezen: staat daar een vader of vrouw bij Jan Hillen?
 
+### Resultaat B3 (29-9-2026): de eerste generaties Hillen opgeschoond
+Bronnen (gelezen): kwartierbewijs 1577 in De Maasgouw 34 (1912) nr. 5, blz. 36-37 (Delpher `dts:2427006:mpeg21`, OCR via
+`https://resolver.kb.nl/resolve?urn=dts:2427006:mpeg21:0004:ocr`); De Maasgouw 21 (1899), blz. 91-92 (`dts:2443048`, `dts:2443049`);
+Res Gestae II-IV.
+- Kwartierbewijs 1577: Henrich Hillen (× Zara van Bree) had "vunff werentliche bruders und susters und vunff geystliche" (Godert
+  Duitse Orde Biesen, twee in Kamp, een zus in de Munsterabdij, een in Mariengarde): tien kinderen van Jan Hillen × Cathrina
+  Pollarts; diens ouders Jan Hillen der alde × Mechtel von Loeven, getrouwd 1435. **Het Hillen-wapen "von alters": zwen schwerder
+  durch ein ander und daroben zwen Rosenkrentz** (bevestigt dat het Roermondse wapen oud is en afwijkt van Kniepis' vlucht).
+- De Maasgouw 1899 (necrologium Munster): kinderen van Johan × Katharina Pollart: Johan († 24 juni), Bernard (monnik Kamp
+  14-1-1494), Willem (Kamp 21-5-1495), Hendrik († 10 aug.), Dirk († 29 okt.), Johan († 24 aug.), Katharina († 9 aug.), Godfried
+  (Duitse Orde, pastoor Gemert, † 6 mei), Mechtildes († 7-1-1550). **Er waren dus echt twee zonen Johan.**
+- Res Gestae IV 811: huwelijk 25-7-1435 Johan Hillen × Mettele van Loeven, weduwe van Lambert van der Kraecken.
+- Wijzigingen in `stamboom.json`: P0021 "NN Hillen" heet nu Dirk (Dederick) Hillen; P0023 "NN Hillen" heet nu "Dochter Hillen
+  (voornaam onbekend)" (× Hushoven; voornaam in geen enkele bron gevonden, mogelijk Irmgard P0025); P0027 "Mechteld" (partner van
+  P0026, "vermeld 1444-1472") verwijderd: verwarring met Mechtildis van Leuven (P0012); beroep stamvader P0001 = schepen (1404, 1414,
+  1420); notities met bron bij P0010-P0036.
+- **Nog onopgelost**: drie zonen Dirk/Theodoricus van Johan de oude in de stamboom (P0015, P0019, P0021); waarschijnlijk één of
+  twee personen. Bewezen: Dederik × Kathrijn Bormans (1480-81), burgemeester 1486, schepen tot 1510, † vóór 2-3-1517, vader van
+  Renier. "Dirk × Elisabeth Streithagen" staat alleen met vraagteken in De Maasgouw 1899.
+- **Tegenstrijdig**: Res Gestae IV 1125 (1467) noemt Irmgard van Loeven de vrouw van Johan de jonge; het kwartierbewijs zegt
+  Cathrina Pollarts. Maasgouw 1912-samenvatting in Res Gestae III 227 noemt Reiner een zoon van Jan de jonge; de akte van 1517
+  zegt dat Reiners vader Dirk was.
+
 ### Resultaat C (29-9-2026): grafschriften
 - Google Books: niets over een graf of grafschrift van Kniepis (Thaur/Hall/Innsbruck) of van Margarethe in Luik. Alleen dat zij
   naar haar broer Georg in Luik vluchtte (Württembergische Jahrbücher 1879, blz. 298). Nog te doen: Dehio Tirol, Deutsche

@@ -7,8 +7,8 @@
    "sex": "M",
    "birth_year": 1380,
    "death_year": 1439,
-   "occupation": null,
-   "note": "Woonplaats volgens de piramide: Roermond. Burger van Roermond (1403). 1403: leenman abdij Thorn; 1410: momboir van zijn kinderen; 1420: molenbezitter en schepen Roermond. Levensjaren 1380–1439 komen uit de Hillen Family Tree-app. Volgens Res Gestae III al schepen van Roermond op 26-12-1404 (mogelijk 1403; regest 148: 'Dederic Hillen, schepen') en in oktober 1414 (regest 172: 'Dederic Hille').",
+   "occupation": "schepen van Roermond (1404, 1414, 1420), leenman van de abdij Thorn (1403), molenbezitter",
+   "note": "Woonplaats volgens de piramide: Roermond. Burger van Roermond (1403). 1403: leenman abdij Thorn; 1410: momboir van zijn kinderen; 1420: molenbezitter en schepen Roermond. Levensjaren 1380–1439 komen uit de Hillen Family Tree-app. Volgens Res Gestae III al schepen van Roermond op 26-12-1404 (mogelijk 1403; regest 148: 'Dederic Hillen, schepen') en in oktober 1414 (regest 172: 'Dederic Hille'). Volgens De Maasgouw 1899 kwam het geslacht Hillen 'sedert het begin der vijftiende eeuw te Roermond in de aanzienlijke betrekkingen van Schepen (1404), Schout en Burgemeester voor'.",
    "place": "Roermond",
    "place_events": [
     {
@@ -23,7 +23,8 @@
     "[13] Archiefinventaris Officialaat Bisdom Roermond, akte 19-9-1420",
     "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
     "[14] Eigen stamboom-app (Hillen Family Tree)",
-    "Gemeentearchief Roermond, Res Gestae III (regesten 1-2645), https://www.archiefroermond.nl/assets/regesten-1-2645.pdf"
+    "Gemeentearchief Roermond, Res Gestae III (regesten 1-2645), https://www.archiefroermond.nl/assets/regesten-1-2645.pdf",
+    "De Maasgouw 21 (1899), blz. 91-92 (Delpher, urn dts:2443048:mpeg21 en dts:2443049:mpeg21), naar het necrologium van de Munsterabdij"
    ],
    "children": [
     "@P0011@",
@@ -38,7 +39,7 @@
    "birth_year": 1415,
    "death_year": 1484,
    "occupation": "burgemeester (1458), schout (1468), schepen, molenbezitter",
-   "note": "Woonplaats volgens de piramide: Roermond. 1460–69: richter, met Gadert Hillen als schepen.",
+   "note": "Woonplaats volgens de piramide: Roermond. 1460–69: richter, met Gadert Hillen als schepen. Huwelijkse voorwaarden 25-7-1435 met Mettele (Mechtildis) van Loeven, weduwe van Lambert van der Kraecken; getuigen namens de bruidegom Gerard van Oederade, Vullinck van Holtmeulen en Arnold van Dursdoel (Res Gestae IV, regest 811). Een kwartierbewijs van 1577 noemt hem 'Jan Hillen der alde'. Burgemeester 1458, schout van Roermond 1460, 1463 en 1467 (De Maasgouw 1899). Op 13 en 19 december 1436 verkochten hij en Mechtildis erfcijnsen aan het kapittel van de H. Geest. Uit dit huwelijk in ieder geval de zonen Johan (de jonge) en Dirk.",
    "place": "Roermond",
    "place_events": [
     {
@@ -50,7 +51,10 @@
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[5] Loe Giesen (ed.), Regesten van akten betreffende Roermond en omgeving",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "Gemeentearchief Roermond, Res Gestae IV (regesten 1-2087), https://www.archiefroermond.nl/assets/regesten-1-2087.pdf",
+    "De Maasgouw 34 (1912), nr. 5, blz. 36-37: kwartierbewijs van burgemeester en schepenen van Roermond, 1577 (Delpher, urn dts:2427006:mpeg21)",
+    "De Maasgouw 21 (1899), blz. 91-92 (Delpher, urn dts:2443048:mpeg21 en dts:2443049:mpeg21), naar het necrologium van de Munsterabdij"
    ],
    "children": [
     "@P0015@",
@@ -4697,7 +4701,7 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Roermond. Volgens het dodenboek van de Munsterabdij in Roermond (via Fahne): monnik in de cisterciënzerabdij Kamp (Kamp-Lintfort); gestorven op 27 juni, jaar niet vermeld. Broer van de non Mechtildis Hillen.",
+   "note": "Woonplaats volgens de piramide: Roermond. Volgens het dodenboek van de Munsterabdij in Roermond (via Fahne): monnik in de cisterciënzerabdij Kamp (Kamp-Lintfort); gestorven op 27 juni, jaar niet vermeld. Broer van de non Mechtildis Hillen. Op 14-1-1494 als monnik opgenomen in de abdij Kamp.",
    "place": "Roermond",
    "place_events": [
     {
@@ -4709,7 +4713,8 @@
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
-    "Necrologium van de Munsterabdij (cisterciënzerinnen) te Roermond, uitgegeven in A. Fahne, Die Dynasten, Freiherren und jetzigen Grafen von Bocholtz (1863), blz. 156 met noot 2 (Google Books kGxfAAAAcAAJ)"
+    "Necrologium van de Munsterabdij (cisterciënzerinnen) te Roermond, uitgegeven in A. Fahne, Die Dynasten, Freiherren und jetzigen Grafen von Bocholtz (1863), blz. 156 met noot 2 (Google Books kGxfAAAAcAAJ)",
+    "De Maasgouw 21 (1899), blz. 91-92 (Delpher, urn dts:2443048:mpeg21 en dts:2443049:mpeg21), naar het necrologium van de Munsterabdij"
    ],
    "children": []
   },
@@ -4738,7 +4743,7 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Roermond.",
+   "note": "Woonplaats volgens de piramide: Roermond. Gestorven op 9 augustus (jaar onbekend). Vermoedelijk de dochter die volgens het kwartierbewijs van 1577 non was in het klooster Mariengarde te Roermond (haar zus Mechtildis was non in de Munsterabdij).",
    "place": "Roermond",
    "place_events": [
     {
@@ -4749,7 +4754,9 @@
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "De Maasgouw 21 (1899), blz. 91-92 (Delpher, urn dts:2443048:mpeg21 en dts:2443049:mpeg21), naar het necrologium van de Munsterabdij",
+    "De Maasgouw 34 (1912), nr. 5, blz. 36-37: kwartierbewijs van burgemeester en schepenen van Roermond, 1577 (Delpher, urn dts:2427006:mpeg21)"
    ],
    "children": []
   },
@@ -4951,7 +4958,7 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Roermond. Stamvader van de Roermondse Hillens.",
+   "note": "Woonplaats volgens de piramide: Roermond. Stamvader van de Roermondse Hillens. Vader van Diederik Hillen (P0001, burger en schepen van Roermond vanaf 1403/1404). Deze oudste generatie is alleen bekend uit de familiepiramide en Genwiki ('I. Dederick Hillen'); er is (nog) geen akte met zijn naam gevonden. De eerste Hillen in de Roermondse akten is Diederik (P0001).",
    "place": "Roermond",
    "place_events": [
     {
@@ -5341,7 +5348,7 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Roermond. Volgens het dodenboek van de Munsterabdij in Roermond: 'dominus Godefridus Hillen ordinis teutonicorum pastor in Gemerden, frater Mechtildis Hillen': priester van de Duitse Orde en pastoor van Gemert. Sterfdag in de maand mei; jaar niet vermeld.",
+   "note": "Woonplaats volgens de piramide: Roermond. Volgens het dodenboek van de Munsterabdij in Roermond: 'dominus Godefridus Hillen ordinis teutonicorum pastor in Gemerden, frater Mechtildis Hillen': priester van de Duitse Orde en pastoor van Gemert. Sterfdag in de maand mei; jaar niet vermeld. Gestorven op 6 mei (jaar onbekend). Het kwartierbewijs van 1577 noemt hem 'her Godert ... Teutsch herr zu Beissen zu Maestricht' (ridder van de Duitse Orde, balije Biesen).",
    "place": "Roermond",
    "place_events": [
     {
@@ -5353,7 +5360,9 @@
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
-    "Necrologium van de Munsterabdij (cisterciënzerinnen) te Roermond, uitgegeven in A. Fahne, Die Dynasten, Freiherren und jetzigen Grafen von Bocholtz (1863), blz. 156 met noot 2 (Google Books kGxfAAAAcAAJ)"
+    "Necrologium van de Munsterabdij (cisterciënzerinnen) te Roermond, uitgegeven in A. Fahne, Die Dynasten, Freiherren und jetzigen Grafen von Bocholtz (1863), blz. 156 met noot 2 (Google Books kGxfAAAAcAAJ)",
+    "De Maasgouw 21 (1899), blz. 91-92 (Delpher, urn dts:2443048:mpeg21 en dts:2443049:mpeg21), naar het necrologium van de Munsterabdij",
+    "De Maasgouw 34 (1912), nr. 5, blz. 36-37: kwartierbewijs van burgemeester en schepenen van Roermond, 1577 (Delpher, urn dts:2427006:mpeg21)"
    ],
    "children": []
   },
@@ -5433,7 +5442,7 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Roermond. Huwelijk in 1508.",
+   "note": "Woonplaats volgens de piramide: Roermond. Huwelijk in 1508. Huwelijkscontract 11-12-1508 met Sara van Bree, dochter van Johan van Bree en Maria van Blitterswijck genaamd Passart; zijn ouders waren Johan Hillen en Catharina Pollart (Res Gestae I, regest 1597). Gedacht in het necrologium van de Munsterabdij op 10 augustus.",
    "place": "Roermond",
    "place_events": [
     {
@@ -5444,7 +5453,9 @@
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "Gemeentearchief Roermond, Res Gestae III (regesten 1-2645), https://www.archiefroermond.nl/assets/regesten-1-2645.pdf",
+    "De Maasgouw 21 (1899), blz. 91-92 (Delpher, urn dts:2443048:mpeg21 en dts:2443049:mpeg21), naar het necrologium van de Munsterabdij"
    ],
    "children": [
     "@P0041@",
@@ -5457,7 +5468,7 @@
   },
   "@P0024@": {
    "id": "@P0024@",
-   "name": "Hushoven",
+   "name": "(van) Hushoven",
    "sex": "U",
    "birth_year": null,
    "death_year": null,
@@ -5494,7 +5505,7 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Roermond.",
+   "note": "Woonplaats volgens de piramide: Roermond. Gedacht in het necrologium van de Munsterabdij op 15 juni als zuster van de non Lutgardis. Mogelijk dezelfde als de dochter die met een Hushoven trouwde (P0023).",
    "place": "Roermond",
    "place_events": [
     {
@@ -5505,7 +5516,8 @@
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "De Maasgouw 21 (1899), blz. 91-92 (Delpher, urn dts:2443048:mpeg21 en dts:2443049:mpeg21), naar het necrologium van de Munsterabdij"
    ],
    "children": []
   },
@@ -5545,7 +5557,7 @@
    "birth_year": null,
    "death_year": null,
    "occupation": "schepen & rechter Roermond (1472)",
-   "note": "Woonplaats volgens de piramide: Roermond. Bekend als Johan Hillen de Jonge. 1486: schepen (met Arnolt Neutkens, Robijn van Swalmen).",
+   "note": "Woonplaats volgens de piramide: Roermond. Bekend als Johan Hillen de Jonge. 1486: schepen (met Arnolt Neutkens, Robijn van Swalmen). Volgens een kwartierbewijs van burgemeester en schepenen van Roermond uit 1577 (naar het proces van de Hillens tegen de reguliere kanunniken te Wassenberg, waarin 'der alte Reiner Hillen' getuigde) had hij bij Cathrina Pollarts tien kinderen: vijf wereldlijke en vijf geestelijke (Godert, Duitse Orde te Biesen; twee in de abdij Kamp; een dochter in de Munsterabdij en een in Mariengarde te Roermond). Zijn ouders waren Jan Hillen de oude en Mechtel van Loeven (huwelijk 1435). Waarschijnlijk dezelfde als de 'Joh. Hillen de Rurmund(is)' die op 3-2-1460 in Keulen artes ging studeren. Schout 1472. Overleden vóór 11-3-1516 (dan 'wijlen Johan Hillen'). Tegenstrijdigheid: Res Gestae IV regest 1125 (14-12-1467) noemt 'Irmgard van Loeven' zijn vrouw; vermoedelijk een vergissing in het regest (Irmgard was zijn zuster).",
    "place": "Roermond",
    "place_events": [
     {
@@ -5557,7 +5569,11 @@
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[5] Loe Giesen (ed.), Regesten van akten betreffende Roermond en omgeving",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "De Maasgouw 34 (1912), nr. 5, blz. 36-37: kwartierbewijs van burgemeester en schepenen van Roermond, 1577 (Delpher, urn dts:2427006:mpeg21)",
+    "Gemeentearchief Roermond, Res Gestae IV (regesten 1-2087), https://www.archiefroermond.nl/assets/regesten-1-2087.pdf",
+    "Gemeentearchief Roermond, Res Gestae III (regesten 1-2645), https://www.archiefroermond.nl/assets/regesten-1-2645.pdf",
+    "H. Keussen, Die Matrikel der Universität Köln I (1892), rectoraat 284, nr. 12 (archive.org publikationende03unkngoog)"
    ],
    "children": [
     "@P0026@",
@@ -5726,7 +5742,7 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Roermond.",
+   "note": "Zoon van Johan Hillen de jonge en Catharina Pollarts. Het necrologium van de Munsterabdij noemt twee zonen Johan: de ene gestorven op 24 juni, de andere op 24 augustus (jaren onbekend). Eerder stond hier dat hij gehuwd was met een Mechteld, vermeld 1444-1472; dat kan niet kloppen (zijn vader studeerde pas in 1460) en is vermoedelijk een verwarring met zijn grootvader Johan Hillen de oude en Mechtildis van Leuven. Die partner is daarom verwijderd.",
    "place": "Roermond",
    "place_events": [
     {
@@ -5737,7 +5753,8 @@
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "De Maasgouw 21 (1899), blz. 91-92 (Delpher, urn dts:2443048:mpeg21 en dts:2443049:mpeg21), naar het necrologium van de Munsterabdij"
    ],
    "children": []
   },
@@ -5748,7 +5765,7 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Roermond. Het dodenboek van de Munsterabdij in Roermond gedenkt op 24 juni 'Johannes hillen frater Mechtildis Hillen nostre conventualis', zonder titel, ambt of jaartal (niet zeker of dit deze Johannes of zijn gelijknamige broer is). In de Keulse universiteitsmatrikel staat onder rectoraat 403 (ca. 1489) als nr. 65 'Joh. Hyllen de Ruremunda; art.; i. et s.' (Keussen, Matrikel II, blz. 266; fragment gezien), mogelijk dezelfde; bij hem staat geen voetnoot, dus geen graad of latere loopbaan vermeld. Onderzocht als mogelijke 'Jan Hillen genannt Kniepis', jagermeester in Tirol: niet bewezen, zie onderzoek/andere-hillens.md. Waarschijnlijk dezelfde als de Jan Hillen die in 1523 het Gelderse leen Oedenrade onder Vlodrop verhief en de Johan Hyllen die op 25-8-1524 als leenman van Horn zegelde (Res Gestae Roermond IV, regesten 1674 en 1753): in die jaren is geen andere volwassen Johan Hillen bekend. Als dat klopt, leefde hij na 1515 nog in de streek en was hij niet de Tiroolse jagermeester 'Kniepis' († ca. 1510–1515).",
+   "note": "Woonplaats volgens de piramide: Roermond. Het dodenboek van de Munsterabdij in Roermond gedenkt op 24 juni 'Johannes hillen frater Mechtildis Hillen nostre conventualis', zonder titel, ambt of jaartal (niet zeker of dit deze Johannes of zijn gelijknamige broer is). In de Keulse universiteitsmatrikel staat onder rectoraat 403 (ca. 1489) als nr. 65 'Joh. Hyllen de Ruremunda; art.; i. et s.' (Keussen, Matrikel II, blz. 266; fragment gezien), mogelijk dezelfde; bij hem staat geen voetnoot, dus geen graad of latere loopbaan vermeld. Onderzocht als mogelijke 'Jan Hillen genannt Kniepis', jagermeester in Tirol: niet bewezen, zie onderzoek/andere-hillens.md. Waarschijnlijk dezelfde als de Jan Hillen die in 1523 het Gelderse leen Oedenrade onder Vlodrop verhief en de Johan Hyllen die op 25-8-1524 als leenman van Horn zegelde (Res Gestae Roermond IV, regesten 1674 en 1753): in die jaren is geen andere volwassen Johan Hillen bekend. Als dat klopt, leefde hij na 1515 nog in de streek en was hij niet de Tiroolse jagermeester 'Kniepis' († ca. 1510–1515). Het necrologium van de Munsterabdij noemt twee zonen Johan van Johan Hillen en Katharina Pollart: de ene gestorven op 24 juni, de andere op 24 augustus (jaren onbekend); welke van de twee dit is, is niet bekend.",
    "place": "Roermond",
    "place_events": [
     {
@@ -5761,7 +5778,8 @@
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
     "Necrologium van de Munsterabdij (cisterciënzerinnen) te Roermond, uitgegeven in A. Fahne, Die Dynasten, Freiherren und jetzigen Grafen von Bocholtz (1863), blz. 156 met noot 2 (Google Books kGxfAAAAcAAJ)",
-    "Gemeentearchief Roermond, Res Gestae IV (regesten 1-2087), nrs. 1674 en 1753, https://www.archiefroermond.nl/assets/regesten-1-2087.pdf"
+    "Gemeentearchief Roermond, Res Gestae IV (regesten 1-2087), nrs. 1674 en 1753, https://www.archiefroermond.nl/assets/regesten-1-2087.pdf",
+    "De Maasgouw 21 (1899), blz. 91-92 (Delpher, urn dts:2443048:mpeg21 en dts:2443049:mpeg21), naar het necrologium van de Munsterabdij"
    ],
    "children": []
   },
@@ -5806,7 +5824,7 @@
    "birth_year": null,
    "death_year": 1527,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Roermond.",
+   "note": "Woonplaats volgens de piramide: Roermond. Sacristes in de Munsterabdij te Roermond (De Maasgouw 1899).",
    "place": "Roermond",
    "place_events": [
     {
@@ -5817,7 +5835,8 @@
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "De Maasgouw 21 (1899), blz. 91-92 (Delpher, urn dts:2443048:mpeg21 en dts:2443049:mpeg21), naar het necrologium van de Munsterabdij"
    ],
    "children": []
   },
@@ -6129,21 +6148,6 @@
     "@P0140@"
    ]
   },
-  "@P0027@": {
-   "id": "@P0027@",
-   "name": "Mechteld",
-   "sex": "F",
-   "birth_year": null,
-   "death_year": null,
-   "occupation": null,
-   "note": null,
-   "place": null,
-   "place_events": [],
-   "sources": [
-    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
-   ],
-   "children": []
-  },
   "@P0030@": {
    "id": "@P0030@",
    "name": "Mechtildis Hillen",
@@ -6151,7 +6155,7 @@
    "birth_year": null,
    "death_year": 1550,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Roermond. Non (conventualis) in de Munsterabdij van de cisterciënzerinnen in Roermond; ook sacristes. Het dodenboek van de abdij gedenkt haar broers Johannes, Godefridus, Wilhelmus en Bernardus en haar oom Theodericus als 'frater/auunculus Mechtildis Hillen nostre conventualis'. Fahne noemt als haar ouders Henrich Hillen en Catharina Pollarts; de stamboom volgt Genwiki (Johan Hillen de Jonge en Catharina Pollarts): tegenstrijdigheid, niet opgelost.",
+   "note": "Woonplaats volgens de piramide: Roermond. Non (conventualis) in de Munsterabdij van de cisterciënzerinnen in Roermond; ook sacristes. Het dodenboek van de abdij gedenkt haar broers Johannes, Godefridus, Wilhelmus en Bernardus en haar oom Theodericus als 'frater/auunculus Mechtildis Hillen nostre conventualis'. Fahne noemt als haar ouders Henrich Hillen en Catharina Pollarts; de stamboom volgt Genwiki (Johan Hillen de Jonge en Catharina Pollarts): tegenstrijdigheid, niet opgelost. Gestorven op 7 januari 1550 (De Maasgouw 1899).",
    "place": "Roermond",
    "place_events": [
     {
@@ -6163,7 +6167,8 @@
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
-    "Necrologium van de Munsterabdij (cisterciënzerinnen) te Roermond, uitgegeven in A. Fahne, Die Dynasten, Freiherren und jetzigen Grafen von Bocholtz (1863), blz. 156 met noot 2 (Google Books kGxfAAAAcAAJ)"
+    "Necrologium van de Munsterabdij (cisterciënzerinnen) te Roermond, uitgegeven in A. Fahne, Die Dynasten, Freiherren und jetzigen Grafen von Bocholtz (1863), blz. 156 met noot 2 (Google Books kGxfAAAAcAAJ)",
+    "De Maasgouw 21 (1899), blz. 91-92 (Delpher, urn dts:2443048:mpeg21 en dts:2443049:mpeg21), naar het necrologium van de Munsterabdij"
    ],
    "children": []
   },
@@ -6174,11 +6179,14 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": null,
+   "note": "Dochter van Hendrik van Leuven (de Lovanio), schepen van Roermond 1429-1437, op 23-7-1446 in Luik onthoofd, en Irmgard van Blitterswijck genaamd Passart. Zij was weduwe van Lambert van der Kraecken toen zij op 25-7-1435 trouwde met Johan Hillen; uit dat eerste huwelijk kinderen Van der Kraken (Lambrecht, Heinric, Elisabeth). Overleden vóór 14-12-1467. Haar oom Johan de Lovanio stichtte het St.-Hieronymuscollege ('Roermondse Huis') in Keulen.",
    "place": null,
    "place_events": [],
    "sources": [
-    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
+    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
+    "Gemeentearchief Roermond, Res Gestae IV (regesten 1-2087), https://www.archiefroermond.nl/assets/regesten-1-2087.pdf",
+    "De Maasgouw 21 (1899), blz. 91-92 (Delpher, urn dts:2443048:mpeg21 en dts:2443049:mpeg21), naar het necrologium van de Munsterabdij",
+    "De Maasgouw 34 (1912), nr. 5, blz. 36-37: kwartierbewijs van burgemeester en schepenen van Roermond, 1577 (Delpher, urn dts:2427006:mpeg21)"
    ],
    "children": [
     "@P0015@",
@@ -6208,12 +6216,12 @@
   },
   "@P0021@": {
    "id": "@P0021@",
-   "name": "NN Hillen",
+   "name": "Dirk (Dederick) Hillen",
    "sex": "M",
    "birth_year": null,
    "death_year": 1530,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Roermond. Volgens De Maasgouw 1899 (blz. 88, via Res Gestae III regest 510) heette deze zoon van Johan Hillen († 27-10-1484) Dirk en was hij gehuwd met Elisabeth Streithagen (met vraagteken). Mogelijk dezelfde als een van de twee zonen Theodoricus (P0015, P0019): niet uitgezocht.",
+   "note": "Woonplaats volgens de piramide: Roermond. Volgens De Maasgouw 1899 (blz. 88, via Res Gestae III regest 510) heette deze zoon van Johan Hillen († 27-10-1484) Dirk en was hij gehuwd met Elisabeth Streithagen (met vraagteken). Mogelijk dezelfde als een van de twee zonen Theodoricus (P0015, P0019): niet uitgezocht. Genwiki noemde hem 'NN Hillen', overleden november 1530. Het necrologium van de Munsterabdij (via De Maasgouw 1899) noemt Johan Hillen de oude als vader van o.a. Johan en Dirk. In de stamboom staan drie zonen Dirk/Theodoricus van dezelfde vader (P0015, P0019, P0021); vermoedelijk waren het er in werkelijkheid één of twee.",
    "place": "Roermond",
    "place_events": [
     {
@@ -6225,18 +6233,19 @@
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
-    "Gemeentearchief Roermond, Res Gestae III (regesten 1-2645), https://www.archiefroermond.nl/assets/regesten-1-2645.pdf"
+    "Gemeentearchief Roermond, Res Gestae III (regesten 1-2645), https://www.archiefroermond.nl/assets/regesten-1-2645.pdf",
+    "De Maasgouw 21 (1899), blz. 91-92 (Delpher, urn dts:2443048:mpeg21 en dts:2443049:mpeg21), naar het necrologium van de Munsterabdij"
    ],
    "children": []
   },
   "@P0023@": {
    "id": "@P0023@",
-   "name": "NN Hillen",
+   "name": "Dochter Hillen (voornaam onbekend)",
    "sex": "U",
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Roermond. Gehuwd met iemand uit de familie Hushoven.",
+   "note": "Woonplaats volgens de piramide: Roermond. Gehuwd met iemand uit de familie Hushoven. Genwiki noemt haar 'NN Hillen', gehuwd met iemand uit de familie Hushoven. In de Res Gestae, De Maasgouw 1899/1912 en het necrologium van de Munsterabdij is haar voornaam niet gevonden. Mogelijk is zij Irmgard Hillen (P0025); niet bewezen.",
    "place": "Roermond",
    "place_events": [
     {
@@ -6393,7 +6402,7 @@
    "birth_year": null,
    "death_year": 1517,
    "occupation": "schepen",
-   "note": "Woonplaats volgens de piramide: Roermond. Kocht molen De Hoog. 1500–1509: schepen bij transactie hof Mortersman, Wickrath (met vrouwe van Wickrath, wed. Hompesch).",
+   "note": "Woonplaats volgens de piramide: Roermond. Kocht molen De Hoog. 1500–1509: schepen bij transactie hof Mortersman, Wickrath (met vrouwe van Wickrath, wed. Hompesch). Als 'Dederik Hillen, man en momboor van Kathrijn Bormans' verkocht hij op 2-6-1481 een rente uit de hof tgien Roede te Baexem, geërfd van zijn schoonvader Reyner Bormans; op 26-2-1480 kocht 'Diederick Hille en echtgenote' 8 bunder land te Baexem (Res Gestae II 2603, Res Gestae IV 1291). Burgemeester van Roermond in 1486, schepen 1499-1510. Overleden vóór 2-3-1517, toen zijn zoon Renier leengoed verhief 'na dode zijns vaders Dirk' (Res Gestae II 3207). Gedacht in het necrologium van de Munsterabdij op 1 oktober als oom van Mechtildis Hillen. Mogelijk dezelfde als P0019 en/of P0021.",
    "place": "Roermond",
    "place_events": [
     {
@@ -6404,7 +6413,10 @@
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[5] Loe Giesen (ed.), Regesten van akten betreffende Roermond en omgeving"
+    "[5] Loe Giesen (ed.), Regesten van akten betreffende Roermond en omgeving",
+    "Gemeentearchief Roermond, Res Gestae II (regesten 2567-3828), https://www.archiefroermond.nl/assets/04.-regesten-nr.-2567-3828.pdf",
+    "Gemeentearchief Roermond, Res Gestae IV (regesten 1-2087), https://www.archiefroermond.nl/assets/regesten-1-2087.pdf",
+    "Gemeentearchief Roermond, Res Gestae III (regesten 1-2645), https://www.archiefroermond.nl/assets/regesten-1-2645.pdf"
    ],
    "children": [
     "@P0037@",
@@ -6418,7 +6430,7 @@
    "birth_year": null,
    "death_year": 1510,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Roermond.",
+   "note": "Woonplaats volgens de piramide: Roermond. Mogelijk dezelfde persoon als Theodoricus (P0015) of Dirk (P0021): er is maar voor één of twee zonen Dirk van Johan Hillen de oude bewijs.",
    "place": "Roermond",
    "place_events": [
     {
@@ -6440,7 +6452,7 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Roermond.",
+   "note": "Woonplaats volgens de piramide: Roermond. Gedacht in het necrologium van de Munsterabdij; gestorven op 29 oktober (jaar onbekend).",
    "place": "Roermond",
    "place_events": [
     {
@@ -6451,7 +6463,8 @@
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "De Maasgouw 21 (1899), blz. 91-92 (Delpher, urn dts:2443048:mpeg21 en dts:2443049:mpeg21), naar het necrologium van de Munsterabdij"
    ],
    "children": []
   },
@@ -6565,7 +6578,7 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Roermond. Volgens het dodenboek van de Munsterabdij in Roermond: 'Wilhelmus Hillen monachus campensis, frater Mechtildis Hille': monnik in de cisterciënzerabdij Kamp; gestorven op 10 juni, jaar niet vermeld.",
+   "note": "Woonplaats volgens de piramide: Roermond. Volgens het dodenboek van de Munsterabdij in Roermond: 'Wilhelmus Hillen monachus campensis, frater Mechtildis Hille': monnik in de cisterciënzerabdij Kamp; gestorven op 10 juni, jaar niet vermeld. Op 21-5-1495 als monnik opgenomen in de abdij Kamp.",
    "place": "Roermond",
    "place_events": [
     {
@@ -6577,7 +6590,8 @@
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
-    "Necrologium van de Munsterabdij (cisterciënzerinnen) te Roermond, uitgegeven in A. Fahne, Die Dynasten, Freiherren und jetzigen Grafen von Bocholtz (1863), blz. 156 met noot 2 (Google Books kGxfAAAAcAAJ)"
+    "Necrologium van de Munsterabdij (cisterciënzerinnen) te Roermond, uitgegeven in A. Fahne, Die Dynasten, Freiherren und jetzigen Grafen von Bocholtz (1863), blz. 156 met noot 2 (Google Books kGxfAAAAcAAJ)",
+    "De Maasgouw 21 (1899), blz. 91-92 (Delpher, urn dts:2443048:mpeg21 en dts:2443049:mpeg21), naar het necrologium van de Munsterabdij"
    ],
    "children": []
   },
@@ -8740,14 +8754,6 @@
    "marr_date": null,
    "marr_place": null
   },
-  "@F0065@": {
-   "id": "@F0065@",
-   "husb": "@P0026@",
-   "wife": "@P0027@",
-   "chil": [],
-   "marr_date": null,
-   "marr_place": null
-  },
   "@F0066@": {
    "id": "@F0066@",
    "husb": "@P0038@",
@@ -8973,8 +8979,8 @@
   "Zolder"
  ],
  "stats": {
-  "individuals": 325,
-  "families": 82,
+  "individuals": 324,
+  "families": 81,
   "places": 64
  }
 }
