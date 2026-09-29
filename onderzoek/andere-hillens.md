@@ -270,6 +270,28 @@ Alleen vergelijking van jaartallen, namen en plaatsen met `data/stamboom.json`. 
 - **Nieuw idee (voor Ludwig Augustin)**: hij zegelde de akte van 10-5-1715 (Heisterbach Urk. 335). Als dat zegel te zien is:
   rozenkransen en zwaarden = Helden; vluchten = Tiroolse/Farciennes-lijn. Dat zou zijn afstamming beslissen.
 
+## D3. Plan (29-9-2026, nog niet uitgevoerd): Drijvers, Johannes P0035, grafstenen
+**A. Is Elisabeth Drijvers (× Franz Wilhelm van Hille, ca. 1533) van de Roermondse schepenfamilie Dryvener?**
+1. Bron van Elisabeth nagaan: genealogics.org (Leo van de Pas), Geneanet guken2 en kazzaqld: ouders, plaats, jaartal, spelling.
+2. Roermondse Dryvener/Drijvers: regest 1487 (Johan Hillen en Johan Dryvener), Genwiki, De Maasgouw, PSHAL, Open Archieven.
+3. Naamvormen vergelijken: Dryvener, Drivener, Drijvers, Dryvers, Drivers, de Drivère. Is het wel dezelfde naam?
+4. Andere plaatsen met Drijvers ca. 1500–1600 (Brabant, Luik, Megen): BHIC, Open Archieven, FamilySearch Full Text.
+5. Wapen van beide families vergelijken, als het te vinden is.
+**B. Johannes Hillen (P0035), zoon van Johan de Jonge (P0017) en Catharina Pollarts**
+1. Welke akte noemt de kinderen? Bron van Genwiki/Bais 2006 (erfdeling na 1492?).
+2. Universiteiten: Keulen (Keussen, Matrikel der Universität Köln) en Leuven (Open Archieven `abl:`) op "Hillen de Ruremunda".
+3. Priester of kanunnik? Kapittel Roermond, Munsterabdij, Keulen.
+4. Roermondse regesten 1490–1540: een Jan/Johan Hillen die niet een van de bekende naamgenoten is. Wel in Roermond na 1498 =
+   niet Kniepis.
+5. Gelderse leenregisters, kwartier Roermond.
+**C. Grafstenen en grafschriften**
+1. Kniepis († ca. 1510–1515): Thaur, Hall (St. Nikolaus), Innsbruck, Wilten, Stams. Dehio Tirol, Deutsche Inschriften Online,
+   kloosterdodenboeken.
+2. Margarethe († 1537 Luik): grafschrift in Luik (Le Fort, "épitaphes"), noemt misschien haar eerste man.
+3. Barbara van Hille × Eustache de Brimeu (Megen, Humbercourt): grafmonumenten met kwartieren.
+4. De Hille van Farciennes (Jean † 1582, Charles † 1639): minderbroeders Farciennes, grafschriften Henegouwen/Namen.
+5. Roermond/Helden ter vergelijking: grafsteen met 16 kwartieren in Helden (De Maasgouw 1903, blz. 81), Munsterkerk Roermond.
+
 ## E. Hoe verder
 - Een koppeling met de stamboom vraagt een bron die ouders of geboorteplaats van Jan Hillen "Kniepis" noemt, of een akte waarin
   een Roermondse of Heldense Hillen naar Tirol of naar de Van Hilles van Megen verwijst.
