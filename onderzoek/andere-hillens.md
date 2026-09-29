@@ -211,6 +211,46 @@ Alleen vergelijking van jaartallen, namen en plaatsen met `data/stamboom.json`. 
    schepenregisters Hoogstraten (Rijksarchief Antwerpen).
 6. Bezit van Kniepis/Wilhelm in Gelre of Brabant na 1510 (Leenzaal van Brabant, Gelders leenhof).
 
+### Resultaten 29-9-2026 (debugvenster)
+- **Wapen (gevonden)**: Barbe de Hillen "portait d'argent à un double vol d'aigle d'azur" (zilver met een blauwe dubbele
+  adelaarsvlucht). Bron: [Ch. de Croÿ], *Une existence de grand seigneur au seizième siècle* (1845), blz. 338 (Google Books
+  `r2E-AAAAcAAJ`), met verwijzing naar Maurice, Toison d'or, blz. 248. Het Roermondse/Heldense wapen (rozenkransen en zwaarden)
+  is heel anders. **Pleit tegen hypothese 1 en 2** (niet beslissend: een nieuw wapen bij verheffing kan).
+- **Gabelkover** (Stuttgart, hs. 48c), geciteerd door Th. Schön, "Margarethe v. Edelsheim", *Monatsblatt Adler* 5 (1901), blz. 99
+  (Google Books `cqgSAAAAYAAJ`): "Johansen de Hillen, genant Knupis, der Grafschaft Tyrol Forstmaister"; zoon Franz Wilhelm
+  "der Her Oßwaldts de Wolkenstain Schwester zuer Ehe bekommen"; dochter Barbara × graaf Eustachius van Megen. Thaur op
+  9-6-1515 aan Margarethe verpand voor 6500 fl. Geen herkomst. Tegenstrijdig met Helfferich (Franz Wilhelm × Anna von
+  Walthausen): misschien twee huwelijken.
+- Kerler, *Grafen von Helfenstein* I (1840) (MDZ `bsb10047954`, beeld 152): "Johannes von Hillen, der Herrschaft Tyrol
+  Forstmeister". Geen herkomst.
+- Regesta Imperii: "Hillen", "Hilla", "Hilland", "Hyllen", "Kniepis": **niets vóór 26-5-1498**. Instructie 15-1-1503 (RI XIV,4,1
+  n. 17171) punt 22: hij moet een hondenslager "aus den Niederlanden oder aus Augsburg" halen (alleen een aanwijzing).
+- "Kniepis" is ook een plaatsnaam in het Sellraintal bij Innsbruck (MDZ-treffers reisgidsen) en de Kniebis (Zwarte Woud).
+- Delpher tijdschriften (Hillen AND Tirol/Kniepis/Edelsheim/Helfenstein): niets bruikbaars.
+- **Roermond (Genwiki "Hillen")**: van de twee zonen Johannes van Johan de Jonge is de eerste (P0026) "gehuwd met Mechteld,
+  vermeld 1444–1472": veel te oud voor Kniepis. Alleen **Johannes P0035** blijft (zonder gegevens). Broers Bernardus
+  († na 1494) en Wilhelmus († na 1495).
+- **Hoogstraten** (FamilySearch Full Text, collectie "Hoogstraten, Antwerp. Citizenship Records 1399-1600", een uitgegeven
+  poortersboek met genealogische noten):
+  - januari 1443, gekochte poorters: "134. Jan Hillen Dou[wens?] . 135. Henric 136. Merten Hillen sine sonen . 137. Jan"
+    (ark `3:1:3QHV-J38C-7R9F`);
+  - Elisabeth van Achtenrijt × Henric Jan Hillen (ark `3:1:3QHV-J38C-7PLN`);
+  - Jan Hillen × Catalijn Wouter Dibbouts bezaten in 1465 een rente (Van Schijndel, *Hoogstraten's oude huizen en families*
+    (1940), blz. 235, fragment);
+  - Henricus Hoochstrate alias Hillen, Leuven 10-8-1468.
+  - Dus: een Hoogstraatse familie Hillen sinds ten minste 1443, met Jan als terugkerende naam.
+  - Volledige tekst (ark `3:1:3QHV-J38C-7549`, deel I blz. 235): "De kinderen van Jan Hillen en Catallijn Wouter Dibbouts
+    bezaten in 1465 een rente op een huys ende hof ... tusschen ... wylen Henrics van Eele zuit ende Aernout de Visscher noert
+    (6/36)". De kinderen bestonden dus al in 1465. Als Michiel hun zoon is, is hij vóór 1465 geboren (niet ca. 1476), en een
+    broer Jan dus ook: ca. 1455–1465. Dat botst niet met Kniepis (eerste vermelding 1498, al in functie; Tiroolse schatting
+    ca. 1465), maar maakt hem aan de oude kant.
+  - 5-10-1452: land "west Henric Hillen" bij de Moerstraat (ark `3:1:3QHV-J38C-75M3`).
+  - Register van het boek: "Hille: I: 73, 235. — II: 287, 294. Hillen: zie Hille". Deel I blz. 73 is de poorterslijst van 1443;
+    deel II blz. 287 en 294 nog niet gelezen.
+  - 55 pagina's van deze collectie met "Hillen" (OR-zoekopdrachten) doorgelezen; niets over Tirol, keizerlijke dienst of een
+    vertrek.
+- Google-zoeken gaf na ± 15 zoekopdrachten een captcha ("unusual traffic"); gestopt, niet omzeild.
+
 ## E. Hoe verder
 - Een koppeling met de stamboom vraagt een bron die ouders of geboorteplaats van Jan Hillen "Kniepis" noemt, of een akte waarin
   een Roermondse of Heldense Hillen naar Tirol of naar de Van Hilles van Megen verwijst.
