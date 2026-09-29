@@ -807,8 +807,8 @@ nav.main-nav a.active {
 .plek-folder .plek-card h2 { font-size: 1.25rem; }
 
 /* Archiefbewijs (screenshots van archiefbeschrijvingen) */
-.archief-shots { display: grid; gap: 0.9rem; margin: 0.4rem 0 0.8rem; }
-.archief-shots img { max-height: none !important; object-fit: contain !important; background: #fff; }
+.archief-shots { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 0.9rem; margin: 0.4rem 0 0.8rem; align-items: start; }
+.archief-shots img { max-height: 190px !important; object-fit: contain !important; background: #fff; cursor: zoom-in; }
 
 /* Kaart */
 #map { height: 68vh; min-height: 480px; border-radius: var(--radius); border: 1px solid var(--border); box-shadow: var(--shadow); }

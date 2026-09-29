@@ -783,6 +783,10 @@
             panel.classList.remove("active");
           }
         });
+
+        // Deep link from other pages: stamboom.html?persoon=P0298 opens that person
+        const linked = new URLSearchParams(window.location.search).get("persoon");
+        if (linked) selectPerson("@" + linked.replace(/@/g, "") + "@");
       })
       .catch((err) => {
         document.getElementById("tree-wrap").innerHTML =
