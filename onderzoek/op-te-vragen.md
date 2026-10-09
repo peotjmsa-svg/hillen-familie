@@ -10,6 +10,11 @@ Legenda: ★ = kan een open vraag beslissen.
 ## 1. Regionaal Historisch Centrum Limburg (RHCL), Maastricht
 - [ ] ★ **Archief Kruisheren Roermond, inv. nr. 114** (akte 25-4-1454): foto van het **zegel van Gaedert (Godart) Hillen**. Een van
       de oudste bewaarde Hillen-zegels; laat het wapen in de 15e eeuw zien.
+- [ ] ★ **Herkomst grondbezit smid Albert (P0004) en bezit van Caspar (P0003).** Memories van successie Maasbree,
+      toegang 07.D03: Dorothea (Theodora) Sanders, overl. Blerick 16-2-1818, inv. 451 (aangifte belastbaar: ja; kantoor Horst);
+      Alardus Hillen, overl. 20-8-1870, inv. 469, record 306; Lucia Grubben (overl. 1862) nog zoeken. Daarnaast: boedel na
+      Caspar Hillen (overl. 4-6-1789) in de schepenbank Blerick; notariële akten Venlo/Horst 1810–1840 (aankopen door Albert);
+      kadastrale leggers Maasbree sectie A, artikel 373 (mutaties na 1832). Perceel A2323 (1,80 ha) nog op de kaart zoeken.
 - [ ] ★ **Archief Kruisheren Roermond, inv. nr. 117** (akte 2-3-1465): foto van het **zegel van Johan Hillen** (en het fragment van
       Godarts zegel).
 - [ ] Archief Kruisheren Roermond, inv. nr. 96 (14-7-1460): fragment van het zegel van Johan Hillen.
