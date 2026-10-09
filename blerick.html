@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Kaart · Familie Hillen</title>
-<meta name="description" content="Interactieve kaart van plaatsen waar de familie Hillen woonde, werkte of trouwde.">
+<title>Blerick · Familie Hillen</title>
+<meta name="description" content="Kaart van Blerick met de huizen, bedrijven en foto's van de familie Hillen.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;800&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
@@ -22,7 +22,7 @@
         <li><a href="stamboom.html">Stamboom</a></li>
         <li><a href="wapen.html">Familiewapen</a></li>
         <li><a href="artikelen.html">Artikelen</a></li>
-        <li><a href="kaart.html" class="active">Kaart</a></li>
+        <li><a href="kaart.html">Kaart</a></li>
         <li><a href="plekken.html">Plekken</a></li>
         <li><a href="onderzoek.html">Onderzoek</a></li>
       </ul>
@@ -33,16 +33,19 @@
 
 <section class="section container">
   <div class="section-head">
-    <p class="kicker">Waar de familie Hillen leefde</p>
-    <h1>De kaart</h1>
-    <p class="narrow" style="margin:0 auto;">Elke marker is een plaats uit de stamboomgegevens — geboorte,
-    overlijden of woonplaats. Klik op een marker voor de bijbehorende familieleden.</p>
+    <p class="kicker">Kaart van één dorp</p>
+    <h1>De Hillens in Blerick</h1>
+    <p class="narrow" style="margin:0 auto;">Huizen, bedrijven en foto's van de familie Hillen in Blerick, van het huis
+    van smid Albert in 1832 tot de wethouder van 1951. Klik op een marker voor het verhaal en de links naar de foto's.
+    Veel foto's staan in de beeldbank van <a href="https://heemkundekringblariacum.nl/" target="_blank" rel="noopener">Heemkundekring Blariacum</a>.</p>
   </div>
   <div id="map"></div>
-  <p class="map-legend">Plaatsen zijn automatisch gegeocodeerd op basis van de plaatsnaam in de stamboom;
-  bij twijfelgevallen (bijv. verouderde plaatsnamen) kan de marker bij benadering staan. Eén plaats
-  ("Koestein") kon niet betrouwbaar worden gelokaliseerd en ontbreekt daarom op de kaart. Voor Blerick is er een
-  <a href="blerick.html">aparte kaart met huizen, bedrijven en foto's</a>.</p>
+  <p class="map-legend"><span style="color:#7a1f22">&#9679;</span> wonen &nbsp;
+  <span style="color:#b8862b">&#9679;</span> bedrijf &nbsp; <span style="color:#2f5d8a">&#9679;</span> foto of gebeurtenis.
+  Gestippelde rand: plek bij benadering. De andere markers staan op de coördinaten die de heemkundekring bij de foto
+  geeft, of op het huidige adres. Zie ook <a href="plekken.html#blerick">Plekken: Blerick</a> en de
+  <a href="kaart.html">kaart van alle plaatsen</a>.</p>
+  <div id="blerick-lijst" class="narrow"></div>
 </section>
 
 </main>
@@ -53,7 +56,7 @@
   </div>
 </footer>
 <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
-<script src="js/kaart.js"></script>
+<script src="js/blerick.js"></script>
 <script>
 document.getElementById('nav-toggle').addEventListener('click', function() {
   this.classList.toggle('open');

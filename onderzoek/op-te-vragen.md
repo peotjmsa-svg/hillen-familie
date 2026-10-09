@@ -113,6 +113,17 @@ Legenda: ★ = kan een open vraag beslissen.
       het dispensatieverzoek bij het bisdom Roermond (vicariaat) bevat meestal de stamboom die de verwantschap aantoont.
       Gemeenschappelijke voorouder onbekend; vermoedelijk in de kring Hermans (getuigen bij Hillen × Zillen 1627).
 
+## 9d. Heemkundekring Blariacum (Blerick)
+- [ ] ★ Boek **"Genealogie Hillen. Tak Blerick"** staat in de lijst verschenen boeken van de heemkundekring
+      (vereniging/documentatie/verschenen_boeken). Navragen: auteur, jaar, inzage of kopie. Mogelijk dezelfde bron als
+      Th.J. Bais, "Hillen Blerick" achter de parenteel.
+- [ ] Café Hillen met beugelbaan, Schoolstraatje (nu Sint-Hubertusstraat), foto 1903, openbaar verkocht 1924: was dit het café
+      van Joanna Gerards (P0377), weduwe van bierbrouwer Willem Albert Hillen, cafehoudster in 1918, overl. 1922? Veilingadvertentie
+      1924 in Delpher of notariële akte zoeken.
+- [ ] Wim Hillen, adjudant van prins Piet I Deckers (Wortelepin, ca. 1954): wie is dit?
+- [ ] Pand Hillen aan de Markt (brandweerfoto 1921) en Fa. Hillen Verzekeringen, Kloosterstraat (jaren 1950): welk adres, en
+      wie had het kantoor na Louis (P0126)? Mogelijk Jozef (P0133).
+
 ## 10. Zelf online te doen (geen aanvraag nodig)
 - [ ] AGATHA (search.arch.be): Châtelet huwelijken 1730–1764 en dopen 1738–1794 (Louis, zoon van Ludwig Augustin).
 - [ ] AGATHA: doop-, trouw- en begraafboeken Farciennes, Loverval en Châtelet 1640–1710 op "de Hille" (lijn naar Ludwig Augustin?).

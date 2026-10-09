@@ -2752,22 +2752,40 @@
    "name": "Gerardus Hillen",
    "sex": "M",
    "birth_year": 1829,
-   "death_year": null,
-   "occupation": null,
-   "note": "Geboren Blerick (gem. Maasbree) 23-11-1829.",
+   "death_year": 1881,
+   "occupation": "tapper, bierbrouwer (Blerick)",
+   "note": "Geboren Blerick (gem. Maasbree) 23-11-1829, zoon van Jan (Johannes) Hillen en Joanna Rijnen. Dienstknecht toen hij op 14-5-1861 in Venlo trouwde met herbergierster Maria Catharina Hubertina Schreuders (geb. Venlo 14-3-1825), weduwe van Hendrik Ebus. In het bevolkingsregister van Maasbree staat hij als tapper in Blerick. Hij was de brouwer Gerardus Hillen van de Blerickse brouwerij Hillen, op de hoek van de Maasbreesestraat en de Averbodestraat (later de VIVO-winkel van de familie Daniëls). In 1867 kocht hij van Henriëtte Lemmens, de vrouw van Antoon Jurgens uit Oss, de rosmolen van Geurts, waarmee voortaan mout werd gemalen. Overleden Blerick 12-5-1881 (memorie van successie Maasbree 1881). Zijn vrouw heet in latere akten en bij de Heemkundekring ook 'Catharina Schröder/Schroeder'; dat het om dezelfde vrouw gaat, blijkt uit de akten van hun zoon Willem Albert (geboorte 1864: moeder Schreuders; overlijden 1901: moeder Schroeder).",
    "place": "Blerick",
    "place_events": [
     {
      "place": "Blerick",
      "role": "geboren",
      "year": 1829
+    },
+    {
+     "place": "Venlo",
+     "role": "getrouwd",
+     "year": 1861
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1881
     }
    ],
    "sources": [
     "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
-    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Open Archieven / Peel en Maas, bevolkingsregister Maasbree (pem:dcdfec75-59b5-2b81-3041-303bc641cef2)",
+    "Heemkundekring Blariacum, infotheek 'Rosmolen', 'Brouwerijen' en 'Vivo' en beeldbank 'Beugelbaan Hillen' (heemkundekringblariacum.nl)"
    ],
-   "children": []
+   "children": [
+    "@P0372@",
+    "@P0373@",
+    "@P0374@",
+    "@P0375@",
+    "@P0376@"
+   ]
   },
   "@P0117@": {
    "id": "@P0117@",
@@ -3488,7 +3506,7 @@
    "birth_year": 1869,
    "death_year": 1952,
    "occupation": "importeur/groothandel rokersbenodigdheden, assurantiekantoor, steenoven; wethouder Maasbree (vanaf 1930)",
-   "note": "Woonplaats volgens de piramide: Blerick. Brandweer Blerick (1901–1921), gemeenteraadslid, oudste kerkmeester; zeer invloedrijk in Blerick. Ongehuwd, geen kinderen. Overleden Venlo 19-10-1952 (overlijdensakte bevestigt 1952, niet 1953); in 1930 wethouder te Blerick. Geboren Blerick 25-8-1869. Van 1898 tot minstens 1938 secretaris-penningmeester van het kerkbestuur van de St.-Antoniusparochie (40-jarig jubileum februari 1938); in 1935 loco-burgemeester. Zie het artikel 'Louis Hillen, de man van Blerick'.",
+   "note": "Woonplaats volgens de piramide: Blerick. Brandweer Blerick (1901–1921), gemeenteraadslid, oudste kerkmeester; zeer invloedrijk in Blerick. Ongehuwd, geen kinderen. Overleden Venlo 19-10-1952 (overlijdensakte bevestigt 1952, niet 1953); in 1930 wethouder te Blerick. Geboren Blerick 25-8-1869. Van 1898 tot minstens 1938 secretaris-penningmeester van het kerkbestuur van de St.-Antoniusparochie (40-jarig jubileum februari 1938); in 1935 loco-burgemeester. Zie het artikel 'Louis Hillen, de man van Blerick'. Op de afscheidsfoto van de vrijwillige brandweer van 10-8-1921 (genomen op de Markt, nu Antoniusplein, vóór het pand Hillen) is hij nummer 2: hij verliet het korps omdat hij tot gemeenteraadslid was benoemd (Heemkundekring Blariacum, beeldbank, collectie Sjeng Lommen).",
    "place": "Blerick",
    "place_events": [
     {
@@ -3504,7 +3522,8 @@
     "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
     "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
     "Delpher, krantenberichten 1906–1952 (kerkjubileum 1938, raad 1930, loco-burgemeester 1935, overlijden 1952)",
-    "Artikel op deze site: artikelen/louis-hillen-blerick.html"
+    "Artikel op deze site: artikelen/louis-hillen-blerick.html",
+    "Heemkundekring Blariacum, beeldbank 'Vrijwillige Brandweer' (ca. 1921-08) en 'Kloosterstraat' (Fa. Hillen Verzekeringen, jaren 1950)"
    ],
    "children": [],
    "nickname": "Louis"
@@ -3830,7 +3849,7 @@
    "birth_year": 1899,
    "death_year": 1974,
    "occupation": "wethouder Venlo (1946–1958)",
-   "note": "Woonplaats volgens de piramide: Blerick. Gemeentebedrijven/wederopbouw (gas-licht-water). Penningmeester, kerkmeester en erelid Antoniusparochie; voorzitter Middenstandsvereniging, vice-voorzitter KvK. Ridder in de Orde van Sint-Silvester (1966); straat naar hem vernoemd in Venlo-Groenveld. 'Neef van Louis' in archieven.nl, vermoedelijk via halfbroer Theodor. Overleden 1974. De eerder genoemde '1981' is het overlijden van zijn vrouw Antoinette Roncken (Venlo 8-5-1981). Geboorteakte: Joseph Marie Antoon Hillen, Grave 20-6-1899. Huwelijk Maasbree 7-8-1928 met Antoinetta Marie Henriette Roncken; hij was toen koopman.",
+   "note": "Woonplaats volgens de piramide: Blerick. Gemeentebedrijven/wederopbouw (gas-licht-water). Penningmeester, kerkmeester en erelid Antoniusparochie; voorzitter Middenstandsvereniging, vice-voorzitter KvK. Ridder in de Orde van Sint-Silvester (1966); straat naar hem vernoemd in Venlo-Groenveld. 'Neef van Louis' in archieven.nl, vermoedelijk via halfbroer Theodor. Overleden 1974. De eerder genoemde '1981' is het overlijden van zijn vrouw Antoinette Roncken (Venlo 8-5-1981). Geboorteakte: Joseph Marie Antoon Hillen, Grave 20-6-1899. Huwelijk Maasbree 7-8-1928 met Antoinetta Marie Henriette Roncken; hij was toen koopman. Als wethouder van Venlo woonde hij op 14-4-1951 de begrafenis bij van twee ploegcommandanten van de Hulpverleningsdienst die bij een munitie-ontploffing omkwamen (Heemkundekring Blariacum, beeldbank 'Begrafenis').",
    "place": "Grave",
    "place_events": [
     {
@@ -3850,7 +3869,8 @@
     "[17] stratenvandelft.nl, 'Hillenlaan' / archieven.nl",
     "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
     "Open Archieven / BHIC, burgerlijke stand (Vught, 's-Hertogenbosch, Grave, Eindhoven e.a.)",
-    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Heemkundekring Blariacum, beeldbank 'Begrafenis' (1951-04)"
    ],
    "children": [
     "@P0270@",
@@ -8967,6 +8987,194 @@
     "Land van Kessel (AHS), gezinsbladen en transcripties DTB Blerick/Baarlo (M. Linskens e.a.), https://www.landvankessel.nl/Geneaolgie/Blerick/Gezinnen%20Blerick/"
    ],
    "children": []
+  },
+  "@P0371@": {
+   "id": "@P0371@",
+   "name": "Maria Catharina Hubertina Schreuders",
+   "sex": "F",
+   "birth_year": 1825,
+   "death_year": null,
+   "occupation": "herbergierster",
+   "note": "Geboren Venlo 14-3-1825, dochter van Renier Schreuders en Margaretha Gitsels. Weduwe van Hendrik Ebus (overl. Venlo 2-4-1859). Trouwde Venlo 14-5-1861 met Gerard Hillen. Ook geschreven als Catharina Schröder of Schroeder.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Venlo",
+     "role": "geboren",
+     "year": 1825
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Open Archieven / Peel en Maas, bevolkingsregister Maasbree (pem:dcdfec75-59b5-2b81-3041-303bc641cef2)"
+   ],
+   "children": [
+    "@P0372@",
+    "@P0373@",
+    "@P0374@",
+    "@P0375@",
+    "@P0376@"
+   ]
+  },
+  "@P0372@": {
+   "id": "@P0372@",
+   "name": "Johan Willem Gerard Hillen",
+   "sex": "M",
+   "birth_year": 1862,
+   "death_year": 1863,
+   "occupation": null,
+   "note": "Geboren Venlo 11-3-1862, overleden 10-6-1863.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Venlo",
+     "role": "geboren",
+     "year": 1862
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
+   ],
+   "children": []
+  },
+  "@P0373@": {
+   "id": "@P0373@",
+   "name": "Willem Albert Hillen",
+   "sex": "M",
+   "birth_year": 1864,
+   "death_year": 1901,
+   "occupation": "bierbrouwer",
+   "note": "Geboren Venlo 6-6-1864. Bierbrouwer, zoals zijn vader. Trouwde Maasbree 21-10-1892 met Joanna Christina Hubertina Gerards. Overleden Blerick 8-7-1901, 37 jaar oud.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Venlo",
+     "role": "geboren",
+     "year": 1864
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1901
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Open Archieven / Peel en Maas, bevolkingsregister Maasbree (pem:dcdfec75-59b5-2b81-3041-303bc641cef2)"
+   ],
+   "children": [
+    "@P0378@"
+   ]
+  },
+  "@P0374@": {
+   "id": "@P0374@",
+   "name": "Alexander Gerard Hubert Hillen",
+   "sex": "M",
+   "birth_year": 1865,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren Venlo 25-12-1865.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Venlo",
+     "role": "geboren",
+     "year": 1865
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Open Archieven / Peel en Maas, bevolkingsregister Maasbree (pem:dcdfec75-59b5-2b81-3041-303bc641cef2)"
+   ],
+   "children": []
+  },
+  "@P0375@": {
+   "id": "@P0375@",
+   "name": "Joseph Hubert Hillen",
+   "sex": "M",
+   "birth_year": 1867,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren Venlo 26-3-1867.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Venlo",
+     "role": "geboren",
+     "year": 1867
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Open Archieven / Peel en Maas, bevolkingsregister Maasbree (pem:dcdfec75-59b5-2b81-3041-303bc641cef2)"
+   ],
+   "children": []
+  },
+  "@P0376@": {
+   "id": "@P0376@",
+   "name": "Anna Gertruda Hillen",
+   "sex": "F",
+   "birth_year": 1869,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren Blerick 4-9-1869 (bevolkingsregister Maasbree).",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1869
+    }
+   ],
+   "sources": [
+    "Open Archieven / Peel en Maas, bevolkingsregister Maasbree (pem:dcdfec75-59b5-2b81-3041-303bc641cef2)"
+   ],
+   "children": []
+  },
+  "@P0377@": {
+   "id": "@P0377@",
+   "name": "Joanna Christina Hubertina Gerards",
+   "sex": "F",
+   "birth_year": 1857,
+   "death_year": 1922,
+   "occupation": "cafehoudster",
+   "note": "Dochter van Gerard Nicolaas Gerards en Joanna Mechtilda Hafmans. Trouwde Maasbree 21-10-1892 met bierbrouwer Willem Albert Hillen; weduwe vanaf 1901. Bij het huwelijk van haar dochter in 1918 is zij cafehoudster. Overleden Blerick 16-3-1922, 64 jaar. Waarschijnlijk is zij de Hillen van café Hillen met beugelbaan in het Schoolstraatje (nu Sint-Hubertusstraat), op een foto uit 1903 en in 1924 openbaar verkocht; dat staat niet met zoveel woorden in een bron.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1922
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Heemkundekring Blariacum, infotheek 'Rosmolen', 'Brouwerijen' en 'Vivo' en beeldbank 'Beugelbaan Hillen' (heemkundekringblariacum.nl)"
+   ],
+   "children": [
+    "@P0378@"
+   ]
+  },
+  "@P0378@": {
+   "id": "@P0378@",
+   "name": "Mathilde Josephina Catharina Hillen",
+   "sex": "F",
+   "birth_year": 1893,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren Maasbree 13-10-1893. Trouwde Maasbree 10-10-1918 met kantoorklerk Mathieu Hubert Lambrigts uit Ittervoort.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "geboren",
+     "year": 1893
+    }
+   ],
+   "sources": [
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
+   ],
+   "children": []
   }
  },
  "families": {
@@ -10030,6 +10238,30 @@
    "chil": [],
    "marr_date": "19 SEP 1790",
    "marr_place": "Blerick"
+  },
+  "@F0094@": {
+   "id": "@F0094@",
+   "husb": "@P0219@",
+   "wife": "@P0371@",
+   "chil": [
+    "@P0372@",
+    "@P0373@",
+    "@P0374@",
+    "@P0375@",
+    "@P0376@"
+   ],
+   "marr_date": "14 MAY 1861",
+   "marr_place": "Venlo"
+  },
+  "@F0095@": {
+   "id": "@F0095@",
+   "husb": "@P0373@",
+   "wife": "@P0377@",
+   "chil": [
+    "@P0378@"
+   ],
+   "marr_date": "21 OCT 1892",
+   "marr_place": "Maasbree"
   }
  },
  "places": [
@@ -10103,8 +10335,8 @@
   "Zolder"
  ],
  "stats": {
-  "individuals": 365,
-  "families": 89,
+  "individuals": 373,
+  "families": 91,
   "places": 68
  }
 }
