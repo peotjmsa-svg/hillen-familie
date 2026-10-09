@@ -467,6 +467,24 @@ nav.main-nav a.active {
   stroke-width: 2.2px;
 }
 
+/* Nickname (bijnaam), e.g. Johan Hillen (de oude) */
+.node-nick {
+  font-style: italic;
+  font-weight: 400;
+  font-size: 0.85em;
+  fill: var(--ink-soft);
+}
+.detail-nick {
+  font-style: italic;
+  color: var(--ink-soft);
+  margin-top: -0.2rem;
+}
+
+/* Parent link not yet proven by a deed */
+.tree-link.uncertain {
+  stroke-dasharray: 7 6;
+}
+
 /* "Mijn tak" — Thijn's own direct line, root to self. Bold and unmistakable against the thin gray tree links. */
 .tree-node.my-line circle {
   r: 9;
@@ -526,6 +544,16 @@ nav.main-nav a.active {
   border: 1px solid #d88;
   border-left: 4px solid var(--red);
   color: var(--ink);
+}
+.detail-banner.uncertain {
+  background: #f7f7fb;
+  border: 1px dashed var(--ink-soft);
+  border-left: 4px dashed var(--ink-soft);
+  color: var(--ink);
+}
+.uncertain-mark {
+  color: var(--ink-soft);
+  font-style: italic;
 }
 .detail-link, .detail-child-link {
   color: var(--red);

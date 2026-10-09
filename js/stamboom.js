@@ -149,6 +149,7 @@
       .append("path")
       .attr("class", "tree-link")
       .merge(link)
+      .classed("uncertain", (d) => !!d.target.data.uncertain_parent)
       .transition()
       .duration(350)
       .attr("d", (d) => {
@@ -184,7 +185,11 @@
       .attr("dy", "-1em")
       .attr("text-anchor", "middle")
       .attr("class", "node-name")
-      .text((d) => d.data.name)
+      .each(function (d) {
+        const t = d3.select(this);
+        t.append("tspan").text(d.data.name);
+        if (d.data.nickname) t.append("tspan").attr("class", "node-nick").text(` (${d.data.nickname})`);
+      })
       .on("click", (event, d) => {
         event.stopPropagation();
         highlightNode(d.data.id);
@@ -383,7 +388,9 @@
           <span class="detail-label">Kinderen</span>
           <span>${p.children.map(cid => {
             const child = DATA.people[cid];
-            return child ? `<a class="detail-link" data-id="${cid}">${escapeHtml(child.name)}</a>` : "";
+            if (!child) return "";
+            const mark = child.uncertain_parent ? ` <small class="uncertain-mark">(vermoedelijk)</small>` : "";
+            return `<a class="detail-link" data-id="${cid}">${escapeHtml(child.name)}</a>${mark}`;
           }).filter(Boolean).join(", ")}</span>
         </div>`
       : "";
@@ -421,7 +428,17 @@
         </div>`;
     }
 
-    const occ = p.occupation ? `<div class="detail-field"><span class="detail-label">Beroep</span><span>${escapeHtml(p.occupation)}</span></div>` : "";
+    if (p.uncertain_parent) {
+      const parent = Object.values(DATA.people).find((q) => (q.children || []).includes(p.id));
+      bannerHtml += `
+        <div class="detail-banner uncertain">
+          ┄ <strong>Aansluiting vermoedelijk</strong><br>
+          De stippellijn naar ${parent ? `<a class="detail-link" data-id="${parent.id}">${escapeHtml(parent.name)}</a>` : "de ouder"}
+          is nog niet met een akte bewezen. Zie de notitie hieronder.
+        </div>`;
+    }
+
+    const occ = p.occupation ?`<div class="detail-field"><span class="detail-label">Beroep</span><span>${escapeHtml(p.occupation)}</span></div>` : "";
     const place = p.place ? `<div class="detail-field"><span class="detail-label">Plaats</span><span>${escapeHtml(p.place)}</span></div>` : "";
     const note = p.note ? `<div class="detail-note">${escapeHtml(p.note)}</div>` : "";
     const sources = (p.sources && p.sources.length)
@@ -436,6 +453,7 @@
       <div class="detail-header ${sexClass}">
         <span class="detail-sex">${sexIcon}</span>
         <h3>${escapeHtml(p.name)}</h3>
+        ${p.nickname ? `<div class="detail-nick">${escapeHtml(p.nickname)}</div>` : ""}
         <div class="detail-years">${yearsLabel(p)}</div>
       </div>
       <div class="detail-body">
@@ -493,7 +511,7 @@
 
     const sorted = Object.values(people).sort((a, b) => a.name.localeCompare(b.name, "nl"));
     for (const p of sorted) {
-      lines.push(`=== ${p.name} (${p.id}) ===`);
+      lines.push(`=== ${nameWithNick(p)} (${p.id}) ===`);
       lines.push(`Jaren: ${yearsLabel(p) || "onbekend"}`);
       lines.push(`Geslacht: ${p.sex === "M" ? "man" : p.sex === "F" ? "vrouw" : "onbekend"}`);
       if (p.occupation) lines.push(`Beroep: ${p.occupation}`);
@@ -533,8 +551,20 @@
   }
 
   // Full-profile search: matches name, occupation, place, notes, sources, years.
+  function nameWithNick(p) {
+    return p.nickname ? `${p.name} (${p.nickname})` : p.name;
+  }
+
+  // Name hit: every word of the query occurs in name + nickname, so "johan de oude" finds Johan Hillen (de oude).
+  function nameMatches(p, q) {
+    const hay = `${p.name || ""} ${p.nickname || ""}`.toLowerCase();
+    if (hay.includes(q)) return true;
+    const words = q.split(/\s+/).filter(Boolean);
+    return words.length > 1 && words.every((w) => hay.includes(w));
+  }
+
   function searchPerson(p, q) {
-    if (p.name && p.name.toLowerCase().includes(q)) return null;
+    if (nameMatches(p, q)) return null;
     if (p.occupation && p.occupation.toLowerCase().includes(q)) return `Beroep: ${p.occupation}`;
     if (p.place && p.place.toLowerCase().includes(q)) return `Plaats: ${p.place}`;
     if (p.note && p.note.toLowerCase().includes(q)) {
@@ -568,13 +598,12 @@
         return;
       }
 
-      const matches = [];
+      let matches = [];
       for (const p of Object.values(DATA.people)) {
         const reason = searchPerson(p, q);
         if (reason !== undefined) {
           matches.push({ person: p, reason });
         }
-        if (matches.length >= 30) break;
       }
 
       matches.sort((a, b) => {
@@ -583,6 +612,7 @@
         if (aName !== bName) return aName - bName;
         return a.person.name.localeCompare(b.person.name, "nl");
       });
+      matches = matches.slice(0, 30);
 
       if (!matches.length) {
         results.innerHTML = '<div style="color:#888;">Geen resultaten</div>';
@@ -599,7 +629,7 @@
             if (partner) spouseHint = ` <span class="search-spouse">(gehuwd met ${escapeHtml(partner.name)})</span>`;
           }
           const hint = reason ? `<span class="search-hint">${escapeHtml(reason)}</span>` : "";
-          return `<div data-id="${p.id}">${escapeHtml(p.name)}${spouseHint} <span class="search-years">(${yearsLabel(p)})</span>${hint}</div>`;
+          return `<div data-id="${p.id}">${escapeHtml(nameWithNick(p))}${spouseHint} <span class="search-years">(${yearsLabel(p)})</span>${hint}</div>`;
         })
         .join("");
       results.style.display = "block";
@@ -696,7 +726,7 @@
           ${groups[letter]
             .map(
               (p) =>
-                `<li data-id="${p.id}">${escapeHtml(p.name)} <span class="yrs">(${yearsLabel(p)})</span></li>`
+                `<li data-id="${p.id}">${escapeHtml(nameWithNick(p))} <span class="yrs">(${yearsLabel(p)})</span></li>`
             )
             .join("")}
         </ul>

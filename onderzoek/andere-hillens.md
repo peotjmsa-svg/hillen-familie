@@ -212,8 +212,10 @@ Alleen vergelijking van jaartallen, namen en plaatsen met `data/stamboom.json`. 
     - Bron van "Jan Hillen × Mettel van Armendonck": **D.J. Bais-Hillen, De geslachten Hillen en Hille** (GA Roermond, bibliotheek
       inv.nr. 37 c 75), volgens Giesen "zeer summier". Een Jan × Armendonck is verder nergens gevonden (Res Gestae, Giesen,
       web: 0 treffers op Armendonck/Amendonck).
-    - Conclusie: **Dyrick (P0055) is de waarschijnlijkste vader** (Ruitens "oom" + oudste zoon heet Derick), maar onbewezen. Niet
-      gekoppeld. Beslissend: J.W.A. Fleuren, "Geslacht van Hillen", *Limburgs Tijdschrift voor Genealogie* (jrg. 78/83), en
+    - Conclusie: **Dyrick (P0055) is de waarschijnlijkste vader** (Ruitens "oom" + oudste zoon heet Derick), maar onbewezen.
+      Op verzoek van de gebruiker (9-10-2026) toch voorlopig gekoppeld: gezin F0092 (`"uncertain": true`, geen moeder) en
+      `"uncertain_parent": true` bij P0274; de boom tekent die lijn als stippellijn. Weghalen of bevestigen zodra Bais-Hillen of
+      Fleuren is ingezien. Beslissend: J.W.A. Fleuren, "Geslacht van Hillen", *Limburgs Tijdschrift voor Genealogie* (jrg. 78/83), en
       Bais-Hillen.
   - Dederik (P0002) overleed tussen dec. 1652 en dec. 1656 (Ruiten). "Overleden Helden 17-8-1675" (Genwiki, Giesen) kan niet:
     Gertrudis is in 1656 en 1663 weduwe. De oude notitie "zoon Dederick" had geen bron; verwijderd.
