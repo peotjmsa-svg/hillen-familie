@@ -2554,7 +2554,7 @@
    "birth_year": 1821,
    "death_year": 1898,
    "occupation": "manufacturier, koopman",
-   "note": "Woonplaats volgens de piramide: Blerick. Tweelingbroer van Joannes (Johan). Geboren Blerick 16-9-1821, overleden Blerick 19-1-1898 (76 jaar). Eerst gehuwd Maasbree 21-1-1853 met Petronella Bollen; als weduwnaar hertrouwd Heythuysen 6-10-1862 met Maria Bernardina Verschueren. Beroep in de akten: koopman / winkelier. Vermoedelijk vennoot en mede-eigenaar van boterfabriek Hillen-Verbruggen in Roermond (1879–1883), de 3e zuivelfabriek van Nederland; aannemelijk maar niet sluitend bewezen. Komt ook voor in de MyHeritage-stamboom 'Hillen Stamboom (Tak Roermond)' van Hugo Hillen, met afgebeeld familiewapen.",
+   "note": "Woonplaats volgens de piramide: Blerick. Tweelingbroer van Joannes (Johan). Geboren Blerick 16-9-1821, overleden Blerick 19-1-1898 (76 jaar). Eerst gehuwd Maasbree 21-1-1853 met Petronella Bollen; als weduwnaar hertrouwd Heythuysen 6-10-1862 met Maria Bernardina Verschueren. Beroep in de akten: koopman / winkelier. Vermoedelijk vennoot en mede-eigenaar van boterfabriek Hillen-Verbruggen in Roermond (1879–1883), de 3e zuivelfabriek van Nederland; aannemelijk maar niet sluitend bewezen. Komt ook voor in de MyHeritage-stamboom 'Hillen Stamboom (Tak Roermond)' van Hugo Hillen, met afgebeeld familiewapen. Woonde als jongeman in het ouderlijk huis 'Blerick 239' aan de Kloosterstraat (kadaster 1832 perceel A480; register 1843–1852). Na zijn huwelijk met Petronella Bollen staat hij als 'koopman' ingeschreven bij zijn schoonmoeder Gertrudis Rutten, winkelierster (register 1850–1862). Het huis van de Bollens, met blauwververij, was in 1832 perceel A1852 (Pieter Andries Bollen, blauwverver, artikel 69) en in 1843–1852 'Blerick 200', op de hoek vlak bij de kerk. De manufacturenwinkel van 'Sanger Hille' komt vermoedelijk voort uit de zaak van de familie Bollen-Rutten.",
    "place": "Blerick",
    "place_events": [
     {
@@ -2576,7 +2576,9 @@
     "[14] Eigen stamboom-app (Hillen Family Tree)",
     "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
     "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
-    "Bevolkingsregister Maasbree (Peel en Maas), via Open Archieven"
+    "Bevolkingsregister Maasbree (Peel en Maas), via Open Archieven",
+    "Bevolkingsregisters Blerick (gemeente Maasbree) 1843–1852 (SA1545_2260) en 1850–1862 (SA1545_2263), gemeente Peel en Maas, via Open Archieven (pem)",
+    "RCE beeldbank, oorspronkelijk aanwijzende tafels Maasbree sectie A en minuutplan MIN11056A02 (1832), publiek domein, https://beeldbank.cultureelerfgoed.nl/"
    ],
    "children": [
     "@P0006@",
@@ -2846,7 +2848,7 @@
    "birth_year": 1835,
    "death_year": 1861,
    "occupation": null,
-   "note": "Geboren Blerick 20-11-1835. Dochter van Peter Andries Bollen en Geertrui Rutten. Huwelijk Maasbree (Blerick) 21-1-1853. Overleden vóór 1862, toen Alexander als weduwnaar hertrouwde. Overleden Blerick 13-4-1861, 25 jaar oud.",
+   "note": "Geboren Blerick 20-11-1835. Dochter van Peter Andries Bollen en Geertrui Rutten. Huwelijk Maasbree (Blerick) 21-1-1853. Overleden vóór 1862, toen Alexander als weduwnaar hertrouwde. Overleden Blerick 13-4-1861, 25 jaar oud. Dochter van Pieter Andries Bollen, blauwverver (stoffenverver), en Gertrudis Rutten (ged. Helden 1797), winkelierster. Het gezin woonde in 1843–1852 op 'Blerick 200', in 1832 perceel A1852: huis en erf met blauwververij. Trouwde Maasbree 21-1-1853 met Alexander Hillen.",
    "place": "Blerick",
    "place_events": [
     {
@@ -2863,7 +2865,9 @@
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
-    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Bevolkingsregisters Blerick (gemeente Maasbree) 1843–1852 (SA1545_2260) en 1850–1862 (SA1545_2263), gemeente Peel en Maas, via Open Archieven (pem)",
+    "RCE beeldbank, oorspronkelijk aanwijzende tafels Maasbree sectie A en minuutplan MIN11056A02 (1832), publiek domein, https://beeldbank.cultureelerfgoed.nl/"
    ],
    "children": [
     "@P0122@",
