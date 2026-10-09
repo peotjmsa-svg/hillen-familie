@@ -186,6 +186,10 @@ ARTICLES = [
                 "img_caption": "“Poseren in de vorige eeuw voor ‘t fabriek.” Personeel en "
                                "bedrijfsleider van ijzergieterij Hillen, 1895. Productie: ketels en motoren. "
                                "(met dank aan Ruud Merkx, via Heuijerjans.net)",
+                "img2": "assets/images/fotos/maasbruggen_1908_vanaf_blerick.jpg",
+                "img2_caption": "De Maasbruggen in 1908, gezien vanaf de Blerickse oever: vooraan de spoorbrug van 1886, "
+                                "erachter de oude brug van 1865 die Joh. Hillen dat jaar op de pijlers verschoof. "
+                                "Ansichtkaart, publiek domein (Wikimedia Commons).",
                 "p": [
                     "Binnen zeven jaar groeide het personeelsbestand van 24 naar ongeveer 100 man — een "
                     "verviervoudiging die de fabriek tot een van de grootste werkgevers van Blerick maakte. "
