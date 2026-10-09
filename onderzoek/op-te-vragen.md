@@ -95,6 +95,13 @@ Legenda: ★ = kan een open vraag beslissen.
       Bekend: koopman Alardus (P0004) en manufacturier Alexander (P0005); dochters trouwden in Venlo (1816 met pannenbakker
       Johan Brenten, 1859 met akkerman Seelen); de ijzergieterij stond bij de Kamer van Koophandel van Venlo.
 
+- [ ] ★ **Directe lijn Blerick (1627–1789): huizen en bezit.** Kerkboeken zijn uitgeplozen (Land van Kessel), maar over waar en
+      hoe ze woonden is niets gevonden. Te zoeken bij RHCL / Gemeentearchief Venlo: schepenbank Blerick/Maasbree (protocollen van
+      overdrachten, gichten, boedelscheidingen), cijns- en laatboeken van de heerlijkheid Blerick, verpondingen/schattingen, en de
+      boedel na Caspar (overl. 1789) en na Alardus Albertus (overl. 1772). Ook: is de Joannes Hillen × Elisabeth Lemmen (kinderen
+      1638–1646) dezelfde als Joannes, zoon van Gerardus uit Roermond (× Zillen 1627)? En wie waren de ouders van Johannes Hillen
+      "uit Sevenum" (P0063)?
+
 ## 10. Zelf online te doen (geen aanvraag nodig)
 - [ ] AGATHA (search.arch.be): Châtelet huwelijken 1730–1764 en dopen 1738–1794 (Louis, zoon van Ludwig Augustin).
 - [ ] AGATHA: doop-, trouw- en begraafboeken Farciennes, Loverval en Châtelet 1640–1710 op "de Hille" (lijn naar Ludwig Augustin?).

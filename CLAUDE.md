@@ -32,5 +32,8 @@ Statische site (GitHub Pages vanaf `main`). Antwoord de gebruiker in het Nederla
 
 ## Open punten
 - Gezin Joannes Hillen × Helena Vorstermans: geen akten online.
-- Caspar Hillen: sterfjaar 1789 botst met de akte van 1818.
+- ~~Caspar Hillen: sterfjaar 1789 botst met de akte van 1818.~~ Opgelost 9-10-2026: Caspar overleed 4-6-1789; zijn weduwe
+  Theodora Sanders hertrouwde 1790 met Joannes Wilhelmus Linches en stierf 1818 (Land van Kessel).
+- Aansluiting Johannes Hillen (Sevenum, P0063) op burgemeester Johan (P0041) rust alleen op de piramide; de parenteel begint bij
+  Johannes zonder ouders. Ook het tweede huwelijk van Joannes (P0082) met Elisabeth Lemmen is niet bewezen (Land van Kessel: "mogelijk").
 - Ongeveer 90 personen van vóór 1780 zonder jaren (doopboeken, bv. FamilySearch via de browser van de gebruiker).

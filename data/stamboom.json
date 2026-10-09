@@ -153,7 +153,7 @@
    "birth_year": 1545,
    "death_year": 1599,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Sevenum. Parenteel: Johannes HYLLEN, gedoopt Sevenum (St. Fabritius en Sebastianuskerk).",
+   "note": "Woonplaats volgens de piramide: Sevenum. Parenteel: Johannes HYLLEN, gedoopt Sevenum (St. Fabritius en Sebastianuskerk). Let op: de parenteel begint bij hem en noemt geen ouders. De koppeling aan burgemeester Johan Hillen (P0041) komt alleen uit de stamboom-piramide en is niet met een akte onderbouwd. Doopboeken van Sevenum gaan niet terug tot 1545, dus 'gedoopt Sevenum 1545' is een schatting. Opvallend: de tiende van Sevenum hoorde bij Johan Hillen de oude (P0053), die hem in 1570 aan zijn dochter Johanna meegaf.",
    "place": "Sevenum",
    "place_events": [
     {
@@ -165,7 +165,8 @@
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[3] Th.J. Bais, 'Hillen Blerick' / onzewebstek.nl, 'Parenteel van Johannes Hyllen'",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Parenteel van Johannes Hyllen (onzewebstek.nl, gearchiveerd: https://web.archive.org/web/2024/https://onzewebstek.nl/stamboom/hi/hillen/hill.htm)"
    ],
    "children": [
     "@P0065@"
@@ -220,7 +221,7 @@
    "birth_year": 1570,
    "death_year": null,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Roermond. Enig bekend kind (onzewebstek.nl).",
+   "note": "Volgens de parenteel geboren 28-1-1570 in Roermond, gehuwd met Catharina NN. Zijn zoon Joannes heet bij zijn huwelijk in Blerick (1627) 'filius Gerardi Hillen Ruremundensis'. Kinderen gedoopt in Roermond 1605–1612. Woonplaats volgens de piramide: Roermond.",
    "place": "Roermond",
    "place_events": [
     {
@@ -232,7 +233,9 @@
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[3] Th.J. Bais, 'Hillen Blerick' / onzewebstek.nl, 'Parenteel van Johannes Hyllen'",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Parenteel van Johannes Hyllen (onzewebstek.nl, gearchiveerd: https://web.archive.org/web/2024/https://onzewebstek.nl/stamboom/hi/hillen/hill.htm)",
+    "Land van Kessel (AHS), gezinsbladen en transcripties DTB Blerick/Baarlo (M. Linskens e.a.), https://www.landvankessel.nl/Geneaolgie/Blerick/Gezinnen%20Blerick/"
    ],
    "children": [
     "@P0082@",
@@ -463,7 +466,7 @@
    "birth_year": 1603,
    "death_year": 1646,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Blerick. Kinderen Reinerus (1640) en Alardus (1643). Parenteel: niet in Roermond gedoopt; filius Gerardi Hillen, Rurmundensis. Eerst gehuwd Blerick 7-1-1627 met Aleidis Zillen (getuigen Mathias Kessels en Petrus zn v. Joannes Hermans), daarna met Elisabeth Lemmen.",
+   "note": "Trouwde 7-1-1627 in Blerick als 'Joannes filius Gerardi Hillen Ruremundensis' (Joannes, zoon van Gerardus Hillen uit Roermond) met Aleijdis, dochter van Wilhelmus Zillen; getuigen Mathias Kessels en Petrus, zoon van Joannes Hermans. Daarmee is hij de eerste Hillen in Blerick. Kinderen met Aleidis: Aleidis (1628), Maria (1630), Margaretha (1632), Wilhelmus (1634). Vanaf 1638 worden kinderen gedoopt van 'Joannes Hillen en Elisabeth Lemmen' (ook 'Elizabeta Aelaerts aen gen Velden'): Aleidis (1638), Renerus (1640), Alardus (1643) en Itta (1646). Dat dit dezelfde Joannes is, in een tweede huwelijk, is aannemelijk maar niet met een akte bewezen (Land van Kessel: 'mogelijk huwelijk 2'). Overleden 29-10-1646 (parenteel). Geboren rond 1603; een doop in Roermond is niet gevonden.",
    "place": "Blerick",
    "place_events": [
     {
@@ -476,7 +479,9 @@
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[3] Th.J. Bais, 'Hillen Blerick' / onzewebstek.nl, 'Parenteel van Johannes Hyllen'",
     "[14] Eigen stamboom-app (Hillen Family Tree)",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Land van Kessel (AHS), gezinsbladen en transcripties DTB Blerick/Baarlo (M. Linskens e.a.), https://www.landvankessel.nl/Geneaolgie/Blerick/Gezinnen%20Blerick/",
+    "Parenteel van Johannes Hyllen (onzewebstek.nl, gearchiveerd: https://web.archive.org/web/2024/https://onzewebstek.nl/stamboom/hi/hillen/hill.htm)"
    ],
    "children": [
     "@P0091@",
@@ -890,7 +895,7 @@
    "birth_year": 1643,
    "death_year": 1702,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Blerick. Doopgetuigen Gerardus v.d. Broeck en Matthias Joudagh. Huwelijk 8-4-1668 in Blerick met Joanna Peemans (haar moeder: Cornelia Hillen).",
+   "note": "Gedoopt Blerick 21-5-1643, 'filius legitimus Joannis Hillen et Elizabethae Lemmen' (peter Joannes Lemmen, meter Lucia Claes). Trouwde 8-4-1668 in Blerick met Joanna Peemans, 17 jaar, wier moeder Cornelia Hillen heette; getuigen Gerardus van den Broeck en Matthias Joudagh. In het gezinsblad heten zij ook 'Hillen [Janssen]' en 'Peemans [Coelenvangers]'. Alardus werd dus ook naar zijn vader Jan genoemd. Zeker twaalf kinderen tussen 1668 en 1695. Herfst 1702: kort na het beleg van Venlo (september 1702, waarbij Fort St. Michiel aan de Blerickse kant werd bestormd) stierf in Blerick een groot deel van het dorp: 53 begrafenissen in dat jaar, tegen 5 à 12 in gewone jaren, waarvan 22 in oktober en 10 in november. Zoon Gerardus werd begraven op 16 oktober, Alardus zelf op 17 november en Joanna op 30 november. De akten noemen geen oorzaak, maar in 1702 heerste in Blerick en Venlo dysenterie, de 'rooie loop' (bloederige diarree); in Venlo stierf ongeveer een tiende van de bevolking. Volgens Jan Titulaer kwam dat door de kurkdroge zomer van 1701 (weinig oogst, verzwakte mensen) en door de soldaten.",
    "place": "Blerick",
    "place_events": [
     {
@@ -907,7 +912,9 @@
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[3] Th.J. Bais, 'Hillen Blerick' / onzewebstek.nl, 'Parenteel van Johannes Hyllen'",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Land van Kessel (AHS), gezinsbladen en transcripties DTB Blerick/Baarlo (M. Linskens e.a.), https://www.landvankessel.nl/Geneaolgie/Blerick/Gezinnen%20Blerick/",
+    "Jan Titulaer, Blièrick d'r waas ens, 'Fort Sint Michiel (3): Blièrick kleurde donker roeëd (1702)', http://blerickvroeger.blogspot.com/2017/07/blierick-kleurde-donker-roeed-1702.html"
    ],
    "children": [
     "@P0098@",
@@ -1358,10 +1365,10 @@
    "id": "@P0098@",
    "name": "Joannes Hillen",
    "sex": "M",
-   "birth_year": 1676,
+   "birth_year": 1672,
    "death_year": 1755,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Blerick. 7 kinderen bekend (2 in de piramide). Parenteel: geboren 1676 (piramide: 1672). Huwelijk Blerick 23-4-1698 met Allegondis de Trap, met dispensatie 3e en 4e graad bloedverwantschap.",
+   "note": "Gedoopt Blerick 25-9-1672 (de parenteel zegt 1676; de doopakte D1672-018 geeft 1672). Zoon van Alardus Hillen en Joanna Peemans. Trouwde 23-4-1698 in Blerick met Aldegondis de Trap, 'cum dispensatione in tertio et quarto mixto consanguinitatis gradu': zij waren familie van elkaar (in de derde en vierde graad) en hadden daarvoor toestemming van de kerk nodig. Getuigen Joannes Peeters en Gerardus Blom. Zeven kinderen. Aldegondis stierf 22-2-1749. Overleden Blerick, volgens de parenteel 24-12-1755 ('Obiit Joannes Hillen'); het gezinsblad van Land van Kessel twijfelt of die akte bij hem of bij zijn gelijknamige zoon hoort.",
    "place": "Blerick",
    "place_events": [
     {
@@ -1374,7 +1381,9 @@
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[2] Th.J. Bais, 'Hillen Roermond' (2006)",
     "[3] Th.J. Bais, 'Hillen Blerick' / onzewebstek.nl, 'Parenteel van Johannes Hyllen'",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Land van Kessel (AHS), gezinsbladen en transcripties DTB Blerick/Baarlo (M. Linskens e.a.), https://www.landvankessel.nl/Geneaolgie/Blerick/Gezinnen%20Blerick/",
+    "Parenteel van Johannes Hyllen (onzewebstek.nl, gearchiveerd: https://web.archive.org/web/2024/https://onzewebstek.nl/stamboom/hi/hillen/hill.htm)"
    ],
    "children": [
     "@P0100@",
@@ -1745,7 +1754,7 @@
    "birth_year": 1709,
    "death_year": 1772,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Blerick. Huwelijk 29-1-1738 in Blerick. 9 kinderen bekend. Parenteel VIc; ook Albertus genoemd. Huwelijk Delft 29-1-1738 met Agnes Gommans.",
+   "note": "Gedoopt Blerick 26-12-1709, zoon van Joannes Hillen en Aldegondis de Trap; ook Albertus genoemd. Trouwde 29-1-1738 in Blerick (niet in Delft) met Agnes Goemans uit Helden; getuigen Alardus Hillen en Maria Catharina Titelers. Overleden Blerick 1-7-1772, begraven op het kerkhof op 3 juli. Negen kinderen, gedoopt in Blerick 1738–1753. Vier zoons trokken naar Holland: Alardus (Delft, 1769), Gerardus/Gerrit (Delft, 1772; stichter van de sigarenfabriek A. Hillen), Martinus (Schiedam, 1782); en zijn broer Johannes Nicolaas was al in 1738 in Delft getrouwd. Zijn zoon Caspar bleef in Blerick.",
    "place": "Blerick",
    "place_events": [
     {
@@ -1762,7 +1771,8 @@
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[2] Th.J. Bais, 'Hillen Roermond' (2006)",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Land van Kessel (AHS), gezinsbladen en transcripties DTB Blerick/Baarlo (M. Linskens e.a.), https://www.landvankessel.nl/Geneaolgie/Blerick/Gezinnen%20Blerick/"
    ],
    "children": [
     "@P0003@",
@@ -2180,7 +2190,7 @@
    "birth_year": 1749,
    "death_year": 1789,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Blerick. Eerst gehuwd met Theodora Sanders, na haar overlijden met Wilhelmina Linssen. Let op: de memorie van successie van Dorothea Sanders (1818) noemt Caspar als haar man, terwijl hier 1789 als zijn sterfjaar staat. Als Caspar in 1789 stierf, kan hij niet na haar dood hertrouwd zijn; mogelijk hoort het huwelijk met Wilhelmina Linssen bij een andere Caspar Hillen.",
+   "note": "Gedoopt Blerick 8-4-1749 als 'Gaspar, zoon van Alardus Hillen en Agnes Gommers' (peter zijn oom Gaspar Hillen, meter Maria Lamers). Trouwde 15-1-1777 in Baarlo met Theodora (Dorothea) Sanders uit Baarlo; getuige was zijn broer Nicolaas. Overleden Blerick 4-6-1789, begraven op het kerkhof op 6 juni ('Casparus Hillen maritus Dorotheae Sanders'). Kinderen, allen gedoopt in Blerick: Gasparus (1777, na vijf dagen overleden), Maria Theresia (1778–1779), Maria Catharina (1780–1785), Alexander (1782), Joanna Maria (1784), Maria Catharina (1786) en Alardus (26-1-1789), die vier maanden oud was toen zijn vader stierf. Peter van Alardus was zijn oom Gerrit (Gerardus) Hillen, de sigarenfabrikant in Delft, vertegenwoordigd door Joannes Smeets. In mei–juni 1789 stierven binnen een maand ook zijn broer Alardus (6 mei, Delft) en zijn zus Aldegondis (24 mei, Blerick); 1789 was in Blerick geen jaar met verhoogde sterfte (30 begrafenissen, normaal), dus waarschijnlijk toeval. Opgelost: de vroegere tegenstrijdigheid (sterfjaar 1789 tegenover een tweede huwelijk met 'Wilhelmina Linssen' en de memorie van successie van 1818) komt doordat niet Caspar, maar zijn weduwe hertrouwde: Theodora trouwde 19-9-1790 met Joannes Wilhelmus Linches uit Elmpt.",
    "place": "Blerick",
    "place_events": [
     {
@@ -2192,9 +2202,14 @@
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
     "[3] Th.J. Bais, 'Hillen Blerick' / onzewebstek.nl, 'Parenteel van Johannes Hyllen'",
-    "[14] Eigen stamboom-app (Hillen Family Tree)"
+    "[14] Eigen stamboom-app (Hillen Family Tree)",
+    "Land van Kessel (AHS), gezinsbladen en transcripties DTB Blerick/Baarlo (M. Linskens e.a.), https://www.landvankessel.nl/Geneaolgie/Blerick/Gezinnen%20Blerick/"
    ],
    "children": [
+    "@P0367@",
+    "@P0368@",
+    "@P0369@",
+    "@P0370@",
     "@P0323@",
     "@P0324@",
     "@P0004@"
@@ -4534,10 +4549,10 @@
    "id": "@P0102@",
    "name": "Agnes Gommans",
    "sex": "F",
-   "birth_year": null,
+   "birth_year": 1712,
    "death_year": 1779,
    "occupation": null,
-   "note": "Dochter van Martinus Gommans en Cornelia Schreurs.",
+   "note": "Gedoopt Helden 21-4-1712, dochter van Martinus Gommans en Cornelia Schreurs. Ook Goemans of Gommers. Overleden Blerick 8-9-1779.",
    "place": "Helden",
    "place_events": [
     {
@@ -4553,7 +4568,8 @@
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)"
+    "Parenteel van Johannes Hyllen (kopie, blz. 25–95)",
+    "Land van Kessel (AHS), gezinsbladen en transcripties DTB Blerick/Baarlo (M. Linskens e.a.), https://www.landvankessel.nl/Geneaolgie/Blerick/Gezinnen%20Blerick/"
    ],
    "children": [
     "@P0003@",
@@ -6367,19 +6383,35 @@
   },
   "@P0109@": {
    "id": "@P0109@",
-   "name": "Theodora Sanders",
+   "name": "Theodora Elisabeth Maria Sanders",
    "sex": "F",
-   "birth_year": null,
+   "birth_year": 1751,
    "death_year": 1818,
    "occupation": null,
-   "note": "In de akten van haar kinderen heet zij Dorothea of Theodora Sanders. Zij overleefde haar man: in 1818 werd in Maasbree een memorie van successie voor haar opgemaakt, dus zij stierf in of kort voor 1818. Bekende kinderen: Joanna Maria (ca. 1784), Maria Catharina (1786) en Alardus (1789).",
+   "note": "Gedoopt Baarlo 24-1-1751. In de akten ook Dorothea of Theodora Sanders. Trouwde 15-1-1777 in Baarlo met Caspar Hillen uit Blerick (overl. 1789), en 19-9-1790 in Blerick met Joannes Wilhelmus Linches (ged. Elmpt 20-2-1764). Overleden Blerick 16-2-1818 (BS akte 029); in 1818 werd in Maasbree een memorie van successie voor haar opgemaakt.",
    "place": null,
-   "place_events": [],
+   "place_events": [
+    {
+     "place": "Baarlo",
+     "role": "gedoopt",
+     "year": 1751
+    },
+    {
+     "place": "Blerick",
+     "role": "overleden",
+     "year": 1818
+    }
+   ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo"
+    "Open Archieven / RHCL (Historisch Centrum Limburg), burgerlijke stand Maasbree, Heythuysen, Klimmen, Venlo",
+    "Land van Kessel (AHS), gezinsbladen en transcripties DTB Blerick/Baarlo (M. Linskens e.a.), https://www.landvankessel.nl/Geneaolgie/Blerick/Gezinnen%20Blerick/"
    ],
    "children": [
+    "@P0367@",
+    "@P0368@",
+    "@P0369@",
+    "@P0370@",
     "@P0323@",
     "@P0324@",
     "@P0004@"
@@ -6527,21 +6559,6 @@
    "children": [
     "@P0216@"
    ]
-  },
-  "@P0110@": {
-   "id": "@P0110@",
-   "name": "Wilhelmina Linssen",
-   "sex": "F",
-   "birth_year": null,
-   "death_year": null,
-   "occupation": null,
-   "note": null,
-   "place": null,
-   "place_events": [],
-   "sources": [
-    "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)"
-   ],
-   "children": []
   },
   "@P0125@": {
    "id": "@P0125@",
@@ -8845,6 +8862,105 @@
     "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": []
+  },
+  "@P0366@": {
+   "id": "@P0366@",
+   "name": "Joannes Wilhelmus Linches",
+   "sex": "M",
+   "birth_year": 1764,
+   "death_year": null,
+   "occupation": null,
+   "note": "Gedoopt Elmpt 20-2-1764, zoon van Leonardus Linschen en Catharina Cratz. Trouwde 19-9-1790 in Blerick met Theodora Sanders, weduwe van Caspar Hillen. Eerder stond hier ten onrechte een 'Wilhelmina Linssen' als tweede vrouw van Caspar.",
+   "place": "Blerick",
+   "place_events": [],
+   "sources": [
+    "Land van Kessel (AHS), gezinsbladen en transcripties DTB Blerick/Baarlo (M. Linskens e.a.), https://www.landvankessel.nl/Geneaolgie/Blerick/Gezinnen%20Blerick/"
+   ],
+   "children": []
+  },
+  "@P0367@": {
+   "id": "@P0367@",
+   "name": "Gasparus Hillen",
+   "sex": "M",
+   "birth_year": 1777,
+   "death_year": 1777,
+   "occupation": null,
+   "note": "Gedoopt Blerick 27-11-1777, overleden 2-12-1777. Zoon/dochter van Caspar Hillen en Theodora Sanders.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "gedoopt",
+     "year": 1777
+    }
+   ],
+   "sources": [
+    "Land van Kessel (AHS), gezinsbladen en transcripties DTB Blerick/Baarlo (M. Linskens e.a.), https://www.landvankessel.nl/Geneaolgie/Blerick/Gezinnen%20Blerick/"
+   ],
+   "children": []
+  },
+  "@P0368@": {
+   "id": "@P0368@",
+   "name": "Maria Theresia Hillen",
+   "sex": "F",
+   "birth_year": 1778,
+   "death_year": 1779,
+   "occupation": null,
+   "note": "Gedoopt Blerick 28-12-1778, overleden 6-1-1779. Zoon/dochter van Caspar Hillen en Theodora Sanders.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "gedoopt",
+     "year": 1778
+    }
+   ],
+   "sources": [
+    "Land van Kessel (AHS), gezinsbladen en transcripties DTB Blerick/Baarlo (M. Linskens e.a.), https://www.landvankessel.nl/Geneaolgie/Blerick/Gezinnen%20Blerick/"
+   ],
+   "children": []
+  },
+  "@P0369@": {
+   "id": "@P0369@",
+   "name": "Maria Catharina Hillen",
+   "sex": "F",
+   "birth_year": 1780,
+   "death_year": 1785,
+   "occupation": null,
+   "note": "Gedoopt Blerick 21-1-1780, overleden 1785. Haar naam ging naar de zus die in 1786 werd geboren. Zoon/dochter van Caspar Hillen en Theodora Sanders.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "gedoopt",
+     "year": 1780
+    }
+   ],
+   "sources": [
+    "Land van Kessel (AHS), gezinsbladen en transcripties DTB Blerick/Baarlo (M. Linskens e.a.), https://www.landvankessel.nl/Geneaolgie/Blerick/Gezinnen%20Blerick/"
+   ],
+   "children": []
+  },
+  "@P0370@": {
+   "id": "@P0370@",
+   "name": "Alexander Hillen",
+   "sex": "M",
+   "birth_year": 1782,
+   "death_year": null,
+   "occupation": null,
+   "note": "Gedoopt Blerick 16-1-1782. Verdere gegevens onbekend. Zoon/dochter van Caspar Hillen en Theodora Sanders.",
+   "place": "Blerick",
+   "place_events": [
+    {
+     "place": "Blerick",
+     "role": "gedoopt",
+     "year": 1782
+    }
+   ],
+   "sources": [
+    "Land van Kessel (AHS), gezinsbladen en transcripties DTB Blerick/Baarlo (M. Linskens e.a.), https://www.landvankessel.nl/Geneaolgie/Blerick/Gezinnen%20Blerick/"
+   ],
+   "children": []
   }
  },
  "families": {
@@ -8871,12 +8987,16 @@
    "husb": "@P0003@",
    "wife": "@P0109@",
    "chil": [
+    "@P0367@",
+    "@P0368@",
+    "@P0369@",
+    "@P0370@",
     "@P0323@",
     "@P0324@",
     "@P0004@"
    ],
-   "marr_date": null,
-   "marr_place": null
+   "marr_date": "15 JAN 1777",
+   "marr_place": "Baarlo"
   },
   "@F0004@": {
    "id": "@F0004@",
@@ -9603,14 +9723,6 @@
    "marr_date": null,
    "marr_place": null
   },
-  "@F0061@": {
-   "id": "@F0061@",
-   "husb": "@P0003@",
-   "wife": "@P0110@",
-   "chil": [],
-   "marr_date": null,
-   "marr_place": null
-  },
   "@F0062@": {
    "id": "@F0062@",
    "husb": "@P0021@",
@@ -9904,6 +10016,14 @@
    "marr_date": null,
    "marr_place": null,
    "uncertain": true
+  },
+  "@F0093@": {
+   "id": "@F0093@",
+   "husb": "@P0366@",
+   "wife": "@P0109@",
+   "chil": [],
+   "marr_date": "19 SEP 1790",
+   "marr_place": "Blerick"
   }
  },
  "places": [
@@ -9914,6 +10034,7 @@
   "Antwerpen",
   "Apeldoorn",
   "Arnhem",
+  "Baarlo",
   "Beek (L)",
   "Beek en Donk",
   "België (Bree)",
@@ -9976,8 +10097,8 @@
   "Zolder"
  ],
  "stats": {
-  "individuals": 361,
+  "individuals": 365,
   "families": 89,
-  "places": 67
+  "places": 68
  }
 }

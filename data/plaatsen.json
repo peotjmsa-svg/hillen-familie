@@ -400,5 +400,11 @@
   "lat": 51.4065422,
   "lon": 6.3352922,
   "display_name": "Wachtendonk, Kreis Kleve, Nordrhein-Westfalen, 47669, Deutschland"
+ },
+ "Baarlo": {
+  "query": "Baarlo, Peel en Maas, Nederland",
+  "lat": 51.3319545,
+  "lon": 6.0967255,
+  "display_name": "Baarlo, Peel en Maas, Limburg, Nederland"
  }
 }
