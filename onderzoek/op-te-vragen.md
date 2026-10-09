@@ -82,6 +82,13 @@ Legenda: ★ = kan een open vraag beslissen.
 - [ ] Notariële boedelscheiding 1835 na Albertus Hillen (P0111) en Anna Maria van Spreeuwenburg: zat er echt een aardewerkfabriek
       of een aandeel in plateelbakkerij De Vergulde Blompot (Molslaan, 1616–1841) bij? Kadaster 1832 toont alleen huizen en pakhuizen.
 
+## 9c. Gemeentearchief Venlo / Blièrick d'r waas ens
+- [ ] Foto van het huis van Alexander "Sanger" Hillen (manufacturenwinkel), eerste huis links in de Kloosterstraat vanaf de
+      Markt. De blog "Kloosterstraat in Blerick, 125 jaar geleden" (2015) zet bij voetnoot A (Louis Hillen) een zwart-witfoto
+      (ca. 1950-60) van een hoekpand met trapgevel, zonder bijschrift of bron. Navragen bij de blogger (Jan Titulaer) welk pand
+      dat is en waar de foto vandaan komt; beeldbank Gemeentearchief Venlo doorzoeken. Kloosterstraat 3 (gemeentelijk monument,
+      foto Commons 2026) is een ander, laat-19e-eeuws pand.
+
 ## 10. Zelf online te doen (geen aanvraag nodig)
 - [ ] AGATHA (search.arch.be): Châtelet huwelijken 1730–1764 en dopen 1738–1794 (Louis, zoon van Ludwig Augustin).
 - [ ] AGATHA: doop-, trouw- en begraafboeken Farciennes, Loverval en Châtelet 1640–1710 op "de Hille" (lijn naar Ludwig Augustin?).

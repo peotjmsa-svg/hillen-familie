@@ -6,11 +6,12 @@ Content below is reformatted (headings/paragraphs/captions split out) from
 raw/articles/<slug>/article.txt — no facts added or changed, only laid out.
 Run after build_site.py: python scripts/build_articles.py
 """
+import json
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from build_site import base_page, write  # noqa: E402
+from build_site import ROOT, base_page, write  # noqa: E402
 
 IMG = "assets/images/artikelen"
 
@@ -291,7 +292,7 @@ ARTICLES = [
                 "p": [
                     "Door een reeks huwelijken kwam de fabriek na de Eerste Wereldoorlog in handen van Jan "
                     "(Jean) Hillen — een kleinzoon van de oprichter. Jans vader, Albertus Theodorus "
-                    "(Albert) Hillen (1855/57–1916, oorspronkelijk uit Blerick), was in 1883 in Bree "
+                    "Hubertus (Albert) Hillen (Blerick 1856–1916), was in 1883 in Bree "
                     "getrouwd met Maria Knödgen, dochter of kleindochter van de pijpenfabrikant. Jan zelf, "
                     "geboren op 8 november 1889 in Bree, breidde de fabriek onder zijn leiding verder uit met "
                     "de productie van asbestos- en bruyèrepijpen (heidehouten pijpen) — een "
@@ -421,9 +422,11 @@ ARTICLES = [
                     "‘Albertus Hillen — Fundator Est’ en de jaartallen 1762 en 1922 (een kleine "
                     "onnauwkeurigheid ten opzichte van het officieel gehanteerde oprichtingsjaar 1770, zoals "
                     "wel vaker voorkomt op dit soort jubileumstukken).",
-                    "Ergens vóór 1861 kwam de dagelijkse leiding in handen van Albertus de Lange "
-                    "(geboren 1825 te Delft), die op het Oude Delft 63 kwam wonen en directeur van de firma "
-                    "Hillen werd — zonder zelf familie te zijn. In 1861 nam Martinus Hioolen "
+                    "Ergens vóór 1861 kwam de dagelijkse leiding in handen van Albertus Gerardus de Lange "
+                    "(geboren 4 mei 1825 te Delft), die op het Oude Delft 63 kwam wonen en directeur van de firma "
+                    "Hillen werd. Hij droeg niet de naam Hillen, maar was wel familie: zijn moeder was "
+                    "Sara Jacoba Elizabeth Hillen, een dochter van Albertus Hillen (bron: burgerlijke stand "
+                    "Delft, via Open Archieven). In 1861 nam Martinus Hioolen "
                     "(1834–1905) de zaak definitief over, mogelijk gemaakt door financiële steun van "
                     "zijn oom Willem Hioolen. De Hioolens kwamen uit een zeer oud geslacht (rond 1490!) en "
                     "waren al generaties eigenaar van de snuifmolens ‘De Lelie’ en ‘De "
@@ -504,6 +507,75 @@ ARTICLES = [
     },
 ]
 
+PEOPLE = json.loads((ROOT / "data" / "stamboom.json").read_text(encoding="utf-8"))["people"]
+
+
+def person_link(pid, text):
+    name = PEOPLE["@" + pid + "@"]["name"]
+    return f'<a href="../stamboom.html?persoon={pid}" title="{name} in de stamboom">{text}</a>'
+
+
+# Person links in the generated articles: (person id, text to find, name inside it to link).
+# Each text must occur exactly once in the rendered article, so a changed sentence fails loudly.
+PERSON_LINKS = {
+    "boterfabriek-roermond": [
+        ("P0005", "Alexander Hillen bleef", "Alexander Hillen"),
+        ("P0115", "Alexanders tweelingbroer Johan runde", "Johan"),
+        ("P0117", "Alexanders broer Jacobus Hillen trouwde", "Jacobus Hillen"),
+        ("P0120", "zijn zoon werd zelfs in Grave geboren", "zijn zoon"),
+        ("P0127", "Een kleinzoon van diezelfde Jacobus", "kleinzoon"),
+        ("P0005", "Alexander Hillen (1821–1898)", "Alexander Hillen"),
+    ],
+    "ijzergieterij-blerick": [
+        ("P0115", "Johan (Joannes) Hillen", "Johan (Joannes) Hillen"),
+        ("P0115", "Johan Hillen en zijn compagnon", "Johan Hillen"),
+        ("P0005", "tweelingbroer van Alexander Hillen", "Alexander Hillen"),
+        ("P0004", "hoefsmid Alardus Hillen", "Alardus Hillen"),
+        ("P0119", "Henri (Henri Hubert Hillen, 1852–1914)", "Henri"),
+        ("P0288", "en Piet de zaak voort", "Piet"),
+    ],
+    "pijpenfabriek-bree": [
+        ("P0129", "Jean (Jan) Hillen", "Jean (Jan) Hillen"),
+        ("P0135", "bedacht door zoon Albert", "Albert"),
+        ("P0129", "Jan (Jean) Hillen", "Jan (Jean) Hillen"),
+        ("P0122", "Albertus Theodorus Hubertus (Albert) Hillen", "Albertus Theodorus Hubertus (Albert) Hillen"),
+        ("P0123", "Maria Knödgen", "Maria Knödgen"),
+        ("P0130", "Josephina Antonetta ‘Maria’ Smets", "Josephina Antonetta ‘Maria’ Smets"),
+        ("P0137", "Jos nam de verkoop", "Jos"),
+        ("P0135", "rekening, Albert de productie", "Albert"),
+        ("P0131", "Albert Theodore Constant Marie Hillen (Bree", "Albert Theodore Constant Marie Hillen"),
+    ],
+    "sigarenfabriek-delft": [
+        ("P0107", "Gerrit (Gerardus) Hillen", "Gerrit (Gerardus) Hillen"),
+        ("P0107", "Gerardus Hillen (1743–1805)", "Gerardus Hillen"),
+        ("P0111", "Albertus Hillen (1774–1834)", "Albertus Hillen"),
+        ("P0112", "Anna Maria van Spreeuwenburg", "Anna Maria van Spreeuwenburg"),
+        ("P0304", "Sara Jacoba Elizabeth Hillen", "Sara Jacoba Elizabeth Hillen"),
+    ],
+}
+
+
+def add_person_links(slug, html):
+    for pid, ctx, name in PERSON_LINKS.get(slug, []):
+        n = html.count(ctx)
+        if n != 1:
+            raise ValueError(f"{slug}: '{ctx}' komt {n}x voor; pas PERSON_LINKS aan")
+        html = html.replace(ctx, ctx.replace(name, person_link(pid, name), 1))
+    return html
+
+
+# Hand-written articles (not generated here) that still need a card on the overview page.
+EXTRA_CARDS = [
+    {"slug": "dokters-hillen-vught", "hero": "assets/images/fotos/vught_taalstraat181.jpg",
+     "alt": "Taalstraat 181 in Vught", "era": "Vught · 1889 – 1971", "title": "De dokters Hillen van Vught",
+     "teaser": "Vader en zoon, samen 82 jaar huisarts: een ziekenhuis, kenteken N-33, artsenverzet rond Kamp Vught en een straat naar hen genoemd."},
+    {"slug": "louis-hillen-blerick", "hero": "assets/images/fotos/brandweerlouishillen.jpg",
+     "alt": "De vrijwillige brandweer van Blerick, 1901–1921", "era": "Blerick · 1869 – 1952",
+     "title": "Louis Hillen, de man van Blerick",
+     "teaser": "Pijpenimporteur, twintig jaar brandweerman, veertig jaar kerkbestuur en wethouder: een vrijgezel die overal bij was."},
+]
+
+
 def render_body(article):
     facts_html = "".join(f"<dt>{k}</dt><dd>{v}</dd>" for k, v in article["facts"])
     sections_html = []
@@ -555,7 +627,7 @@ def render_body(article):
 
 def build_article_pages():
     for article in ARTICLES:
-        body = render_body(article)
+        body = add_person_links(article["slug"], render_body(article))
         write(f"artikelen/{article['slug']}.html", base_page(
             title=article["title"],
             description=article["teaser"],
@@ -567,10 +639,10 @@ def build_article_pages():
 
 def build_overview():
     cards = []
-    for a in ARTICLES:
+    for a in ARTICLES + EXTRA_CARDS:
         cards.append(f"""
     <a class="article-card" href="artikelen/{a['slug']}.html">
-      <div class="thumb"><img src="{a['hero']}" alt="{a['title']}" loading="lazy"></div>
+      <div class="thumb"><img src="{a['hero']}" alt="{a.get('alt', a['title'])}" loading="lazy"></div>
       <div class="body">
         <span class="era">{a['era']}</span>
         <h3>{a['title']}</h3>
@@ -584,7 +656,8 @@ def build_overview():
     <p class="kicker">Familiedossier</p>
     <h1>Artikelen</h1>
     <p class="narrow" style="margin:0 auto;">Vier ondernemingen die de familie Hillen door de eeuwen heen
-    dreef — van een 18e-eeuwse sigarenfabriek tot een 19e-eeuwse ijzergieterij.</p>
+    dreef — van een 18e-eeuwse sigarenfabriek tot een 19e-eeuwse ijzergieterij — en portretten van de
+    dokters Hillen in Vught en van een Hillen die in Blerick overal een hand in had.</p>
   </div>
   <div class="card-grid">
     {''.join(cards)}

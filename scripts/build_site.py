@@ -19,7 +19,16 @@ NAV_ITEMS = [
     ("wapen.html", "Familiewapen"),
     ("artikelen.html", "Artikelen"),
     ("kaart.html", "Kaart"),
+    ("plekken.html", "Plekken"),
+    ("onderzoek.html", "Onderzoek"),
 ]
+
+NAV_TOGGLE_SCRIPT = """<script>
+document.getElementById('nav-toggle').addEventListener('click', function() {
+  this.classList.toggle('open');
+  document.getElementById('main-nav').classList.toggle('open');
+});
+</script>"""
 
 FONT_LINK = (
     '<link rel="preconnect" href="https://fonts.googleapis.com">'
@@ -44,6 +53,8 @@ def nav_html(active, depth):
 def base_page(*, title, description, active_nav, body_html, depth=0, extra_head="", extra_scripts=""):
     css = rel(depth, "css/style.css")
     home = rel(depth, "index.html")
+    scripts = "\n".join(s for s in (NAV_TOGGLE_SCRIPT, extra_scripts,
+                                     f'<script src="{rel(depth, "js/lightbox.js")}"></script>') if s)
     return f"""<!DOCTYPE html>
 <html lang="nl">
 <head>
@@ -59,7 +70,10 @@ def base_page(*, title, description, active_nav, body_html, depth=0, extra_head=
 <header class="site-header">
   <div class="container">
     <a class="brand" href="{home}">Familie Hillen <small>Stamboom &amp; archief</small></a>
-    <nav class="main-nav">
+    <button class="nav-toggle" id="nav-toggle" type="button" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="main-nav" id="main-nav">
       <ul>
         {nav_html(active_nav, depth)}
       </ul>
@@ -75,7 +89,7 @@ def base_page(*, title, description, active_nav, body_html, depth=0, extra_head=
     <span>Kaartgegevens &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>-bijdragers</span>
   </div>
 </footer>
-{extra_scripts}
+{scripts}
 </body>
 </html>
 """
