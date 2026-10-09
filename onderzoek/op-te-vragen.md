@@ -101,6 +101,12 @@ Legenda: ★ = kan een open vraag beslissen.
       boedel na Caspar (overl. 1789) en na Alardus Albertus (overl. 1772). Ook: is de Joannes Hillen × Elisabeth Lemmen (kinderen
       1638–1646) dezelfde als Joannes, zoon van Gerardus uit Roermond (× Zillen 1627)? En wie waren de ouders van Johannes Hillen
       "uit Sevenum" (P0063)?
+      Online gecontroleerd 9-10-2026: Open Archieven heeft het kadaster 1832 alleen voor Delft; de dataset "Kadastrale data 1832"
+      is alleen Rotterdam. Wel als scan: minuutplan Maasbree sectie A (Blerick) en de OAT (eigenaren 1832) in de beeldbank van de
+      RCE (MIN11056A01/A02). Daarin staan de percelen van hoefsmid Alardus Hillen (P0004) en zijn broers; met de hand doorlezen.
+- [ ] Dispensatie huwelijk Joannes Hillen × Aldegondis Claessen "de Trap", Blerick 23-4-1698 (3e/4e graad bloedverwantschap):
+      het dispensatieverzoek bij het bisdom Roermond (vicariaat) bevat meestal de stamboom die de verwantschap aantoont.
+      Gemeenschappelijke voorouder onbekend; vermoedelijk in de kring Hermans (getuigen bij Hillen × Zillen 1627).
 
 ## 10. Zelf online te doen (geen aanvraag nodig)
 - [ ] AGATHA (search.arch.be): Châtelet huwelijken 1730–1764 en dopen 1738–1794 (Louis, zoon van Ludwig Augustin).
