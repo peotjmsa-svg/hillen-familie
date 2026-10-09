@@ -89,6 +89,12 @@ Legenda: ★ = kan een open vraag beslissen.
       dat is en waar de foto vandaan komt; beeldbank Gemeentearchief Venlo doorzoeken. Kloosterstraat 3 (gemeentelijk monument,
       foto Commons 2026) is een ander, laat-19e-eeuws pand.
 
+- [ ] ★ **Blerickse Hillens en Venlo**: woonden in Blerick (gemeente Maasbree), maar dreven ze handel in Venlo? Doorzoeken:
+      Gemeentearchief Venlo, toegang "Hillen" (genoemd als bron bij P0122); Venlose burgerboeken / poortersregisters en
+      gildeboeken (smeden-, kramersgilde) 17e–18e eeuw; schepenprotocollen Venlo op Hillen als koper, verkoper of borg.
+      Bekend: koopman Alardus (P0004) en manufacturier Alexander (P0005); dochters trouwden in Venlo (1816 met pannenbakker
+      Johan Brenten, 1859 met akkerman Seelen); de ijzergieterij stond bij de Kamer van Koophandel van Venlo.
+
 ## 10. Zelf online te doen (geen aanvraag nodig)
 - [ ] AGATHA (search.arch.be): Châtelet huwelijken 1730–1764 en dopen 1738–1794 (Louis, zoon van Ludwig Augustin).
 - [ ] AGATHA: doop-, trouw- en begraafboeken Farciennes, Loverval en Châtelet 1640–1710 op "de Hille" (lijn naar Ludwig Augustin?).
