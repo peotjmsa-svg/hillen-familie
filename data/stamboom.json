@@ -4961,7 +4961,7 @@
    "birth_year": 1595,
    "death_year": 1655,
    "occupation": "schepen van Roermond, burgemeester (1650)",
-   "note": "Derick / Dederich / Theodorus van Hillen, jonker. Gedoopt Roermond 21-3-1595 (getuigen Gerhardus Heister, scholtis, Frederick van Opsinnich genaamd Roy, en Anna Kremers), zoon van Johan Hillen de jonge, burgemeester van Roermond, en Anna van Greefraedt. Erfde volgens het testament van zijn ouders (oktober 1618) het huis aan de Hoge Hegstraat (het Christoffelhuis), de hof aan het Gebroek te Maasniel, land in het O.L.Vrouwe-veld en de pacht uit de Hillen-molen. Trouwde 19-5-1643 met speciaal indult op de Spick te Swalmen met Gertrudis van Dursdael. Eén kind bekend: Anna Christina (ged. 1645). Eigenaar van de Einderhof en een tiende te Rijkel. Schepen van Roermond, burgemeester in 1650, voor het laatst als schepen genoemd in december 1652. Overleden tussen december 1652 en december 1656: in december 1656 is Gertrudis 'weduwe van jonker Dederick van Hillen, voorheen schepen en burgemeester te Roermond'. Tegenstrijdigheid: Genwiki en de huwelijksnotitie bij Loe Giesen geven 'overleden Helden 17-8-1675'; dat kan niet, want zij was al weduwe in 1656 en 1663. Eerder stond hier ook een zoon Dederick; daarvoor is geen bron gevonden (Ruiten kent alleen Anna Christina).",
+   "note": "Derick / Dederich / Theodorus van Hillen, jonker. Gedoopt Roermond 21-3-1595 (getuigen Gerhardus Heister, scholtis, Frederick van Opsinnich genaamd Roy, en Anna Kremers), zoon van Johan Hillen de jonge, burgemeester van Roermond, en Anna van Greefraedt. Erfde volgens het testament van zijn ouders (oktober 1618) het huis aan de Hoge Hegstraat (het Christoffelhuis), de hof aan het Gebroek te Maasniel, land in het O.L.Vrouwe-veld en de pacht uit de Hillen-molen. Trouwde 19-5-1643 met speciaal indult op de Spick te Swalmen met Gertrudis van Dursdael. Eén kind bekend: Anna Christina (ged. 1645). Eigenaar van de Einderhof en een tiende te Rijkel. Schepen van Roermond, burgemeester in 1650, voor het laatst als schepen genoemd in december 1652. Overleden tussen december 1652 en december 1656: in december 1656 is Gertrudis 'weduwe van jonker Dederick van Hillen, voorheen schepen en burgemeester te Roermond'. Tegenstrijdigheid: Genwiki en de huwelijksnotitie bij Loe Giesen geven 'overleden Helden 17-8-1675'; dat kan niet, want zij was al weduwe in 1656 en 1663. Eerder stond hier ook een zoon Dederick; daarvoor is geen bron gevonden (Ruiten kent alleen Anna Christina). Stond eerder ook als aparte persoon 'Dierick (Theodorus) van Hillen' met geboortejaar 1695 (tikfout voor 1595); samengevoegd op 9-10-2026.",
    "place": "Roermond",
    "place_events": [],
    "sources": [
@@ -6676,21 +6676,6 @@
     "@P0334@"
    ]
   },
-  "@P0276@": {
-   "id": "@P0276@",
-   "name": "Dierick (Theodorus) van Hillen",
-   "sex": "M",
-   "birth_year": 1695,
-   "death_year": null,
-   "occupation": null,
-   "note": "Jonkheer; latere nazaat uit de 17e/18e-eeuwse adellijke tak die de titel en het familiewapen in oorkondes voortzette. Exacte plaats in de stamboom en precieze afstamming nog onbekend.",
-   "place": null,
-   "place_events": [],
-   "sources": [
-    "Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
-   ],
-   "children": []
-  },
   "@P0277@": {
    "id": "@P0277@",
    "name": "Helena Alexandra Maria Hillen",
@@ -8127,6 +8112,10 @@
     "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": [
+    "@P0338@",
+    "@P0339@",
+    "@P0340@",
+    "@P0341@",
     "@P0336@"
    ]
   },
@@ -8146,6 +8135,10 @@
     "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": [
+    "@P0338@",
+    "@P0339@",
+    "@P0340@",
+    "@P0341@",
     "@P0336@"
    ]
   },
@@ -8156,7 +8149,7 @@
    "birth_year": 1657,
    "death_year": 1722,
    "occupation": "advocaat aan het Hof van Gelre",
-   "note": "Gedoopt Roermond 14-1-1657, overleden Roermond 27-3-1722 (65 jaar), zoon van Johan Hillen en Sophia Jansens. Advocaat aan het Hof van Gelre. Trouwde ca. 1693/94 met Caecilia (Cornelia) Nelissen. Kocht op 23-9-1704 met haar de omgrachte hoeve De Boeshei (Swalmen/Boukoul/Maasniel). Zijn nakomelingen woonden later in Gelder (Duitsland); die lijn is nog niet in de stamboom opgenomen.",
+   "note": "Gedoopt Roermond 14-1-1657, overleden Roermond 27-3-1722 (65 jaar), zoon van Johan Hillen en Sophia Jansens. Advocaat aan het Hof van Gelre. Trouwde ca. 1693/94 met Caecilia (Cornelia) Nelissen. Kocht op 23-9-1704 met haar de omgrachte hoeve De Boeshei (Swalmen/Boukoul/Maasniel). Zijn nakomelingen woonden later in Gelder (Duitsland); die lijn loopt via zijn zoon Wilhelmus Hyacinthus.",
    "place": "Roermond",
    "place_events": [
     {
@@ -8169,7 +8162,17 @@
     "Loe Giesen, Regesten 1690-1699 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1690-1699%20Loe%20Giesen.htm",
     "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
-   "children": []
+   "children": [
+    "@P0342@",
+    "@P0343@",
+    "@P0344@",
+    "@P0345@",
+    "@P0346@",
+    "@P0347@",
+    "@P0348@",
+    "@P0349@",
+    "@P0350@"
+   ]
   },
   "@P0337@": {
    "id": "@P0337@",
@@ -8183,6 +8186,642 @@
    "place_events": [],
    "sources": [
     "Loe Giesen, Regesten 1690-1699 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1690-1699%20Loe%20Giesen.htm",
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": [
+    "@P0342@",
+    "@P0343@",
+    "@P0344@",
+    "@P0345@",
+    "@P0346@",
+    "@P0347@",
+    "@P0348@",
+    "@P0349@",
+    "@P0350@"
+   ]
+  },
+  "@P0338@": {
+   "id": "@P0338@",
+   "name": "Carolus Hillen",
+   "sex": "M",
+   "birth_year": 1649,
+   "death_year": 1718,
+   "occupation": null,
+   "note": "Gedoopt Roermond 25-2-1649, overleden 8-8-1718. Zoon van Johan Hillen en Sophia Jansens. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "gedoopt",
+     "year": 1649
+    }
+   ],
+   "sources": [
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0339@": {
+   "id": "@P0339@",
+   "name": "Constantinus Hillen",
+   "sex": "M",
+   "birth_year": 1650,
+   "death_year": 1676,
+   "occupation": null,
+   "note": "Gedoopt Roermond 23-12-1650, overleden 4-9-1676. Zoon van Johan Hillen en Sophia Jansens. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "gedoopt",
+     "year": 1650
+    }
+   ],
+   "sources": [
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0340@": {
+   "id": "@P0340@",
+   "name": "Petrus Hillen",
+   "sex": "M",
+   "birth_year": 1653,
+   "death_year": 1661,
+   "occupation": null,
+   "note": "Gedoopt Roermond 22-10-1653, overleden 8-8-1661. Zoon van Johan Hillen en Sophia Jansens. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "gedoopt",
+     "year": 1653
+    }
+   ],
+   "sources": [
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0341@": {
+   "id": "@P0341@",
+   "name": "Anna Hillen",
+   "sex": "F",
+   "birth_year": 1655,
+   "death_year": null,
+   "occupation": null,
+   "note": "Gedoopt Roermond 26-1-1655. Dochter van Johan Hillen en Sophia Jansens. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "gedoopt",
+     "year": 1655
+    }
+   ],
+   "sources": [
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0342@": {
+   "id": "@P0342@",
+   "name": "Joannes Ignatius ab Hillen",
+   "sex": "M",
+   "birth_year": 1694,
+   "death_year": null,
+   "occupation": null,
+   "note": "Gedoopt Roermond 31-7-1694 (getuigen Joannes ab Hillen, notarius apostolicus, en Gertrudis Elisabetha Nelissen); overleden vóór 1740 (Genwiki: 1740). Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "gedoopt",
+     "year": 1694
+    }
+   ],
+   "sources": [
+    "Loe Giesen, Regesten 1690-1699 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1690-1699%20Loe%20Giesen.htm",
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0343@": {
+   "id": "@P0343@",
+   "name": "Anselmus Hillen",
+   "sex": "M",
+   "birth_year": 1696,
+   "death_year": 1696,
+   "occupation": null,
+   "note": "Gedoopt Roermond 6-7-1696 (getuigen Anselmus d'Evrard, heer van den Braekel Distelbergh, en Maria Christina Lindtgens); jong overleden. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "gedoopt",
+     "year": 1696
+    }
+   ],
+   "sources": [
+    "Loe Giesen, Regesten 1690-1699 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1690-1699%20Loe%20Giesen.htm",
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0344@": {
+   "id": "@P0344@",
+   "name": "Carolus Ludovicus van Hillen",
+   "sex": "M",
+   "birth_year": 1698,
+   "death_year": null,
+   "occupation": null,
+   "note": "Gedoopt Susteren 2-7-1698 (getuigen Abraham van Houthen en Maria Margaretha Ludovica de Mulendonck / Elijsabeth Mechtildis Leers); overleden vóór 1730. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Susteren",
+   "place_events": [
+    {
+     "place": "Susteren",
+     "role": "gedoopt",
+     "year": 1698
+    }
+   ],
+   "sources": [
+    "Loe Giesen, Regesten 1690-1699 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1690-1699%20Loe%20Giesen.htm",
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0345@": {
+   "id": "@P0345@",
+   "name": "Maria Hillen",
+   "sex": "F",
+   "birth_year": 1699,
+   "death_year": null,
+   "occupation": null,
+   "note": "Gedoopt Susteren 16-3-1699; overleden vóór 1730. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Susteren",
+   "place_events": [
+    {
+     "place": "Susteren",
+     "role": "gedoopt",
+     "year": 1699
+    }
+   ],
+   "sources": [
+    "Loe Giesen, Regesten 1690-1699 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1690-1699%20Loe%20Giesen.htm",
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0346@": {
+   "id": "@P0346@",
+   "name": "Catharina Sophia van Hillen",
+   "sex": "F",
+   "birth_year": 1700,
+   "death_year": null,
+   "occupation": null,
+   "note": "Gedoopt Roermond 15-7-1700 (getuigen Henricus Woestingh, kanunnik en officiaal van het bisdom Roermond, en Anna Gertrudis van Hillen). Tekende in 1752 samen met haar broer Wilhelmus Hyacinthus bij de verkoop van de Boeshei (Genwiki). Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "gedoopt",
+     "year": 1700
+    }
+   ],
+   "sources": [
+    "Loe Giesen, Regesten 1690-1699 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1690-1699%20Loe%20Giesen.htm",
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0347@": {
+   "id": "@P0347@",
+   "name": "Anna Maria van Hillen",
+   "sex": "F",
+   "birth_year": 1702,
+   "death_year": null,
+   "occupation": null,
+   "note": "Gedoopt Roermond 13-1-1702 (getuigen Alexius Antonius de Everardt en Anna Gertrudis van Hillen; de moeder heet hier Catharina). Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "gedoopt",
+     "year": 1702
+    }
+   ],
+   "sources": [
+    "Loe Giesen, Regesten 1690-1699 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1690-1699%20Loe%20Giesen.htm",
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0348@": {
+   "id": "@P0348@",
+   "name": "Wilhelmus Hyacinthus Hillen",
+   "sex": "M",
+   "birth_year": 1703,
+   "death_year": 1789,
+   "occupation": "secretaris van Wachtendonk",
+   "note": "Gedoopt Roermond 10-4-1703 (getuigen Wilhelmus Hyacinthus, vorst van Oranje-Nassau, vertegenwoordigd door Joannes Heyster, en Theodora Nunems). Overleden Gelder (Geldern) 18-1-1789. Secretaris van Wachtendonk in 1752. Trouwde Gelder 8-2-1738 met Anna Catharina Burgers. Tekende op 19-11-1752, ook namens zijn zus Cathrijn Sophia, de verkoop van de hoeve de Boeshei te Swalmen, die zijn ouders in 1704 hadden gekocht; die overdracht ging niet door. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Gelder",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "gedoopt",
+     "year": 1703
+    },
+    {
+     "place": "Gelder",
+     "role": "overleden",
+     "year": 1789
+    }
+   ],
+   "sources": [
+    "Loe Giesen, Regesten 1690-1699 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1690-1699%20Loe%20Giesen.htm",
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": [
+    "@P0352@",
+    "@P0353@",
+    "@P0354@",
+    "@P0355@"
+   ]
+  },
+  "@P0349@": {
+   "id": "@P0349@",
+   "name": "Anna Catharina Hillen",
+   "sex": "F",
+   "birth_year": 1704,
+   "death_year": null,
+   "occupation": null,
+   "note": "Gedoopt Roermond 12-7-1704 (getuigen Joannes Theodorus Lintgens, vertegenwoordigd door Josephus Ignatius Gerardus Lintgens, en Anna Christina Everardt). Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "gedoopt",
+     "year": 1704
+    }
+   ],
+   "sources": [
+    "Loe Giesen, Regesten 1690-1699 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1690-1699%20Loe%20Giesen.htm",
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0350@": {
+   "id": "@P0350@",
+   "name": "Constantius van Hillen",
+   "sex": "M",
+   "birth_year": 1706,
+   "death_year": null,
+   "occupation": null,
+   "note": "Gedoopt Roermond 1-6-1706 (getuigen Joannes Wilhelmus Postwijck en Catharina Odilia Vorsterman). Genwiki: Constantinus. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "gedoopt",
+     "year": 1706
+    }
+   ],
+   "sources": [
+    "Loe Giesen, Regesten 1690-1699 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1690-1699%20Loe%20Giesen.htm",
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0351@": {
+   "id": "@P0351@",
+   "name": "Anna Catharina Burgers",
+   "sex": "F",
+   "birth_year": 1716,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren en gedoopt Gelder (Geldern) 20-2-1716, dochter van Wilhelmus Burgers en Anna Maria Huysters. Trouwde Gelder 8-2-1738 met Wilhelmus Hyacinthus Hillen. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Gelder",
+   "place_events": [
+    {
+     "place": "Gelder",
+     "role": "geboren",
+     "year": 1716
+    }
+   ],
+   "sources": [
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": [
+    "@P0352@",
+    "@P0353@",
+    "@P0354@",
+    "@P0355@"
+   ]
+  },
+  "@P0352@": {
+   "id": "@P0352@",
+   "name": "Franciscus Antonius Hillen",
+   "sex": "M",
+   "birth_year": 1738,
+   "death_year": null,
+   "occupation": "secretaris van het Nederambt Gelder",
+   "note": "Geboren en gedoopt Wachtendonk 1-12-1738. Secretaris van het Nederambt Gelder. Trouwde Joanna Catharina Weydemans. Droeg op 10-10-1769 samen met zijn zus Anna Gertrudis Hillen de hoeve de Boeshei te Swalmen over aan Lotharius Frans markies van Hoensbroeck. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Gelder",
+   "place_events": [
+    {
+     "place": "Wachtendonk",
+     "role": "gedoopt",
+     "year": 1738
+    }
+   ],
+   "sources": [
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": [
+    "@P0357@",
+    "@P0358@",
+    "@P0359@",
+    "@P0360@",
+    "@P0361@",
+    "@P0362@",
+    "@P0363@",
+    "@P0364@",
+    "@P0365@"
+   ]
+  },
+  "@P0353@": {
+   "id": "@P0353@",
+   "name": "Anna Hillen",
+   "sex": "F",
+   "birth_year": 1740,
+   "death_year": 1748,
+   "occupation": null,
+   "note": "Geboren Wachtendonk 5-8-1740, overleden Gelder 9-2-1748. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Wachtendonk",
+   "place_events": [
+    {
+     "place": "Wachtendonk",
+     "role": "gedoopt",
+     "year": 1740
+    }
+   ],
+   "sources": [
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0354@": {
+   "id": "@P0354@",
+   "name": "Joannes Hillen",
+   "sex": "M",
+   "birth_year": 1742,
+   "death_year": 1743,
+   "occupation": null,
+   "note": "Geboren Wachtendonk 26-3-1742, overleden 1743. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Wachtendonk",
+   "place_events": [
+    {
+     "place": "Wachtendonk",
+     "role": "gedoopt",
+     "year": 1742
+    }
+   ],
+   "sources": [
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0355@": {
+   "id": "@P0355@",
+   "name": "Helena Hillen",
+   "sex": "F",
+   "birth_year": 1746,
+   "death_year": 1746,
+   "occupation": null,
+   "note": "Geboren 26-2-1746, overleden Gelder 21-10-1746. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Gelder",
+   "place_events": [
+    {
+     "place": "Gelder",
+     "role": "gedoopt",
+     "year": 1746
+    }
+   ],
+   "sources": [
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0356@": {
+   "id": "@P0356@",
+   "name": "Joanna Catharina Weydemans",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren en gedoopt te Gelder. Echtgenote van Franciscus Antonius Hillen. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Gelder",
+   "place_events": [],
+   "sources": [
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": [
+    "@P0357@",
+    "@P0358@",
+    "@P0359@",
+    "@P0360@",
+    "@P0361@",
+    "@P0362@",
+    "@P0363@",
+    "@P0364@",
+    "@P0365@"
+   ]
+  },
+  "@P0357@": {
+   "id": "@P0357@",
+   "name": "Franciscus Hillen",
+   "sex": "M",
+   "birth_year": 1772,
+   "death_year": 1773,
+   "occupation": null,
+   "note": "Geboren en gedoopt Gelder 17-6-1772, overleden Gelder 1-9-1773. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Gelder",
+   "place_events": [
+    {
+     "place": "Gelder",
+     "role": "gedoopt",
+     "year": 1772
+    }
+   ],
+   "sources": [
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0358@": {
+   "id": "@P0358@",
+   "name": "Arnoldus Hillen",
+   "sex": "M",
+   "birth_year": 1773,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren Gelder 31-7-1773, gedoopt 13-11-1774 (zo in Genwiki). Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Gelder",
+   "place_events": [
+    {
+     "place": "Gelder",
+     "role": "gedoopt",
+     "year": 1773
+    }
+   ],
+   "sources": [
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0359@": {
+   "id": "@P0359@",
+   "name": "Maria Hillen",
+   "sex": "F",
+   "birth_year": 1774,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren en gedoopt Gelder 12-11-1774. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Gelder",
+   "place_events": [
+    {
+     "place": "Gelder",
+     "role": "gedoopt",
+     "year": 1774
+    }
+   ],
+   "sources": [
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0360@": {
+   "id": "@P0360@",
+   "name": "Gerardus Hillen",
+   "sex": "M",
+   "birth_year": 1776,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren en gedoopt Gelder 5-6-1776. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Gelder",
+   "place_events": [
+    {
+     "place": "Gelder",
+     "role": "gedoopt",
+     "year": 1776
+    }
+   ],
+   "sources": [
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0361@": {
+   "id": "@P0361@",
+   "name": "Maria Hillen",
+   "sex": "F",
+   "birth_year": 1777,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren en gedoopt Gelder 22-9-1777. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Gelder",
+   "place_events": [
+    {
+     "place": "Gelder",
+     "role": "gedoopt",
+     "year": 1777
+    }
+   ],
+   "sources": [
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0362@": {
+   "id": "@P0362@",
+   "name": "Maria Hillen",
+   "sex": "F",
+   "birth_year": 1779,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren en gedoopt Gelder 22-7-1779. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Gelder",
+   "place_events": [
+    {
+     "place": "Gelder",
+     "role": "gedoopt",
+     "year": 1779
+    }
+   ],
+   "sources": [
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0363@": {
+   "id": "@P0363@",
+   "name": "Carolus Hillen",
+   "sex": "M",
+   "birth_year": 1782,
+   "death_year": 1789,
+   "occupation": null,
+   "note": "Geboren en gedoopt Gelder 1-2-1782, overleden Gelder 12-4-1789. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Gelder",
+   "place_events": [
+    {
+     "place": "Gelder",
+     "role": "gedoopt",
+     "year": 1782
+    }
+   ],
+   "sources": [
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0364@": {
+   "id": "@P0364@",
+   "name": "Ludovicus Hillen",
+   "sex": "M",
+   "birth_year": 1784,
+   "death_year": null,
+   "occupation": null,
+   "note": "Geboren en gedoopt Gelder 11-6-1784; tweeling met Maria. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Gelder",
+   "place_events": [
+    {
+     "place": "Gelder",
+     "role": "gedoopt",
+     "year": 1784
+    }
+   ],
+   "sources": [
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0365@": {
+   "id": "@P0365@",
+   "name": "Maria Hillen",
+   "sex": "F",
+   "birth_year": 1784,
+   "death_year": 1789,
+   "occupation": null,
+   "note": "Geboren en gedoopt Gelder 11-6-1784, overleden Gelder 9-4-1789; tweeling met Ludovicus. Nog te controleren in de doopboeken (toegevoegd op basis van Genwiki/Loe Giesen).",
+   "place": "Gelder",
+   "place_events": [
+    {
+     "place": "Gelder",
+     "role": "gedoopt",
+     "year": 1784
+    }
+   ],
+   "sources": [
     "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": []
@@ -9177,6 +9816,10 @@
    "husb": "@P0334@",
    "wife": "@P0335@",
    "chil": [
+    "@P0338@",
+    "@P0339@",
+    "@P0340@",
+    "@P0341@",
     "@P0336@"
    ],
    "marr_date": "8 MAY 1647",
@@ -9186,7 +9829,48 @@
    "id": "@F0089@",
    "husb": "@P0336@",
    "wife": "@P0337@",
-   "chil": [],
+   "chil": [
+    "@P0342@",
+    "@P0343@",
+    "@P0344@",
+    "@P0345@",
+    "@P0346@",
+    "@P0347@",
+    "@P0348@",
+    "@P0349@",
+    "@P0350@"
+   ],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0090@": {
+   "id": "@F0090@",
+   "husb": "@P0348@",
+   "wife": "@P0351@",
+   "chil": [
+    "@P0352@",
+    "@P0353@",
+    "@P0354@",
+    "@P0355@"
+   ],
+   "marr_date": "8 FEB 1738",
+   "marr_place": "Gelder"
+  },
+  "@F0091@": {
+   "id": "@F0091@",
+   "husb": "@P0352@",
+   "wife": "@P0356@",
+   "chil": [
+    "@P0357@",
+    "@P0358@",
+    "@P0359@",
+    "@P0360@",
+    "@P0361@",
+    "@P0362@",
+    "@P0363@",
+    "@P0364@",
+    "@P0365@"
+   ],
    "marr_date": null,
    "marr_place": null
   }
@@ -9217,6 +9901,7 @@
   "Eindhoven",
   "Enschede",
   "Erp",
+  "Gelder",
   "Goirle",
   "Grave",
   "Haarlem",
@@ -9246,6 +9931,7 @@
   "Sambeek",
   "Schoonhoven",
   "Sevenum",
+  "Susteren",
   "Tilburg",
   "Ukkel",
   "Utrecht",
@@ -9253,13 +9939,14 @@
   "Venray",
   "Villenoy",
   "Vught",
+  "Wachtendonk",
   "Wessem",
   "Westervoort",
   "Zolder"
  ],
  "stats": {
-  "individuals": 334,
-  "families": 86,
-  "places": 64
+  "individuals": 361,
+  "families": 88,
+  "places": 67
  }
 }

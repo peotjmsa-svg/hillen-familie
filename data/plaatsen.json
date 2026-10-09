@@ -382,5 +382,23 @@
   "lat": 51.0236553,
   "lon": 5.3135203,
   "display_name": "Zolder, Heusden-Zolder, Hasselt, Limburg, Vlaanderen, 3550, België / Belgique / Belgien"
+ },
+ "Susteren": {
+  "query": "Susteren, Nederland",
+  "lat": 51.0654229,
+  "lon": 5.8518902,
+  "display_name": "Susteren, Echt-Susteren, Limburg, Nederland"
+ },
+ "Gelder": {
+  "query": "Geldern, Duitsland",
+  "lat": 51.5169736,
+  "lon": 6.3228189,
+  "display_name": "Geldern, Kreis Kleve, Nordrhein-Westfalen, 47608, Deutschland"
+ },
+ "Wachtendonk": {
+  "query": "Wachtendonk, Duitsland",
+  "lat": 51.4065422,
+  "lon": 6.3352922,
+  "display_name": "Wachtendonk, Kreis Kleve, Nordrhein-Westfalen, 47669, Deutschland"
  }
 }

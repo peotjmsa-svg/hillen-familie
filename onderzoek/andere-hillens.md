@@ -220,12 +220,15 @@ Alleen vergelijking van jaartallen, namen en plaatsen met `data/stamboom.json`. 
   - **Dirck/Dederich (P0060)** is een *natuurlijke* zoon van Godert: 28-6-1603 verkoopt "Dedrich Hillen, natuurlijke zoon van
     Goddart Hillen" een huis op de Hamstraat; Reiner Hillen staat borg voor "zijn natuurlijke broer Dirck" (Giesen 1600s,
     Hoofdgerecht overdrachten II-3 fol. 152). Moeder dus vermoedelijk niet Elisabeth Behr van Laer; gezin niet aangepast.
-  - **P0276 "Dierick (Theodorus) van Hillen", geb. 1695**: vermoedelijk een dubbele invoer van Dederik P0002 (zelfde namen,
-    jonkheer, bron Genwiki; 1695 is waarschijnlijk een tikfout voor 1595). Genwiki kent geen Theodorus van 1695. Nog niet
-    samengevoegd; navragen bij de gebruiker.
-  - Nog op te nemen na controle (Genwiki "Andere Tak", doopboek Roermond): kinderen van Johan × Sophia: Carolus (1649–1718),
-    Constantinus (1650–1676), Petrus (1653–1661), Anna (1655); kinderen van Adamus Franciscus × Caecilia Nelissen (9, 1694–1706,
-    staan ook bij Giesen 1690s); de lijn naar Gelder (Wilhelmus Hyacinthus 1703–1789, Franciscus Antonius 1738, kinderen tot 1784).
+  - **P0276 "Dierick (Theodorus) van Hillen", geb. 1695**: dubbele invoer van Dederik P0002 (1695 = tikfout voor 1595).
+    Op verzoek van de gebruiker samengevoegd en verwijderd (9-10-2026); had geen gezinnen of links.
+  - **Toegevoegd 9-10-2026 op verzoek van de gebruiker, nog te factchecken** (bron Genwiki "Andere Tak"; kinderen van Adamus ook
+    Loe Giesen 1690s naar DHO): kinderen van Johan × Sophia (P0338–P0341); 9 kinderen van Adamus × Caecilia (P0342–P0350,
+    namen en getuigen volgens Giesen); Wilhelmus Hyacinthus (P0348) × Anna Catharina Burgers (P0351) met 4 kinderen
+    (P0352–P0355); Franciscus Antonius (P0352) × Joanna Catharina Weydemans (P0356) met 9 kinderen (P0357–P0365).
+    Te controleren: doopboeken Roermond 1649–1706 en Susteren 1698–1699, kerkboeken Gelder en Wachtendonk 1716–1789
+    (Matricula/FamilySearch). Niet opgenomen: Anna Gertrudis Hillen (zus van Franciscus Antonius, 1769, en doopgetuige 1700/1702;
+    staat niet in de kinderlijst van Wilhelmus Hyacinthus, dus plaats onduidelijk).
   - Bijvangst: het huwelijkscontract van 1570 geeft Johanna de **tiende te Sevenum** van haar vader Johan de oude (P0053). De
     Blerickse lijn begint bij Johannes Hillen, geb. Sevenum 1545 (P0063), die nu onder Johan P0041 (zoon van Henricus) hangt.
     Nagaan of die aansluiting klopt.
