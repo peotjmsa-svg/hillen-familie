@@ -104,6 +104,11 @@ Legenda: ★ = kan een open vraag beslissen.
       Online gecontroleerd 9-10-2026: Open Archieven heeft het kadaster 1832 alleen voor Delft; de dataset "Kadastrale data 1832"
       is alleen Rotterdam. Wel als scan: minuutplan Maasbree sectie A (Blerick) en de OAT (eigenaren 1832) in de beeldbank van de
       RCE (MIN11056A01/A02). Daarin staan de percelen van hoefsmid Alardus Hillen (P0004) en zijn broers; met de hand doorlezen.
+- [ ] **Johannes Hyllen (P0063), vader van Gerardus (1570)**: online niets over zijn leven of beroep gevonden (gecontroleerd
+      9-10-2026: Parenteel, Res Gestae I–IV, Loe Giesen 1500–1699 en zijn Sevenum-pagina, web). Alleen de parenteel: "geboren 1545
+      te Sevenum, St. Fabritius en Sebastianuskerk, gehuwd met Elizabeth NN". Te zoeken: schepenbank en laatbanken Sevenum
+      (RHCL), schattingsregisters Land van Kessel/Horst, Roermondse overdrachten rond 1570 (zoon Gerardus geboren Roermond
+      28-1-1570), en de bron achter de parenteel (Th.J. Bais, "Hillen Blerick").
 - [ ] Dispensatie huwelijk Joannes Hillen × Aldegondis Claessen "de Trap", Blerick 23-4-1698 (3e/4e graad bloedverwantschap):
       het dispensatieverzoek bij het bisdom Roermond (vicariaat) bevat meestal de stamboom die de verwantschap aantoont.
       Gemeenschappelijke voorouder onbekend; vermoedelijk in de kring Hermans (getuigen bij Hillen × Zillen 1627).
