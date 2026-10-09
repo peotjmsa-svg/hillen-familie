@@ -401,8 +401,12 @@ ARTICLES = [
                     "fors uitbreidde, onder meer met de aankoop van panden aan de Pepersteeg. Na zijn dood "
                     "zette zijn vrouw Anna Maria van Spreeuwenburg de zaak nog vier jaar voort. Bij de "
                     "boedelscheiding van 1835 bleken de bezittingen opvallend breed: naast het woonhuis en "
-                    "pakhuis ‘het Rode Anker’ (Oude Delft nr. 63, en aan de Pepersteeg) hoorde er "
-                    "zelfs een aardewerkfabriek ‘de Bloempot’ bij, geërfd van vader Gerrit.",
+                    "pakhuis ‘het Rode Anker’ (Oude Delft nr. 63, en aan de Pepersteeg) zou er volgens "
+                    "een latere samenvatting zelfs een aardewerkfabriek ‘de Bloempot’ bij hebben gehoord, "
+                    "geërfd van vader Gerrit. Dat is twijfelachtig: in het kadaster van 1832 bezat Albertus "
+                    "alleen huizen en pakhuizen, geen plateelbakkerij. Hoogstens ging het om een aandeel in "
+                    "plateelbakkerij De Vergulde Blompot aan de Molslaan, die in de jaren 1790 in 36 delen "
+                    "werd verkocht.",
                 ],
             },
             {

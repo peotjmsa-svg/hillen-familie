@@ -78,6 +78,10 @@ Legenda: ★ = kan een open vraag beslissen.
 - [ ] Die Matrikel der Universität Köln II (Keussen, 1919), blz. 266 volledig (Joh. Hyllen de Ruremunda, ca. 1489) — alleen als
       extra controle; de fragmenten zijn al gelezen.
 
+## 9b. Stadsarchief Delft
+- [ ] Notariële boedelscheiding 1835 na Albertus Hillen (P0111) en Anna Maria van Spreeuwenburg: zat er echt een aardewerkfabriek
+      of een aandeel in plateelbakkerij De Vergulde Blompot (Molslaan, 1616–1841) bij? Kadaster 1832 toont alleen huizen en pakhuizen.
+
 ## 10. Zelf online te doen (geen aanvraag nodig)
 - [ ] AGATHA (search.arch.be): Châtelet huwelijken 1730–1764 en dopen 1738–1794 (Louis, zoon van Ludwig Augustin).
 - [ ] AGATHA: doop-, trouw- en begraafboeken Farciennes, Loverval en Châtelet 1640–1710 op "de Hille" (lijn naar Ludwig Augustin?).
