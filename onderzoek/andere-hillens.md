@@ -188,8 +188,47 @@ Alleen vergelijking van jaartallen, namen en plaatsen met `data/stamboom.json`. 
     kan dus niet kloppen (genoteerd, niet aangepast). Burgemeester 1602 staat ten onrechte ook bij P0053 († 1599; genoteerd).
   - **gevonden en toegevoegd**: testament oktober 1618 met drie kinderen Judith (P0325), jonker Dederich (P0002) en Anna (P0326).
     Gezin F0083 aangemaakt (bestond niet; kinderen stonden alleen in `children`).
-  - Open: mogelijk zoon **Johan (Jan) Hillen**, procureur en notaris bij het Hof van Gelre, × 1647 Sophia Janssen van der Haighen,
-    vijf kinderen; noemde de weduwe van Dederich zijn schoonzus. Niet in het testament. Niet toegevoegd.
+  - ~~Open: mogelijk zoon Johan (Jan) Hillen~~ **opgelost 9-10-2026**: Loe Giesen, regesten 1590-1599 (naar GA Roermond,
+    Registers DHO) geeft de dopen van alle vier kinderen van Johan Hillen × Anna van Greefraedt (gehuwd vóór 27-6-1590):
+    Judith 6-10-1592, Derick 21-3-1595, Anna 9-11-1597, **Joannes 4-5-1602** (× Roermond 8-5-1647 Sophia Jansens). Toegevoegd:
+    Johan (P0334) × Sophia (P0335), zoon Adamus Franciscus (P0336, 1657–1722, ouders in huwelijksnotitie Giesen 1690s) × Caecilia
+    Nelissen (P0337). Ook toegevoegd: Gertrudis van Dursdael (P0331, × P0002 19-5-1643 op de Spick), dochter Anna Christina
+    (P0332, ged. 18-2-1645) × raadsheer J.B. Lintgens (P0333).
+  - **Onderzoek 9-10-2026 naar de vader** (Res Gestae I–IV, Loe Giesen 1500–1699, Genwiki, De Maasgouw 1925):
+    - Res Gestae I–IV lopen maar tot ca. 1555; daar staat niets over Johan de jonge.
+    - Anna van Greefraedt erfde Betersweert (Kessel), de Ottenshof (Hinsbeck) en goederen in Venlo van haar vader (Genwiki
+      Van Gref(f)raede). De goederen "onder Kessel en Helden" en "te Hinsbeck" in het testament van 1618 komen dus van haar kant,
+      niet van de Hillens. **Het argument voor Godert vervalt daarmee.**
+    - Godert (P0051) blijft zoon van Reinier: Cuijkse leenboek, "1570 Sept. 11. Godert Hillen na dood zijns vaders Reyner"
+      (De Maasgouw 1925, blz. 45–46). Zijn leen ging in 1577 naar de minderjarige Reyner; een oudere, volwassen zoon Johan had dat
+      leen gekregen. Dus Godert is vrijwel zeker **niet** de vader.
+    - 1552 (Giesen, naar Gelre 1938 blz. 231 e.v.): "Reijnier Hyllen, burgemeester te Roermond, en diens kinderen **Dyryck** en
+      Johanna Hyllen uit het huwelijk met Maria Spee". Dyrick (P0055) bestond dus en leefde als volwassene rond 1550.
+    - 1570, huwelijkscontract Johanna Hillen × Willem van Merwijck (FA Keverberg Aldenghoor 338; Maasgouw 1898 blz. 60):
+      getuigen "Dieterich Ker, Raebet van Duirsdal en **Goerd Hillen**, resp. zwager, oom en **neef** van de bruid". Johanna was
+      "enige dochter" van Johan de oude en kreeg zijn hele nalatenschap: Johan de jonge was dus geen zoon van Johan de oude.
+      Een Goerd Hillen die *neef* van de bruid is, past niet op Godert (die oom was). Mogelijk een broer van Johan de jonge
+      (zoon van Dyrick?), of Giesens volgorde klopt niet. Controleren in Maasgouw 1898 blz. 60.
+    - Bron van "Jan Hillen × Mettel van Armendonck": **D.J. Bais-Hillen, De geslachten Hillen en Hille** (GA Roermond, bibliotheek
+      inv.nr. 37 c 75), volgens Giesen "zeer summier". Een Jan × Armendonck is verder nergens gevonden (Res Gestae, Giesen,
+      web: 0 treffers op Armendonck/Amendonck).
+    - Conclusie: **Dyrick (P0055) is de waarschijnlijkste vader** (Ruitens "oom" + oudste zoon heet Derick), maar onbewezen. Niet
+      gekoppeld. Beslissend: J.W.A. Fleuren, "Geslacht van Hillen", *Limburgs Tijdschrift voor Genealogie* (jrg. 78/83), en
+      Bais-Hillen.
+  - Dederik (P0002) overleed tussen dec. 1652 en dec. 1656 (Ruiten). "Overleden Helden 17-8-1675" (Genwiki, Giesen) kan niet:
+    Gertrudis is in 1656 en 1663 weduwe. De oude notitie "zoon Dederick" had geen bron; verwijderd.
+  - **Dirck/Dederich (P0060)** is een *natuurlijke* zoon van Godert: 28-6-1603 verkoopt "Dedrich Hillen, natuurlijke zoon van
+    Goddart Hillen" een huis op de Hamstraat; Reiner Hillen staat borg voor "zijn natuurlijke broer Dirck" (Giesen 1600s,
+    Hoofdgerecht overdrachten II-3 fol. 152). Moeder dus vermoedelijk niet Elisabeth Behr van Laer; gezin niet aangepast.
+  - **P0276 "Dierick (Theodorus) van Hillen", geb. 1695**: vermoedelijk een dubbele invoer van Dederik P0002 (zelfde namen,
+    jonkheer, bron Genwiki; 1695 is waarschijnlijk een tikfout voor 1595). Genwiki kent geen Theodorus van 1695. Nog niet
+    samengevoegd; navragen bij de gebruiker.
+  - Nog op te nemen na controle (Genwiki "Andere Tak", doopboek Roermond): kinderen van Johan × Sophia: Carolus (1649–1718),
+    Constantinus (1650–1676), Petrus (1653–1661), Anna (1655); kinderen van Adamus Franciscus × Caecilia Nelissen (9, 1694–1706,
+    staan ook bij Giesen 1690s); de lijn naar Gelder (Wilhelmus Hyacinthus 1703–1789, Franciscus Antonius 1738, kinderen tot 1784).
+  - Bijvangst: het huwelijkscontract van 1570 geeft Johanna de **tiende te Sevenum** van haar vader Johan de oude (P0053). De
+    Blerickse lijn begint bij Johannes Hillen, geb. Sevenum 1545 (P0063), die nu onder Johan P0041 (zoon van Henricus) hangt.
+    Nagaan of die aansluiting klopt.
 - **Guillielmus Hillen**, getuige bij het huwelijk van Petrus Hillen (P0149) in Roermond op 21-1-1631, staat niet in de stamboom.
   Vermoedelijk een broer van Petrus (kind van Gerardus, P0065, vóór 1603 of na 1612 geboren) of een broer van Gerardus.
   Open Archieven (Guilielmus/Wilhelmus/Willem Hillen, Hillen 1560–1650): geen Roermondse doopboeken van die tijd geïndexeerd.

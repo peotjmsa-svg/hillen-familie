@@ -19,6 +19,10 @@ Legenda: ★ = kan een open vraag beslissen.
       een zegel bij? Beslist of Johannes (P0035) na 1515 nog leefde, en dus niet Kniepis was.
 - [ ] Boek **"Oedenrade"** (bron van Res Gestae IV 1674), blz. 55 en 59: Jan Hillen verheft Oedenrade in 1523. Wie was hij?
 - [ ] Doopboeken Roermond ca. 1600–1615 (ook via FamilySearch/WieWasWie): **Guillielmus Hillen**, getuige in 1631.
+- [ ] ★ **Gemeentearchief Roermond, bibliotheek inv.nr. 37 c 75: D.J. Bais-Hillen, "De geslachten Hillen en Hille"**. Bron van
+      "Johan Hillen de jonge, zoon van Jan Hillen en Mettel van Armendonck". Op welke akte steunt dat? (vader van P0274)
+- [ ] FA Keverberg Aldenghoor 338 (RHCL) / *De Maasgouw* 1898 blz. 60 (Delpher): huwelijkscontract Johanna Hillen × Willem van
+      Merwijck, 1-8-1570. Is getuige Goerd Hillen echt "neef" van de bruid? Wie is hij?
 
 ## 2. Landesarchiv NRW, Abteilung Rheinland (Duisburg) — scan bestellen via archive.nrw.de
 - [ ] ★ **Abtei Heisterbach, Urkunden 335** (10-5-1715): volledige tekst én **foto van het zegel van Ludwig Augustin Freiherr von
@@ -58,7 +62,8 @@ Legenda: ★ = kan een open vraag beslissen.
 - [ ] ★ ***De Nederlandsche Leeuw* 1959, kol. 432–433**: Frans Willem van Hille × Else (Elisabeth) Drijvers; herkomst van Elisabeth.
       (Ook via het archief van de KNGGW.)
 - [ ] ★ **"Hillen", *Limburgs tijdschrift voor genealogie* 8 (1980), blz. 43–60** (vermoedelijk de bron van Genwiki/Bais voor de
-      vroege Roermondse Hillens).
+      vroege Roermondse Hillens). Loe Giesen noemt ook J.W.A. Fleuren, "Geslacht van Hillen", *LTG* jrg. 78/83: zelfde reeks,
+      mogelijk een vervolg. Vooral nodig voor de vader van Johan Hillen de jonge (P0274).
 - [ ] Van Schijndel, *Hoogstraten's oude huizen en families* (1940), deel I blz. 73 en 235, deel II blz. 287 en 294 (Hoogstraatse
       Hillens, Jan Hillen × Catalijn Dibbouts).
 - [ ] K.F. von Frank, *Standeserhebungen und Gnadenakte …* (1967–1974): Hillen / Hilla / Hilland (wapenbrief Kniepis).

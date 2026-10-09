@@ -4938,7 +4938,7 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": "Woonplaats volgens de piramide: Helden.",
+   "note": "Woonplaats volgens de piramide: Helden. Natuurlijke (buitenechtelijke) zoon van Godert Hillen: op 28-6-1603 verkocht 'Dedrich Hillen, natuurlijke zoon van Goddart Hillen' een huis op de Hamstraat in Roermond aan Jaspar van Kessel; op 10-9-1603 stelde Reiner Hillen zich borg voor de verkoop door 'zijn natuurlijke broer Dirck Hillen'. Zijn moeder is dus vermoedelijk niet Elisabeth Behr van Laer.",
    "place": "Helden",
    "place_events": [
     {
@@ -4949,7 +4949,8 @@
    ],
    "sources": [
     "Stamboom-piramide familie Hillen (Hoofdboom, 1403–heden)",
-    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "[1] Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "Loe Giesen, Regesten 1600-1609 (GA Roermond, Hoofdgerecht, overdrachten II-3, fol. 152), http://www.loegiesen.nl/1600-1609%20Loe%20Giesen.htm"
    ],
    "children": []
   },
@@ -4960,14 +4961,19 @@
    "birth_year": 1595,
    "death_year": 1655,
    "occupation": "schepen van Roermond, burgemeester (1650)",
-   "note": "Ook vermeld als Theodorus/Diederich van Hillen. Erfde volgens het testament van zijn ouders (oktober 1618) het huis aan de Hegstraat, de hof aan het Gebroek te Maasniel en land in het O.L.Vrouwe-veld. Trouwde in mei 1643 op de Spick te Swalmen met Geertruijdt (Gertrudis) van Dursdael; kinderen o.a. zoon Dederick en dochter Anna Christina (geb. 1645). Schepen van Roermond, burgemeester in 1650. In december 1656 al overleden: zijn weduwe wordt dan genoemd als 'weduwe van jonker Dederick van Hillen, voorheen schepen en burgemeester te Roermond'.",
+   "note": "Derick / Dederich / Theodorus van Hillen, jonker. Gedoopt Roermond 21-3-1595 (getuigen Gerhardus Heister, scholtis, Frederick van Opsinnich genaamd Roy, en Anna Kremers), zoon van Johan Hillen de jonge, burgemeester van Roermond, en Anna van Greefraedt. Erfde volgens het testament van zijn ouders (oktober 1618) het huis aan de Hoge Hegstraat (het Christoffelhuis), de hof aan het Gebroek te Maasniel, land in het O.L.Vrouwe-veld en de pacht uit de Hillen-molen. Trouwde 19-5-1643 met speciaal indult op de Spick te Swalmen met Gertrudis van Dursdael. Eén kind bekend: Anna Christina (ged. 1645). Eigenaar van de Einderhof en een tiende te Rijkel. Schepen van Roermond, burgemeester in 1650, voor het laatst als schepen genoemd in december 1652. Overleden tussen december 1652 en december 1656: in december 1656 is Gertrudis 'weduwe van jonker Dederick van Hillen, voorheen schepen en burgemeester te Roermond'. Tegenstrijdigheid: Genwiki en de huwelijksnotitie bij Loe Giesen geven 'overleden Helden 17-8-1675'; dat kan niet, want zij was al weduwe in 1656 en 1663. Eerder stond hier ook een zoon Dederick; daarvoor is geen bron gevonden (Ruiten kent alleen Anna Christina).",
    "place": "Roermond",
    "place_events": [],
    "sources": [
     "Jan Ruiten, 'Onder den Klockenslagh van Neel, Leeuwen en Asenray' — Christoffelhuis, https://www.janruiten.nl/klockenslagh/Roermond/Christoffelhuis/Christoffelhuis.htm",
-    "Roermondse bestuurderslijst (Souvereine Raad), Mpaginae.nl"
+    "Roermondse bestuurderslijst (Souvereine Raad), Mpaginae.nl",
+    "Loe Giesen, Regesten 1590-1599 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1590-1599%20Loe%20Giesen.htm",
+    "Loe Giesen, Regesten 1640-1649 (huwelijk Spick/Swalmen 19-5-1643), http://www.loegiesen.nl/1640-1649%20Loe%20Giesen.htm",
+    "Loe Giesen, Regesten 1660-1669 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1660-1669%20Loe%20Giesen.htm"
    ],
-   "children": []
+   "children": [
+    "@P0332@"
+   ]
   },
   "@P0048@": {
    "id": "@P0048@",
@@ -6621,10 +6627,10 @@
    "id": "@P0274@",
    "name": "Johan van Hillen",
    "sex": "M",
-   "birth_year": 1579,
+   "birth_year": null,
    "death_year": 1618,
    "occupation": "schepen van Roermond (vanaf 1587), burgemeester (1602)",
-   "note": "Telg uit de adellijke/patricische kring rond Roermond en Maasniel. Jonkheer; nauw betrokken bij leenverheffingen en pachtgoederen in de regio, onder meer verbonden aan het Christoffelhuis. Huwelijk met Anna van Greefraedt. Niet te verwarren met de gelijknamige Johan van Hillen (1601–1664) uit de Rijnlandse tak. Bekend als Johan Hillen de jonge, 'ter onderscheiding met zijn oom, schepen Johan Hillen de oude (+ augustus 1599), in huwelijk met Catharina van der Gryndt' (Jan Ruiten). Zijn vader was dus een broer van Johan Hillen de oude, en daarmee een zoon van burgemeester Reinier Hillen; welke broer staat niet in de bron. Omdat zijn zoon Dederich heet, is Dyrick Hillen de meest waarschijnlijke vader (vermoeden). Kocht in februari 1587 het huis op de Hoge Hegstraat (later Christoffelhuis) van de kinderen Schinck; kerkmeester, jarenlang provisor van het armbestuur, schepen van Roermond vanaf 1587, burgemeester in 1602. Nam de erfpacht op de Hillen-molen op de Roer over van zijn oom. Zijn schoonmoeder heette Judith Haen. In oktober 1618 maakten hij en zijn vrouw Anna, zwaar in de schulden door processen en zijn langdurige ziekte, hun testament voor drie kinderen: Judith, jonker Dederich en Anna. Tegenstrijdigheid: het geboortejaar 1579 (uit de Genealogie Limburg Wiki) kan niet kloppen, want hij was al in 1587 schepen; hij is vermoedelijk vóór ongeveer 1562 geboren. Mogelijk had hij nog een zoon Johan (Jan) Hillen, procureur en notaris bij het Hof van Gelre, die in 1647 trouwde met Sophia Janssen van der Haighen en de weduwe van Dederich zijn schoonzus noemde; hij staat niet in het testament van 1618 (onbewezen).",
+   "note": "Johan Hillen de jonge, jonker. Overleden Roermond 22-10-1618. Heette 'de jonge' ter onderscheiding van zijn oom, schepen Johan Hillen de oude (P0053, overl. augustus 1599, x Catharina van der Gryndt) (Jan Ruiten). Kocht in februari 1587 van de kinderen Schinck het huis met poortweg op de Hoge Hegstraat (later het Christoffelhuis, Lindanusstraat 5); kerkmeester, jarenlang provisor van het armbestuur, schepen van Roermond vanaf 1587, burgemeester in 1602. Trok de erfpacht op de Hillen-molen op de Roer naar zich toe, die zijn oom ontving. Gehuwd vóór 1590 (vermoedelijk al vóór 1585, zie het proces van de voorkinderen Van Greefraedt) met Anna van Greefraedt. Uit de doopboeken van Roermond: Judith (6-10-1592), Derick (21-3-1595), Anna (9-11-1597) en Joannes (4-5-1602). In oktober 1618 maakten hij en Anna, zwaar in de schulden door processen en zijn langdurige ziekte, hun testament; daarin worden alleen Judith, Dederich en Anna bedeeld. Het geboortejaar 1579 uit de oude gegevens kan niet kloppen (in 1587 al schepen, vóór 1590 getrouwd); vermoedelijk geboren rond 1550-1560. Wie zijn vader was, is niet bewezen. Mogelijkheden: (1) Dyrick Hillen (P0055), zoon van Reinier; past bij Ruitens 'oom' en bij de naam van zijn oudste zoon Derick. (2) 'Jan Hillen x Mettel van Armendonck' volgens D.J. Bais-Hillen, De geslachten Hillen en Hille (GA Roermond, bibliotheek 37 c 75), overgenomen door Genwiki ('Goert of Jan Hillen'); zo'n Jan is verder niet gevonden. (3) Godert (P0051) is onwaarschijnlijk: diens leengoederen gingen in 1577 naar de minderjarige Reyner (P0061), niet naar een oudere zoon Johan. De goederen in Kessel, Hinsbeck en Venlo uit het testament van 1618 kwamen van de kant van zijn vrouw (Van Greefraedt), niet van de Hillens, en zeggen dus niets over zijn vader.",
    "place": "Roermond",
    "place_events": [
     {
@@ -6636,12 +6642,16 @@
    "sources": [
     "Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
     "Jan Ruiten, 'Onder den Klockenslagh van Neel, Leeuwen en Asenray'",
-    "Jan Ruiten, 'Onder den Klockenslagh van Neel, Leeuwen en Asenray' – Christoffelhuis, https://www.janruiten.nl/klockenslagh/Roermond/Christoffelhuis/Christoffelhuis.htm"
+    "Jan Ruiten, 'Onder den Klockenslagh van Neel, Leeuwen en Asenray' – Christoffelhuis, https://www.janruiten.nl/klockenslagh/Roermond/Christoffelhuis/Christoffelhuis.htm",
+    "Loe Giesen, Regesten 1590-1599 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1590-1599%20Loe%20Giesen.htm",
+    "Genealogie Limburg Wiki, 'Van Gref(f)raede', https://genwiki.nl/limburg/index.php?title=Van_Gref(f)raede",
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": [
     "@P0002@",
     "@P0325@",
-    "@P0326@"
+    "@P0326@",
+    "@P0334@"
    ]
   },
   "@P0275@": {
@@ -6651,16 +6661,19 @@
    "birth_year": null,
    "death_year": null,
    "occupation": null,
-   "note": "Echtgenote van jonkheer Johan van Hillen (1579–1618).",
-   "place": null,
+   "note": "Anna van Greefraedt (Greffraede), enige dochter van Johan van Greffraede (de jonge), burgemeester van Venlo, uit diens tweede huwelijk (1557) met Judith de Haen. Erfgename van de hoeve de Schei te Beesel-Leeuwen; erfde ook de hoven Betersweert te Kessel en de Ottenshof te Hinsbeck. Zij en haar moeder voerden in de jaren 1580 een proces tegen de voorkinderen Van Greefraedt over het testament van haar vader (1576). Gehuwd vóór 1590 met jonker Johan Hillen de jonge.",
+   "place": "Roermond",
    "place_events": [],
    "sources": [
-    "Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl"
+    "Genealogie Limburg Wiki, 'Hillen' (Hoofdboom), genwiki.nl",
+    "Genealogie Limburg Wiki, 'Van Gref(f)raede', https://genwiki.nl/limburg/index.php?title=Van_Gref(f)raede",
+    "Loe Giesen, Regesten 1590-1599 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1590-1599%20Loe%20Giesen.htm"
    ],
    "children": [
     "@P0002@",
     "@P0325@",
-    "@P0326@"
+    "@P0326@",
+    "@P0334@"
    ]
   },
   "@P0276@": {
@@ -7919,14 +7932,21 @@
    "id": "@P0325@",
    "name": "Judith Hillen",
    "sex": "F",
-   "birth_year": null,
+   "birth_year": 1592,
    "death_year": null,
    "occupation": null,
-   "note": "Dochter van jonker Johan Hillen de jonge en Anna (van Greefraedt). Kreeg volgens het testament van haar ouders (oktober 1618) na hun dood de hof te Hinsbeck en de tiende van Ophoven bij Maaseik.",
+   "note": "Gedoopt Roermond 6-10-1592 (getuigen NN. Buenen, licentiaat, en Christina Keern). Dochter van jonker Johan Hillen de jonge en Anna van Greefraedt. Kreeg volgens het testament van haar ouders (oktober 1618) na hun dood de hof te Hinsbeck en de tiende van Ophoven bij Maaseik.",
    "place": "Roermond",
-   "place_events": [],
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "gedoopt",
+     "year": 1592
+    }
+   ],
    "sources": [
-    "Jan Ruiten, 'Onder den Klockenslagh van Neel, Leeuwen en Asenray' – Christoffelhuis, https://www.janruiten.nl/klockenslagh/Roermond/Christoffelhuis/Christoffelhuis.htm"
+    "Jan Ruiten, 'Onder den Klockenslagh van Neel, Leeuwen en Asenray' – Christoffelhuis, https://www.janruiten.nl/klockenslagh/Roermond/Christoffelhuis/Christoffelhuis.htm",
+    "Loe Giesen, Regesten 1590-1599 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1590-1599%20Loe%20Giesen.htm"
    ],
    "children": []
   },
@@ -7934,14 +7954,21 @@
    "id": "@P0326@",
    "name": "Anna Hillen",
    "sex": "F",
-   "birth_year": null,
+   "birth_year": 1597,
    "death_year": null,
    "occupation": null,
-   "note": "Dochter van jonker Johan Hillen de jonge en Anna (van Greefraedt). Kreeg volgens het testament van haar ouders (oktober 1618) de goederen onder Kessel en Helden en de rente op de stad Roermond.",
+   "note": "Gedoopt Roermond 9-11-1597 (getuigen Jacobus van Lom en Getrudis Dursdael). Dochter van jonker Johan Hillen de jonge en Anna van Greefraedt. Kreeg volgens het testament van haar ouders (oktober 1618) de goederen onder Kessel en Helden en de rente op de stad Roermond.",
    "place": "Roermond",
-   "place_events": [],
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "gedoopt",
+     "year": 1597
+    }
+   ],
    "sources": [
-    "Jan Ruiten, 'Onder den Klockenslagh van Neel, Leeuwen en Asenray' – Christoffelhuis, https://www.janruiten.nl/klockenslagh/Roermond/Christoffelhuis/Christoffelhuis.htm"
+    "Jan Ruiten, 'Onder den Klockenslagh van Neel, Leeuwen en Asenray' – Christoffelhuis, https://www.janruiten.nl/klockenslagh/Roermond/Christoffelhuis/Christoffelhuis.htm",
+    "Loe Giesen, Regesten 1590-1599 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1590-1599%20Loe%20Giesen.htm"
    ],
    "children": []
   },
@@ -8011,6 +8038,152 @@
     "Gemeentearchief Roermond, Res Gestae II (regesten 2567-3828), https://www.archiefroermond.nl/assets/04.-regesten-nr.-2567-3828.pdf",
     "Gemeentearchief Roermond, Res Gestae IV (regesten 1-2087), https://www.archiefroermond.nl/assets/regesten-1-2087.pdf",
     "Gemeentearchief Roermond, Res Gestae III (regesten 1-2645), https://www.archiefroermond.nl/assets/regesten-1-2645.pdf"
+   ],
+   "children": []
+  },
+  "@P0331@": {
+   "id": "@P0331@",
+   "name": "Gertrudis van Dursdael",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Jonkvrouw Geertruijdt (Gertrudis) van Dursdael, dochter van Arnold van Dursdael tot de Spick (Swalmen) en Christina Trippen. Trouwde 19-5-1643 op de Spick te Swalmen met jonker Dederik (Theodorus) van Hillen. In december 1656 weduwe; regelde daarna haar zaken met hulp van haar zwager, procureur Johan Hillen. Woonde op de Hoge Hegstraat; nog in leven in januari 1683.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "woonachtig",
+     "year": 1643
+    }
+   ],
+   "sources": [
+    "Jan Ruiten, 'Onder den Klockenslagh van Neel, Leeuwen en Asenray' – Christoffelhuis, https://www.janruiten.nl/klockenslagh/Roermond/Christoffelhuis/Christoffelhuis.htm",
+    "Loe Giesen, Regesten 1640-1649 (huwelijk Spick/Swalmen 19-5-1643), http://www.loegiesen.nl/1640-1649%20Loe%20Giesen.htm",
+    "Loe Giesen, Regesten 1660-1669 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1660-1669%20Loe%20Giesen.htm"
+   ],
+   "children": [
+    "@P0332@"
+   ]
+  },
+  "@P0332@": {
+   "id": "@P0332@",
+   "name": "Anna Christina van Hillen",
+   "sex": "F",
+   "birth_year": 1645,
+   "death_year": 1694,
+   "occupation": null,
+   "note": "Gedoopt Roermond 18-2-1645, dochter van Theodorus van Hillen en Gertrudis van Deursdael; vernoemd naar haar beide grootmoeders. Trouwde ca. 1664 met Joannes Baptista Lintgens, raadsheer aan het Hof van Gelre; twaalf kinderen tussen 1664 en 1686, onder wie een tweeling. Via haar ging het Christoffelhuis en de hof aan het Gebroek (later Lintgenshof) naar de familie Lintgens.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "gedoopt",
+     "year": 1645
+    }
+   ],
+   "sources": [
+    "Jan Ruiten, 'Onder den Klockenslagh van Neel, Leeuwen en Asenray' – Christoffelhuis, https://www.janruiten.nl/klockenslagh/Roermond/Christoffelhuis/Christoffelhuis.htm",
+    "Loe Giesen, Regesten 1660-1669 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1660-1669%20Loe%20Giesen.htm"
+   ],
+   "children": []
+  },
+  "@P0333@": {
+   "id": "@P0333@",
+   "name": "Joannes Baptista Lintgens",
+   "sex": "M",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": "auditeur, raadsheer aan het Hof van Gelre",
+   "note": "Raadsheer aan het Hof van Gelre te Roermond, eigenaar van de Einderhof te Rijkel. Trouwde ca. 1664 Anna Christina van Hillen. Naar hem heet de hof aan het Gebroek te Maasniel de Lintgenshof.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Jan Ruiten, 'Onder den Klockenslagh van Neel, Leeuwen en Asenray' – Christoffelhuis, https://www.janruiten.nl/klockenslagh/Roermond/Christoffelhuis/Christoffelhuis.htm",
+    "Loe Giesen, Regesten 1660-1669 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1660-1669%20Loe%20Giesen.htm"
+   ],
+   "children": []
+  },
+  "@P0334@": {
+   "id": "@P0334@",
+   "name": "Johan (Joannes) Hillen",
+   "sex": "M",
+   "birth_year": 1602,
+   "death_year": null,
+   "occupation": "procureur en notaris bij het Hof van Gelre",
+   "note": "Gedoopt Roermond 4-5-1602 (getuigen Matthaeus Butcens en Catharina Cocx), jongste zoon van Johan Hillen de jonge en Anna van Greefraedt. Niet bedeeld in het testament van zijn ouders (1618); waarom niet, is onbekend. Procureur en notaris bij het Hof van Gelre. Trouwde Roermond 8-5-1647 met Sophia Jansens (van der Haighen). Kocht in 1650 het huis naast dat van zijn schoonzus op de Hoge Hegstraat; noemde de weduwe van zijn broer Dederik zijn schoonzus en regelde haar zaken. In februari 1660 kochten hij en Sophia van haar de helft van de erfpacht uit de Hillen-molen, die zij ruilden voor een huis in de Munsterstraat. Volgens Genwiki nog in leven na 1694. Kinderen volgens Genwiki (doopboek Roermond): Carolus (1649), Constantinus (1650), Petrus (1653), Anna (1655) en Adamus Franciscus (1657); van die laatste staan de ouders ook in de huwelijksnotitie bij Loe Giesen.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "gedoopt",
+     "year": 1602
+    }
+   ],
+   "sources": [
+    "Jan Ruiten, 'Onder den Klockenslagh van Neel, Leeuwen en Asenray' – Christoffelhuis, https://www.janruiten.nl/klockenslagh/Roermond/Christoffelhuis/Christoffelhuis.htm",
+    "Loe Giesen, Regesten 1590-1599 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1590-1599%20Loe%20Giesen.htm",
+    "Loe Giesen, Regesten 1690-1699 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1690-1699%20Loe%20Giesen.htm",
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": [
+    "@P0336@"
+   ]
+  },
+  "@P0335@": {
+   "id": "@P0335@",
+   "name": "Sophia Jansens van der Haighen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Ook Sophia van der Haegen (genaamd Hillen). Trouwde Roermond 8-5-1647 met procureur Johan Hillen. Doopgetuige bij haar (achter)nichten Lintgens, o.a. Agnes Margarita Lintgens (1674).",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Jan Ruiten, 'Onder den Klockenslagh van Neel, Leeuwen en Asenray' – Christoffelhuis, https://www.janruiten.nl/klockenslagh/Roermond/Christoffelhuis/Christoffelhuis.htm",
+    "Loe Giesen, Regesten 1660-1669 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1660-1669%20Loe%20Giesen.htm",
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": [
+    "@P0336@"
+   ]
+  },
+  "@P0336@": {
+   "id": "@P0336@",
+   "name": "Adamus Franciscus Hillen",
+   "sex": "M",
+   "birth_year": 1657,
+   "death_year": 1722,
+   "occupation": "advocaat aan het Hof van Gelre",
+   "note": "Gedoopt Roermond 14-1-1657, overleden Roermond 27-3-1722 (65 jaar), zoon van Johan Hillen en Sophia Jansens. Advocaat aan het Hof van Gelre. Trouwde ca. 1693/94 met Caecilia (Cornelia) Nelissen. Kocht op 23-9-1704 met haar de omgrachte hoeve De Boeshei (Swalmen/Boukoul/Maasniel). Zijn nakomelingen woonden later in Gelder (Duitsland); die lijn is nog niet in de stamboom opgenomen.",
+   "place": "Roermond",
+   "place_events": [
+    {
+     "place": "Roermond",
+     "role": "gedoopt",
+     "year": 1657
+    }
+   ],
+   "sources": [
+    "Loe Giesen, Regesten 1690-1699 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1690-1699%20Loe%20Giesen.htm",
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
+   ],
+   "children": []
+  },
+  "@P0337@": {
+   "id": "@P0337@",
+   "name": "Caecilia Nelissen",
+   "sex": "F",
+   "birth_year": null,
+   "death_year": null,
+   "occupation": null,
+   "note": "Ook Cecilia of Cornelia Nelissen. Trouwde ca. 1693/94 met advocaat Adamus Franciscus Hillen.",
+   "place": null,
+   "place_events": [],
+   "sources": [
+    "Loe Giesen, Regesten 1690-1699 (naar GA Roermond, Registers DHO), http://www.loegiesen.nl/1690-1699%20Loe%20Giesen.htm",
+    "Genealogie Limburg Wiki, 'Hillen' (Andere Tak), https://genwiki.nl/limburg/index.php?title=Hillen"
    ],
    "children": []
   }
@@ -8955,7 +9128,8 @@
    "chil": [
     "@P0002@",
     "@P0325@",
-    "@P0326@"
+    "@P0326@",
+    "@P0334@"
    ],
    "marr_date": null,
    "marr_place": null
@@ -8976,6 +9150,42 @@
    "id": "@F0085@",
    "husb": "@P0330@",
    "wife": "@P0328@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0086@": {
+   "id": "@F0086@",
+   "husb": "@P0002@",
+   "wife": "@P0331@",
+   "chil": [
+    "@P0332@"
+   ],
+   "marr_date": "19 MAY 1643",
+   "marr_place": "Swalmen"
+  },
+  "@F0087@": {
+   "id": "@F0087@",
+   "husb": "@P0333@",
+   "wife": "@P0332@",
+   "chil": [],
+   "marr_date": null,
+   "marr_place": null
+  },
+  "@F0088@": {
+   "id": "@F0088@",
+   "husb": "@P0334@",
+   "wife": "@P0335@",
+   "chil": [
+    "@P0336@"
+   ],
+   "marr_date": "8 MAY 1647",
+   "marr_place": "Roermond"
+  },
+  "@F0089@": {
+   "id": "@F0089@",
+   "husb": "@P0336@",
+   "wife": "@P0337@",
    "chil": [],
    "marr_date": null,
    "marr_place": null
@@ -9048,8 +9258,8 @@
   "Zolder"
  ],
  "stats": {
-  "individuals": 327,
-  "families": 82,
+  "individuals": 334,
+  "families": 86,
   "places": 64
  }
 }
